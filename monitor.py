@@ -15,17 +15,51 @@ ACCESSORIES=("case","bag","gig bag","hard case","soft case","cover","stand","cab
 def norm(s): return re.sub(r"\s+"," ",s or "").strip()
 
 def allowed(keyword,title,price):
-    t=title.lower()
-    if price is None or not (MIN_PRICE < price < MAX_PRICE): return False
-    if any((x in t if not x.isascii() else re.search(r"\b"+re.escape(x)+r"\b", t)) for x in ACCESSORIES): return False
+    t=norm(title).lower()
+    if price is None or not (MIN_PRICE < price < MAX_PRICE):
+        return False
+
+    # Search engines may return products whose descriptions merely mention a
+    # keyword. Require the monitored brand/product to be present in the title.
+    if any((x in t if not x.isascii() else re.search(r"\b"+re.escape(x)+r"\b", t)) for x in ACCESSORIES):
+        return False
+
+    if keyword=="Tyler":
+        return bool(re.search(r"\b(?:james\s+)?tyler\b", t))
+
+    if keyword=="PRS":
+        return bool(re.search(r"\bprs\b|paul\s+reed\s+smith", t))
+
     if keyword=="Fender":
-        if any(x in t for x in ARAI): return True
-        usa=("fender usa","american ","american professional","american vintage","american original","american standard","custom shop","corona")
+        if "fender" not in t:
+            return False
+        if any(x in t for x in ARAI):
+            return True
+        usa=("fender usa","made in usa","made in u.s.a","american ","american professional",
+             "american vintage","american original","american standard","custom shop","corona")
         bad=("made in japan","japan","mexico","player","player ii")
         return any(x in t for x in usa) and not any(x in t for x in bad)
+
     if keyword=="Gibson":
-        return "gibson" in t and "epiphone" not in t and "orville" not in t
-    return True
+        if "gibson" not in t or any(x in t for x in ("epiphone","orville")):
+            return False
+        # Gibson-branded instruments are kept; non-Gibson search hits are rejected.
+        return True
+
+    if keyword=="Nord":
+        return "nord" in t or "clavia" in t
+
+    if keyword=="Helix":
+        return "helix" in t
+
+    if keyword=="Quad Cortex":
+        return ("quad cortex" in t) or ("quad" in t and "cortex" in t)
+
+    if keyword=="Fractal":
+        return ("fractal" in t or "axe-fx" in t or "axe fx" in t or
+                bool(re.search(r"\bfm[39]\b", t)))
+
+    return False
 
 def scrape(page,keyword):
     url=f"https://www.digimart.net/search?keywordAnd={quote_plus(keyword)}&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50"
