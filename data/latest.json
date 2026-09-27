@@ -1,5 +1,51 @@
 {
+  "status": "ok",
+  "checked_at": "2026-09-27T15:33:21.678825+00:00",
   "baseline": true,
   "new": [],
-  "errors": []
+  "errors": [],
+  "counts": {
+    "Tyler": {
+      "links": 50,
+      "parsed": 50,
+      "qualifying": 35
+    },
+    "Gibson": {
+      "links": 50,
+      "parsed": 50,
+      "qualifying": 30
+    },
+    "PRS": {
+      "links": 50,
+      "parsed": 50,
+      "qualifying": 38
+    },
+    "Fender": {
+      "links": 50,
+      "parsed": 50,
+      "qualifying": 16
+    },
+    "Nord": {
+      "links": 50,
+      "parsed": 50,
+      "qualifying": 29
+    },
+    "Helix": {
+      "links": 50,
+      "parsed": 50,
+      "qualifying": 26
+    },
+    "Quad Cortex": {
+      "links": 50,
+      "parsed": 50,
+      "qualifying": 3
+    },
+    "Fractal": {
+      "links": 50,
+      "parsed": 50,
+      "qualifying": 35
+    }
+  },
+  "collected": 210,
+  "seen_count": 210
 }
