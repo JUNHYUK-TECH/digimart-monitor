@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-27T17:31:28.988758+00:00",
+  "checked_at": "2026-09-27T17:38:29.214623+00:00",
   "baseline": false,
   "new": [],
   "errors": [],
@@ -8,7 +8,7 @@
     "Tyler": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 35
+      "qualifying": 20
     },
     "Gibson": {
       "links": 50,
@@ -18,7 +18,7 @@
     "PRS": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 38
+      "qualifying": 30
     },
     "Fender": {
       "links": 50,
@@ -33,19 +33,19 @@
     "Helix": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 26
+      "qualifying": 21
     },
     "Quad Cortex": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 3
+      "qualifying": 0
     },
     "Fractal": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 35
+      "qualifying": 33
     }
   },
-  "collected": 209,
+  "collected": 178,
   "seen_count": 211
 }
