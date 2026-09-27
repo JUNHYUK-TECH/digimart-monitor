@@ -1,9 +1,17 @@
 name: Digimart Free Monitor
 
 on:
+  push:
+    paths:
+      - 'monitor.py'
+      - '.github/workflows/digimart-monitor.yml'
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:
+
+concurrency:
+  group: digimart-monitor
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -23,6 +31,7 @@ jobs:
           pip install playwright==1.55.0
           playwright install --with-deps chromium
       - name: Check Digimart
+        id: scan
         run: python monitor.py
       - name: Create issue for new listings
         env:
@@ -40,6 +49,7 @@ jobs:
           subprocess.run(["gh","issue","create","--title",f'Digimart 신규 매물 {len(d["new"])}건',"--body","\n".join(lines)],check=True)
           PY
       - name: Save baseline
+        if: ${{ !cancelled() && (success() || steps.scan.outcome == 'failure') }}
         run: |
           git config user.name "digimart-monitor"
           git config user.email "actions@users.noreply.github.com"
