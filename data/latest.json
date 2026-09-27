@@ -1,16 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-27T16:33:08.685847+00:00",
+  "checked_at": "2026-09-27T17:31:28.988758+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10772039",
-      "keyword": "PRS",
-      "title": "Hailwood ZZR Custom Deluxe \"Aqua\"",
-      "price": 209000,
-      "url": "https://www.digimart.net/cat01/shop4939/DS10772039/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
