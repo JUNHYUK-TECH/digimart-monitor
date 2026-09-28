@@ -143,56 +143,27 @@ def parse_end(text):
             return m.group(1)
     return None
 
-def click_next(page):
-    """Click Yahoo's real next-page control. The 2026 redesign often uses a
-    #dummy href with a JavaScript handler, so navigating to href directly does
-    not advance the results."""
-    return page.evaluate(r"""() => {
-      const clean=s=>(s||'').replace(/\s+/g,' ').trim();
-      const visible=el=>!!el.getClientRects().length;
-      const candidates=[...document.querySelectorAll('a,button')].filter(visible);
-
-      for (const el of candidates) {
-        const rel=clean(el.getAttribute('rel')).toLowerCase().split(' ');
-        const label=clean([
-          el.innerText,
-          el.getAttribute('aria-label'),
-          el.getAttribute('title')
-        ].filter(Boolean).join(' '));
-        const isNext=rel.includes('next') ||
-          /^(次へ|次のページ|次|next|next page|›|»|＞|>|→)$/i.test(label);
-        if (!isNext) continue;
-
-        const disabled=
-          el.hasAttribute('disabled') ||
-          el.getAttribute('aria-disabled')==='true' ||
-          /disabled|is-disabled/.test(el.className||'');
-        if (disabled) return false;
-
-        el.click();
-        return true;
-      }
-      return false;
-    }""")
-
 def scrape(page,keyword):
-    url=(
-        "https://auctions.yahoo.co.jp/search/search"
-        f"?p={quote_plus(keyword)}&n={PAGE_SIZE}&s1=new&o1=d"
-    )
     rows_by_id={}
     stats=[]
 
-    response=page.goto(url,wait_until="domcontentloaded",timeout=60000)
-    if response and response.status>=400:
-        raise RuntimeError(f"HTTP {response.status}: {page.url}")
-    page.wait_for_timeout(4000)
-
     for page_no in range(1,MAX_PAGES+1):
+        # Yahoo Auctions uses b=1, 51, 101... as the result offset even
+        # though the redesigned UI may render the "next" control as #dummy.
+        offset=1+(page_no-1)*PAGE_SIZE
+        url=(
+            "https://auctions.yahoo.co.jp/search/search"
+            f"?p={quote_plus(keyword)}&b={offset}&n={PAGE_SIZE}&s1=new&o1=d"
+        )
+        response=page.goto(url,wait_until="domcontentloaded",timeout=60000)
+        if response and response.status>=400:
+            raise RuntimeError(f"HTTP {response.status}: {page.url}")
+        page.wait_for_timeout(3500)
+
         rows=extract_rows(page)
         if not rows:
-            sample=norm(page.locator("body").inner_text())[:700]
             if page_no==1:
+                sample=norm(page.locator("body").inner_text())[:700]
                 raise RuntimeError(f"No auction links found; title={page.title()!r}; page={sample}")
             break
 
@@ -202,24 +173,11 @@ def scrape(page,keyword):
         added=len(rows_by_id)-before
         stats.append({"page":page_no,"url":page.url,"links":len(rows),"unique_added":added})
 
-        if added==0 or page_no>=MAX_PAGES:
+        # No newly visible Auction IDs means the requested offset was ignored
+        # or we reached the end of the result set.
+        if added==0:
             break
-
-        previous_ids=set(row["id"] for row in rows)
-        if not click_next(page):
-            break
-
-        # The redesigned search page may update via JavaScript without a useful
-        # URL change. Wait until the visible Auction IDs actually change.
-        changed=False
-        for _ in range(12):
-            page.wait_for_timeout(500)
-            next_rows=extract_rows(page)
-            next_ids=set(row["id"] for row in next_rows)
-            if next_ids and next_ids != previous_ids:
-                changed=True
-                break
-        if not changed:
+        if len(rows)<PAGE_SIZE:
             break
 
     parsed=0
