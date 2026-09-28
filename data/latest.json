@@ -1,140 +1,84 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-28T09:37:27.720225+00:00",
+  "checked_at": "2026-09-28T10:35:56.582995+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10773466",
+      "id": "DS10773616",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop 【良プレイコンディション】1960 Les Paul Special Single Cut 【3.52kg】【濃いめ指板】【2014年製】",
-      "price": 368000,
-      "url": "https://www.digimart.net/cat01/shop26/DS10773466/"
+      "title": "Gibson SG Original / 2013",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat01/shop5392/DS10773616/"
     },
     {
-      "id": "DS10773399",
+      "id": "DS10773598",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Junior Special P-90 Gloss Heritage Cherry [3.84kg/2012年製]ギブソン レスポール・スペシャル",
-      "price": 220000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10773399/"
+      "title": "Gibson 【美杢】Les Paul Standard '60s ～Unburst～ #219560031【4.17kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop26/DS10773598/"
     },
     {
-      "id": "DS10773382",
+      "id": "DS10773537",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop 【ご購入特典あり】Murphy Lab 1942 Banner J-45 Light Aged【極薄マーフィーラッカー】【爆鳴り】",
-      "price": 845000,
-      "url": "https://www.digimart.net/cat02/shop60/DS10773382/"
+      "title": "Gibson Custom Shop 【極上杢・59neck】1958 Les Paul Standard Reissue w/GROVER Factory Burst VOS [4.10kg]",
+      "price": 770000,
+      "url": "https://www.digimart.net/cat01/shop169/DS10773537/"
     },
     {
-      "id": "DS10773188",
+      "id": "DS10773474",
       "keyword": "Gibson",
-      "title": "Gibson 1959 J-50 Thermally Aged 2018",
-      "price": 495000,
-      "url": "https://www.digimart.net/cat02/shop5032/DS10773188/"
+      "title": "Gibson Custom Shop【5本限定カスタム】Murphy Lab 60s J-45 VS Light Aged【48回払い無金利】",
+      "price": 698000,
+      "url": "https://www.digimart.net/cat02/shop60/DS10773474/"
     },
     {
-      "id": "DS10773171",
-      "keyword": "Gibson",
-      "title": "Gibson 1950s J-45 Original Vintage Sunburst 【梅田店】",
-      "price": 379500,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10773171/"
-    },
-    {
-      "id": "DS10773170",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 Standard with HiFi DNA Vintage Sunburst 【梅田店】",
-      "price": 379500,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10773170/"
-    },
-    {
-      "id": "DS10773142",
-      "keyword": "Gibson",
-      "title": "Gibson DOVE Rosewood Special Edition",
-      "price": 693000,
-      "url": "https://www.digimart.net/cat02/shop541/DS10773142/"
-    },
-    {
-      "id": "DS10773138",
-      "keyword": "Gibson",
-      "title": "Gibson Hummingbird HCS",
-      "price": 341000,
-      "url": "https://www.digimart.net/cat02/shop541/DS10773138/"
-    },
-    {
-      "id": "DS10773137",
-      "keyword": "Gibson",
-      "title": "Gibson 【セカンド品】 Les Paul Special TV Yellow 207660072 【4.00kg】 [2026年製] [【G-Club TOKYO】",
-      "price": 225500,
-      "url": "https://www.digimart.net/cat01/shop35/DS10773137/"
-    },
-    {
-      "id": "DS10773136",
-      "keyword": "Gibson",
-      "title": "Gibson J-200 ARTIST SB",
-      "price": 550000,
-      "url": "https://www.digimart.net/cat02/shop541/DS10773136/"
-    },
-    {
-      "id": "DS10773126",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 Historic Collection",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat02/shop541/DS10773126/"
-    },
-    {
-      "id": "DS10773465",
+      "id": "DS10773617",
       "keyword": "Fender",
-      "title": "Fender 【アウトレット】American Acoustasonic Telecaster -Sunburst-【2.43Kg】【US253861A】",
-      "price": 228000,
-      "url": "https://www.digimart.net/cat02/shop38/DS10773465/"
+      "title": "Fender Limited Edition American Ultra II Stratocaster, Maple Fingerboard, Black",
+      "price": 374000,
+      "url": "https://www.digimart.net/cat01/shop1220/DS10773617/"
     },
     {
-      "id": "DS10773392",
+      "id": "DS10773613",
       "keyword": "Fender",
-      "title": "Fender 【アウトレット】American Acoustasonic Telecaster -Black-【2.24Kg】【US253835A】",
-      "price": 228000,
-      "url": "https://www.digimart.net/cat02/shop38/DS10773392/"
+      "title": "Fender Custom Shop 2017 Team Built 1960 Stratocaster Relic (Aged Lake Placid Blue)",
+      "price": 594000,
+      "url": "https://www.digimart.net/cat01/shop87/DS10773613/"
     },
     {
-      "id": "DS10773282",
+      "id": "DS10773581",
       "keyword": "Fender",
-      "title": "Fender フェンダー FSR American Acoustasonic Telecaster Roasted Maple Fingerboard Natural Mahogany",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat02/shop1000/DS10773282/"
+      "title": "Fender Custom Shop 2023 Michael Landau 1968 Stratocaster Relic (Black)",
+      "price": 635800,
+      "url": "https://www.digimart.net/cat01/shop87/DS10773581/"
     },
     {
-      "id": "DS10773281",
+      "id": "DS10773579",
       "keyword": "Fender",
-      "title": "Fender フェンダー FSR American Acoustasonic Telecaster Roasted Maple Fingerboard Tungsten",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat02/shop1000/DS10773281/"
+      "title": "Fender Custom Shop 2024 Limited 1964 L-Series Stratocaster Heavy Relic (LPB/R)",
+      "price": 575000,
+      "url": "https://www.digimart.net/cat01/shop4240/DS10773579/"
     },
     {
-      "id": "DS10773280",
+      "id": "DS10773575",
       "keyword": "Fender",
-      "title": "Fender フェンダー FSR American Acoustasonic Telecaster Roasted Maple Fingerboard Moonlight Burst",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat02/shop1000/DS10773280/"
+      "title": "Fender 【アウトレット】American Professional Classic Jazzmaster -Faded Firemist Gold-",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat01/shop38/DS10773575/"
     },
     {
-      "id": "DS10773279",
+      "id": "DS10773554",
       "keyword": "Fender",
-      "title": "Fender フェンダー FSR American Acoustasonic Telecaster Streaked Ebony Fingerboard Green Paisley",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat02/shop1000/DS10773279/"
+      "title": "Fender American Acoustasonic Jazzmaster -Ocean Turquoise- 2022年製 【2.42Kg】",
+      "price": 208000,
+      "url": "https://www.digimart.net/cat02/shop38/DS10773554/"
     },
     {
-      "id": "DS10773278",
+      "id": "DS10773534",
       "keyword": "Fender",
-      "title": "Fender フェンダー FSR American Acoustasonic Telecaster Streaked Ebony Fingerboard Blue Paisley",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat02/shop1000/DS10773278/"
-    },
-    {
-      "id": "DS10773269",
-      "keyword": "Fractal",
-      "title": "FRACTAL AUDIO SYSTEMS AM4 アンプモデリング マルチエフェクター",
-      "price": 176000,
-      "url": "https://www.digimart.net/cat13/shop1000/DS10773269/"
+      "title": "Fender 【USED】American Standard Stratocaster BLK #US13115580【3.62kg】",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat01/shop60/DS10773534/"
     }
   ],
   "errors": [],
@@ -147,7 +91,7 @@
     "Gibson": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 35
+      "qualifying": 34
     },
     "PRS": {
       "links": 50,
@@ -157,7 +101,7 @@
     "Fender": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 7
+      "qualifying": 9
     },
     "Nord": {
       "links": 50,
@@ -180,6 +124,6 @@
       "qualifying": 34
     }
   },
-  "collected": 173,
-  "seen_count": 288
+  "collected": 174,
+  "seen_count": 299
 }
