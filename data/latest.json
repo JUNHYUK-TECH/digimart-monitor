@@ -1,8 +1,44 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-28T01:33:09.012626+00:00",
+  "checked_at": "2026-09-28T02:34:22.392616+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10767096",
+      "keyword": "Gibson",
+      "title": "Gibson Victory Figured Top",
+      "price": 239900,
+      "url": "https://www.digimart.net/cat01/shop4846/DS10767096/"
+    },
+    {
+      "id": "DS10772083",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1961 Stratocaster Olympic White 【3.72kg】【V26771】",
+      "price": 393800,
+      "url": "https://www.digimart.net/cat01/shop170/DS10772083/"
+    },
+    {
+      "id": "DS10772081",
+      "keyword": "Fender",
+      "title": "Fender Limited American Professional II Classic Telecaster Olympic Pearl 【3.51kg】【US25082832】",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat01/shop170/DS10772081/"
+    },
+    {
+      "id": "DS10772080",
+      "keyword": "Fender",
+      "title": "Fender Limited American Professional II Classic Stratocaster Olympic Pearl 【3.39kg】【US25079068】",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat01/shop170/DS10772080/"
+    },
+    {
+      "id": "DS10716482",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Stage 4 Compact 【即納可能・送料無料】",
+      "price": 858000,
+      "url": "https://www.digimart.net/cat07/shop1140/DS10716482/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -23,17 +59,17 @@
     "Fender": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 14
+      "qualifying": 11
     },
     "Nord": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 29
+      "qualifying": 27
     },
     "Helix": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 21
+      "qualifying": 20
     },
     "Quad Cortex": {
       "links": 50,
@@ -46,6 +82,6 @@
       "qualifying": 33
     }
   },
-  "collected": 178,
-  "seen_count": 211
+  "collected": 172,
+  "seen_count": 216
 }
