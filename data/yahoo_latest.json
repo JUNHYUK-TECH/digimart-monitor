@@ -1,14 +1,42 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-28T21:54:41.998750+00:00",
+  "checked_at": "2026-09-28T22:54:45.872540+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "g1246279862",
+      "keyword": "Gibson",
+      "title": "Gibson◆2007年製/Les Paul Studio/本体のみ/レスポールスタジオ/BLK//",
+      "price": 120670,
+      "buyout": 120670,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/g1246279862"
+    },
+    {
+      "id": "s1246291009",
+      "keyword": "Gibson",
+      "title": "Gibson◆2021年製/Les Paul Standard 50s/ハードケースレスポールスタンダード//",
+      "price": 264660,
+      "buyout": 264660,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/s1246291009"
+    },
+    {
+      "id": "l1245852149",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Traditional Plus 2009年製",
+      "price": 240000,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/l1245852149"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 2,
-      "links": 89,
-      "parsed": 88,
+      "links": 88,
+      "parsed": 87,
       "qualifying": 0,
       "page_stats": [
         {
@@ -21,15 +49,15 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=51&n=50&s1=new&o1=d",
           "links": 46,
-          "unique_added": 39
+          "unique_added": 38
         }
       ]
     },
     "Gibson": {
       "pages": 6,
-      "links": 253,
-      "parsed": 233,
-      "qualifying": 87,
+      "links": 255,
+      "parsed": 235,
+      "qualifying": 89,
       "page_stats": [
         {
           "page": 1,
@@ -58,14 +86,14 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 58,
-          "unique_added": 38
+          "links": 59,
+          "unique_added": 39
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 57,
-          "unique_added": 37
+          "links": 58,
+          "unique_added": 38
         }
       ]
     },
@@ -86,7 +114,7 @@
     "Fender": {
       "pages": 6,
       "links": 319,
-      "parsed": 299,
+      "parsed": 297,
       "qualifying": 0,
       "page_stats": [
         {
@@ -98,14 +126,14 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 50
+          "links": 69,
+          "unique_added": 49
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 50
+          "unique_added": 52
         },
         {
           "page": 4,
@@ -117,7 +145,7 @@
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 6,
@@ -129,15 +157,15 @@
     },
     "Nord": {
       "pages": 1,
-      "links": 48,
-      "parsed": 48,
+      "links": 47,
+      "parsed": 47,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Nord&b=1&n=50&s1=new&o1=d",
-          "links": 48,
-          "unique_added": 48
+          "links": 47,
+          "unique_added": 47
         }
       ]
     },
@@ -184,6 +212,6 @@
       ]
     }
   },
-  "collected": 94,
-  "seen_count": 121
+  "collected": 96,
+  "seen_count": 124
 }
