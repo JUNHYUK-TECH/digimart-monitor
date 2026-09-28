@@ -10,9 +10,8 @@ MAX_PRICE=1000000
 STATE=Path("data/seen.json")
 RESULT=Path("data/latest.json")
 
-# Digimart's newest-first search can contain more than 50 matches for busy
-# keywords. Walk several result pages so new listings do not fall outside the
-# first page between hourly runs.
+# Scan multiple newest-first result pages.  PAGE_SIZE is what Digimart is
+# asked to render; MAX_PAGES caps work even if the site exposes many pages.
 PAGE_SIZE=50
 MAX_PAGES=6
 
@@ -31,19 +30,17 @@ INSTRUMENT_HINTS=(
     "axe-fx","axe fx","fm3","fm9","vp4","am4","ギター","ベース","キーボード",
 )
 
-def norm(s): return re.sub(r"\s+"," ",s or "").strip()
+def norm(s):
+    return re.sub(r"\s+"," ",s or "").strip()
 
 def looks_accessory_only(title):
-    """Reject obvious accessory listings without rejecting instruments that merely mention an included case/bag."""
+    """Reject obvious accessory-only listings, not instruments bundled with a case/bag."""
     t=norm(title).lower()
     if not any(x in t for x in ACCESSORY_PHRASES):
         return False
     if any(x in t for x in INSTRUMENT_HINTS):
         return False
 
-    # Strong "this is the accessory itself" wording.  We intentionally keep
-    # this conservative: a false positive is preferable to silently dropping
-    # a legitimate instrument listing.
     accessory_nouns=(
         "case","bag","ケース","バッグ","カバー","cover","stand","スタンド",
         "cable","ケーブル","strap","ストラップ",
@@ -55,8 +52,8 @@ def allowed(keyword,title,price):
     if price is None or not (MIN_PRICE < price < MAX_PRICE):
         return False
 
-    # Do not blanket-reject a guitar just because its title says "hard case
-    # included". Only remove listings that look like the accessory itself.
+    # Previously any occurrence of "case"/"bag" rejected the entire listing.
+    # That dropped real instruments whose titles merely listed an included case.
     if looks_accessory_only(title):
         return False
 
@@ -72,8 +69,7 @@ def allowed(keyword,title,price):
         if any(x in t for x in ARAI):
             return True
 
-        # Keep the user's USA-only rule, but recognize more common ways shops
-        # describe US-made Fender lines.
+        # USA-only rule, with additional common US-series wording.
         usa=(
             "fender usa","fender u.s.a","made in usa","made in u.s.a",
             "made in u.s.a.","american ","american professional",
@@ -136,14 +132,61 @@ def extract_rows(page):
       return result;
     }""")
 
+def find_next_url(page,next_page_number):
+    """Follow Digimart's real pagination link instead of guessing its query parameter."""
+    return page.evaluate(r"""(nextPage) => {
+      const current = new URL(location.href);
+      const visible = a => !!a.getClientRects().length;
+      const clean = s => (s || '').replace(/\s+/g, ' ').trim();
+      const links = [...document.querySelectorAll('a[href]')].filter(visible);
+
+      const sameSearch = a => {
+        try {
+          const u = new URL(a.getAttribute('href'), location.href);
+          return u.origin === current.origin && u.pathname === current.pathname;
+        } catch (_) {
+          return false;
+        }
+      };
+
+      // Prefer semantic/visible "next" controls.
+      for (const a of links) {
+        if (!sameSearch(a)) continue;
+        const rel = clean(a.getAttribute('rel')).toLowerCase().split(' ');
+        const label = clean([
+          a.innerText,
+          a.getAttribute('aria-label'),
+          a.getAttribute('title')
+        ].filter(Boolean).join(' '));
+        if (rel.includes('next') ||
+            /^(次へ|次のページ|次|next|next page|›|»|＞|>|→)$/i.test(label)) {
+          return new URL(a.getAttribute('href'), location.href).href;
+        }
+      }
+
+      // Robust fallback: use the numeric link for the page we actually want.
+      // This works even if Digimart changes ?page= to another parameter name.
+      const target = String(nextPage);
+      for (const a of links) {
+        if (!sameSearch(a)) continue;
+        if (clean(a.innerText) === target) {
+          return new URL(a.getAttribute('href'), location.href).href;
+        }
+      }
+      return null;
+    }""",next_page_number)
+
 def scrape(page,keyword):
-    base=f"https://www.digimart.net/search?keywordAnd={quote_plus(keyword)}&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount={PAGE_SIZE}"
+    url=f"https://www.digimart.net/search?keywordAnd={quote_plus(keyword)}&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount={PAGE_SIZE}"
     all_rows={}
     page_stats=[]
-    previous_ids=None
+    visited=set()
 
     for page_no in range(1,MAX_PAGES+1):
-        url=base if page_no==1 else f"{base}&page={page_no}"
+        if url in visited:
+            break
+        visited.add(url)
+
         response=page.goto(url,wait_until="domcontentloaded",timeout=60000)
         if response and response.status >= 400:
             raise RuntimeError(f"HTTP {response.status}: {page.url}")
@@ -156,23 +199,27 @@ def scrape(page,keyword):
                 raise RuntimeError(f"No product links found; title={page.title()!r}; page={sample}")
             break
 
-        ids={row["id"] for row in rows}
-        # If Digimart ignores/changes the page parameter, avoid re-reading the
-        # same first page over and over.
-        if previous_ids is not None and ids == previous_ids:
-            break
-        previous_ids=ids
-
         before=len(all_rows)
         for row in rows:
             all_rows[row["id"]]=row
         added=len(all_rows)-before
-        page_stats.append({"page":page_no,"links":len(rows),"unique_added":added})
+        page_stats.append({
+            "page":page_no,
+            "url":page.url,
+            "links":len(rows),
+            "unique_added":added,
+        })
 
+        # A repeated result set means pagination did not advance.
         if added==0:
             break
-        if len(rows) < PAGE_SIZE:
+
+        if page_no >= MAX_PAGES:
             break
+        next_url=find_next_url(page,page_no+1)
+        if not next_url or next_url in visited:
+            break
+        url=next_url
 
     out=[]; parsed=0
     for row in all_rows.values():
@@ -186,7 +233,13 @@ def scrape(page,keyword):
             continue
         parsed+=1
         if allowed(keyword,title,price):
-            out.append({"id":row["id"],"keyword":keyword,"title":title,"price":price,"url":row["url"]})
+            out.append({
+                "id":row["id"],
+                "keyword":keyword,
+                "title":title,
+                "price":price,
+                "url":row["url"],
+            })
 
     if not parsed:
         raise RuntimeError(f"Found {len(all_rows)} products but could not parse any title/price")
@@ -198,7 +251,7 @@ def scrape(page,keyword):
         "qualifying":len(out),
         "page_stats":page_stats,
     }
-    print(f"{keyword}: {json.dumps(stats)}",flush=True)
+    print(f"{keyword}: {json.dumps(stats,ensure_ascii=False)}",flush=True)
     return out,stats
 
 def main():
@@ -206,6 +259,7 @@ def main():
     seen=set(json.loads(STATE.read_text("utf-8"))) if STATE.exists() else set()
     baseline=(not STATE.exists()) or len(seen)==0
     items=[]; errors=[]; counts={}
+
     with sync_playwright() as p:
         b=p.chromium.launch(headless=True,args=["--no-sandbox"])
         page=b.new_page(locale="ja-JP")
@@ -252,4 +306,5 @@ def main():
     if errors:
         print("ERRORS\n"+"\n".join(errors))
 
-if __name__=="__main__": main()
+if __name__=="__main__":
+    main()
