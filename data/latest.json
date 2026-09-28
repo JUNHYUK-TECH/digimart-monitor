@@ -1,63 +1,28 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-28T03:36:09.339466+00:00",
+  "checked_at": "2026-09-28T04:35:55.892607+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10772209",
-      "keyword": "Gibson",
-      "title": "Gibson ES-135 Flame Neck Sunburst 1999",
-      "price": 382000,
-      "url": "https://www.digimart.net/cat01/shop700/DS10772209/"
-    },
-    {
-      "id": "DS10772151",
-      "keyword": "Gibson",
-      "title": "Gibson Custom 1952 J-185 Reissue (Vintage Sunburst)",
-      "price": 755700,
-      "url": "https://www.digimart.net/cat02/shop5451/DS10772151/"
-    },
-    {
-      "id": "DS10772160",
+      "id": "DS10772348",
       "keyword": "Fender",
-      "title": "Fender American Professional II Jazz Bass Rosewood Fingerboard Miami Blue【渋谷店】【YRK】《長期店頭展示品",
-      "price": 238000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10772160/"
+      "title": "Fender American Professional Classic Telecaster - Faded Dakota Red - ≒3.42kg",
+      "price": 170000,
+      "url": "https://www.digimart.net/cat01/shop169/DS10772348/"
     },
     {
-      "id": "DS10772159",
+      "id": "DS10772318",
       "keyword": "Fender",
-      "title": "Fender American Professional II Precision Bass Rosewood Fingerboard Olympic White【渋谷店】【YRK】《長期店",
-      "price": 230000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10772159/"
+      "title": "Fender American Acoustasonic Telecaster Ebony Fingerboard Sunburst #US253856A 【軽量2.19kg】",
+      "price": 312400,
+      "url": "https://www.digimart.net/cat02/shop26/DS10772318/"
     },
     {
-      "id": "DS10772158",
-      "keyword": "Fender",
-      "title": "Fender American Professional II Precision Bass Rosewood Fingerboard Mercury【渋谷店】【YRK】《長期店頭展示",
-      "price": 230000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10772158/"
-    },
-    {
-      "id": "DS10772155",
-      "keyword": "Fender",
-      "title": "Fender American Professional Classic Jazz Bass Maple Fingerboard Faded Dakota Red【渋谷店】【YRK】《長期店",
-      "price": 208000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10772155/"
-    },
-    {
-      "id": "DS10772154",
-      "keyword": "Fender",
-      "title": "Fender American Professional Classic Precision Bass Faded Lake Placid Blue【渋谷店】【YRK】《長期店頭展示品",
-      "price": 208000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10772154/"
-    },
-    {
-      "id": "DS10772153",
-      "keyword": "Fender",
-      "title": "Fender American Professional II Jazz Bass Fretless 3-Color Sunburst【渋谷店】【YRK】《長期店頭展示品アウト",
-      "price": 238000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10772153/"
+      "id": "DS10729369",
+      "keyword": "Helix",
+      "title": "LINE 6 Helix Stadium Floor [Helixシリーズの最高峰モデル] 【横浜店】【箱ボロ特別価格品】",
+      "price": 277200,
+      "url": "https://www.digimart.net/cat13/shop1484/DS10729369/"
     }
   ],
   "errors": [],
@@ -70,17 +35,17 @@
     "Gibson": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 30
+      "qualifying": 29
     },
     "PRS": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 31
+      "qualifying": 30
     },
     "Fender": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 15
+      "qualifying": 16
     },
     "Nord": {
       "links": 50,
@@ -103,6 +68,6 @@
       "qualifying": 33
     }
   },
-  "collected": 176,
-  "seen_count": 224
+  "collected": 175,
+  "seen_count": 227
 }
