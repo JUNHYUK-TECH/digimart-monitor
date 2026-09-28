@@ -1,42 +1,63 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-28T02:34:22.392616+00:00",
+  "checked_at": "2026-09-28T03:36:09.339466+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10767096",
+      "id": "DS10772209",
       "keyword": "Gibson",
-      "title": "Gibson Victory Figured Top",
-      "price": 239900,
-      "url": "https://www.digimart.net/cat01/shop4846/DS10767096/"
+      "title": "Gibson ES-135 Flame Neck Sunburst 1999",
+      "price": 382000,
+      "url": "https://www.digimart.net/cat01/shop700/DS10772209/"
     },
     {
-      "id": "DS10772083",
+      "id": "DS10772151",
+      "keyword": "Gibson",
+      "title": "Gibson Custom 1952 J-185 Reissue (Vintage Sunburst)",
+      "price": 755700,
+      "url": "https://www.digimart.net/cat02/shop5451/DS10772151/"
+    },
+    {
+      "id": "DS10772160",
       "keyword": "Fender",
-      "title": "Fender American Vintage II 1961 Stratocaster Olympic White 【3.72kg】【V26771】",
-      "price": 393800,
-      "url": "https://www.digimart.net/cat01/shop170/DS10772083/"
+      "title": "Fender American Professional II Jazz Bass Rosewood Fingerboard Miami Blue【渋谷店】【YRK】《長期店頭展示品",
+      "price": 238000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10772160/"
     },
     {
-      "id": "DS10772081",
+      "id": "DS10772159",
       "keyword": "Fender",
-      "title": "Fender Limited American Professional II Classic Telecaster Olympic Pearl 【3.51kg】【US25082832】",
-      "price": 242000,
-      "url": "https://www.digimart.net/cat01/shop170/DS10772081/"
+      "title": "Fender American Professional II Precision Bass Rosewood Fingerboard Olympic White【渋谷店】【YRK】《長期店",
+      "price": 230000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10772159/"
     },
     {
-      "id": "DS10772080",
+      "id": "DS10772158",
       "keyword": "Fender",
-      "title": "Fender Limited American Professional II Classic Stratocaster Olympic Pearl 【3.39kg】【US25079068】",
-      "price": 242000,
-      "url": "https://www.digimart.net/cat01/shop170/DS10772080/"
+      "title": "Fender American Professional II Precision Bass Rosewood Fingerboard Mercury【渋谷店】【YRK】《長期店頭展示",
+      "price": 230000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10772158/"
     },
     {
-      "id": "DS10716482",
-      "keyword": "Nord",
-      "title": "CLAVIA Nord Stage 4 Compact 【即納可能・送料無料】",
-      "price": 858000,
-      "url": "https://www.digimart.net/cat07/shop1140/DS10716482/"
+      "id": "DS10772155",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Jazz Bass Maple Fingerboard Faded Dakota Red【渋谷店】【YRK】《長期店",
+      "price": 208000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10772155/"
+    },
+    {
+      "id": "DS10772154",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Precision Bass Faded Lake Placid Blue【渋谷店】【YRK】《長期店頭展示品",
+      "price": 208000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10772154/"
+    },
+    {
+      "id": "DS10772153",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Jazz Bass Fretless 3-Color Sunburst【渋谷店】【YRK】《長期店頭展示品アウト",
+      "price": 238000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10772153/"
     }
   ],
   "errors": [],
@@ -59,7 +80,7 @@
     "Fender": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 11
+      "qualifying": 15
     },
     "Nord": {
       "links": 50,
@@ -82,6 +103,6 @@
       "qualifying": 33
     }
   },
-  "collected": 172,
-  "seen_count": 216
+  "collected": 176,
+  "seen_count": 224
 }
