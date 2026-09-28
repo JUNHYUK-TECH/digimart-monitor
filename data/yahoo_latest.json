@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-28T20:57:17.162066+00:00",
+  "checked_at": "2026-09-28T21:54:41.998750+00:00",
   "baseline": false,
   "new": [],
   "errors": [],
@@ -27,9 +27,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 252,
-      "parsed": 232,
-      "qualifying": 86,
+      "links": 253,
+      "parsed": 233,
+      "qualifying": 87,
       "page_stats": [
         {
           "page": 1,
@@ -46,8 +46,8 @@
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 62,
-          "unique_added": 42
+          "links": 63,
+          "unique_added": 43
         },
         {
           "page": 4,
@@ -71,15 +71,15 @@
     },
     "PRS": {
       "pages": 1,
-      "links": 47,
-      "parsed": 42,
+      "links": 46,
+      "parsed": 41,
       "qualifying": 2,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=1&n=50&s1=new&o1=d",
-          "links": 47,
-          "unique_added": 47
+          "links": 46,
+          "unique_added": 46
         }
       ]
     },
@@ -92,8 +92,8 @@
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 70
+          "links": 69,
+          "unique_added": 69
         },
         {
           "page": 2,
@@ -123,7 +123,7 @@
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 49
+          "unique_added": 50
         }
       ]
     },
@@ -184,6 +184,6 @@
       ]
     }
   },
-  "collected": 93,
+  "collected": 94,
   "seen_count": 121
 }
