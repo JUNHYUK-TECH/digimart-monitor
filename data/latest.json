@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-28T00:43:03.481112+00:00",
+  "checked_at": "2026-09-28T01:33:09.012626+00:00",
   "baseline": false,
   "new": [],
   "errors": [],
@@ -18,12 +18,12 @@
     "PRS": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 30
+      "qualifying": 31
     },
     "Fender": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 15
+      "qualifying": 14
     },
     "Nord": {
       "links": 50,
