@@ -1,21 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-28T13:41:53.358043+00:00",
+  "checked_at": "2026-09-28T14:42:57.443591+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10773609",
-      "keyword": "Gibson",
-      "title": "Gibson 【良杢個体】J-45 Special #22376149【担当オススメ個体】【2026年製】",
-      "price": 258000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10773609/"
-    },
-    {
-      "id": "DS10773636",
-      "keyword": "Gibson",
-      "title": "Gibson Gibson Murphy Lab 1946 J-50 Heavy Aged （Antique Natural）#20816043 ギブソン",
-      "price": 997923,
-      "url": "https://www.digimart.net/cat02/shop5331/DS10773636/"
+      "id": "DS10773468",
+      "keyword": "Fender",
+      "title": "Fender American Vintage ‘62 Stratocaster Thin Lacque 2001",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat01/shop4360/DS10773468/"
     }
   ],
   "errors": [],
@@ -68,7 +61,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 181,
+      "qualifying": 180,
       "page_stats": [
         {
           "page": 1,
@@ -154,9 +147,9 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 299,
-      "parsed": 299,
-      "qualifying": 46,
+      "links": 300,
+      "parsed": 300,
+      "qualifying": 45,
       "page_stats": [
         {
           "page": 1,
@@ -174,7 +167,7 @@
           "page": 3,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=3&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 49
+          "unique_added": 50
         },
         {
           "page": 4,
@@ -337,6 +330,6 @@
       ]
     }
   },
-  "collected": 890,
-  "seen_count": 936
+  "collected": 888,
+  "seen_count": 937
 }
