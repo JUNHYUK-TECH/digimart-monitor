@@ -1,8 +1,18 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-28T18:58:38.301398+00:00",
+  "checked_at": "2026-09-28T19:55:33.461199+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "m1246276539",
+      "keyword": "PRS",
+      "title": "ティソ PRS 516 クロノグラフ — T100.417.36.051.00 海外 即決",
+      "price": 142281,
+      "buyout": 142281,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/m1246276539"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -46,14 +56,14 @@
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 62,
-          "unique_added": 42
+          "links": 63,
+          "unique_added": 43
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 39
+          "links": 58,
+          "unique_added": 38
         },
         {
           "page": 5,
@@ -73,7 +83,7 @@
       "pages": 1,
       "links": 47,
       "parsed": 42,
-      "qualifying": 1,
+      "qualifying": 2,
       "page_stats": [
         {
           "page": 1,
@@ -184,6 +194,6 @@
       ]
     }
   },
-  "collected": 93,
-  "seen_count": 120
+  "collected": 94,
+  "seen_count": 121
 }
