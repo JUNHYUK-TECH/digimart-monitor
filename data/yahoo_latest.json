@@ -1,18 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-28T19:55:33.461199+00:00",
+  "checked_at": "2026-09-28T20:57:17.162066+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "m1246276539",
-      "keyword": "PRS",
-      "title": "ティソ PRS 516 クロノグラフ — T100.417.36.051.00 海外 即決",
-      "price": 142281,
-      "buyout": 142281,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/m1246276539"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -39,25 +29,25 @@
       "pages": 6,
       "links": 252,
       "parsed": 232,
-      "qualifying": 87,
+      "qualifying": 86,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 55,
-          "unique_added": 55
+          "links": 54,
+          "unique_added": 54
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 62,
-          "unique_added": 42
+          "links": 63,
+          "unique_added": 43
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 63,
-          "unique_added": 43
+          "links": 62,
+          "unique_added": 42
         },
         {
           "page": 4,
@@ -74,8 +64,8 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 56,
-          "unique_added": 36
+          "links": 57,
+          "unique_added": 37
         }
       ]
     },
@@ -132,7 +122,7 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 69,
+          "links": 70,
           "unique_added": 49
         }
       ]
@@ -194,6 +184,6 @@
       ]
     }
   },
-  "collected": 94,
+  "collected": 93,
   "seen_count": 121
 }
