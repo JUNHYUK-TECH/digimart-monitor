@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-28T17:55:58.665104+00:00",
+  "checked_at": "2026-09-28T18:58:38.301398+00:00",
   "baseline": false,
   "new": [],
   "errors": [],
@@ -29,7 +29,7 @@
       "pages": 6,
       "links": 252,
       "parsed": 232,
-      "qualifying": 86,
+      "qualifying": 87,
       "page_stats": [
         {
           "page": 1,
@@ -116,14 +116,14 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 49
+          "links": 70,
+          "unique_added": 50
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 50
+          "links": 69,
+          "unique_added": 49
         }
       ]
     },
@@ -184,6 +184,6 @@
       ]
     }
   },
-  "collected": 92,
+  "collected": 93,
   "seen_count": 120
 }
