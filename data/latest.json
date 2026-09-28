@@ -1,28 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-28T04:35:55.892607+00:00",
+  "checked_at": "2026-09-28T05:35:04.518362+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10772348",
-      "keyword": "Fender",
-      "title": "Fender American Professional Classic Telecaster - Faded Dakota Red - ≒3.42kg",
-      "price": 170000,
-      "url": "https://www.digimart.net/cat01/shop169/DS10772348/"
-    },
-    {
-      "id": "DS10772318",
-      "keyword": "Fender",
-      "title": "Fender American Acoustasonic Telecaster Ebony Fingerboard Sunburst #US253856A 【軽量2.19kg】",
-      "price": 312400,
-      "url": "https://www.digimart.net/cat02/shop26/DS10772318/"
-    },
-    {
-      "id": "DS10729369",
-      "keyword": "Helix",
-      "title": "LINE 6 Helix Stadium Floor [Helixシリーズの最高峰モデル] 【横浜店】【箱ボロ特別価格品】",
-      "price": 277200,
-      "url": "https://www.digimart.net/cat13/shop1484/DS10729369/"
+      "id": "DS10772434",
+      "keyword": "Gibson",
+      "title": "Gibson 【NEW】 ES-335 Figured Sixties Cherry sn214260332 [3.86kg]【G-CLUB TOKYO】",
+      "price": 506000,
+      "url": "https://www.digimart.net/cat01/shop35/DS10772434/"
     }
   ],
   "errors": [],
@@ -35,17 +21,17 @@
     "Gibson": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 29
+      "qualifying": 24
     },
     "PRS": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 30
+      "qualifying": 29
     },
     "Fender": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 16
+      "qualifying": 8
     },
     "Nord": {
       "links": 50,
@@ -68,6 +54,6 @@
       "qualifying": 33
     }
   },
-  "collected": 175,
-  "seen_count": 227
+  "collected": 161,
+  "seen_count": 228
 }
