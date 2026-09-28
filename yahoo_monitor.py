@@ -143,21 +143,36 @@ def parse_end(text):
             return m.group(1)
     return None
 
-def find_next_url(page):
+def click_next(page):
+    """Click Yahoo's real next-page control. The 2026 redesign often uses a
+    #dummy href with a JavaScript handler, so navigating to href directly does
+    not advance the results."""
     return page.evaluate(r"""() => {
-      const current=new URL(location.href);
-      const links=[...document.querySelectorAll('a[href]')].filter(a=>a.getClientRects().length);
       const clean=s=>(s||'').replace(/\s+/g,' ').trim();
-      for (const a of links) {
-        let u;
-        try { u=new URL(a.getAttribute('href'),location.href); } catch (_) { continue; }
-        if (u.origin!==current.origin || !u.pathname.includes('/search/')) continue;
-        const rel=clean(a.getAttribute('rel')).toLowerCase().split(' ');
-        const label=clean([a.innerText,a.getAttribute('aria-label'),a.getAttribute('title')].filter(Boolean).join(' '));
-        if (rel.includes('next') || /^(次へ|次のページ|次|next|next page|›|»|＞|>|→)$/i.test(label))
-          return u.href;
+      const visible=el=>!!el.getClientRects().length;
+      const candidates=[...document.querySelectorAll('a,button')].filter(visible);
+
+      for (const el of candidates) {
+        const rel=clean(el.getAttribute('rel')).toLowerCase().split(' ');
+        const label=clean([
+          el.innerText,
+          el.getAttribute('aria-label'),
+          el.getAttribute('title')
+        ].filter(Boolean).join(' '));
+        const isNext=rel.includes('next') ||
+          /^(次へ|次のページ|次|next|next page|›|»|＞|>|→)$/i.test(label);
+        if (!isNext) continue;
+
+        const disabled=
+          el.hasAttribute('disabled') ||
+          el.getAttribute('aria-disabled')==='true' ||
+          /disabled|is-disabled/.test(el.className||'');
+        if (disabled) return false;
+
+        el.click();
+        return true;
       }
-      return null;
+      return false;
     }""")
 
 def scrape(page,keyword):
@@ -165,19 +180,15 @@ def scrape(page,keyword):
         "https://auctions.yahoo.co.jp/search/search"
         f"?p={quote_plus(keyword)}&n={PAGE_SIZE}&s1=new&o1=d"
     )
-    visited=set()
     rows_by_id={}
     stats=[]
 
-    for page_no in range(1,MAX_PAGES+1):
-        if not url or url in visited:
-            break
-        visited.add(url)
-        response=page.goto(url,wait_until="domcontentloaded",timeout=60000)
-        if response and response.status>=400:
-            raise RuntimeError(f"HTTP {response.status}: {page.url}")
-        page.wait_for_timeout(5000)
+    response=page.goto(url,wait_until="domcontentloaded",timeout=60000)
+    if response and response.status>=400:
+        raise RuntimeError(f"HTTP {response.status}: {page.url}")
+    page.wait_for_timeout(4000)
 
+    for page_no in range(1,MAX_PAGES+1):
         rows=extract_rows(page)
         if not rows:
             sample=norm(page.locator("body").inner_text())[:700]
@@ -190,9 +201,26 @@ def scrape(page,keyword):
             rows_by_id[row["id"]]=row
         added=len(rows_by_id)-before
         stats.append({"page":page_no,"url":page.url,"links":len(rows),"unique_added":added})
+
         if added==0 or page_no>=MAX_PAGES:
             break
-        url=find_next_url(page)
+
+        previous_ids=set(row["id"] for row in rows)
+        if not click_next(page):
+            break
+
+        # The redesigned search page may update via JavaScript without a useful
+        # URL change. Wait until the visible Auction IDs actually change.
+        changed=False
+        for _ in range(12):
+            page.wait_for_timeout(500)
+            next_rows=extract_rows(page)
+            next_ids=set(row["id"] for row in next_rows)
+            if next_ids and next_ids != previous_ids:
+                changed=True
+                break
+        if not changed:
+            break
 
     parsed=0
     qualified=[]
