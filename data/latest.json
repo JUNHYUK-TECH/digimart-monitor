@@ -1,63 +1,154 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-28T07:36:03.012338+00:00",
+  "checked_at": "2026-09-28T08:37:24.340312+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10772691",
-      "keyword": "Tyler",
-      "title": "James Tyler made in USA Tylerbastar",
-      "price": 621500,
-      "url": "https://www.digimart.net/cat01/shop4682/DS10772691/"
+      "id": "DS10773121",
+      "keyword": "Gibson",
+      "title": "Gibson J-50",
+      "price": 792000,
+      "url": "https://www.digimart.net/cat02/shop541/DS10773121/"
     },
     {
-      "id": "DS10772898",
+      "id": "DS10773115",
       "keyword": "Gibson",
-      "title": "Gibson 1966 J-50 ADJ 2017",
+      "title": "Gibson J-50",
+      "price": 572000,
+      "url": "https://www.digimart.net/cat02/shop541/DS10773115/"
+    },
+    {
+      "id": "DS10773114",
+      "keyword": "Gibson",
+      "title": "Gibson 1976 Les Paul Standard Cherry Sunburst",
+      "price": 396000,
+      "url": "https://www.digimart.net/cat01/shop2080/DS10773114/"
+    },
+    {
+      "id": "DS10773112",
+      "keyword": "Gibson",
+      "title": "Gibson LG-0",
+      "price": 297000,
+      "url": "https://www.digimart.net/cat02/shop541/DS10773112/"
+    },
+    {
+      "id": "DS10773109",
+      "keyword": "Gibson",
+      "title": "Gibson LG-1",
+      "price": 462000,
+      "url": "https://www.digimart.net/cat02/shop541/DS10773109/"
+    },
+    {
+      "id": "DS10773105",
+      "keyword": "Gibson",
+      "title": "Gibson LG-2",
+      "price": 748000,
+      "url": "https://www.digimart.net/cat02/shop541/DS10773105/"
+    },
+    {
+      "id": "DS10773102",
+      "keyword": "Gibson",
+      "title": "Gibson LTD 1933 L-CENTURY CENTENIAL",
+      "price": 498000,
+      "url": "https://www.digimart.net/cat02/shop541/DS10773102/"
+    },
+    {
+      "id": "DS10773097",
+      "keyword": "Gibson",
+      "title": "Gibson Montana J-160E Original Vintage Sunburst 《特典付き》 [0kg]【22116141】【池袋店】",
       "price": 495000,
-      "url": "https://www.digimart.net/cat02/shop5032/DS10772898/"
+      "url": "https://www.digimart.net/cat02/shop1484/DS10773097/"
     },
     {
-      "id": "DS10772826",
+      "id": "DS10773096",
       "keyword": "Gibson",
-      "title": "Gibson Firebird 2019 【2018年製】【3.39kg】【S/N:190001263】",
-      "price": 279800,
-      "url": "https://www.digimart.net/cat01/shop5093/DS10772826/"
+      "title": "Gibson Montana Hummingbird Special Satin Vintage Cherry Sunburst 《特典付き》 [0kg]【22316019】【池袋店】",
+      "price": 261800,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10773096/"
     },
     {
-      "id": "DS10772817",
+      "id": "DS10773050",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Modern Koa Natural 【新宿店】",
-      "price": 358000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10772817/"
+      "title": "Gibson L-7C",
+      "price": 671000,
+      "url": "https://www.digimart.net/cat02/shop541/DS10773050/"
     },
     {
-      "id": "DS10772740",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24 -Emerald Green-#CTI H014461【3.38kg】【繊細フレイムトップ!!】",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10772740/"
+      "id": "DS10773018",
+      "keyword": "Gibson",
+      "title": "Gibson 50's J-45 Original VS #22326008【50年代J-45の意匠】【2026年製造個体】",
+      "price": 398000,
+      "url": "https://www.digimart.net/cat02/shop5045/DS10773018/"
     },
     {
-      "id": "DS10772796",
+      "id": "DS10772993",
+      "keyword": "Gibson",
+      "title": "Gibson 50's J-45 Original VS #22126008【50年代J-45の意匠】【2026年製造個体】",
+      "price": 398000,
+      "url": "https://www.digimart.net/cat02/shop5045/DS10772993/"
+    },
+    {
+      "id": "DS10772990",
+      "keyword": "Gibson",
+      "title": "Gibson 【HiFi DNA搭載】J-45 Standard ~Vintage Sunburst~ ♯22326054",
+      "price": 381700,
+      "url": "https://www.digimart.net/cat02/shop5045/DS10772990/"
+    },
+    {
+      "id": "DS10772981",
+      "keyword": "Gibson",
+      "title": "Gibson 【 1P マホガニー】 Les Paul Junior TV Yellow #205660143 [3.47kg]",
+      "price": 203500,
+      "url": "https://www.digimart.net/cat01/shop35/DS10772981/"
+    },
+    {
+      "id": "DS10772924",
+      "keyword": "Gibson",
+      "title": "Gibson 1975 Les Paul Custom White 【渋谷店】《05VG》",
+      "price": 880000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10772924/"
+    },
+    {
+      "id": "DS10772916",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop ~Thermally Aged~ Murphy Lab 1960s J-45 Ultra Light Aged -Ebony- #21966105",
+      "price": 699900,
+      "url": "https://www.digimart.net/cat02/shop1881/DS10772916/"
+    },
+    {
+      "id": "DS10773101",
       "keyword": "Fender",
-      "title": "Fender American Professional Classic Stratocaster HSS Maple Fingerboard Faded Black",
-      "price": 264000,
-      "url": "https://www.digimart.net/cat01/shop5115/DS10772796/"
+      "title": "Fender 【アウトレット】American Professional Classic Hotshot Telecaster -3-Color Sunburst-",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat01/shop38/DS10773101/"
     },
     {
-      "id": "DS10772739",
+      "id": "DS10773088",
       "keyword": "Fender",
-      "title": "Fender American Vintage 62 Jazz Bass 2006 Refinish Mod. 2006 4.020kg #V163124【GIB横浜】",
-      "price": 265650,
-      "url": "https://www.digimart.net/cat03/shop5088/DS10772739/"
+      "title": "Fender FSR American Acoustasonic Telecaster Streaked Ebony Green Paisley [限定モデル] 【池袋店】",
+      "price": 352000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10773088/"
     },
     {
-      "id": "DS10772712",
-      "keyword": "Fractal",
-      "title": "FRACTAL AUDIO SYSTEMS VP4 【御茶ノ水本店】",
-      "price": 138000,
-      "url": "https://www.digimart.net/cat13/shop1484/DS10772712/"
+      "id": "DS10773087",
+      "keyword": "Fender",
+      "title": "Fender FSR American Acoustasonic Telecaster Streaked Ebony Blue Paisley [限定モデル] 【池袋店】",
+      "price": 352000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10773087/"
+    },
+    {
+      "id": "DS10773066",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 1965 Jazz Bass Journeyman Relic -Sea Form Green w/Matching Head-【4.11kg】",
+      "price": 779000,
+      "url": "https://www.digimart.net/cat03/shop18/DS10773066/"
+    },
+    {
+      "id": "DS10772606",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 【2023年製美品中古】1962 Stratocaster Heavy Relic CAR/3TS ≒3.61kg",
+      "price": 798000,
+      "url": "https://www.digimart.net/cat01/shop169/DS10772606/"
     }
   ],
   "errors": [],
@@ -70,7 +161,7 @@
     "Gibson": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 23
+      "qualifying": 29
     },
     "PRS": {
       "links": 50,
@@ -80,7 +171,7 @@
     "Fender": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 7
+      "qualifying": 8
     },
     "Nord": {
       "links": 50,
@@ -90,7 +181,7 @@
     "Helix": {
       "links": 50,
       "parsed": 50,
-      "qualifying": 20
+      "qualifying": 21
     },
     "Quad Cortex": {
       "links": 50,
@@ -103,6 +194,6 @@
       "qualifying": 34
     }
   },
-  "collected": 160,
-  "seen_count": 248
+  "collected": 168,
+  "seen_count": 269
 }
