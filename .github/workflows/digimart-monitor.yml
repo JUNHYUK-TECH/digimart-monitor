@@ -42,13 +42,44 @@ jobs:
           python - <<'PY'
           import json, subprocess
           d=json.load(open("data/latest.json",encoding="utf-8"))
-          if d.get("baseline") or not d.get("new"):
+          items=d.get("new") or []
+          if d.get("baseline") or not items:
               print("No new qualifying products.")
               raise SystemExit
-          lines=["새 Digimart 매물이 발견되었습니다.",""]
-          for x in d["new"]:
-              lines += [f'### [{x["keyword"]}] {x["title"]}',f'- 가격: ¥{x["price"]:,}',f'- 링크: {x["url"]}',""]
-          subprocess.run(["gh","issue","create","--title",f'Digimart 신규 매물 {len(d["new"])}건',"--body","\n".join(lines)],check=True)
+
+          # GitHub Issue bodies are limited to 65,536 characters.
+          # Keep each alert comfortably below that limit.
+          MAX_BODY=50000
+          prefix="새 Digimart 매물이 발견되었습니다.\n\n"
+          chunks=[]
+          current=[]
+          current_len=len(prefix)
+
+          for x in items:
+              block=(
+                  f'### [{x["keyword"]}] {x["title"]}\n'
+                  f'- 가격: ¥{x["price"]:,}\n'
+                  f'- 링크: {x["url"]}\n\n'
+              )
+              if current and current_len + len(block) > MAX_BODY:
+                  chunks.append(current)
+                  current=[]
+                  current_len=len(prefix)
+              current.append(block)
+              current_len += len(block)
+
+          if current:
+              chunks.append(current)
+
+          total=len(chunks)
+          for i,chunk in enumerate(chunks,1):
+              body=prefix+"".join(chunk)
+              suffix=f" ({i}/{total})" if total > 1 else ""
+              title=f"Digimart 신규 매물 {len(chunk)}건{suffix}"
+              subprocess.run(
+                  ["gh","issue","create","--title",title,"--body",body],
+                  check=True
+              )
           PY
       - name: Save baseline
         if: ${{ !cancelled() && (success() || steps.scan.outcome == 'failure') }}

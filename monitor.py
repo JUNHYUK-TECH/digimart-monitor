@@ -93,7 +93,8 @@ def allowed(keyword,title,price):
         return "nord" in t or "clavia" in t
 
     if keyword=="Helix":
-        return "helix" in t
+        # Avoid unrelated products such as K&K "Double Helix".
+        return "helix" in t and ("line 6" in t or "line6" in t)
 
     if keyword=="Quad Cortex":
         return ("quad cortex" in t) or ("quad" in t and "cortex" in t)
