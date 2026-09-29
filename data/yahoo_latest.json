@@ -1,16 +1,16 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-29T11:56:25.840731+00:00",
+  "checked_at": "2026-09-29T13:01:04.814637+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "g1246391112",
-      "keyword": "Gibson",
-      "title": "【used】Gibson / SG Standard 61 Reissue Lefty 2018 3.54kg #180069130【TONIQ横浜】",
-      "price": 233200,
-      "buyout": 233200,
+      "id": "x1245991150",
+      "keyword": "Nord",
+      "title": "【C】KORG nord Piano 2 HP シンセサイザー ケース付き コルグ 3352899",
+      "price": 100098,
+      "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/g1246391112"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/x1245991150"
     }
   ],
   "errors": [],
@@ -65,15 +65,15 @@
     },
     "Fender": {
       "pages": 1,
-      "links": 47,
-      "parsed": 47,
+      "links": 46,
+      "parsed": 46,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 47,
-          "unique_added": 47
+          "links": 46,
+          "unique_added": 46
         }
       ]
     },
@@ -81,7 +81,7 @@
       "pages": 1,
       "links": 46,
       "parsed": 46,
-      "qualifying": 0,
+      "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
@@ -121,19 +121,19 @@
     },
     "Fractal": {
       "pages": 1,
-      "links": 34,
-      "parsed": 34,
+      "links": 32,
+      "parsed": 32,
       "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fractal&b=1&n=50&s1=new&o1=d",
-          "links": 34,
-          "unique_added": 34
+          "links": 32,
+          "unique_added": 32
         }
       ]
     }
   },
-  "collected": 9,
-  "seen_count": 134
+  "collected": 10,
+  "seen_count": 135
 }
