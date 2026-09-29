@@ -1,8 +1,18 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-29T03:56:34.106118+00:00",
+  "checked_at": "2026-09-29T04:56:37.992378+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "u1246318798",
+      "keyword": "Gibson",
+      "title": "1974年 Gibson Les Paul 55 ギブソン レスポール ビンテージ Les Paul Special",
+      "price": 315000,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/u1246318798"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -29,43 +39,43 @@
       "pages": 6,
       "links": 255,
       "parsed": 235,
-      "qualifying": 96,
+      "qualifying": 95,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 51,
-          "unique_added": 51
+          "links": 55,
+          "unique_added": 55
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 64,
-          "unique_added": 44
+          "links": 60,
+          "unique_added": 40
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 64,
-          "unique_added": 44
+          "links": 66,
+          "unique_added": 46
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 58,
-          "unique_added": 38
+          "links": 56,
+          "unique_added": 36
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 61,
-          "unique_added": 41
+          "links": 63,
+          "unique_added": 43
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 57,
-          "unique_added": 37
+          "links": 55,
+          "unique_added": 35
         }
       ]
     },
@@ -85,8 +95,8 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 318,
-      "parsed": 298,
+      "links": 234,
+      "parsed": 214,
       "qualifying": 0,
       "page_stats": [
         {
@@ -99,25 +109,25 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 50
+          "unique_added": 42
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 50
+          "unique_added": 14
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 50
+          "unique_added": 23
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 48
+          "links": 70,
+          "unique_added": 35
         },
         {
           "page": 6,
@@ -143,29 +153,29 @@
     },
     "Helix": {
       "pages": 1,
-      "links": 45,
-      "parsed": 45,
+      "links": 46,
+      "parsed": 46,
       "qualifying": 2,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Helix&b=1&n=50&s1=new&o1=d",
-          "links": 45,
-          "unique_added": 45
+          "links": 46,
+          "unique_added": 46
         }
       ]
     },
     "Quad Cortex": {
       "pages": 1,
-      "links": 29,
-      "parsed": 29,
+      "links": 28,
+      "parsed": 28,
       "qualifying": 2,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Quad+Cortex&b=1&n=50&s1=new&o1=d",
-          "links": 29,
-          "unique_added": 29
+          "links": 28,
+          "unique_added": 28
         }
       ]
     },
@@ -184,6 +194,6 @@
       ]
     }
   },
-  "collected": 103,
-  "seen_count": 127
+  "collected": 102,
+  "seen_count": 128
 }
