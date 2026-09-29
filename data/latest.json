@@ -1,16 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-29T00:46:53.406894+00:00",
+  "checked_at": "2026-09-29T01:37:26.291622+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10761622",
-      "keyword": "Nord",
-      "title": "CLAVIA Nord Electro 4D SW61 【梅田店】",
-      "price": 158000,
-      "url": "https://www.digimart.net/cat06/shop1484/DS10761622/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -149,7 +141,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 47,
+      "qualifying": 46,
       "page_stats": [
         {
           "page": 1,
@@ -330,6 +322,6 @@
       ]
     }
   },
-  "collected": 890,
+  "collected": 889,
   "seen_count": 939
 }
