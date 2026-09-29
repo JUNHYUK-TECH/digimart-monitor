@@ -1,24 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-29T22:54:33.393926+00:00",
+  "checked_at": "2026-09-29T23:54:24.568128+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "p1246425867",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 Standard ギブソン スタンダード 2016年製",
-      "price": 298000,
-      "buyout": 298000,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/p1246425867"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 2,
-      "links": 87,
-      "parsed": 86,
+      "links": 88,
+      "parsed": 87,
       "qualifying": 0,
       "page_stats": [
         {
@@ -31,7 +21,7 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=51&n=50&s1=new&o1=d",
           "links": 43,
-          "unique_added": 36
+          "unique_added": 37
         }
       ]
     },
@@ -44,14 +34,14 @@
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 64,
-          "unique_added": 64
+          "links": 62,
+          "unique_added": 62
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 62,
-          "unique_added": 42
+          "links": 61,
+          "unique_added": 41
         },
         {
           "page": 3,
@@ -62,20 +52,20 @@
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 40
+          "links": 62,
+          "unique_added": 42
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 39
+          "links": 58,
+          "unique_added": 38
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 57,
-          "unique_added": 37
+          "links": 59,
+          "unique_added": 39
         }
       ]
     },
@@ -95,27 +85,27 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 311,
-      "parsed": 291,
+      "links": 317,
+      "parsed": 297,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 69
+          "links": 68,
+          "unique_added": 68
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 48
+          "links": 70,
+          "unique_added": 50
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 64,
-          "unique_added": 44
+          "links": 70,
+          "unique_added": 49
         },
         {
           "page": 4,
