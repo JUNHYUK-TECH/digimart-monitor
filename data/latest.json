@@ -1,16 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-29T22:38:24.052190+00:00",
+  "checked_at": "2026-09-29T23:37:04.997256+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10776477",
-      "keyword": "Gibson",
-      "title": "Gibson ES-335 Natural ギブソン セミアコ ES335 ナチュラル 1995年製です",
-      "price": 363000,
-      "url": "https://www.digimart.net/cat01/shop4950/DS10776477/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
