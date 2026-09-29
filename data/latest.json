@@ -1,42 +1,21 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-29T13:44:01.279142+00:00",
+  "checked_at": "2026-09-29T14:42:23.182840+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10774040",
-      "keyword": "Gibson",
-      "title": "Gibson 【2026年製】【音色バランス◎】J-45 Standard with HiFi DNA #22056024",
-      "price": 381700,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10774040/"
+      "id": "DS10776577",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 1975 Jazz Bass NOS / Faded Walnut 9/30 18時までの限定価格",
+      "price": 878900,
+      "url": "https://www.digimart.net/cat03/shop4540/DS10776577/"
     },
     {
-      "id": "DS10775993",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Double Trouble / Vintage Cherry Sunburst 【S/N 234250173 / 4.59kg】 36回まで無",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop5281/DS10775993/"
-    },
-    {
-      "id": "DS10775992",
-      "keyword": "Gibson",
-      "title": "Gibson Gibson Les Paul 70s Deluxe Gold Top / Mini Humbucker 【S/N 208040273 / 4.61kg】 36回まで無金利",
-      "price": 330000,
-      "url": "https://www.digimart.net/cat01/shop5281/DS10775992/"
-    },
-    {
-      "id": "DS10776168",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Pauls Guitar / Faded Blue 【S/N E097612 / 3.24kg】 36回まで無金利",
-      "price": 153300,
-      "url": "https://www.digimart.net/cat01/shop5281/DS10776168/"
-    },
-    {
-      "id": "DS10776166",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom24 Quilt / Eriza Verde 【S/N F035573 / 3.50kg】 36回まで無金利",
-      "price": 139400,
-      "url": "https://www.digimart.net/cat01/shop5281/DS10776166/"
+      "id": "DS10776575",
+      "keyword": "Fender",
+      "title": "Fender FSR American Professional Classic Stratocaster / Mystic Ice Blue #US26019683 ≒3.53kg",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat01/shop169/DS10776575/"
     }
   ],
   "errors": [],
@@ -89,7 +68,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 213,
+      "qualifying": 212,
       "page_stats": [
         {
           "page": 1,
@@ -358,6 +337,6 @@
       ]
     }
   },
-  "collected": 947,
-  "seen_count": 1235
+  "collected": 946,
+  "seen_count": 1237
 }
