@@ -1,23 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-29T14:42:23.182840+00:00",
+  "checked_at": "2026-09-29T15:42:38.549387+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10776577",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 1975 Jazz Bass NOS / Faded Walnut 9/30 18時までの限定価格",
-      "price": 878900,
-      "url": "https://www.digimart.net/cat03/shop4540/DS10776577/"
-    },
-    {
-      "id": "DS10776575",
-      "keyword": "Fender",
-      "title": "Fender FSR American Professional Classic Stratocaster / Mystic Ice Blue #US26019683 ≒3.53kg",
-      "price": 242000,
-      "url": "https://www.digimart.net/cat01/shop169/DS10776575/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -68,7 +53,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 212,
+      "qualifying": 213,
       "page_stats": [
         {
           "page": 1,
@@ -156,7 +141,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 73,
+      "qualifying": 72,
       "page_stats": [
         {
           "page": 1,
