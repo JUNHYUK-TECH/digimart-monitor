@@ -1,14 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-28T23:37:20.479823+00:00",
+  "checked_at": "2026-09-29T00:46:53.406894+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10773847",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Murphy Lab 1957 Les Paul Gold Top Darkback Reissue Light Aged / Double Gold 【3.95kg】",
-      "price": 943800,
-      "url": "https://www.digimart.net/cat01/shop5056/DS10773847/"
+      "id": "DS10761622",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Electro 4D SW61 【梅田店】",
+      "price": 158000,
+      "url": "https://www.digimart.net/cat06/shop1484/DS10761622/"
     }
   ],
   "errors": [],
@@ -193,7 +193,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 179,
+      "qualifying": 180,
       "page_stats": [
         {
           "page": 1,
@@ -330,6 +330,6 @@
       ]
     }
   },
-  "collected": 889,
-  "seen_count": 938
+  "collected": 890,
+  "seen_count": 939
 }
