@@ -1,36 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-29T15:59:22.268167+00:00",
+  "checked_at": "2026-09-29T16:58:34.641396+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "n1246117475",
-      "keyword": "Gibson",
-      "title": "【C】GIBSON Elvis Dove アコースティックギター ギブソン 3159294",
-      "price": 111954,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/n1246117475"
-    },
-    {
-      "id": "e1245977406",
-      "keyword": "Gibson",
-      "title": "Gibson USA ギブソン Tak Matsumoto Les Paul Canary Yellow 1999年 B'z 松本孝弘 シグネチャー ハードケース 付属品付",
-      "price": 361000,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/e1245977406"
-    },
-    {
-      "id": "m1245768761",
-      "keyword": "Gibson",
-      "title": "[良品] Gibson Les Paul Standard 伝統的なLes Paulサウンドにモダンな演奏性と機能性を融合 2011年製 [UMN53]【梅田店在庫】",
-      "price": 277977,
-      "buyout": 277999,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/m1245768761"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -55,27 +27,27 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 259,
-      "parsed": 239,
-      "qualifying": 66,
+      "links": 258,
+      "parsed": 238,
+      "qualifying": 65,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 64,
-          "unique_added": 64
+          "links": 63,
+          "unique_added": 63
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 58,
-          "unique_added": 38
+          "links": 60,
+          "unique_added": 40
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 39
+          "links": 58,
+          "unique_added": 38
         },
         {
           "page": 4,
@@ -86,8 +58,8 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 40
+          "links": 59,
+          "unique_added": 39
         },
         {
           "page": 6,
@@ -99,22 +71,22 @@
     },
     "PRS": {
       "pages": 1,
-      "links": 47,
-      "parsed": 40,
+      "links": 48,
+      "parsed": 41,
       "qualifying": 4,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=1&n=50&s1=new&o1=d",
-          "links": 47,
-          "unique_added": 47
+          "links": 48,
+          "unique_added": 48
         }
       ]
     },
     "Fender": {
       "pages": 6,
-      "links": 318,
-      "parsed": 298,
+      "links": 319,
+      "parsed": 299,
       "qualifying": 0,
       "page_stats": [
         {
@@ -132,14 +104,14 @@
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 49
+          "links": 70,
+          "unique_added": 50
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 49
+          "links": 70,
+          "unique_added": 50
         },
         {
           "page": 5,
@@ -150,8 +122,8 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 50
+          "links": 69,
+          "unique_added": 49
         }
       ]
     },
@@ -212,6 +184,6 @@
       ]
     }
   },
-  "collected": 73,
+  "collected": 72,
   "seen_count": 138
 }
