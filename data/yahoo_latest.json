@@ -1,16 +1,16 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-29T21:55:29.629196+00:00",
+  "checked_at": "2026-09-29T22:54:33.393926+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "s1246423036",
+      "id": "p1246425867",
       "keyword": "Gibson",
-      "title": "plek調整済みGibson SG Special White 西川進氏同モデル",
-      "price": 195000,
-      "buyout": 195000,
+      "title": "Gibson J-45 Standard ギブソン スタンダード 2016年製",
+      "price": 298000,
+      "buyout": 298000,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/s1246423036"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/p1246425867"
     }
   ],
   "errors": [],
@@ -37,9 +37,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 259,
-      "parsed": 239,
-      "qualifying": 65,
+      "links": 258,
+      "parsed": 238,
+      "qualifying": 64,
       "page_stats": [
         {
           "page": 1,
@@ -50,14 +50,14 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 61,
-          "unique_added": 41
+          "links": 62,
+          "unique_added": 42
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 57,
-          "unique_added": 37
+          "links": 56,
+          "unique_added": 36
         },
         {
           "page": 4,
@@ -68,8 +68,8 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 40
+          "links": 59,
+          "unique_added": 39
         },
         {
           "page": 6,
@@ -95,27 +95,27 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 314,
-      "parsed": 294,
+      "links": 311,
+      "parsed": 291,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 66,
-          "unique_added": 66
+          "links": 69,
+          "unique_added": 69
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 50
+          "links": 68,
+          "unique_added": 48
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 50
+          "links": 64,
+          "unique_added": 44
         },
         {
           "page": 4,
@@ -126,14 +126,14 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 49
+          "links": 70,
+          "unique_added": 50
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 49
+          "links": 70,
+          "unique_added": 50
         }
       ]
     },
@@ -194,6 +194,6 @@
       ]
     }
   },
-  "collected": 72,
-  "seen_count": 166
+  "collected": 71,
+  "seen_count": 167
 }
