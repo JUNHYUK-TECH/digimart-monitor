@@ -1,175 +1,42 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-29T12:47:39.543746+00:00",
+  "checked_at": "2026-09-29T13:44:01.279142+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10776545",
+      "id": "DS10774040",
       "keyword": "Gibson",
-      "title": "Gibson SJ-200 STANDARD NATURAL",
-      "price": 660000,
-      "url": "https://www.digimart.net/cat02/shop63/DS10776545/"
+      "title": "Gibson 【2026年製】【音色バランス◎】J-45 Standard with HiFi DNA #22056024",
+      "price": 381700,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10774040/"
     },
     {
-      "id": "DS10776530",
+      "id": "DS10775993",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Special TV Yellow【USED】【3.47kg】",
-      "price": 180980,
-      "url": "https://www.digimart.net/cat01/shop5270/DS10776530/"
+      "title": "Gibson Les Paul Standard 50s Double Trouble / Vintage Cherry Sunburst 【S/N 234250173 / 4.59kg】 36回まで無",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop5281/DS10775993/"
     },
     {
-      "id": "DS10754066",
+      "id": "DS10775992",
       "keyword": "Gibson",
-      "title": "Gibson Non-Reverse Thunderbird Sparkling Burgundy",
-      "price": 175000,
-      "url": "https://www.digimart.net/cat03/shop5373/DS10754066/"
+      "title": "Gibson Gibson Les Paul 70s Deluxe Gold Top / Mini Humbucker 【S/N 208040273 / 4.61kg】 36回まで無金利",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat01/shop5281/DS10775992/"
     },
     {
-      "id": "DS10776476",
-      "keyword": "Gibson",
-      "title": "Gibson SG Standard 61 Reissue Lefty 2018 3.54kg #180069130【TONIQ横浜】",
-      "price": 233200,
-      "url": "https://www.digimart.net/cat01/shop5401/DS10776476/"
+      "id": "DS10776168",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Pauls Guitar / Faded Blue 【S/N E097612 / 3.24kg】 36回まで無金利",
+      "price": 153300,
+      "url": "https://www.digimart.net/cat01/shop5281/DS10776168/"
     },
     {
-      "id": "DS10776475",
-      "keyword": "Gibson",
-      "title": "Gibson Exclusive SG Modern Dark Purple Burst ≪S/N:208450099≫ 【心斎橋店】",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10776475/"
-    },
-    {
-      "id": "DS10776474",
-      "keyword": "Gibson",
-      "title": "Gibson Exclusive Les Paul Studio Modern Dark Purple Burst Satin ≪S/N:201450037≫ 【心斎橋店】",
-      "price": 242000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10776474/"
-    },
-    {
-      "id": "DS10776473",
-      "keyword": "Gibson",
-      "title": "Gibson ES-335 60s Block Dark Walnut ≪S/N:202260108≫ 【心斎橋店】",
-      "price": 440000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10776473/"
-    },
-    {
-      "id": "DS10776453",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1959 Les Paul Standard Reissue VOS / Washed Cherry Sunburst",
-      "price": 973500,
-      "url": "https://www.digimart.net/cat01/shop1580/DS10776453/"
-    },
-    {
-      "id": "DS10776452",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard '50s Figured Top / Honey Amber",
-      "price": 407000,
-      "url": "https://www.digimart.net/cat01/shop1580/DS10776452/"
-    },
-    {
-      "id": "DS10776425",
-      "keyword": "Gibson",
-      "title": "Gibson Southern Jumbo Original/ VS",
-      "price": 508200,
-      "url": "https://www.digimart.net/cat02/shop1580/DS10776425/"
-    },
-    {
-      "id": "DS10776526",
-      "keyword": "Fender",
-      "title": "Fender 2005 Highway One Jazz Bass Mod.",
-      "price": 121000,
-      "url": "https://www.digimart.net/cat03/shop64/DS10776526/"
-    },
-    {
-      "id": "DS10776472",
-      "keyword": "Fender",
-      "title": "Fender American Ultra II Meteora Bass / Solar Flare",
-      "price": 374000,
-      "url": "https://www.digimart.net/cat03/shop1580/DS10776472/"
-    },
-    {
-      "id": "DS10776471",
-      "keyword": "Fender",
-      "title": "Fender American Ultra II Meteora / Texas Tea",
-      "price": 385000,
-      "url": "https://www.digimart.net/cat01/shop1580/DS10776471/"
-    },
-    {
-      "id": "DS10776469",
-      "keyword": "Fender",
-      "title": "Fender American Ultra II Stratocaster / Sinister Red",
-      "price": 379500,
-      "url": "https://www.digimart.net/cat01/shop1580/DS10776469/"
-    },
-    {
-      "id": "DS10776468",
-      "keyword": "Fender",
-      "title": "Fender American Professional II Stratocaster, Rosewood / Olympic White",
-      "price": 291500,
-      "url": "https://www.digimart.net/cat01/shop1580/DS10776468/"
-    },
-    {
-      "id": "DS10776467",
-      "keyword": "Fender",
-      "title": "Fender American Professional II Stratocaster, Rosewood Fingerboard / 3-Color Sunburst",
-      "price": 291500,
-      "url": "https://www.digimart.net/cat01/shop1580/DS10776467/"
-    },
-    {
-      "id": "DS10776465",
-      "keyword": "Fender",
-      "title": "Fender Limited Edition American Vintage II 1961 Stratocaster Gold Hardwear / Black",
-      "price": 385000,
-      "url": "https://www.digimart.net/cat01/shop1580/DS10776465/"
-    },
-    {
-      "id": "DS10776464",
-      "keyword": "Fender",
-      "title": "Fender Limited Edition American Vintage II 1973 Stratocaster / Olympic White",
-      "price": 396000,
-      "url": "https://www.digimart.net/cat01/shop1580/DS10776464/"
-    },
-    {
-      "id": "DS10776461",
-      "keyword": "Fender",
-      "title": "Fender American Professional Classic Hotshot Telecaster / Butterscotch Blonde",
-      "price": 264000,
-      "url": "https://www.digimart.net/cat01/shop1580/DS10776461/"
-    },
-    {
-      "id": "DS10776460",
-      "keyword": "Fender",
-      "title": "Fender American Professional Classic Hotshot Telecaster / Faded Lake Placid Blue",
-      "price": 264000,
-      "url": "https://www.digimart.net/cat01/shop1580/DS10776460/"
-    },
-    {
-      "id": "DS10776459",
-      "keyword": "Fender",
-      "title": "Fender American Professional Classic Hotshot Telecaster / 3-Color Sunburst",
-      "price": 264000,
-      "url": "https://www.digimart.net/cat01/shop1580/DS10776459/"
-    },
-    {
-      "id": "DS10776457",
-      "keyword": "Fender",
-      "title": "Fender Limited Edition American Vintage II 1951 Telecaster 3A Flame Neck / Black",
-      "price": 407000,
-      "url": "https://www.digimart.net/cat01/shop1580/DS10776457/"
-    },
-    {
-      "id": "DS10776456",
-      "keyword": "Fender",
-      "title": "Fender Limited-Edition American Professional II Precision Bass / Eclipse",
-      "price": 291500,
-      "url": "https://www.digimart.net/cat03/shop1580/DS10776456/"
-    },
-    {
-      "id": "DS10776454",
-      "keyword": "Fender",
-      "title": "Fender American Ultra II Jazz Bass / Ultraburst",
-      "price": 374000,
-      "url": "https://www.digimart.net/cat03/shop1580/DS10776454/"
+      "id": "DS10776166",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Custom24 Quilt / Eriza Verde 【S/N F035573 / 3.50kg】 36回まで無金利",
+      "price": 139400,
+      "url": "https://www.digimart.net/cat01/shop5281/DS10776166/"
     }
   ],
   "errors": [],
@@ -222,7 +89,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 211,
+      "qualifying": 213,
       "page_stats": [
         {
           "page": 1,
@@ -266,7 +133,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 197,
+      "qualifying": 195,
       "page_stats": [
         {
           "page": 1,
@@ -310,7 +177,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 74,
+      "qualifying": 73,
       "page_stats": [
         {
           "page": 1,
@@ -491,6 +358,6 @@
       ]
     }
   },
-  "collected": 948,
-  "seen_count": 1230
+  "collected": 947,
+  "seen_count": 1235
 }
