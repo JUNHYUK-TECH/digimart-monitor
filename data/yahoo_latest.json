@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-29T13:57:46.773829+00:00",
+  "checked_at": "2026-09-29T14:58:06.915752+00:00",
   "baseline": false,
   "new": [],
   "errors": [],
@@ -43,7 +43,7 @@
       "pages": 1,
       "links": 40,
       "parsed": 40,
-      "qualifying": 3,
+      "qualifying": 4,
       "page_stats": [
         {
           "page": 1,
@@ -54,20 +54,14 @@
       ]
     },
     "Fender": {
-      "pages": 2,
-      "links": 98,
-      "parsed": 98,
+      "pages": 1,
+      "links": 48,
+      "parsed": 48,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 2,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
           "links": 48,
           "unique_added": 48
         }
@@ -89,43 +83,43 @@
     },
     "Helix": {
       "pages": 1,
-      "links": 47,
-      "parsed": 47,
+      "links": 45,
+      "parsed": 45,
       "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Helix&b=1&n=50&s1=new&o1=d",
-          "links": 47,
-          "unique_added": 47
+          "links": 45,
+          "unique_added": 45
         }
       ]
     },
     "Quad Cortex": {
       "pages": 1,
-      "links": 30,
-      "parsed": 30,
-      "qualifying": 2,
+      "links": 29,
+      "parsed": 29,
+      "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Quad+Cortex&b=1&n=50&s1=new&o1=d",
-          "links": 30,
-          "unique_added": 30
+          "links": 29,
+          "unique_added": 29
         }
       ]
     },
     "Fractal": {
       "pages": 1,
-      "links": 32,
-      "parsed": 32,
+      "links": 33,
+      "parsed": 33,
       "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fractal&b=1&n=50&s1=new&o1=d",
-          "links": 32,
-          "unique_added": 32
+          "links": 33,
+          "unique_added": 33
         }
       ]
     }
