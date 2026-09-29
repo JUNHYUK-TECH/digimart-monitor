@@ -1,8 +1,18 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-29T20:55:19.197933+00:00",
+  "checked_at": "2026-09-29T21:55:29.629196+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "s1246423036",
+      "keyword": "Gibson",
+      "title": "plek調整済みGibson SG Special White 西川進氏同モデル",
+      "price": 195000,
+      "buyout": 195000,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/s1246423036"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -40,14 +50,14 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 40
+          "links": 61,
+          "unique_added": 41
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 58,
-          "unique_added": 38
+          "links": 57,
+          "unique_added": 37
         },
         {
           "page": 4,
@@ -58,14 +68,14 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 39
+          "links": 60,
+          "unique_added": 40
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 58,
-          "unique_added": 38
+          "links": 57,
+          "unique_added": 37
         }
       ]
     },
@@ -85,15 +95,15 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 317,
-      "parsed": 297,
+      "links": 314,
+      "parsed": 294,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 69
+          "links": 66,
+          "unique_added": 66
         },
         {
           "page": 2,
@@ -185,5 +195,5 @@
     }
   },
   "collected": 72,
-  "seen_count": 165
+  "seen_count": 166
 }
