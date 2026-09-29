@@ -1,18 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-29T13:01:04.814637+00:00",
+  "checked_at": "2026-09-29T13:57:46.773829+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "x1245991150",
-      "keyword": "Nord",
-      "title": "【C】KORG nord Piano 2 HP シンセサイザー ケース付き コルグ 3352899",
-      "price": 100098,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/x1245991150"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -37,15 +27,15 @@
     },
     "Gibson": {
       "pages": 1,
-      "links": 48,
-      "parsed": 48,
+      "links": 47,
+      "parsed": 47,
       "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 48,
-          "unique_added": 48
+          "links": 47,
+          "unique_added": 47
         }
       ]
     },
@@ -64,44 +54,50 @@
       ]
     },
     "Fender": {
-      "pages": 1,
-      "links": 46,
-      "parsed": 46,
+      "pages": 2,
+      "links": 98,
+      "parsed": 98,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 46,
-          "unique_added": 46
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 2,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
+          "links": 48,
+          "unique_added": 48
         }
       ]
     },
     "Nord": {
       "pages": 1,
-      "links": 46,
-      "parsed": 46,
-      "qualifying": 1,
+      "links": 45,
+      "parsed": 45,
+      "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Nord&b=1&n=50&s1=new&o1=d",
-          "links": 46,
-          "unique_added": 46
+          "links": 45,
+          "unique_added": 45
         }
       ]
     },
     "Helix": {
       "pages": 1,
-      "links": 48,
-      "parsed": 48,
-      "qualifying": 2,
+      "links": 47,
+      "parsed": 47,
+      "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Helix&b=1&n=50&s1=new&o1=d",
-          "links": 48,
-          "unique_added": 48
+          "links": 47,
+          "unique_added": 47
         }
       ]
     },
@@ -134,6 +130,6 @@
       ]
     }
   },
-  "collected": 10,
+  "collected": 8,
   "seen_count": 135
 }
