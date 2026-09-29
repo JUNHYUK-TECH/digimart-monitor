@@ -1,16 +1,25 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-28T23:54:31.368907+00:00",
+  "checked_at": "2026-09-29T00:59:48.602709+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "e1246289976",
+      "id": "l1246126283",
       "keyword": "Gibson",
-      "title": "Gibson◆エレキギター/レスポールタイプ/青系/1S/LP SPL Tribute DC//",
-      "price": 121660,
-      "buyout": 121660,
+      "title": "【G】GIBSON Les Paul Standard 1997 ギブソン レスポール スタンダード 90年代 3359226",
+      "price": 105664,
+      "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/e1246289976"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/l1246126283"
+    },
+    {
+      "id": "r1246091820",
+      "keyword": "Gibson",
+      "title": "GIBSON Les Paul Custom 1989 ハードケース以外フルオリジナル",
+      "price": 518000,
+      "buyout": 518000,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/r1246091820"
     }
   ],
   "errors": [],
@@ -39,7 +48,7 @@
       "pages": 6,
       "links": 255,
       "parsed": 235,
-      "qualifying": 90,
+      "qualifying": 94,
       "page_stats": [
         {
           "page": 1,
@@ -68,14 +77,14 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 39
+          "links": 60,
+          "unique_added": 40
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 58,
-          "unique_added": 38
+          "links": 57,
+          "unique_added": 37
         }
       ]
     },
@@ -95,15 +104,15 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 319,
-      "parsed": 299,
+      "links": 315,
+      "parsed": 295,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 70
+          "links": 69,
+          "unique_added": 69
         },
         {
           "page": 2,
@@ -120,14 +129,14 @@
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 49
+          "links": 68,
+          "unique_added": 47
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 6,
@@ -194,6 +203,6 @@
       ]
     }
   },
-  "collected": 97,
-  "seen_count": 125
+  "collected": 101,
+  "seen_count": 127
 }
