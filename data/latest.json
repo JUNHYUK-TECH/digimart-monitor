@@ -1,8 +1,16 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-29T01:37:26.291622+00:00",
+  "checked_at": "2026-09-29T02:37:34.965142+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10773925",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Junior TV Yellow 【HERCULESスタンドプレゼント!】【3.46kg】",
+      "price": 233200,
+      "url": "https://www.digimart.net/cat01/shop1140/DS10773925/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -53,7 +61,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 179,
+      "qualifying": 180,
       "page_stats": [
         {
           "page": 1,
@@ -322,6 +330,6 @@
       ]
     }
   },
-  "collected": 889,
-  "seen_count": 939
+  "collected": 890,
+  "seen_count": 940
 }
