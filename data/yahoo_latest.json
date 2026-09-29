@@ -1,18 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-29T05:56:23.945027+00:00",
+  "checked_at": "2026-09-29T06:59:54.524905+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "k1246089743",
-      "keyword": "Gibson",
-      "title": "【 J 】11574 Gibson SJ-200 #91688017 エレクトリックアコースティックギター ギブソン 3218845",
-      "price": 111100,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/k1246089743"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -37,9 +27,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 258,
-      "parsed": 238,
-      "qualifying": 91,
+      "links": 259,
+      "parsed": 239,
+      "qualifying": 88,
       "page_stats": [
         {
           "page": 1,
@@ -50,8 +40,8 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 57,
-          "unique_added": 37
+          "links": 58,
+          "unique_added": 38
         },
         {
           "page": 3,
@@ -62,41 +52,41 @@
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 58,
-          "unique_added": 38
+          "links": 59,
+          "unique_added": 39
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 65,
-          "unique_added": 45
+          "links": 63,
+          "unique_added": 43
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 55,
-          "unique_added": 35
+          "links": 57,
+          "unique_added": 36
         }
       ]
     },
     "PRS": {
       "pages": 1,
-      "links": 46,
+      "links": 47,
       "parsed": 40,
-      "qualifying": 2,
+      "qualifying": 3,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=1&n=50&s1=new&o1=d",
-          "links": 46,
-          "unique_added": 46
+          "links": 47,
+          "unique_added": 47
         }
       ]
     },
     "Fender": {
       "pages": 6,
-      "links": 314,
-      "parsed": 294,
+      "links": 279,
+      "parsed": 259,
       "qualifying": 0,
       "page_stats": [
         {
@@ -109,31 +99,31 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 50
+          "unique_added": 43
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 50
+          "unique_added": 40
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 44
+          "unique_added": 42
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 50
+          "links": 68,
+          "unique_added": 44
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 50
+          "links": 68,
+          "unique_added": 40
         }
       ]
     },
@@ -181,19 +171,19 @@
     },
     "Fractal": {
       "pages": 1,
-      "links": 32,
-      "parsed": 32,
+      "links": 33,
+      "parsed": 33,
       "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fractal&b=1&n=50&s1=new&o1=d",
-          "links": 32,
-          "unique_added": 32
+          "links": 33,
+          "unique_added": 33
         }
       ]
     }
   },
-  "collected": 98,
+  "collected": 96,
   "seen_count": 129
 }
