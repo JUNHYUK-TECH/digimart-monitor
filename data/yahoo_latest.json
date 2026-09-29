@@ -1,8 +1,27 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-29T09:57:54.955505+00:00",
+  "checked_at": "2026-09-29T10:56:42.867968+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "t1246114386",
+      "keyword": "Gibson",
+      "title": "【C】GIBSON J-160E エレアコ アコースティックギター ギブソン 3390440",
+      "price": 100100,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/t1246114386"
+    },
+    {
+      "id": "j1246393573",
+      "keyword": "Fender",
+      "title": "【used】Fender Custom Shop / 1962 Jazz Bass Olympic White 1988 4.265kg #V038602【GIB横浜】",
+      "price": 623700,
+      "buyout": 623700,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/j1246393573"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -27,45 +46,45 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 262,
-      "parsed": 242,
-      "qualifying": 85,
+      "links": 265,
+      "parsed": 245,
+      "qualifying": 84,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 63,
-          "unique_added": 63
+          "links": 66,
+          "unique_added": 66
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 56,
-          "unique_added": 36
+          "links": 54,
+          "unique_added": 34
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 64,
-          "unique_added": 44
+          "links": 65,
+          "unique_added": 45
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 40
+          "links": 63,
+          "unique_added": 43
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 61,
-          "unique_added": 41
+          "links": 58,
+          "unique_added": 38
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 58,
-          "unique_added": 38
+          "links": 59,
+          "unique_added": 39
         }
       ]
     },
@@ -85,27 +104,27 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 300,
-      "parsed": 280,
-      "qualifying": 0,
+      "links": 315,
+      "parsed": 295,
+      "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 69
+          "links": 68,
+          "unique_added": 68
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 50
+          "links": 68,
+          "unique_added": 48
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 49
+          "links": 70,
+          "unique_added": 50
         },
         {
           "page": 4,
@@ -123,7 +142,7 @@
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 33
+          "unique_added": 50
         }
       ]
     },
@@ -143,15 +162,15 @@
     },
     "Helix": {
       "pages": 1,
-      "links": 47,
-      "parsed": 47,
+      "links": 48,
+      "parsed": 48,
       "qualifying": 2,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Helix&b=1&n=50&s1=new&o1=d",
-          "links": 47,
-          "unique_added": 47
+          "links": 48,
+          "unique_added": 48
         }
       ]
     },
@@ -185,5 +204,5 @@
     }
   },
   "collected": 93,
-  "seen_count": 131
+  "seen_count": 133
 }
