@@ -1,16 +1,16 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-29T07:56:51.123176+00:00",
+  "checked_at": "2026-09-29T08:57:28.247336+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "r1246385861",
+      "id": "q1245959972",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Murphy Lab 1957 Les Paul Standard Reissue Double Gold Faded Cherry Back Heavy Aged",
-      "price": 800000,
-      "buyout": 800000,
+      "title": "【 C 】K9593 Gibson Lespaul Classic エレキギター ギブソン 3272421",
+      "price": 110000,
+      "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/r1246385861"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/q1245959972"
     }
   ],
   "errors": [],
@@ -39,7 +39,7 @@
       "pages": 6,
       "links": 261,
       "parsed": 241,
-      "qualifying": 87,
+      "qualifying": 88,
       "page_stats": [
         {
           "page": 1,
@@ -81,22 +81,22 @@
     },
     "PRS": {
       "pages": 1,
-      "links": 47,
-      "parsed": 40,
+      "links": 46,
+      "parsed": 39,
       "qualifying": 3,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=1&n=50&s1=new&o1=d",
-          "links": 47,
-          "unique_added": 47
+          "links": 46,
+          "unique_added": 46
         }
       ]
     },
     "Fender": {
       "pages": 6,
-      "links": 316,
-      "parsed": 296,
+      "links": 312,
+      "parsed": 292,
       "qualifying": 0,
       "page_stats": [
         {
@@ -108,46 +108,46 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 49
+          "links": 70,
+          "unique_added": 46
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 50
+          "unique_added": 48
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 49
+          "unique_added": 48
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 49
+          "unique_added": 50
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 49
+          "links": 70,
+          "unique_added": 50
         }
       ]
     },
     "Nord": {
       "pages": 1,
-      "links": 47,
-      "parsed": 47,
+      "links": 46,
+      "parsed": 46,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Nord&b=1&n=50&s1=new&o1=d",
-          "links": 47,
-          "unique_added": 47
+          "links": 46,
+          "unique_added": 46
         }
       ]
     },
@@ -167,15 +167,15 @@
     },
     "Quad Cortex": {
       "pages": 1,
-      "links": 29,
-      "parsed": 29,
+      "links": 30,
+      "parsed": 30,
       "qualifying": 2,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Quad+Cortex&b=1&n=50&s1=new&o1=d",
-          "links": 29,
-          "unique_added": 29
+          "links": 30,
+          "unique_added": 30
         }
       ]
     },
@@ -194,6 +194,6 @@
       ]
     }
   },
-  "collected": 95,
-  "seen_count": 130
+  "collected": 96,
+  "seen_count": 131
 }
