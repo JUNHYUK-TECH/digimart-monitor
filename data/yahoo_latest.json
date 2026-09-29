@@ -1,18 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-29T08:57:28.247336+00:00",
+  "checked_at": "2026-09-29T09:57:54.955505+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "q1245959972",
-      "keyword": "Gibson",
-      "title": "【 C 】K9593 Gibson Lespaul Classic エレキギター ギブソン 3272421",
-      "price": 110000,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/q1245959972"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -37,27 +27,27 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 261,
-      "parsed": 241,
-      "qualifying": 88,
+      "links": 262,
+      "parsed": 242,
+      "qualifying": 85,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 62,
-          "unique_added": 62
+          "links": 63,
+          "unique_added": 63
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 57,
-          "unique_added": 37
+          "links": 56,
+          "unique_added": 36
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 63,
-          "unique_added": 43
+          "links": 64,
+          "unique_added": 44
         },
         {
           "page": 4,
@@ -68,60 +58,60 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 62,
-          "unique_added": 42
+          "links": 61,
+          "unique_added": 41
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 57,
-          "unique_added": 37
+          "links": 58,
+          "unique_added": 38
         }
       ]
     },
     "PRS": {
       "pages": 1,
-      "links": 46,
-      "parsed": 39,
+      "links": 47,
+      "parsed": 40,
       "qualifying": 3,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=1&n=50&s1=new&o1=d",
-          "links": 46,
-          "unique_added": 46
+          "links": 47,
+          "unique_added": 47
         }
       ]
     },
     "Fender": {
       "pages": 6,
-      "links": 312,
-      "parsed": 292,
+      "links": 300,
+      "parsed": 280,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 70
+          "links": 69,
+          "unique_added": 69
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 46
+          "unique_added": 50
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 48
+          "links": 69,
+          "unique_added": 49
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 48
+          "links": 69,
+          "unique_added": 49
         },
         {
           "page": 5,
@@ -133,7 +123,7 @@
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 50
+          "unique_added": 33
         }
       ]
     },
@@ -153,15 +143,15 @@
     },
     "Helix": {
       "pages": 1,
-      "links": 46,
-      "parsed": 46,
+      "links": 47,
+      "parsed": 47,
       "qualifying": 2,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Helix&b=1&n=50&s1=new&o1=d",
-          "links": 46,
-          "unique_added": 46
+          "links": 47,
+          "unique_added": 47
         }
       ]
     },
@@ -194,6 +184,6 @@
       ]
     }
   },
-  "collected": 96,
+  "collected": 93,
   "seen_count": 131
 }
