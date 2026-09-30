@@ -1,215 +1,97 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-30T10:57:42.166205+00:00",
+  "checked_at": "2026-09-30T11:56:26.566151+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "j1246536503",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 2008年製 (ギブソン レスポール)【新潟店】 即決 297,000円 ＋送料2,750円 0 6日",
-      "price": 297000,
-      "buyout": 297000,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/j1246536503"
-    },
-    {
-      "id": "s1246539351",
-      "keyword": "Gibson",
-      "title": "Gibson Hummingbird Faded(ギブソン ハミングバード エレアコ)【新潟店】 即決 330,000円 ＋送料2,750円 0 6日",
-      "price": 330000,
-      "buyout": 330000,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/s1246539351"
-    },
-    {
-      "id": "s1246534112",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 60's Original エボニー 2022年製 即決 358,000円 ＋送料4,140円 0 7日",
-      "price": 358000,
-      "buyout": 358000,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/s1246534112"
-    },
-    {
-      "id": "1246511248",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard エレキギター 1990年製ワインレッド オリジナル純正ハードケース付 訳あり 現在 148,000円 ＋送料2,810円 1 4日",
-      "price": 148000,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/1246511248"
-    },
-    {
-      "id": "u1243681895",
-      "keyword": "Gibson",
-      "title": "限定品 希少 2014年製 Gibson LesPaul 59 Ocean Blue AAA+ 120th Anniversary PAF 120周年 ギブソン レスポール オーシャンブルー 現在 151,001円 128 4日 注目度 No.3",
-      "price": 151001,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/u1243681895"
-    },
-    {
-      "id": "k1246523881",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24/LEFTY (ピーアールエス レフティー)【新潟店】 即決 132,000円 ＋送料2,750円 0 6日",
-      "price": 132000,
-      "buyout": 132000,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/k1246523881"
-    },
-    {
-      "id": "o1246531069",
-      "keyword": "PRS",
-      "title": "u61361 中古 Paul Reed Smith(PRS) CE24 2022年製 現在 261,800円 ＋送料1,100円 0 3日",
-      "price": 261800,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/o1246531069"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
-      "pages": 6,
-      "links": 261,
-      "parsed": 261,
-      "qualifying": 5,
+      "pages": 2,
+      "links": 86,
+      "parsed": 86,
+      "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=1&n=50&s1=new&o1=d",
-          "links": 51,
-          "unique_added": 51
+          "links": 50,
+          "unique_added": 50
         },
         {
           "page": 2,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=51&n=50&s1=new&o1=d",
-          "links": 61,
-          "unique_added": 43
-        },
-        {
-          "page": 3,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=101&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 30
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=151&n=50&s1=new&o1=d",
-          "links": 58,
-          "unique_added": 43
-        },
-        {
-          "page": 5,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=201&n=50&s1=new&o1=d",
-          "links": 61,
-          "unique_added": 46
-        },
-        {
-          "page": 6,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=251&n=50&s1=new&o1=d",
-          "links": 63,
-          "unique_added": 48
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=51&n=50&s1=new&o1=d",
+          "links": 44,
+          "unique_added": 36
         }
       ]
     },
     "Gibson": {
-      "pages": 6,
-      "links": 295,
-      "parsed": 295,
-      "qualifying": 61,
-      "page_stats": [
-        {
-          "page": 1,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 67,
-          "unique_added": 67
-        },
-        {
-          "page": 2,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 66,
-          "unique_added": 43
-        },
-        {
-          "page": 3,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 47
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 72,
-          "unique_added": 50
-        },
-        {
-          "page": 5,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 47
-        },
-        {
-          "page": 6,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 42,
-          "unique_added": 41
-        }
-      ]
-    },
-    "PRS": {
       "pages": 1,
       "links": 42,
       "parsed": 42,
-      "qualifying": 9,
+      "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=PRS&b=1&n=50&s1=new&o1=d",
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
           "links": 42,
           "unique_added": 42
         }
       ]
     },
+    "PRS": {
+      "pages": 1,
+      "links": 40,
+      "parsed": 40,
+      "qualifying": 3,
+      "page_stats": [
+        {
+          "page": 1,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=1&n=50&s1=new&o1=d",
+          "links": 40,
+          "unique_added": 40
+        }
+      ]
+    },
     "Fender": {
       "pages": 1,
-      "links": 49,
-      "parsed": 49,
+      "links": 48,
+      "parsed": 48,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 49,
-          "unique_added": 49
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
+          "links": 48,
+          "unique_added": 48
         }
       ]
     },
     "Nord": {
       "pages": 1,
-      "links": 44,
-      "parsed": 44,
+      "links": 43,
+      "parsed": 43,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Nord&b=1&n=50&s1=new&o1=d",
-          "links": 44,
-          "unique_added": 44
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Nord&b=1&n=50&s1=new&o1=d",
+          "links": 43,
+          "unique_added": 43
         }
       ]
     },
     "Helix": {
       "pages": 1,
-      "links": 49,
-      "parsed": 49,
-      "qualifying": 2,
+      "links": 48,
+      "parsed": 48,
+      "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Helix&b=1&n=50&s1=new&o1=d",
-          "links": 49,
-          "unique_added": 49
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Helix&b=1&n=50&s1=new&o1=d",
+          "links": 48,
+          "unique_added": 48
         }
       ]
     },
@@ -221,7 +103,7 @@
       "page_stats": [
         {
           "page": 1,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Quad+Cortex&b=1&n=50&s1=new&o1=d",
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Quad+Cortex&b=1&n=50&s1=new&o1=d",
           "links": 29,
           "unique_added": 29
         }
@@ -229,19 +111,19 @@
     },
     "Fractal": {
       "pages": 1,
-      "links": 38,
-      "parsed": 38,
-      "qualifying": 0,
+      "links": 35,
+      "parsed": 35,
+      "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fractal&b=1&n=50&s1=new&o1=d",
-          "links": 38,
-          "unique_added": 38
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fractal&b=1&n=50&s1=new&o1=d",
+          "links": 35,
+          "unique_added": 35
         }
       ]
     }
   },
-  "collected": 78,
+  "collected": 7,
   "seen_count": 205
 }
