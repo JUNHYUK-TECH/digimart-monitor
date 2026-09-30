@@ -1,8 +1,16 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-30T01:39:31.300524+00:00",
+  "checked_at": "2026-09-30T02:39:08.668120+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10776124",
+      "keyword": "Nord",
+      "title": "CLAVIA NORD STAGE4 COMPACT【美品】【純正ケース付】【中古】",
+      "price": 628000,
+      "url": "https://www.digimart.net/cat06/shop169/DS10776124/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -53,7 +61,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 214,
+      "qualifying": 213,
       "page_stats": [
         {
           "page": 1,
@@ -229,7 +237,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 119,
+      "qualifying": 120,
       "page_stats": [
         {
           "page": 1,
@@ -323,5 +331,5 @@
     }
   },
   "collected": 946,
-  "seen_count": 1238
+  "seen_count": 1239
 }
