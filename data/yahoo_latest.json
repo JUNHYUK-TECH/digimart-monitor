@@ -1,18 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-30T03:56:42.509461+00:00",
+  "checked_at": "2026-09-30T04:57:20.683655+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "t1246325716",
-      "keyword": "Gibson",
-      "title": "Gibson フライングV 1996年製",
-      "price": 160880,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/t1246325716"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -37,9 +27,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 258,
-      "parsed": 238,
-      "qualifying": 64,
+      "links": 259,
+      "parsed": 239,
+      "qualifying": 65,
       "page_stats": [
         {
           "page": 1,
@@ -50,14 +40,14 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 63,
-          "unique_added": 43
+          "links": 64,
+          "unique_added": 44
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 58,
-          "unique_added": 38
+          "links": 57,
+          "unique_added": 37
         },
         {
           "page": 4,
@@ -74,48 +64,48 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 40
+          "links": 61,
+          "unique_added": 41
         }
       ]
     },
     "PRS": {
       "pages": 1,
-      "links": 48,
-      "parsed": 41,
+      "links": 49,
+      "parsed": 42,
       "qualifying": 4,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=1&n=50&s1=new&o1=d",
-          "links": 48,
-          "unique_added": 48
+          "links": 49,
+          "unique_added": 49
         }
       ]
     },
     "Fender": {
       "pages": 6,
-      "links": 313,
-      "parsed": 293,
+      "links": 317,
+      "parsed": 297,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 68
+          "links": 69,
+          "unique_added": 69
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 48
+          "links": 70,
+          "unique_added": 50
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 48
+          "unique_added": 49
         },
         {
           "page": 4,
@@ -132,7 +122,7 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 70,
+          "links": 69,
           "unique_added": 49
         }
       ]
@@ -181,19 +171,19 @@
     },
     "Fractal": {
       "pages": 1,
-      "links": 33,
-      "parsed": 33,
+      "links": 34,
+      "parsed": 34,
       "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fractal&b=1&n=50&s1=new&o1=d",
-          "links": 33,
-          "unique_added": 33
+          "links": 34,
+          "unique_added": 34
         }
       ]
     }
   },
-  "collected": 71,
+  "collected": 72,
   "seen_count": 168
 }
