@@ -1,77 +1,98 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-30T06:47:09.089830+00:00",
+  "checked_at": "2026-09-30T07:42:28.816385+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10777233",
+      "id": "DS10777470",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Historic Collection 1959 Les Paul Standard 2018 【渋谷店】",
-      "price": 693000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10777233/"
+      "title": "Gibson Les Paul Standard 60s Unburst #226850099 【HERCULESスタンドプレゼント!】【4.55kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop1140/DS10777470/"
     },
     {
-      "id": "DS10777198",
+      "id": "DS10777469",
       "keyword": "Gibson",
-      "title": "Gibson Artist Collection Billie Joe Armstrong Les Paul Junior Gloss -2010- Ebony 【御茶ノ水本店FINEST GUITA",
-      "price": 248000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10777198/"
+      "title": "Gibson Les Paul Standard 60s Iced Tea #215350370 【HERCULESスタンドプレゼント!】【4.12kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop1140/DS10777469/"
     },
     {
-      "id": "DS10777315",
+      "id": "DS10777467",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 60s Iced Tea #221650364 【HERCULESスタンドプレゼント!】【4.46kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop1140/DS10777467/"
+    },
+    {
+      "id": "DS10777468",
+      "keyword": "Gibson",
+      "title": "Gibson L-00 Century 12-Fret Vintage Amber",
+      "price": 301400,
+      "url": "https://www.digimart.net/cat02/shop4854/DS10777468/"
+    },
+    {
+      "id": "DS10777465",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 60s Unburst #226750246 【HERCULESスタンドプレゼント!!】【4.14kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop1140/DS10777465/"
+    },
+    {
+      "id": "DS10777348",
+      "keyword": "Gibson",
+      "title": "Gibson GA-20T Ranger 1961 ギターアンプ 【横浜店】",
+      "price": 363000,
+      "url": "https://www.digimart.net/cat12/shop1484/DS10777348/"
+    },
+    {
+      "id": "DS10777340",
+      "keyword": "Gibson",
+      "title": "Gibson Slash Les Paul Standard November Burst 有名楽器店セレクト個体",
+      "price": 320000,
+      "url": "https://www.digimart.net/cat01/shop4682/DS10777340/"
+    },
+    {
+      "id": "DS10777451",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) USED 中古 SE Hollowbody II (Charcoal Burst) #CTC E05460",
-      "price": 120360,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10777315/"
+      "title": "Paul Reed Smith(PRS) SE Custom24 Quilt Package Charcoal Purple Burst",
+      "price": 154880,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10777451/"
     },
     {
-      "id": "DS10749316",
+      "id": "DS10777449",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Custom 22 Artist Package Tobacco Wrap Around Burst 【福岡店】",
-      "price": 495000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10749316/"
+      "title": "Paul Reed Smith(PRS) SE Custom24 Quilt Package Charcoal Purple Burst",
+      "price": 154880,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10777449/"
     },
     {
-      "id": "DS10777328",
+      "id": "DS10777448",
       "keyword": "Fender",
-      "title": "Fender American Professional II Telecaster (3-Color Sunburst/Rosewood) 【キズあり特価】",
-      "price": 245000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10777328/"
+      "title": "Fender 【メーカーアウトレット品】FSR LTD American Vintage II 1961 Stratocaster -Black- #V2601427 ≒3.51kg",
+      "price": 374000,
+      "url": "https://www.digimart.net/cat01/shop169/DS10777448/"
     },
     {
-      "id": "DS10777326",
-      "keyword": "Fender",
-      "title": "Fender Limited Edition American Professional Classic Telecaster featuring the Fender Silent System (3-Co...",
-      "price": 258500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10777326/"
-    },
-    {
-      "id": "DS10777286",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 【Dark Rosewood FB】Stevie Ray Vaughan Signature Stratocaster Relic -3Tone Sunburst- ≒3.66kg",
-      "price": 855800,
-      "url": "https://www.digimart.net/cat01/shop169/DS10777286/"
-    },
-    {
-      "id": "DS10777291",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Custom Built 1958 Jazzmaster Relic Faded Fiesta Red【御茶ノ水本店】【アウトレット】",
-      "price": 878000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10777291/"
-    },
-    {
-      "id": "DS10777232",
-      "keyword": "Fender",
-      "title": "Fender USA 75th Anniversary Commemorative Telecaster",
-      "price": 198000,
-      "url": "https://www.digimart.net/cat01/shop4026/DS10777232/"
-    },
-    {
-      "id": "DS10777258",
+      "id": "DS10777450",
       "keyword": "Nord",
-      "title": "CLAVIA Nord Drum 3P 【展示処分アウトレット】",
-      "price": 123200,
-      "url": "https://www.digimart.net/cat06/shop1140/DS10777258/"
+      "title": "CLAVIA Nord Stage 4 88【フラッグシップシリーズの新世代モデル】",
+      "price": 858000,
+      "url": "https://www.digimart.net/cat06/shop721/DS10777450/"
+    },
+    {
+      "id": "DS10777445",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Stage 4 73",
+      "price": 781000,
+      "url": "https://www.digimart.net/cat06/shop721/DS10777445/"
+    },
+    {
+      "id": "DS10777444",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Stage 4 Compact",
+      "price": 726000,
+      "url": "https://www.digimart.net/cat06/shop721/DS10777444/"
     }
   ],
   "errors": [],
@@ -124,7 +145,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 206,
+      "qualifying": 208,
       "page_stats": [
         {
           "page": 1,
@@ -212,7 +233,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 102,
+      "qualifying": 101,
       "page_stats": [
         {
           "page": 1,
@@ -256,7 +277,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 185,
+      "qualifying": 184,
       "page_stats": [
         {
           "page": 1,
@@ -300,7 +321,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 120,
+      "qualifying": 119,
       "page_stats": [
         {
           "page": 1,
@@ -393,6 +414,6 @@
       ]
     }
   },
-  "collected": 971,
-  "seen_count": 1366
+  "collected": 970,
+  "seen_count": 1379
 }
