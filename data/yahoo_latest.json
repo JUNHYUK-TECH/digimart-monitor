@@ -1,14 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-30T22:56:19.803467+00:00",
+  "checked_at": "2026-09-30T23:54:45.994920+00:00",
   "baseline": false,
   "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 2,
-      "links": 88,
-      "parsed": 87,
+      "links": 89,
+      "parsed": 88,
       "qualifying": 0,
       "page_stats": [
         {
@@ -21,15 +21,15 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=51&n=50&s1=new&o1=d",
           "links": 44,
-          "unique_added": 37
+          "unique_added": 38
         }
       ]
     },
     "Gibson": {
       "pages": 6,
-      "links": 261,
-      "parsed": 242,
-      "qualifying": 63,
+      "links": 236,
+      "parsed": 217,
+      "qualifying": 56,
       "page_stats": [
         {
           "page": 1,
@@ -58,14 +58,14 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 40
+          "links": 55,
+          "unique_added": 35
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=251&n=50&s1=new&o1=d",
           "links": 55,
-          "unique_added": 35
+          "unique_added": 15
         }
       ]
     },
@@ -85,15 +85,15 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 317,
-      "parsed": 297,
+      "links": 314,
+      "parsed": 294,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 68
+          "links": 70,
+          "unique_added": 70
         },
         {
           "page": 2,
@@ -116,14 +116,14 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 50
+          "links": 67,
+          "unique_added": 47
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 50
+          "links": 68,
+          "unique_added": 48
         }
       ]
     },
@@ -184,6 +184,6 @@
       ]
     }
   },
-  "collected": 70,
+  "collected": 63,
   "seen_count": 238
 }
