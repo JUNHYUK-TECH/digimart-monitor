@@ -1,14 +1,56 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-30T02:39:08.668120+00:00",
+  "checked_at": "2026-09-30T03:41:00.347792+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10776124",
-      "keyword": "Nord",
-      "title": "CLAVIA NORD STAGE4 COMPACT【美品】【純正ケース付】【中古】",
-      "price": 628000,
-      "url": "https://www.digimart.net/cat06/shop169/DS10776124/"
+      "id": "DS10776722",
+      "keyword": "Gibson",
+      "title": "Gibson J-160E John Lennon Peace Model 【福岡店】",
+      "price": 495000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10776722/"
+    },
+    {
+      "id": "DS10776679",
+      "keyword": "Gibson",
+      "title": "Gibson USED 中古 Les Paul Classic Peg Modified (Ebony) 2020 [SN. 225800236]",
+      "price": 213180,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10776679/"
+    },
+    {
+      "id": "DS10776721",
+      "keyword": "Fender",
+      "title": "Fender American Vintage 62 Jazzmaster 3-Color Sunburst 【福岡店】",
+      "price": 374000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10776721/"
+    },
+    {
+      "id": "DS10776685",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop John 5 Signature Bigsby Telecaster NOS (Black)",
+      "price": 847000,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10776685/"
+    },
+    {
+      "id": "DS10776684",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop John 5 Signature Telecaster NOS (Black) SN.CZ587472",
+      "price": 826100,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10776684/"
+    },
+    {
+      "id": "DS10776683",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Robert Cray Signature Stratocaste NOS (Inca Silver) SN.CZ585509",
+      "price": 792000,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10776683/"
+    },
+    {
+      "id": "DS10776682",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Limited Edition Roasted Reverse '50s Telecaster Journeyman Relic (Aged Sahara Taupe) SN.R144823",
+      "price": 929500,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10776682/"
     }
   ],
   "errors": [],
@@ -61,7 +103,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 213,
+      "qualifying": 214,
       "page_stats": [
         {
           "page": 1,
@@ -105,7 +147,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 195,
+      "qualifying": 196,
       "page_stats": [
         {
           "page": 1,
@@ -149,7 +191,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 71,
+      "qualifying": 74,
       "page_stats": [
         {
           "page": 1,
@@ -279,8 +321,8 @@
     },
     "Quad Cortex": {
       "pages": 2,
-      "links": 96,
-      "parsed": 96,
+      "links": 97,
+      "parsed": 97,
       "qualifying": 0,
       "page_stats": [
         {
@@ -292,8 +334,8 @@
         {
           "page": 2,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=&readCount=50&noparallelimportp=&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=&soldoutDispCheck=false&tagWords=&dmsP=&keywordAnd=Quad+Cortex&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=&neckScaleOption=&tagWordsNot=&freeshippingp=&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=&pickupOption=&movieurlp=&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=&brandIdNot=&ecCardP=&ecpurchasep=&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=&fingerboardOption=&noshopsalep=&currentPage=2&shopNo=&stringsoption=&categoryId=&shopsalep=&favorite=false&dispFavorite=false",
-          "links": 46,
-          "unique_added": 46
+          "links": 47,
+          "unique_added": 47
         }
       ]
     },
@@ -330,6 +372,6 @@
       ]
     }
   },
-  "collected": 946,
-  "seen_count": 1239
+  "collected": 951,
+  "seen_count": 1246
 }
