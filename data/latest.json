@@ -1,56 +1,35 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-30T03:41:00.347792+00:00",
+  "checked_at": "2026-09-30T04:40:57.978335+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10776722",
-      "keyword": "Gibson",
-      "title": "Gibson J-160E John Lennon Peace Model 【福岡店】",
-      "price": 495000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10776722/"
+      "id": "DS10776759",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Custom 24 Quilt Package 2026 (Charcoal Purple Burst)",
+      "price": 154880,
+      "url": "https://www.digimart.net/cat01/shop73/DS10776759/"
     },
     {
-      "id": "DS10776679",
-      "keyword": "Gibson",
-      "title": "Gibson USED 中古 Les Paul Classic Peg Modified (Ebony) 2020 [SN. 225800236]",
-      "price": 213180,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10776679/"
-    },
-    {
-      "id": "DS10776721",
+      "id": "DS10776812",
       "keyword": "Fender",
-      "title": "Fender American Vintage 62 Jazzmaster 3-Color Sunburst 【福岡店】",
-      "price": 374000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10776721/"
+      "title": "Fender American Standard Stratocaster Olympic White 【御茶ノ水本店】",
+      "price": 168000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10776812/"
     },
     {
-      "id": "DS10776685",
+      "id": "DS10776766",
       "keyword": "Fender",
-      "title": "Fender Custom Shop John 5 Signature Bigsby Telecaster NOS (Black)",
-      "price": 847000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10776685/"
+      "title": "Fender 【限定品】American Acoustasonic Telecaster -Blue Paisley- #US254160A ≒2.20kg",
+      "price": 352000,
+      "url": "https://www.digimart.net/cat01/shop169/DS10776766/"
     },
     {
-      "id": "DS10776684",
+      "id": "DS10776755",
       "keyword": "Fender",
-      "title": "Fender Custom Shop John 5 Signature Telecaster NOS (Black) SN.CZ587472",
-      "price": 826100,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10776684/"
-    },
-    {
-      "id": "DS10776683",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Robert Cray Signature Stratocaste NOS (Inca Silver) SN.CZ585509",
-      "price": 792000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10776683/"
-    },
-    {
-      "id": "DS10776682",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Limited Edition Roasted Reverse '50s Telecaster Journeyman Relic (Aged Sahara Taupe) SN.R144823",
-      "price": 929500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10776682/"
+      "title": "Fender 【限定品】American Acoustasonic Telecaster -Green Paisley- #US254170A ≒2.23kg",
+      "price": 352000,
+      "url": "https://www.digimart.net/cat01/shop169/DS10776755/"
     }
   ],
   "errors": [],
@@ -103,7 +82,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 214,
+      "qualifying": 212,
       "page_stats": [
         {
           "page": 1,
@@ -147,7 +126,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 196,
+      "qualifying": 197,
       "page_stats": [
         {
           "page": 1,
@@ -189,9 +168,9 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 300,
-      "parsed": 299,
-      "qualifying": 74,
+      "links": 299,
+      "parsed": 298,
+      "qualifying": 77,
       "page_stats": [
         {
           "page": 1,
@@ -203,7 +182,7 @@
           "page": 2,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=&readCount=50&noparallelimportp=&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=&soldoutDispCheck=false&tagWords=&dmsP=&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=&neckScaleOption=&tagWordsNot=&freeshippingp=&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=&pickupOption=&movieurlp=&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=&brandIdNot=&ecCardP=&ecpurchasep=&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=&fingerboardOption=&noshopsalep=&currentPage=2&shopNo=&stringsoption=&categoryId=&shopsalep=&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 3,
@@ -372,6 +351,6 @@
       ]
     }
   },
-  "collected": 951,
-  "seen_count": 1246
+  "collected": 953,
+  "seen_count": 1250
 }
