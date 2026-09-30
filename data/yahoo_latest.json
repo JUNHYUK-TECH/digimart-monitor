@@ -1,8 +1,45 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-30T04:57:20.683655+00:00",
+  "checked_at": "2026-09-30T05:56:45.706214+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "u1246492246",
+      "keyword": "Gibson",
+      "title": "Gibson Les PaulClassic1991 jimmy wallace",
+      "price": 400000,
+      "buyout": 400000,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/u1246492246"
+    },
+    {
+      "id": "c1246131371",
+      "keyword": "Gibson",
+      "title": "Handmade Les paul Special Flame Sycamore Body Korina Neck 4.3kg 虎杢 レスポールスペシャル フレイムメイプル コリーナネック Gibson",
+      "price": 101000,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/c1246131371"
+    },
+    {
+      "id": "1246108740",
+      "keyword": "Gibson",
+      "title": "【C】GIBSON SG エレキギター ギブソン 3390435",
+      "price": 100001,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/1246108740"
+    },
+    {
+      "id": "k1246077954",
+      "keyword": "PRS",
+      "title": "CHROME HEARTS クロムハーツ DBL CH PRS ダブルCHプラス ペンダントトップ シルバー BCA249",
+      "price": 207900,
+      "buyout": 207900,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/k1246077954"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -27,73 +64,79 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 259,
-      "parsed": 239,
-      "qualifying": 65,
+      "links": 261,
+      "parsed": 241,
+      "qualifying": 74,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 60
+          "links": 61,
+          "unique_added": 61
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 64,
-          "unique_added": 44
+          "links": 63,
+          "unique_added": 43
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 57,
-          "unique_added": 37
+          "links": 58,
+          "unique_added": 38
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 62,
-          "unique_added": 42
+          "links": 61,
+          "unique_added": 41
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 55,
-          "unique_added": 35
+          "links": 56,
+          "unique_added": 36
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 61,
-          "unique_added": 41
+          "links": 62,
+          "unique_added": 42
         }
       ]
     },
     "PRS": {
-      "pages": 1,
-      "links": 49,
-      "parsed": 42,
-      "qualifying": 4,
+      "pages": 2,
+      "links": 91,
+      "parsed": 85,
+      "qualifying": 6,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=1&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 2,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=51&n=50&s1=new&o1=d",
           "links": 49,
-          "unique_added": 49
+          "unique_added": 41
         }
       ]
     },
     "Fender": {
       "pages": 6,
-      "links": 317,
-      "parsed": 297,
+      "links": 319,
+      "parsed": 299,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 69
+          "links": 70,
+          "unique_added": 70
         },
         {
           "page": 2,
@@ -122,8 +165,8 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 49
+          "links": 70,
+          "unique_added": 50
         }
       ]
     },
@@ -184,6 +227,6 @@
       ]
     }
   },
-  "collected": 72,
-  "seen_count": 168
+  "collected": 83,
+  "seen_count": 172
 }
