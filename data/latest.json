@@ -1,30 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-30T12:51:00.097200+00:00",
+  "checked_at": "2026-09-30T13:41:56.613426+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10778316",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1959 ES-335 Antique Natural VOS",
-      "price": 550000,
-      "url": "https://www.digimart.net/cat01/shop5333/DS10778316/"
-    },
-    {
-      "id": "DS10778315",
-      "keyword": "Gibson",
-      "title": "Gibson 50s Les Paul Standard Trans Amber",
-      "price": 258000,
-      "url": "https://www.digimart.net/cat01/shop5333/DS10778315/"
-    },
-    {
-      "id": "DS10773794",
-      "keyword": "Gibson",
-      "title": "Gibson Hummingbird 2014年製 ギブソン ハミングバード マイク付き",
-      "price": 348000,
-      "url": "https://www.digimart.net/cat02/shop4805/DS10773794/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -75,7 +53,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 192,
+      "qualifying": 194,
       "page_stats": [
         {
           "page": 1,
@@ -344,6 +322,6 @@
       ]
     }
   },
-  "collected": 936,
+  "collected": 938,
   "seen_count": 1456
 }
