@@ -1,17 +1,229 @@
 {
-  "status": "failed",
-  "checked_at": "2026-09-30T14:59:58.693581+00:00",
+  "status": "ok",
+  "checked_at": "2026-09-30T15:58:47.300433+00:00",
   "baseline": false,
-  "new": [],
-  "errors": [
-    "Tyler: HTTP 500: https://auctions.yahoo.co.jp/search/search?p=Tyler&b=1&n=50&s1=new&o1=d",
-    "Gibson: HTTP 500: https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-    "PRS: HTTP 500: https://auctions.yahoo.co.jp/search/search?p=PRS&b=1&n=50&s1=new&o1=d",
-    "Fender: HTTP 500: https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-    "Nord: HTTP 500: https://auctions.yahoo.co.jp/search/search?p=Nord&b=1&n=50&s1=new&o1=d",
-    "Helix: HTTP 500: https://auctions.yahoo.co.jp/search/search?p=Helix&b=1&n=50&s1=new&o1=d",
-    "Quad Cortex: HTTP 500: https://auctions.yahoo.co.jp/search/search?p=Quad+Cortex&b=1&n=50&s1=new&o1=d",
-    "Fractal: HTTP 500: https://auctions.yahoo.co.jp/search/search?p=Fractal&b=1&n=50&s1=new&o1=d"
+  "new": [
+    {
+      "id": "r1228670738",
+      "keyword": "Tyler",
+      "title": "【自宅配送不可:営業所止】 TYLER WARREEN FINLESS SOAP 6’6” タイラーウォーレン 6'6' サーフボード ショートボード 茅ヶ崎駅北口店 現在 127,600円 22時26分に終了",
+      "price": 127600,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/r1228670738"
+    },
+    {
+      "id": "w1246543756",
+      "keyword": "Gibson",
+      "title": "HD-LTD 1994年製 ギブソン＆ハーレー コラボ 1500本限定 GIBSON HARLEY DAVIDSON 現在 498,000円 送料未定 0 3日",
+      "price": 498000,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/w1246543756"
+    },
+    {
+      "id": "t1245419016",
+      "keyword": "Gibson",
+      "title": "◆◇24061 極美品 Gibson MEMPHIS ES-339 チェリーレッド 使用回数極少 自宅使用10回未満 純正ハードケース付 屋外持出無し 動確済◇◆ 現在 230,000円 22時30分に終了",
+      "price": 230000,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/t1245419016"
+    },
+    {
+      "id": "l1245268492",
+      "keyword": "Gibson",
+      "title": "＄綺麗【 Gibson Southern Jumbo ギブソン サザンジャンボ 1999年製 スプルース単板トップ マホガニー単板サイド＆バック ギター 】KH17546 現在 217,800円 22時2分に終了",
+      "price": 217800,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/l1245268492"
+    },
+    {
+      "id": "u1245095339",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s Plain Top エレキギター ケース付き 中古 C11658612 現在 198,000円 22時3分に終了",
+      "price": 198000,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/u1245095339"
+    }
   ],
-  "counts": {}
+  "errors": [],
+  "counts": {
+    "Tyler": {
+      "pages": 6,
+      "links": 260,
+      "parsed": 260,
+      "qualifying": 5,
+      "page_stats": [
+        {
+          "page": 1,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=1&n=50&s1=new&o1=d",
+          "links": 51,
+          "unique_added": 51
+        },
+        {
+          "page": 2,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=51&n=50&s1=new&o1=d",
+          "links": 62,
+          "unique_added": 41
+        },
+        {
+          "page": 3,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=101&n=50&s1=new&o1=d",
+          "links": 61,
+          "unique_added": 31
+        },
+        {
+          "page": 4,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=151&n=50&s1=new&o1=d",
+          "links": 59,
+          "unique_added": 44
+        },
+        {
+          "page": 5,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=201&n=50&s1=new&o1=d",
+          "links": 62,
+          "unique_added": 47
+        },
+        {
+          "page": 6,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=251&n=50&s1=new&o1=d",
+          "links": 61,
+          "unique_added": 46
+        }
+      ]
+    },
+    "Gibson": {
+      "pages": 6,
+      "links": 298,
+      "parsed": 298,
+      "qualifying": 52,
+      "page_stats": [
+        {
+          "page": 1,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=1&n=50&s1=new&o1=d",
+          "links": 72,
+          "unique_added": 72
+        },
+        {
+          "page": 2,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=51&n=50&s1=new&o1=d",
+          "links": 63,
+          "unique_added": 41
+        },
+        {
+          "page": 3,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=101&n=50&s1=new&o1=d",
+          "links": 67,
+          "unique_added": 45
+        },
+        {
+          "page": 4,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=151&n=50&s1=new&o1=d",
+          "links": 68,
+          "unique_added": 46
+        },
+        {
+          "page": 5,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=201&n=50&s1=new&o1=d",
+          "links": 70,
+          "unique_added": 48
+        },
+        {
+          "page": 6,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=251&n=50&s1=new&o1=d",
+          "links": 47,
+          "unique_added": 46
+        }
+      ]
+    },
+    "PRS": {
+      "pages": 1,
+      "links": 40,
+      "parsed": 40,
+      "qualifying": 8,
+      "page_stats": [
+        {
+          "page": 1,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=PRS&b=1&n=50&s1=new&o1=d",
+          "links": 40,
+          "unique_added": 40
+        }
+      ]
+    },
+    "Fender": {
+      "pages": 1,
+      "links": 49,
+      "parsed": 49,
+      "qualifying": 0,
+      "page_stats": [
+        {
+          "page": 1,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=1&n=50&s1=new&o1=d",
+          "links": 49,
+          "unique_added": 49
+        }
+      ]
+    },
+    "Nord": {
+      "pages": 1,
+      "links": 43,
+      "parsed": 43,
+      "qualifying": 0,
+      "page_stats": [
+        {
+          "page": 1,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Nord&b=1&n=50&s1=new&o1=d",
+          "links": 43,
+          "unique_added": 43
+        }
+      ]
+    },
+    "Helix": {
+      "pages": 1,
+      "links": 47,
+      "parsed": 47,
+      "qualifying": 2,
+      "page_stats": [
+        {
+          "page": 1,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Helix&b=1&n=50&s1=new&o1=d",
+          "links": 47,
+          "unique_added": 47
+        }
+      ]
+    },
+    "Quad Cortex": {
+      "pages": 1,
+      "links": 29,
+      "parsed": 29,
+      "qualifying": 1,
+      "page_stats": [
+        {
+          "page": 1,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Quad+Cortex&b=1&n=50&s1=new&o1=d",
+          "links": 29,
+          "unique_added": 29
+        }
+      ]
+    },
+    "Fractal": {
+      "pages": 1,
+      "links": 38,
+      "parsed": 38,
+      "qualifying": 0,
+      "page_stats": [
+        {
+          "page": 1,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fractal&b=1&n=50&s1=new&o1=d",
+          "links": 38,
+          "unique_added": 38
+        }
+      ]
+    }
+  },
+  "collected": 68,
+  "seen_count": 236
 }
