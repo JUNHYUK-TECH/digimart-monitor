@@ -1,161 +1,35 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T11:40:32.441153+00:00",
+  "checked_at": "2026-10-01T12:48:52.959972+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10779861",
+      "id": "DS10779877",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Historic Collection 1958 Les Paul Standard Reissue VOS Bourbon Burst ≪S/N:8 5570≫ 【心斎橋店】",
-      "price": 665500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779861/"
+      "title": "Gibson Les Paul Standard 50s Heritage Cherry Sunburst ≪S/N:221560063≫ 【心斎橋店】",
+      "price": 346500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10779877/"
     },
     {
-      "id": "DS10779860",
+      "id": "DS10779876",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Studio Session Cherry ≪S/N:200560263≫ 【心斎橋店】",
-      "price": 264000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779860/"
+      "title": "Gibson Les Paul Standard 50s Heritage Cherry Sunburst ≪S/N:221560053≫ 【心斎橋店】",
+      "price": 346500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10779876/"
     },
     {
-      "id": "DS10779859",
+      "id": "DS10779875",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Studio Modern Worn White ≪S/N:218860322≫ 【心斎橋店】",
-      "price": 225500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779859/"
+      "title": "Gibson Les Paul Modern Figured Cherry Burst [Modern Collection] ≪S/N:218960098≫ 【心斎橋店】",
+      "price": 363000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10779875/"
     },
     {
-      "id": "DS10779838",
+      "id": "DS10779874",
       "keyword": "Gibson",
-      "title": "Gibson 【唯一無二】Les Paul Standard '60s -Iced Tea- #229550216【4.39kg】【48回無金利】",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop170/DS10779838/"
-    },
-    {
-      "id": "DS10779299",
-      "keyword": "Gibson",
-      "title": "Gibson Billie Joe Armstrong Les Paul Junior Silver Mist",
-      "price": 231000,
-      "url": "https://www.digimart.net/cat01/shop4984/DS10779299/"
-    },
-    {
-      "id": "DS10779813",
-      "keyword": "Gibson",
-      "title": "Gibson 【Custom Color Series】Les Paul Standard 50s Figured / Honey Amber #221760191 [4.03kg] [送料込]",
-      "price": 330000,
-      "url": "https://www.digimart.net/cat01/shop35/DS10779813/"
-    },
-    {
-      "id": "DS10779709",
-      "keyword": "Gibson",
-      "title": "Gibson Gibson L-00 Original アコースティックギター【現物写真】【傷アリ特価】 【1.77kg】",
-      "price": 396000,
-      "url": "https://www.digimart.net/cat02/shop5233/DS10779709/"
-    },
-    {
-      "id": "DS10779811",
-      "keyword": "Gibson",
-      "title": "Gibson 【NEW】 Les Paul Standard '50s Figured Top Heritage Cherry Sunburst #216260069 [4.15kg][送料込]",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop35/DS10779811/"
-    },
-    {
-      "id": "DS10779770",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 50s Original Ebony エレアコ ピックアップ搭載 アコースティックギター【現物写真】【傷アリ特価】【",
-      "price": 380700,
-      "url": "https://www.digimart.net/cat02/shop5233/DS10779770/"
-    },
-    {
-      "id": "DS10779697",
-      "keyword": "Gibson",
-      "title": "Gibson Noel Gallagher Les Paul Standard ~Ebony~ #203660182【4.67kg】【セカンド品】",
-      "price": 435600,
-      "url": "https://www.digimart.net/cat01/shop26/DS10779697/"
-    },
-    {
-      "id": "DS10779802",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24 ～Sapphire Fade～ #CTIH011303 [3.48kg]【48回無金利】【2025年製】",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop170/DS10779802/"
-    },
-    {
-      "id": "DS10779793",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24 ～Turquoise～ #CTIF098162 [3.53kg]【48回無金利】【2026年製】",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop170/DS10779793/"
-    },
-    {
-      "id": "DS10779786",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE CUSTOM 24 ～Blue Matteo～ #CTIG118239 [3.41kg]【2024年製】【48回無金利】",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop170/DS10779786/"
-    },
-    {
-      "id": "DS10779782",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24 Quilt ~Sapphire~ #CTIH021198 [3.60kg]【48回無金利】【2025年製】",
-      "price": 140360,
-      "url": "https://www.digimart.net/cat01/shop170/DS10779782/"
-    },
-    {
-      "id": "DS10779776",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24 Quilt Package ～Teal Black～ #CTIH054430 [3.51kg]【48回無金利】【2025年製】",
-      "price": 154880,
-      "url": "https://www.digimart.net/cat01/shop170/DS10779776/"
-    },
-    {
-      "id": "DS10779769",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24 ～Sapphire～ #CTIH070491 [3.41kg]【2026年製】",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop170/DS10779769/"
-    },
-    {
-      "id": "DS10779763",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE CE 24 ~Teal Black / Natural Back~ #CTIH067806 [3.39kg]【48回無金利】【2026年製】",
-      "price": 109384,
-      "url": "https://www.digimart.net/cat01/shop170/DS10779763/"
-    },
-    {
-      "id": "DS10779758",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24 ～Blue Fade～ #CTIH023558 [3.53kg]【48回無金利】【2025年製】",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop170/DS10779758/"
-    },
-    {
-      "id": "DS10779757",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24 ～Charcoal Cherry Burst～ #CTIH011204 [3.72kg]【2025年製】【48回無金利】",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop170/DS10779757/"
-    },
-    {
-      "id": "DS10779746",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) USED 中古 SE Hollowbody II Piezo SE Locking Tuner Modofied (Orange Tiger Smokeburst) [SN. CTCH05878]",
-      "price": 195840,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10779746/"
-    },
-    {
-      "id": "DS10779732",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Rose Myrtle Telecaster NOS Cherry Sunburst SN. R146654",
-      "price": 877800,
-      "url": "https://www.digimart.net/cat01/shop4/DS10779732/"
-    },
-    {
-      "id": "DS10727386",
-      "keyword": "Nord",
-      "title": "Nord Electro 7 73鍵盤 ステージキーボード",
-      "price": 484000,
-      "url": "https://www.digimart.net/cat06/shop5051/DS10727386/"
+      "title": "Gibson Les Paul Standard 50s Tobacco Burst ≪S/N:222460105≫ 【心斎橋店】",
+      "price": 346500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10779874/"
     }
   ],
   "errors": [],
@@ -208,7 +82,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 188,
+      "qualifying": 189,
       "page_stats": [
         {
           "page": 1,
@@ -477,6 +351,6 @@
       ]
     }
   },
-  "collected": 915,
-  "seen_count": 1604
+  "collected": 916,
+  "seen_count": 1608
 }
