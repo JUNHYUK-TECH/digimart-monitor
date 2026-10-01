@@ -1,16 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T00:50:44.165501+00:00",
+  "checked_at": "2026-10-01T01:39:41.332938+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10777343",
-      "keyword": "Gibson",
-      "title": "Gibson 【中古】Les Paul Traditional 2016【現物画像】",
-      "price": 169980,
-      "url": "https://www.digimart.net/cat01/shop5446/DS10777343/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
