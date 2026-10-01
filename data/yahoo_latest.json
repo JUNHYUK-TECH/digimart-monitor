@@ -1,18 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T19:55:38.082074+00:00",
+  "checked_at": "2026-10-01T20:55:52.695474+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "t1246390055",
-      "keyword": "Gibson",
-      "title": "【D】GIBSON Les Paul Standard DC エレキギター ♯91318521 ギブソン 3249403",
-      "price": 112200,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/t1246390055"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -81,35 +71,35 @@
     },
     "PRS": {
       "pages": 1,
-      "links": 45,
-      "parsed": 39,
+      "links": 46,
+      "parsed": 40,
       "qualifying": 5,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=1&n=50&s1=new&o1=d",
-          "links": 45,
-          "unique_added": 45
+          "links": 46,
+          "unique_added": 46
         }
       ]
     },
     "Fender": {
       "pages": 6,
-      "links": 318,
-      "parsed": 298,
+      "links": 319,
+      "parsed": 299,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 69
+          "links": 70,
+          "unique_added": 70
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 50
+          "links": 69,
+          "unique_added": 49
         },
         {
           "page": 3,
@@ -127,7 +117,7 @@
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 49
+          "unique_added": 50
         },
         {
           "page": 6,
