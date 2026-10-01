@@ -1,14 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T11:57:25.236467+00:00",
+  "checked_at": "2026-10-01T13:01:23.338655+00:00",
   "baseline": false,
   "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 2,
-      "links": 91,
-      "parsed": 91,
+      "links": 90,
+      "parsed": 90,
       "qualifying": 0,
       "page_stats": [
         {
@@ -21,49 +21,49 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=51&n=50&s1=new&o1=d",
           "links": 45,
-          "unique_added": 41
+          "unique_added": 40
         }
       ]
     },
     "Gibson": {
       "pages": 1,
-      "links": 39,
-      "parsed": 39,
+      "links": 42,
+      "parsed": 42,
       "qualifying": 2,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 39,
-          "unique_added": 39
+          "links": 42,
+          "unique_added": 42
         }
       ]
     },
     "PRS": {
       "pages": 1,
-      "links": 41,
-      "parsed": 41,
+      "links": 40,
+      "parsed": 40,
       "qualifying": 5,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=1&n=50&s1=new&o1=d",
-          "links": 41,
-          "unique_added": 41
+          "links": 40,
+          "unique_added": 40
         }
       ]
     },
     "Fender": {
       "pages": 1,
-      "links": 49,
-      "parsed": 49,
+      "links": 48,
+      "parsed": 48,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 49,
-          "unique_added": 49
+          "links": 48,
+          "unique_added": 48
         }
       ]
     },
