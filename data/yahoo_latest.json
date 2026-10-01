@@ -1,25 +1,25 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T09:58:24.170068+00:00",
+  "checked_at": "2026-10-01T10:58:06.649718+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "o1246664198",
+      "id": "p1246528139",
       "keyword": "Gibson",
-      "title": "中古 エレキギター Gibson Les Paul Standard ’60s Unburst 2024年製 高年式 60sスリムテーパーネック 0",
-      "price": 268000,
-      "buyout": 268000,
+      "title": "【G】GIBSON Les Paul Custom エレキギター ギブソン S/N:91230627 1990年製 3433865",
+      "price": 112640,
+      "buyout": 460900,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/o1246664198"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/p1246528139"
     },
     {
-      "id": "t1246663255",
-      "keyword": "Fender",
-      "title": "中古 Fender USA フェンダー PRECISION BASS ELITE II Left Hand 1984年製 プレシジョンベース エリートII レフティ エレキベース",
-      "price": 330000,
-      "buyout": 330000,
+      "id": "e1246671954",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Electro 6D 61 ノードエレクトロ 61鍵盤 セミ・ウェイテッド ウォーターフォールキーボード 店頭展示 特価品",
+      "price": 275000,
+      "buyout": 275000,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/t1246663255"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/e1246671954"
     }
   ],
   "errors": [],
@@ -47,20 +47,20 @@
     "Gibson": {
       "pages": 6,
       "links": 266,
-      "parsed": 250,
-      "qualifying": 74,
+      "parsed": 251,
+      "qualifying": 76,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 61,
-          "unique_added": 61
+          "links": 62,
+          "unique_added": 62
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 63,
-          "unique_added": 43
+          "links": 62,
+          "unique_added": 42
         },
         {
           "page": 3,
@@ -77,35 +77,35 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 58,
-          "unique_added": 38
+          "links": 59,
+          "unique_added": 39
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 58,
-          "unique_added": 38
+          "links": 57,
+          "unique_added": 37
         }
       ]
     },
     "PRS": {
       "pages": 1,
-      "links": 46,
-      "parsed": 40,
-      "qualifying": 5,
+      "links": 47,
+      "parsed": 41,
+      "qualifying": 6,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=1&n=50&s1=new&o1=d",
-          "links": 46,
-          "unique_added": 46
+          "links": 47,
+          "unique_added": 47
         }
       ]
     },
     "Fender": {
       "pages": 6,
-      "links": 320,
-      "parsed": 300,
+      "links": 319,
+      "parsed": 299,
       "qualifying": 1,
       "page_stats": [
         {
@@ -123,8 +123,8 @@
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 50
+          "links": 69,
+          "unique_added": 49
         },
         {
           "page": 4,
@@ -148,15 +148,15 @@
     },
     "Nord": {
       "pages": 1,
-      "links": 43,
-      "parsed": 43,
-      "qualifying": 1,
+      "links": 44,
+      "parsed": 44,
+      "qualifying": 2,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Nord&b=1&n=50&s1=new&o1=d",
-          "links": 43,
-          "unique_added": 43
+          "links": 44,
+          "unique_added": 44
         }
       ]
     },
@@ -203,6 +203,6 @@
       ]
     }
   },
-  "collected": 87,
-  "seen_count": 265
+  "collected": 91,
+  "seen_count": 267
 }
