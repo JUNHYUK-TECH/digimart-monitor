@@ -1,25 +1,16 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T08:00:39.745356+00:00",
+  "checked_at": "2026-10-01T08:57:59.350389+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "e1246393524",
+      "id": "d1246664523",
       "keyword": "Gibson",
-      "title": "【C】GIBSON J-45 Standard エレアコギター #12650005 ギブソン 3355585",
-      "price": 129805,
-      "buyout": null,
+      "title": "中古 エレキギター Gibson Les Paul Standard ’60s Unburst 2024年製 高年式 60sスリムテーパーネック 0",
+      "price": 268000,
+      "buyout": 268000,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/e1246393524"
-    },
-    {
-      "id": "x1246379982",
-      "keyword": "Gibson",
-      "title": "【G】Gibson Explorer Gothic 2001年製 ギブソン エクスプローラー ゴシック レアモデル 3242664",
-      "price": 100100,
-      "buyout": 200200,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/x1246379982"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/d1246664523"
     }
   ],
   "errors": [],
@@ -46,9 +37,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 265,
-      "parsed": 248,
-      "qualifying": 72,
+      "links": 266,
+      "parsed": 250,
+      "qualifying": 74,
       "page_stats": [
         {
           "page": 1,
@@ -71,14 +62,14 @@
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 64,
-          "unique_added": 44
+          "links": 63,
+          "unique_added": 43
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 57,
-          "unique_added": 37
+          "links": 59,
+          "unique_added": 39
         },
         {
           "page": 6,
@@ -92,7 +83,7 @@
       "pages": 1,
       "links": 46,
       "parsed": 40,
-      "qualifying": 4,
+      "qualifying": 5,
       "page_stats": [
         {
           "page": 1,
@@ -104,45 +95,45 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 314,
-      "parsed": 294,
+      "links": 308,
+      "parsed": 288,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 68
+          "links": 70,
+          "unique_added": 70
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 49
+          "unique_added": 45
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 49
+          "links": 70,
+          "unique_added": 44
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 49
+          "links": 70,
+          "unique_added": 50
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 49
+          "links": 70,
+          "unique_added": 50
         }
       ]
     },
@@ -203,6 +194,6 @@
       ]
     }
   },
-  "collected": 83,
-  "seen_count": 262
+  "collected": 86,
+  "seen_count": 263
 }
