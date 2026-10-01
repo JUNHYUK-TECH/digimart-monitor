@@ -1,8 +1,86 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T01:39:41.332938+00:00",
+  "checked_at": "2026-10-01T02:39:34.960191+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10778440",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Junior -TV Yellow- 【3.40kg】【#204860142】",
+      "price": 203500,
+      "url": "https://www.digimart.net/cat01/shop38/DS10778440/"
+    },
+    {
+      "id": "DS10778438",
+      "keyword": "Gibson",
+      "title": "Gibson Slash Victoria Les Paul Standard Goldtop -Gold-【#200660062】【4.11kg】",
+      "price": 407000,
+      "url": "https://www.digimart.net/cat01/shop38/DS10778438/"
+    },
+    {
+      "id": "DS10778437",
+      "keyword": "Gibson",
+      "title": "Gibson 【現地選定品】~R&D Proto~Firebird Platypus -Ebony-【#205340049】【3.78kg】",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop38/DS10778437/"
+    },
+    {
+      "id": "DS10774980",
+      "keyword": "Gibson",
+      "title": "Gibson Les paul studio",
+      "price": 169800,
+      "url": "https://www.digimart.net/cat01/shop4846/DS10774980/"
+    },
+    {
+      "id": "DS10778436",
+      "keyword": "Gibson",
+      "title": "Gibson 【現地選定品】~US Exclusive Collection~ Les Paul Studio Figured -Ice Tea- 【#200850020】【3.43kg】",
+      "price": 243100,
+      "url": "https://www.digimart.net/cat01/shop38/DS10778436/"
+    },
+    {
+      "id": "DS10778433",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 【現地選定品】 ~Dealer Select~ Murphy Lab 1954 Les Paul Reissue All Gold Light Aged 【#44098】",
+      "price": 968000,
+      "url": "https://www.digimart.net/cat01/shop38/DS10778433/"
+    },
+    {
+      "id": "DS10778431",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop ~Historic Collection~ 1957 Les Paul Goldtop Reissue Double Gold VOS【#76339】【4.08kg】",
+      "price": 704000,
+      "url": "https://www.digimart.net/cat01/shop38/DS10778431/"
+    },
+    {
+      "id": "DS10778429",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop ~Murphy Lab~1964 ES-335 Reissue 60s Cherry Ultra Light Aged 【#160411】【3.53kg】",
+      "price": 943800,
+      "url": "https://www.digimart.net/cat01/shop38/DS10778429/"
+    },
+    {
+      "id": "DS10778426",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop ~Murphy Lab~1964 ES-335 Reissue 60s Cherry Ultra Light Aged 【#160561】【3.53kg】",
+      "price": 943800,
+      "url": "https://www.digimart.net/cat01/shop38/DS10778426/"
+    },
+    {
+      "id": "DS10778400",
+      "keyword": "Gibson",
+      "title": "Gibson LG-2 All Mahogany Faded",
+      "price": 286000,
+      "url": "https://www.digimart.net/cat02/shop5032/DS10778400/"
+    },
+    {
+      "id": "DS10775227",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Telecaster",
+      "price": 229900,
+      "url": "https://www.digimart.net/cat01/shop4846/DS10775227/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -53,7 +131,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 194,
+      "qualifying": 193,
       "page_stats": [
         {
           "page": 1,
@@ -139,8 +217,8 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 300,
-      "parsed": 300,
+      "links": 299,
+      "parsed": 299,
       "qualifying": 83,
       "page_stats": [
         {
@@ -165,7 +243,7 @@
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 5,
@@ -322,6 +400,6 @@
       ]
     }
   },
-  "collected": 937,
-  "seen_count": 1457
+  "collected": 936,
+  "seen_count": 1468
 }
