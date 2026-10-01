@@ -1,14 +1,24 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T13:01:23.338655+00:00",
+  "checked_at": "2026-10-01T13:58:14.125858+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "p1246672721",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 バナーロゴ 1995年製 ワインレッド PU HC付 ジャンク",
+      "price": 150000,
+      "buyout": 160000,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/p1246672721"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 2,
-      "links": 90,
-      "parsed": 90,
+      "links": 88,
+      "parsed": 88,
       "qualifying": 0,
       "page_stats": [
         {
@@ -20,8 +30,8 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=51&n=50&s1=new&o1=d",
-          "links": 45,
-          "unique_added": 40
+          "links": 43,
+          "unique_added": 38
         }
       ]
     },
@@ -29,7 +39,7 @@
       "pages": 1,
       "links": 42,
       "parsed": 42,
-      "qualifying": 2,
+      "qualifying": 3,
       "page_stats": [
         {
           "page": 1,
@@ -85,7 +95,7 @@
       "pages": 1,
       "links": 47,
       "parsed": 47,
-      "qualifying": 4,
+      "qualifying": 3,
       "page_stats": [
         {
           "page": 1,
@@ -125,5 +135,5 @@
     }
   },
   "collected": 15,
-  "seen_count": 267
+  "seen_count": 268
 }
