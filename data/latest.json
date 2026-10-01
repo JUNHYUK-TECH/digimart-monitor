@@ -1,70 +1,133 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T07:43:03.703646+00:00",
+  "checked_at": "2026-10-01T08:44:24.187362+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10779105",
+      "id": "DS10779243",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1959 Les Paul Standard Reissue VOS Hand Selected Washed Cherry[UM367]【神戸店在庫】",
-      "price": 698000,
-      "url": "https://www.digimart.net/cat01/shop3580/DS10779105/"
+      "title": "Gibson ES-335 Ebony [3.49kg][2021年製]【G-CLUB SHIBUYA】",
+      "price": 363000,
+      "url": "https://www.digimart.net/cat01/shop60/DS10779243/"
     },
     {
-      "id": "DS10779065",
+      "id": "DS10779237",
       "keyword": "Gibson",
-      "title": "Gibson LESPAUL STANDARD 2012 PLUS",
-      "price": 269800,
-      "url": "https://www.digimart.net/cat01/shop4967/DS10779065/"
+      "title": "Gibson Les Paul Standard '50s Heritage Cherry Sunburst レスポールスタンダード",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop4921/DS10779237/"
     },
     {
-      "id": "DS10779054",
+      "id": "DS10779236",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Historic Collection 1959 Les Paul Standard Reissue VOS -2023- Green Lemon Fade 【御茶ノ水本店FINEST",
-      "price": 858000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779054/"
+      "title": "Gibson Les Paul Standard '60s Unburst レスポールスタンダード",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop4921/DS10779236/"
     },
     {
-      "id": "DS10779053",
+      "id": "DS10779224",
       "keyword": "Gibson",
-      "title": "Gibson Original Collection Les Paul Standard 50s Figured Top -2025- Heritage Sherry Sunburst 【御茶ノ水本店",
-      "price": 288000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779053/"
+      "title": "Gibson SJ Deluxe 70s w/PU",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat02/shop70/DS10779224/"
     },
     {
-      "id": "DS10779045",
+      "id": "DS10779199",
       "keyword": "Gibson",
-      "title": "Gibson 70's FLYING V -Classic White- #220460180【3.24kg】",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10779045/"
+      "title": "Gibson Custom Shop 1959 Southern Jumbo 2018年製 【返品OK】[UM141]【神戸店在庫】",
+      "price": 378000,
+      "url": "https://www.digimart.net/cat02/shop3580/DS10779199/"
     },
     {
-      "id": "DS10778838",
+      "id": "DS10779169",
       "keyword": "Gibson",
-      "title": "Gibson 【深淵の黒!】Les Paul Special Ebony #222960142 【3.04kg】",
-      "price": 225500,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10778838/"
+      "title": "Gibson Les Paul Standard 50s Figured Top Honey Amber #227550011 【HERCULESスタンドプレゼント!】【4.28kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop1140/DS10779169/"
     },
     {
-      "id": "DS10778977",
+      "id": "DS10779168",
       "keyword": "Gibson",
-      "title": "Gibson 【9月現地選定品】SJ-200 Anniversary Limited Edition （Cremona Burst）",
-      "price": 825000,
-      "url": "https://www.digimart.net/cat02/shop5331/DS10778977/"
+      "title": "Gibson Les Paul Standard 50s Figured Top Honey Amber #221850173 【HERCULESスタンドプレゼント!】【4.77kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop1140/DS10779168/"
     },
     {
-      "id": "DS10779051",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2025 Custom 24-08 10Top Carroll Blue(重量:3.54kg)【S/N:25 0416974】 【御茶ノ水本店】",
-      "price": 755480,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779051/"
+      "id": "DS10779166",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s Heritage Cherry Sunburst #228750016 【HERCULESスタンドプレゼント!】【4.18kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop1140/DS10779166/"
     },
     {
-      "id": "DS10724051",
+      "id": "DS10779164",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s Heritage Cherry Sunburst #229350075 【HERCULESスタンドプレゼント!】【4kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop1140/DS10779164/"
+    },
+    {
+      "id": "DS10779151",
+      "keyword": "Gibson",
+      "title": "Gibson SG Standard '61 Stop Bar Classic White エレキギター",
+      "price": 249700,
+      "url": "https://www.digimart.net/cat01/shop5198/DS10779151/"
+    },
+    {
+      "id": "DS10779146",
+      "keyword": "Gibson",
+      "title": "Gibson 1960年製 SJN (Southern Jumbo Natural) ♯R3535 12 【無金利分割OK】",
+      "price": 990000,
+      "url": "https://www.digimart.net/cat02/shop172/DS10779146/"
+    },
+    {
+      "id": "DS10779268",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Mustang Bass 3-Color Sunburst ≪S/N:US25070724≫【心斎橋店】",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10779268/"
+    },
+    {
+      "id": "DS10779177",
+      "keyword": "Fender",
+      "title": "Fender 【新品特価】 Deluxe Jazz Bass V Kazuki Arai Edition -Black- #JD26024975 【4.99kg】",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat03/shop26/DS10779177/"
+    },
+    {
+      "id": "DS10779158",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Wildwood 10 1965 Stratocaster Heavy Relic Faded Black on Faded Surf Green 【新宿店】",
+      "price": 758000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10779158/"
+    },
+    {
+      "id": "DS10779143",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Jazz Bass Rosewood Miami Blue",
+      "price": 306900,
+      "url": "https://www.digimart.net/cat03/shop4921/DS10779143/"
+    },
+    {
+      "id": "DS10779235",
       "keyword": "Nord",
-      "title": "CLAVIA (予約商品・10月中旬以降入荷予定)（レインカバーは次回12月～1月頃入荷見込み）Nord Electro 7 73 & 専...",
-      "price": 518250,
-      "url": "https://www.digimart.net/cat06/shop5331/DS10724051/"
+      "title": "CLAVIA Nord Drum 3P 【展示処分アウトレット】",
+      "price": 123200,
+      "url": "https://www.digimart.net/cat06/shop1140/DS10779235/"
+    },
+    {
+      "id": "DS10779220",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Organ 3 【展示処分アウトレット】",
+      "price": 671000,
+      "url": "https://www.digimart.net/cat06/shop1140/DS10779220/"
+    },
+    {
+      "id": "DS10779208",
+      "keyword": "Fractal",
+      "title": "FRACTAL AUDIO SYSTEMS Axe-Fx II XL+ [UM723]【神戸店在庫】",
+      "price": 148000,
+      "url": "https://www.digimart.net/cat13/shop3580/DS10779208/"
     }
   ],
   "errors": [],
@@ -115,9 +178,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 300,
-      "parsed": 299,
-      "qualifying": 190,
+      "links": 298,
+      "parsed": 297,
+      "qualifying": 187,
       "page_stats": [
         {
           "page": 1,
@@ -135,7 +198,7 @@
           "page": 3,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Gibson&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=3&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 48
         },
         {
           "page": 4,
@@ -205,7 +268,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 69,
+      "qualifying": 63,
       "page_stats": [
         {
           "page": 1,
@@ -293,7 +356,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 119,
+      "qualifying": 120,
       "page_stats": [
         {
           "page": 1,
@@ -355,9 +418,9 @@
     },
     "Fractal": {
       "pages": 4,
-      "links": 167,
-      "parsed": 167,
-      "qualifying": 92,
+      "links": 169,
+      "parsed": 169,
+      "qualifying": 93,
       "page_stats": [
         {
           "page": 1,
@@ -380,12 +443,12 @@
         {
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
-          "links": 17,
-          "unique_added": 17
+          "links": 19,
+          "unique_added": 19
         }
       ]
     }
   },
-  "collected": 921,
-  "seen_count": 1530
+  "collected": 914,
+  "seen_count": 1548
 }
