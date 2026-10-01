@@ -1,168 +1,84 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T09:42:55.064517+00:00",
+  "checked_at": "2026-10-01T10:42:16.746777+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10779484",
-      "keyword": "Tyler",
-      "title": "James Tyler Japan James Tyler Japan Studio Elite HD / SEHD ”White With White Pearl ” / Matching Head",
-      "price": 437800,
-      "url": "https://www.digimart.net/cat01/shop5302/DS10779484/"
-    },
-    {
-      "id": "DS10779483",
-      "keyword": "Tyler",
-      "title": "James Tyler Japan James Tyler Japan TYLERBASTER ”BLack With Blue Pearl” / Matching Head",
-      "price": 358600,
-      "url": "https://www.digimart.net/cat01/shop5302/DS10779483/"
-    },
-    {
-      "id": "DS10779500",
+      "id": "DS10779705",
       "keyword": "Gibson",
-      "title": "Gibson LG-1",
+      "title": "Gibson 【アウトレット品】Les Paul Standard '50s Gold Top #205660321【4.57kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop170/DS10779705/"
+    },
+    {
+      "id": "DS10779643",
+      "keyword": "Gibson",
+      "title": "Gibson 【軽量!】Les Paul Special / Ebony 222360149 [3.41kg]",
+      "price": 225500,
+      "url": "https://www.digimart.net/cat01/shop169/DS10779643/"
+    },
+    {
+      "id": "DS10779638",
+      "keyword": "Gibson",
+      "title": "Gibson 【かなり軽量個体!!】Les Paul Special / Ebony 222360146 [3.38kg]",
+      "price": 225500,
+      "url": "https://www.digimart.net/cat01/shop169/DS10779638/"
+    },
+    {
+      "id": "DS10779632",
+      "keyword": "Gibson",
+      "title": "Gibson 【人気モデル】Firebird Platypus / Ebony #214950190 [3.85kg] 3Fギブソンフロア",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop169/DS10779632/"
+    },
+    {
+      "id": "DS10773681",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 Standard 2016",
+      "price": 297000,
+      "url": "https://www.digimart.net/cat02/shop4816/DS10773681/"
+    },
+    {
+      "id": "DS10779544",
+      "keyword": "Gibson",
+      "title": "Gibson 【軽量個体!!】SG Standard '61 Stop Bar / Vintage Cherry #219460223[2.80kg]",
+      "price": 249700,
+      "url": "https://www.digimart.net/cat01/shop169/DS10779544/"
+    },
+    {
+      "id": "DS10779542",
+      "keyword": "Gibson",
+      "title": "Gibson SG Standard '61 Stop Bar / Vintage Cherry #218960283 [3.10kg]",
+      "price": 249700,
+      "url": "https://www.digimart.net/cat01/shop169/DS10779542/"
+    },
+    {
+      "id": "DS10779527",
+      "keyword": "Gibson",
+      "title": "Gibson 1959 LG-1",
       "price": 418000,
-      "url": "https://www.digimart.net/cat02/shop541/DS10779500/"
+      "url": "https://www.digimart.net/cat02/shop2080/DS10779527/"
     },
     {
-      "id": "DS10779476",
+      "id": "DS10779524",
       "keyword": "Gibson",
-      "title": "Gibson Noel Gallagher Les Paul Standard（Ebony Black）【現物写真／重量：約4.61kg】",
-      "price": 435600,
-      "url": "https://www.digimart.net/cat01/shop5065/DS10779476/"
+      "title": "Gibson 【飛翔伝説】70s Flying V / Classic White #215460144 [3.20kg]",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop169/DS10779524/"
     },
     {
-      "id": "DS10779470",
+      "id": "DS10779522",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Tobacco Burst 《特典付き》 [3.7kg]【222260052】【池袋店】",
-      "price": 346500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779470/"
+      "title": "Gibson 【帰ってきたフライング・アロウ】70s Flying V / Classic White #219060027 [3.11kg]",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop169/DS10779522/"
     },
     {
-      "id": "DS10779469",
+      "id": "DS10779123",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Gold Top 《特典付き》 [4.26kg]【221660146】【池袋店】",
-      "price": 346500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779469/"
-    },
-    {
-      "id": "DS10779468",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Special Double Cutaway Vintage Cherry 《特典付き》 [3.22kg]【222560284】【池袋店】",
-      "price": 242000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779468/"
-    },
-    {
-      "id": "DS10779466",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Figured Top Ocean Blue 《特典付き》 [4.08kg]【221760050】【池袋店】",
-      "price": 346500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779466/"
-    },
-    {
-      "id": "DS10779441",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 Standard",
-      "price": 230000,
-      "url": "https://www.digimart.net/cat02/shop5231/DS10779441/"
-    },
-    {
-      "id": "DS10776611",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 【試奏動画】1998 Historic Collection YCS 1958 Les Paul Figuredtop Reissue Lemon Burst",
-      "price": 598000,
-      "url": "https://www.digimart.net/cat01/shop5395/DS10776611/"
-    },
-    {
-      "id": "DS10779425",
-      "keyword": "Gibson",
-      "title": "Gibson Noel Gallagher Les Paul Standard【即納可】",
-      "price": 435600,
-      "url": "https://www.digimart.net/cat01/shop5079/DS10779425/"
-    },
-    {
-      "id": "DS10779419",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Axcess Standard Root Beer Floyd Rose Gloss GH",
-      "price": 827200,
-      "url": "https://www.digimart.net/cat01/shop4921/DS10779419/"
-    },
-    {
-      "id": "DS10779402",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s \"Custom Shop Top\" Heritage Cherry Sunburst 【御茶ノ水本店】",
-      "price": 412500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779402/"
-    },
-    {
-      "id": "DS10779401",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Tobacco Burst 【御茶ノ水本店】",
-      "price": 346500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779401/"
-    },
-    {
-      "id": "DS10779399",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Figured Top Ocean Blue 【御茶ノ水本店】",
-      "price": 346500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779399/"
-    },
-    {
-      "id": "DS10779398",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Figured Top Blueberry Burst 【御茶ノ水本店】",
-      "price": 346500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779398/"
-    },
-    {
-      "id": "DS10779128",
-      "keyword": "Gibson",
-      "title": "Gibson Melody Maker",
-      "price": 275000,
-      "url": "https://www.digimart.net/cat01/shop5018/DS10779128/"
-    },
-    {
-      "id": "DS10779286",
-      "keyword": "Gibson",
-      "title": "Gibson J-200N Artist w/PU",
-      "price": 484000,
-      "url": "https://www.digimart.net/cat02/shop70/DS10779286/"
-    },
-    {
-      "id": "DS10779460",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 SE Ed Sheeran Hollowbody I Baritone Piezo Orange Tiger Smokeburst 【御茶ノ水本店】",
-      "price": 178000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779460/"
-    },
-    {
-      "id": "DS10779461",
-      "keyword": "Fender",
-      "title": "Fender American Professional II Stratocaster HSS Olympic White 【心斎橋店】",
-      "price": 228000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779461/"
-    },
-    {
-      "id": "DS10779385",
-      "keyword": "Fender",
-      "title": "Fender American Ultra Luxe ‘50s Stratocaster White Blonde ≪S/N:US25016329≫【心斎橋店】",
-      "price": 388000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779385/"
-    },
-    {
-      "id": "DS10779381",
-      "keyword": "Fender",
-      "title": "Fender American Professional II Jazz Bass Maple Fingerboard Mystic Surf Green 【梅田店】",
-      "price": 275800,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10779381/"
-    },
-    {
-      "id": "DS10779309",
-      "keyword": "Fender",
-      "title": "Fender American Vintage '75 Jazz Bass 2000年製 【返品OK】[UMO28]【梅田店在庫】",
-      "price": 228000,
-      "url": "https://www.digimart.net/cat03/shop3580/DS10779309/"
+      "title": "Gibson SG Stadard 1972",
+      "price": 399800,
+      "url": "https://www.digimart.net/cat01/shop4846/DS10779123/"
     }
   ],
   "errors": [],
@@ -215,7 +131,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 184,
+      "qualifying": 183,
       "page_stats": [
         {
           "page": 1,
@@ -303,7 +219,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 65,
+      "qualifying": 61,
       "page_stats": [
         {
           "page": 1,
@@ -453,8 +369,8 @@
     },
     "Fractal": {
       "pages": 4,
-      "links": 169,
-      "parsed": 169,
+      "links": 168,
+      "parsed": 168,
       "qualifying": 93,
       "page_stats": [
         {
@@ -478,12 +394,12 @@
         {
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
-          "links": 19,
-          "unique_added": 19
+          "links": 18,
+          "unique_added": 18
         }
       ]
     }
   },
-  "collected": 915,
-  "seen_count": 1571
+  "collected": 910,
+  "seen_count": 1582
 }
