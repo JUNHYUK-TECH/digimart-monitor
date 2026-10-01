@@ -1,63 +1,70 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T06:48:35.711246+00:00",
+  "checked_at": "2026-10-01T07:43:03.703646+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10773667",
+      "id": "DS10779105",
       "keyword": "Gibson",
-      "title": "Gibson J-15",
-      "price": 198000,
-      "url": "https://www.digimart.net/cat02/shop4816/DS10773667/"
+      "title": "Gibson Custom Shop 1959 Les Paul Standard Reissue VOS Hand Selected Washed Cherry[UM367]【神戸店在庫】",
+      "price": 698000,
+      "url": "https://www.digimart.net/cat01/shop3580/DS10779105/"
     },
     {
-      "id": "DS10778879",
+      "id": "DS10779065",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Historic Cllection FirebirdⅤ/Maestro Vibrola (1999)",
-      "price": 550000,
-      "url": "https://www.digimart.net/cat01/shop48/DS10778879/"
+      "title": "Gibson LESPAUL STANDARD 2012 PLUS",
+      "price": 269800,
+      "url": "https://www.digimart.net/cat01/shop4967/DS10779065/"
     },
     {
-      "id": "DS10778878",
+      "id": "DS10779054",
       "keyword": "Gibson",
-      "title": "Gibson LG-0 1964",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat02/shop5032/DS10778878/"
+      "title": "Gibson Custom Shop Historic Collection 1959 Les Paul Standard Reissue VOS -2023- Green Lemon Fade 【御茶ノ水本店FINEST",
+      "price": 858000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10779054/"
     },
     {
-      "id": "DS10778856",
+      "id": "DS10779053",
       "keyword": "Gibson",
-      "title": "Gibson 【世界に1本】M2M J-45 Standard Bearclaw Top Green Kabluey #22056057【無金利キャンペーン】",
-      "price": 518000,
-      "url": "https://www.digimart.net/cat02/shop5452/DS10778856/"
+      "title": "Gibson Original Collection Les Paul Standard 50s Figured Top -2025- Heritage Sherry Sunburst 【御茶ノ水本店",
+      "price": 288000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10779053/"
     },
     {
-      "id": "DS10778953",
+      "id": "DS10779045",
+      "keyword": "Gibson",
+      "title": "Gibson 70's FLYING V -Classic White- #220460180【3.24kg】",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10779045/"
+    },
+    {
+      "id": "DS10778838",
+      "keyword": "Gibson",
+      "title": "Gibson 【深淵の黒!】Les Paul Special Ebony #222960142 【3.04kg】",
+      "price": 225500,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10778838/"
+    },
+    {
+      "id": "DS10778977",
+      "keyword": "Gibson",
+      "title": "Gibson 【9月現地選定品】SJ-200 Anniversary Limited Edition （Cremona Burst）",
+      "price": 825000,
+      "url": "https://www.digimart.net/cat02/shop5331/DS10778977/"
+    },
+    {
+      "id": "DS10779051",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Hollowbody II Piezo -Charcoal- ≒2.524Kg 2025年製",
-      "price": 827200,
-      "url": "https://www.digimart.net/cat01/shop60/DS10778953/"
+      "title": "Paul Reed Smith(PRS) 2025 Custom 24-08 10Top Carroll Blue(重量:3.54kg)【S/N:25 0416974】 【御茶ノ水本店】",
+      "price": 755480,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10779051/"
     },
     {
-      "id": "DS10778849",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2022 SE Custom24 Floyd Charcoal Burst 【新宿店】",
-      "price": 143000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10778849/"
-    },
-    {
-      "id": "DS10778932",
-      "keyword": "Fender",
-      "title": "Fender VG Stratocaster【現物画像/3.74kg】【Made in USA】",
-      "price": 168000,
-      "url": "https://www.digimart.net/cat01/shop5271/DS10778932/"
-    },
-    {
-      "id": "DS10778848",
-      "keyword": "Fender",
-      "title": "Fender American Vintage 62 Jazz Bass 3Knobs Black 【新宿店】",
-      "price": 198000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10778848/"
+      "id": "DS10724051",
+      "keyword": "Nord",
+      "title": "CLAVIA (予約商品・10月中旬以降入荷予定)（レインカバーは次回12月～1月頃入荷見込み）Nord Electro 7 73 & 専...",
+      "price": 518250,
+      "url": "https://www.digimart.net/cat06/shop5331/DS10724051/"
     }
   ],
   "errors": [],
@@ -108,9 +115,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 299,
-      "parsed": 298,
-      "qualifying": 192,
+      "links": 300,
+      "parsed": 299,
+      "qualifying": 190,
       "page_stats": [
         {
           "page": 1,
@@ -122,7 +129,7 @@
           "page": 2,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=&readCount=50&noparallelimportp=&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=&soldoutDispCheck=false&tagWords=&dmsP=&keywordAnd=Gibson&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=&neckScaleOption=&tagWordsNot=&freeshippingp=&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=&pickupOption=&movieurlp=&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=&brandIdNot=&ecCardP=&ecpurchasep=&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=&fingerboardOption=&noshopsalep=&currentPage=2&shopNo=&stringsoption=&categoryId=&shopsalep=&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 49
+          "unique_added": 50
         },
         {
           "page": 3,
@@ -198,7 +205,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 73,
+      "qualifying": 69,
       "page_stats": [
         {
           "page": 1,
@@ -242,7 +249,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 182,
+      "qualifying": 183,
       "page_stats": [
         {
           "page": 1,
@@ -379,6 +386,6 @@
       ]
     }
   },
-  "collected": 926,
-  "seen_count": 1521
+  "collected": 921,
+  "seen_count": 1530
 }
