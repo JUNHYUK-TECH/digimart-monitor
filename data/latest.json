@@ -1,84 +1,175 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T02:39:34.960191+00:00",
+  "checked_at": "2026-10-01T03:42:26.000124+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10778440",
+      "id": "DS10778531",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Junior -TV Yellow- 【3.40kg】【#204860142】",
+      "title": "Gibson 12まで】GIBSON USA / Les Paul Standard 50s Heritage Cherry Sunburst 【御茶ノ水本店】",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10778531/"
+    },
+    {
+      "id": "DS10778529",
+      "keyword": "Gibson",
+      "title": "Gibson 12まで】Gibson / Les Paul Standard 50s Heritage Cherry Sunburst 【御茶ノ水本店】",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10778529/"
+    },
+    {
+      "id": "DS10778528",
+      "keyword": "Gibson",
+      "title": "Gibson 12まで】GIBSON USA / Les Paul Standard 60s Bourbon Burst 【御茶ノ水本店】",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10778528/"
+    },
+    {
+      "id": "DS10778527",
+      "keyword": "Gibson",
+      "title": "Gibson 12まで】GIBSON USA / Les Paul Standard 50s Heritage Cherry Sunburst【御茶ノ水本店】",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10778527/"
+    },
+    {
+      "id": "DS10778526",
+      "keyword": "Gibson",
+      "title": "Gibson 12まで】GIBSON USA / Les Paul Standard 50s Heritage Cherry Sunburst 【御茶ノ水本店】",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10778526/"
+    },
+    {
+      "id": "DS10778525",
+      "keyword": "Gibson",
+      "title": "Gibson 12まで】Gibson / Les Paul Standard 60s Unburst 【御茶ノ水本店】",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10778525/"
+    },
+    {
+      "id": "DS10778524",
+      "keyword": "Gibson",
+      "title": "Gibson 12まで】Gibson / Les Paul Standard 60s Unburst 【御茶ノ水本店】",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10778524/"
+    },
+    {
+      "id": "DS10778523",
+      "keyword": "Gibson",
+      "title": "Gibson 12まで】GIBSON USA / LP STD 19 50S HCS Heritage Cherry Sunburst 【アウトレット】 【御茶ノ水本店】",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10778523/"
+    },
+    {
+      "id": "DS10778522",
+      "keyword": "Gibson",
+      "title": "Gibson 12まで】GIBSON USA / Les Paul Standard 50s Heritage Cherry Sunburst 【アウトレット】【御茶ノ水本店",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10778522/"
+    },
+    {
+      "id": "DS10778520",
+      "keyword": "Gibson",
+      "title": "Gibson 12まで】GIBSON USA / Les Paul Standard 50s Heritage Cherry Sunburst 【アウトレット】【御茶ノ水本店",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10778520/"
+    },
+    {
+      "id": "DS10778519",
+      "keyword": "Gibson",
+      "title": "Gibson 12まで】GIBSON USA / Les Paul Standard 50s Heritage Cherry Sunburst 【アウトレット】【御茶ノ水本店",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10778519/"
+    },
+    {
+      "id": "DS10778518",
+      "keyword": "Gibson",
+      "title": "Gibson 12まで】【期間限定セール10/12まで】GIBSON USA / Les Paul Standard 60s Figured Top Bourbon Burst 【御",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10778518/"
+    },
+    {
+      "id": "DS10778517",
+      "keyword": "Gibson",
+      "title": "Gibson 12まで】GIBSON USA / Les Paul Standard 60s Iced Tea 【御茶ノ水本店】",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10778517/"
+    },
+    {
+      "id": "DS10778516",
+      "keyword": "Gibson",
+      "title": "Gibson 12まで】GIBSON USA / Les Paul Standard 50s Heritage Cherry Sunburst【アウトレット】【御茶ノ水本店】",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10778516/"
+    },
+    {
+      "id": "DS10778491",
+      "keyword": "Gibson",
+      "title": "Gibson ~Custom Color Series~ Les Paul Standard 50s Figured Top -Blueberry Burst-【#210760075】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop38/DS10778491/"
+    },
+    {
+      "id": "DS10778488",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s -Heritage Cherry Sunburst- 【#216260179】【4.08kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop38/DS10778488/"
+    },
+    {
+      "id": "DS10778471",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 【現地選定品】 ~Dealer Select~Les Paul Axcess Standard Floyd Rose Figured Siberian Tiger Gloss",
+      "price": 792000,
+      "url": "https://www.digimart.net/cat01/shop38/DS10778471/"
+    },
+    {
+      "id": "DS10778467",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Junior -TV Yellow- 【3.72kg】【#204160223】",
       "price": 203500,
-      "url": "https://www.digimart.net/cat01/shop38/DS10778440/"
+      "url": "https://www.digimart.net/cat01/shop38/DS10778467/"
     },
     {
-      "id": "DS10778438",
+      "id": "DS10778466",
       "keyword": "Gibson",
-      "title": "Gibson Slash Victoria Les Paul Standard Goldtop -Gold-【#200660062】【4.11kg】",
-      "price": 407000,
-      "url": "https://www.digimart.net/cat01/shop38/DS10778438/"
+      "title": "Gibson Les Paul Standard 50s -Heritage Cherry Sunburst- 【#228850160】【4.14kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop38/DS10778466/"
     },
     {
-      "id": "DS10778437",
+      "id": "DS10778461",
       "keyword": "Gibson",
-      "title": "Gibson 【現地選定品】~R&D Proto~Firebird Platypus -Ebony-【#205340049】【3.78kg】",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat01/shop38/DS10778437/"
+      "title": "Gibson Les Paul Standard 50s -Heritage Cherry Sunburst- 【#227350084】【4.45kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop38/DS10778461/"
     },
     {
-      "id": "DS10774980",
+      "id": "DS10778449",
       "keyword": "Gibson",
-      "title": "Gibson Les paul studio",
-      "price": 169800,
-      "url": "https://www.digimart.net/cat01/shop4846/DS10774980/"
+      "title": "Gibson Les Paul Standard 60s -Unburst- 【#232850194】【4.41kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop38/DS10778449/"
     },
     {
-      "id": "DS10778436",
+      "id": "DS10778447",
       "keyword": "Gibson",
-      "title": "Gibson 【現地選定品】~US Exclusive Collection~ Les Paul Studio Figured -Ice Tea- 【#200850020】【3.43kg】",
-      "price": 243100,
-      "url": "https://www.digimart.net/cat01/shop38/DS10778436/"
+      "title": "Gibson Les Paul Standard 60s -Ice Tea Burst- 【#229650028】【4.47kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop38/DS10778447/"
     },
     {
-      "id": "DS10778433",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 【現地選定品】 ~Dealer Select~ Murphy Lab 1954 Les Paul Reissue All Gold Light Aged 【#44098】",
-      "price": 968000,
-      "url": "https://www.digimart.net/cat01/shop38/DS10778433/"
+      "id": "DS10778442",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Standard 24-08 BLACK limited model 【S/N CTII001987/3.60kg】 36回まで無金利",
+      "price": 138600,
+      "url": "https://www.digimart.net/cat01/shop5178/DS10778442/"
     },
     {
-      "id": "DS10778431",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop ~Historic Collection~ 1957 Les Paul Goldtop Reissue Double Gold VOS【#76339】【4.08kg】",
-      "price": 704000,
-      "url": "https://www.digimart.net/cat01/shop38/DS10778431/"
-    },
-    {
-      "id": "DS10778429",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop ~Murphy Lab~1964 ES-335 Reissue 60s Cherry Ultra Light Aged 【#160411】【3.53kg】",
-      "price": 943800,
-      "url": "https://www.digimart.net/cat01/shop38/DS10778429/"
-    },
-    {
-      "id": "DS10778426",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop ~Murphy Lab~1964 ES-335 Reissue 60s Cherry Ultra Light Aged 【#160561】【3.53kg】",
-      "price": 943800,
-      "url": "https://www.digimart.net/cat01/shop38/DS10778426/"
-    },
-    {
-      "id": "DS10778400",
-      "keyword": "Gibson",
-      "title": "Gibson LG-2 All Mahogany Faded",
-      "price": 286000,
-      "url": "https://www.digimart.net/cat02/shop5032/DS10778400/"
-    },
-    {
-      "id": "DS10775227",
+      "id": "DS10778558",
       "keyword": "Fender",
-      "title": "Fender American Professional II Telecaster",
-      "price": 229900,
-      "url": "https://www.digimart.net/cat01/shop4846/DS10775227/"
+      "title": "Fender 1995 American Standard Stratocaster -Ocean Turquoise Metallic / Rosewood- 【Matching Headstock】",
+      "price": 218000,
+      "url": "https://www.digimart.net/cat01/shop38/DS10778558/"
     }
   ],
   "errors": [],
@@ -131,7 +222,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 193,
+      "qualifying": 192,
       "page_stats": [
         {
           "page": 1,
@@ -400,6 +491,6 @@
       ]
     }
   },
-  "collected": 936,
-  "seen_count": 1468
+  "collected": 935,
+  "seen_count": 1492
 }
