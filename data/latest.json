@@ -1,23 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T13:44:10.924825+00:00",
+  "checked_at": "2026-10-01T16:40:19.004122+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10779651",
-      "keyword": "Gibson",
-      "title": "Gibson 【現地選定品】【良杢個体】【鳴り◎】L-00 Rosewood 12 Fret【担当オススメ】",
-      "price": 462000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10779651/"
-    },
-    {
-      "id": "DS10779904",
-      "keyword": "Fractal",
-      "title": "FRACTAL AUDIO SYSTEMS VP4 for BASS",
-      "price": 185900,
-      "url": "https://www.digimart.net/cat13/shop5033/DS10779904/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -68,7 +53,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 189,
+      "qualifying": 188,
       "page_stats": [
         {
           "page": 1,
@@ -156,7 +141,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 57,
+      "qualifying": 56,
       "page_stats": [
         {
           "page": 1,
@@ -337,6 +322,6 @@
       ]
     }
   },
-  "collected": 915,
+  "collected": 913,
   "seen_count": 1610
 }
