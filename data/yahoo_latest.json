@@ -1,24 +1,33 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T08:57:59.350389+00:00",
+  "checked_at": "2026-10-01T09:58:24.170068+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "d1246664523",
+      "id": "o1246664198",
       "keyword": "Gibson",
       "title": "中古 エレキギター Gibson Les Paul Standard ’60s Unburst 2024年製 高年式 60sスリムテーパーネック 0",
       "price": 268000,
       "buyout": 268000,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/d1246664523"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/o1246664198"
+    },
+    {
+      "id": "t1246663255",
+      "keyword": "Fender",
+      "title": "中古 Fender USA フェンダー PRECISION BASS ELITE II Left Hand 1984年製 プレシジョンベース エリートII レフティ エレキベース",
+      "price": 330000,
+      "buyout": 330000,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/t1246663255"
     }
   ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 2,
-      "links": 91,
-      "parsed": 90,
+      "links": 92,
+      "parsed": 91,
       "qualifying": 0,
       "page_stats": [
         {
@@ -30,8 +39,8 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=51&n=50&s1=new&o1=d",
-          "links": 45,
-          "unique_added": 39
+          "links": 46,
+          "unique_added": 40
         }
       ]
     },
@@ -44,8 +53,8 @@
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 62,
-          "unique_added": 62
+          "links": 61,
+          "unique_added": 61
         },
         {
           "page": 2,
@@ -56,20 +65,20 @@
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 61,
-          "unique_added": 41
+          "links": 62,
+          "unique_added": 42
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 63,
-          "unique_added": 43
+          "links": 64,
+          "unique_added": 44
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 39
+          "links": 58,
+          "unique_added": 38
         },
         {
           "page": 6,
@@ -95,9 +104,9 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 308,
-      "parsed": 288,
-      "qualifying": 0,
+      "links": 320,
+      "parsed": 300,
+      "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
@@ -109,19 +118,19 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 45
+          "unique_added": 50
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 44
+          "unique_added": 50
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 49
+          "unique_added": 50
         },
         {
           "page": 5,
@@ -153,15 +162,15 @@
     },
     "Helix": {
       "pages": 1,
-      "links": 48,
-      "parsed": 48,
+      "links": 47,
+      "parsed": 47,
       "qualifying": 4,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Helix&b=1&n=50&s1=new&o1=d",
-          "links": 48,
-          "unique_added": 48
+          "links": 47,
+          "unique_added": 47
         }
       ]
     },
@@ -194,6 +203,6 @@
       ]
     }
   },
-  "collected": 86,
-  "seen_count": 263
+  "collected": 87,
+  "seen_count": 265
 }
