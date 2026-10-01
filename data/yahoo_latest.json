@@ -1,42 +1,24 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T17:57:45.310721+00:00",
+  "checked_at": "2026-10-01T18:59:06.866150+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "k1245533336",
-      "keyword": "Gibson",
-      "title": "Gibson 1976 Firebird Bicentennial Edition 建国 USED美品 現在 688,000円 22時3分に終了",
-      "price": 688000,
-      "buyout": null,
+      "id": "v1246697138",
+      "keyword": "PRS",
+      "title": "ティソ PRS 516 クロノグラフ（箱・保証書付き） メンズ ブラック カーボンファイバー文字盤 レザー 海外 即決 即決 304,088円 送料無料 0 5日",
+      "price": 304088,
+      "buyout": 304088,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/k1245533336"
-    },
-    {
-      "id": "o1244917740",
-      "keyword": "Gibson",
-      "title": "Gibson Memphis ES-175 Aged Reissue Vintage Sunburst 限定生産の175 オリジナルケース付き Gibson フルアコ 現在 495,000円 23時19分に終了",
-      "price": 495000,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/o1244917740"
-    },
-    {
-      "id": "b1246684467",
-      "keyword": "Fender",
-      "title": "Fender American Ultra Stratocaster Plasma Red Burst 現在 180,000円 即決 350,000円 送料未定 0 2日",
-      "price": 180000,
-      "buyout": 350000,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/b1246684467"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/v1246697138"
     }
   ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 262,
-      "parsed": 262,
+      "links": 263,
+      "parsed": 263,
       "qualifying": 4,
       "page_stats": [
         {
@@ -72,16 +54,16 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=251&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 46
+          "links": 61,
+          "unique_added": 47
         }
       ]
     },
     "Gibson": {
       "pages": 6,
-      "links": 301,
-      "parsed": 301,
-      "qualifying": 58,
+      "links": 299,
+      "parsed": 299,
+      "qualifying": 56,
       "page_stats": [
         {
           "page": 1,
@@ -104,8 +86,8 @@
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 72,
-          "unique_added": 51
+          "links": 73,
+          "unique_added": 49
         },
         {
           "page": 5,
@@ -125,7 +107,7 @@
       "pages": 1,
       "links": 39,
       "parsed": 39,
-      "qualifying": 10,
+      "qualifying": 11,
       "page_stats": [
         {
           "page": 1,
@@ -236,6 +218,6 @@
       ]
     }
   },
-  "collected": 76,
-  "seen_count": 287
+  "collected": 75,
+  "seen_count": 288
 }
