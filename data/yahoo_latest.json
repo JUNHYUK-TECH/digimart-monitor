@@ -1,18 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T13:58:14.125858+00:00",
+  "checked_at": "2026-10-01T14:58:44.306116+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "p1246672721",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 バナーロゴ 1995年製 ワインレッド PU HC付 ジャンク",
-      "price": 150000,
-      "buyout": 160000,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/p1246672721"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -39,7 +29,7 @@
       "pages": 1,
       "links": 42,
       "parsed": 42,
-      "qualifying": 3,
+      "qualifying": 2,
       "page_stats": [
         {
           "page": 1,
@@ -51,29 +41,59 @@
     },
     "PRS": {
       "pages": 1,
-      "links": 40,
-      "parsed": 40,
-      "qualifying": 5,
+      "links": 39,
+      "parsed": 39,
+      "qualifying": 4,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=1&n=50&s1=new&o1=d",
-          "links": 40,
-          "unique_added": 40
+          "links": 39,
+          "unique_added": 39
         }
       ]
     },
     "Fender": {
-      "pages": 1,
-      "links": 48,
-      "parsed": 48,
+      "pages": 6,
+      "links": 300,
+      "parsed": 300,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 48,
-          "unique_added": 48
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 2,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 3,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 4,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 5,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 6,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
         }
       ]
     },
@@ -134,6 +154,6 @@
       ]
     }
   },
-  "collected": 15,
+  "collected": 13,
   "seen_count": 268
 }
