@@ -1,70 +1,91 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T04:41:54.578656+00:00",
+  "checked_at": "2026-10-01T05:40:23.712856+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10778650",
+      "id": "DS10778828",
       "keyword": "Gibson",
-      "title": "Gibson J-45 Standard Purple Burst ギブソン 【実物画像/未展示品】[S/N 21666073]",
-      "price": 357500,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10778650/"
+      "title": "Gibson Les Paul Studio Faded 2016 Satin Ebony 【新宿店】",
+      "price": 154000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10778828/"
     },
     {
-      "id": "DS10778626",
+      "id": "DS10778821",
       "keyword": "Gibson",
-      "title": "Gibson Japan Exclusive Les Paul Standard 50s \"Custom Shop Top\" Honey Burst 【アウトレット/未展示品】[4.09kg",
-      "price": 396000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10778626/"
+      "title": "Gibson USA 2005 Firebird VII (Cherry)",
+      "price": 437800,
+      "url": "https://www.digimart.net/cat01/shop87/DS10778821/"
     },
     {
-      "id": "DS10778624",
+      "id": "DS10778803",
       "keyword": "Gibson",
-      "title": "Gibson Japan Exclusive Les Paul Standard 50s \"Custom Shop Top\" Honey Burst 【実物画像/未展示品】[4.35kg][S/",
-      "price": 412500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10778624/"
+      "title": "Gibson Les Paul Modern Supreme Wine Red #220560130 【3.96kg】",
+      "price": 498300,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10778803/"
     },
     {
-      "id": "DS10778623",
+      "id": "DS10778796",
       "keyword": "Gibson",
-      "title": "Gibson Japan Exclusive Les Paul Standard 50s \"Custom Shop Top\" Unburst 【実物画像/未展示品】[4.35kg][S/N 21",
-      "price": 412500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10778623/"
+      "title": "Gibson Les Paul Standard '50s Gold Top #222460043 【4.54kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10778796/"
     },
     {
-      "id": "DS10778622",
+      "id": "DS10778769",
       "keyword": "Gibson",
-      "title": "Gibson Hummingbird Standard Purple Burst ギブソン 【実物画像/未展示品】[S/N 21686060]",
-      "price": 473000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10778622/"
+      "title": "Gibson Les Paul Standard 1977年製",
+      "price": 437800,
+      "url": "https://www.digimart.net/cat01/shop1320/DS10778769/"
     },
     {
-      "id": "DS10778597",
+      "id": "DS10778767",
       "keyword": "Gibson",
-      "title": "Gibson Exclusive Les Paul Standard 60s AAA Honey Lemon Burst ギブソン【実物画像/未展示品】[4.15kg][S/N 2160",
-      "price": 368500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10778597/"
+      "title": "Gibson Les Paul Standard 60s Figured Top Honey Amber #220960322【4.52kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10778767/"
     },
     {
-      "id": "DS10778663",
+      "id": "DS10778764",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Melody Maker 2014 Manhattan Midnight Satin 【渋谷店】",
+      "price": 154000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10778764/"
+    },
+    {
+      "id": "DS10778760",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) CE 24 Custom Configuration -Custom Color- ≒3.429Kg 2025 Model",
-      "price": 381920,
-      "url": "https://www.digimart.net/cat01/shop60/DS10778663/"
+      "title": "Paul Reed Smith(PRS) John Mayer Signature Model / Silver Sky 2021 Dodgem Blue/Maple Fingerboard 【渋谷店】",
+      "price": 352000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10778760/"
     },
     {
-      "id": "DS10778653",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) CE 22 Limited Edition -Black Amber- ≒3.602Kg 2025年製",
-      "price": 381920,
-      "url": "https://www.digimart.net/cat01/shop60/DS10778653/"
+      "id": "DS10778774",
+      "keyword": "Fender",
+      "title": "Fender Made in Japan Artist Deluxe Jazz Bass V KAZUKI ARAI Black 【2026年11月入荷予定】【ご予約受付中】",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat03/shop170/DS10778774/"
     },
     {
-      "id": "DS10778706",
-      "keyword": "Helix",
-      "title": "LINE 6 Helix Stadium Floor",
-      "price": 341000,
-      "url": "https://www.digimart.net/cat13/shop1220/DS10778706/"
+      "id": "DS10765683",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 1968 Telecaster Closet Classic ～Candy Apple Red～",
+      "price": 885500,
+      "url": "https://www.digimart.net/cat01/shop440/DS10765683/"
+    },
+    {
+      "id": "DS10765670",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 1960 Telecaster Custom Journeyman Relic ～Chocolate 2-Tone Sunburst～",
+      "price": 968000,
+      "url": "https://www.digimart.net/cat01/shop440/DS10765670/"
+    },
+    {
+      "id": "DS10765648",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 1966 Stratocaster DLX Closet Classic ～Frost Gold～",
+      "price": 924000,
+      "url": "https://www.digimart.net/cat01/shop440/DS10765648/"
     }
   ],
   "errors": [],
@@ -117,7 +138,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 193,
+      "qualifying": 194,
       "page_stats": [
         {
           "page": 1,
@@ -161,7 +182,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 198,
+      "qualifying": 199,
       "page_stats": [
         {
           "page": 1,
@@ -205,7 +226,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 79,
+      "qualifying": 75,
       "page_stats": [
         {
           "page": 1,
@@ -386,6 +407,6 @@
       ]
     }
   },
-  "collected": 933,
-  "seen_count": 1501
+  "collected": 931,
+  "seen_count": 1513
 }
