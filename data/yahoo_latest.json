@@ -1,33 +1,42 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T17:01:42.151369+00:00",
+  "checked_at": "2026-10-01T17:57:45.310721+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "k1244704548",
-      "keyword": "PRS",
-      "title": "PRS Custom24 30th Anniversary AP Artist Package 現在 455,000円 22時20分に終了",
-      "price": 455000,
+      "id": "k1245533336",
+      "keyword": "Gibson",
+      "title": "Gibson 1976 Firebird Bicentennial Edition 建国 USED美品 現在 688,000円 22時3分に終了",
+      "price": 688000,
       "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/k1244704548"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/k1245533336"
     },
     {
-      "id": "k1241502461",
-      "keyword": "PRS",
-      "title": "PRS CUSTOM22 20th ANNIVERSARY 10TOP GLAY BLACK エレキギター 音響機材 中古S11524211 現在 377,993円 22時39分に終了",
-      "price": 377993,
+      "id": "o1244917740",
+      "keyword": "Gibson",
+      "title": "Gibson Memphis ES-175 Aged Reissue Vintage Sunburst 限定生産の175 オリジナルケース付き Gibson フルアコ 現在 495,000円 23時19分に終了",
+      "price": 495000,
       "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/k1241502461"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/o1244917740"
+    },
+    {
+      "id": "b1246684467",
+      "keyword": "Fender",
+      "title": "Fender American Ultra Stratocaster Plasma Red Burst 現在 180,000円 即決 350,000円 送料未定 0 2日",
+      "price": 180000,
+      "buyout": 350000,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/b1246684467"
     }
   ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 263,
-      "parsed": 263,
+      "links": 262,
+      "parsed": 262,
       "qualifying": 4,
       "page_stats": [
         {
@@ -40,25 +49,25 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=51&n=50&s1=new&o1=d",
           "links": 60,
-          "unique_added": 38
+          "unique_added": 39
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=101&n=50&s1=new&o1=d",
           "links": 59,
-          "unique_added": 36
+          "unique_added": 34
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=151&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 45
+          "links": 60,
+          "unique_added": 46
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=201&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 46
+          "links": 59,
+          "unique_added": 45
         },
         {
           "page": 6,
@@ -69,10 +78,10 @@
       ]
     },
     "Gibson": {
-      "pages": 2,
-      "links": 115,
-      "parsed": 115,
-      "qualifying": 29,
+      "pages": 6,
+      "links": 301,
+      "parsed": 301,
+      "qualifying": 58,
       "page_stats": [
         {
           "page": 1,
@@ -83,48 +92,54 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 49,
+          "links": 73,
           "unique_added": 49
+        },
+        {
+          "page": 3,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=101&n=50&s1=new&o1=d",
+          "links": 68,
+          "unique_added": 44
+        },
+        {
+          "page": 4,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=151&n=50&s1=new&o1=d",
+          "links": 72,
+          "unique_added": 51
+        },
+        {
+          "page": 5,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=201&n=50&s1=new&o1=d",
+          "links": 70,
+          "unique_added": 46
+        },
+        {
+          "page": 6,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=251&n=50&s1=new&o1=d",
+          "links": 45,
+          "unique_added": 45
         }
       ]
     },
     "PRS": {
-      "pages": 4,
-      "links": 165,
-      "parsed": 165,
-      "qualifying": 28,
+      "pages": 1,
+      "links": 39,
+      "parsed": 39,
+      "qualifying": 10,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=PRS&b=1&n=50&s1=new&o1=d",
-          "links": 55,
-          "unique_added": 55
-        },
-        {
-          "page": 2,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=PRS&b=51&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 40
-        },
-        {
-          "page": 3,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=PRS&b=101&n=50&s1=new&o1=d",
-          "links": 58,
-          "unique_added": 38
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=PRS&b=151&n=50&s1=new&o1=d",
-          "links": 33,
-          "unique_added": 32
+          "links": 39,
+          "unique_added": 39
         }
       ]
     },
     "Fender": {
-      "pages": 4,
-      "links": 199,
-      "parsed": 199,
-      "qualifying": 0,
+      "pages": 6,
+      "links": 300,
+      "parsed": 300,
+      "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
@@ -147,8 +162,20 @@
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=151&n=50&s1=new&o1=d",
-          "links": 49,
-          "unique_added": 49
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 5,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=201&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 6,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=251&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
         }
       ]
     },
@@ -209,6 +236,6 @@
       ]
     }
   },
-  "collected": 64,
-  "seen_count": 284
+  "collected": 76,
+  "seen_count": 287
 }
