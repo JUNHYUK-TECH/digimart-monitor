@@ -1,35 +1,21 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T12:48:52.959972+00:00",
+  "checked_at": "2026-10-01T13:44:10.924825+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10779877",
+      "id": "DS10779651",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Heritage Cherry Sunburst ≪S/N:221560063≫ 【心斎橋店】",
-      "price": 346500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779877/"
+      "title": "Gibson 【現地選定品】【良杢個体】【鳴り◎】L-00 Rosewood 12 Fret【担当オススメ】",
+      "price": 462000,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10779651/"
     },
     {
-      "id": "DS10779876",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Heritage Cherry Sunburst ≪S/N:221560053≫ 【心斎橋店】",
-      "price": 346500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779876/"
-    },
-    {
-      "id": "DS10779875",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Modern Figured Cherry Burst [Modern Collection] ≪S/N:218960098≫ 【心斎橋店】",
-      "price": 363000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779875/"
-    },
-    {
-      "id": "DS10779874",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Tobacco Burst ≪S/N:222460105≫ 【心斎橋店】",
-      "price": 346500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10779874/"
+      "id": "DS10779904",
+      "keyword": "Fractal",
+      "title": "FRACTAL AUDIO SYSTEMS VP4 for BASS",
+      "price": 185900,
+      "url": "https://www.digimart.net/cat13/shop5033/DS10779904/"
     }
   ],
   "errors": [],
@@ -170,7 +156,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 59,
+      "qualifying": 57,
       "page_stats": [
         {
           "page": 1,
@@ -214,7 +200,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 184,
+      "qualifying": 185,
       "page_stats": [
         {
           "page": 1,
@@ -351,6 +337,6 @@
       ]
     }
   },
-  "collected": 916,
-  "seen_count": 1608
+  "collected": 915,
+  "seen_count": 1610
 }
