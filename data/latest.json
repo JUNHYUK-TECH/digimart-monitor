@@ -1,91 +1,63 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T05:40:23.712856+00:00",
+  "checked_at": "2026-10-01T06:48:35.711246+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10778828",
+      "id": "DS10773667",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Studio Faded 2016 Satin Ebony 【新宿店】",
-      "price": 154000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10778828/"
+      "title": "Gibson J-15",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat02/shop4816/DS10773667/"
     },
     {
-      "id": "DS10778821",
+      "id": "DS10778879",
       "keyword": "Gibson",
-      "title": "Gibson USA 2005 Firebird VII (Cherry)",
-      "price": 437800,
-      "url": "https://www.digimart.net/cat01/shop87/DS10778821/"
+      "title": "Gibson Custom Shop Historic Cllection FirebirdⅤ/Maestro Vibrola (1999)",
+      "price": 550000,
+      "url": "https://www.digimart.net/cat01/shop48/DS10778879/"
     },
     {
-      "id": "DS10778803",
+      "id": "DS10778878",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Modern Supreme Wine Red #220560130 【3.96kg】",
-      "price": 498300,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10778803/"
+      "title": "Gibson LG-0 1964",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat02/shop5032/DS10778878/"
     },
     {
-      "id": "DS10778796",
+      "id": "DS10778856",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard '50s Gold Top #222460043 【4.54kg】",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10778796/"
+      "title": "Gibson 【世界に1本】M2M J-45 Standard Bearclaw Top Green Kabluey #22056057【無金利キャンペーン】",
+      "price": 518000,
+      "url": "https://www.digimart.net/cat02/shop5452/DS10778856/"
     },
     {
-      "id": "DS10778769",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 1977年製",
-      "price": 437800,
-      "url": "https://www.digimart.net/cat01/shop1320/DS10778769/"
-    },
-    {
-      "id": "DS10778767",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 60s Figured Top Honey Amber #220960322【4.52kg】",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10778767/"
-    },
-    {
-      "id": "DS10778764",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Melody Maker 2014 Manhattan Midnight Satin 【渋谷店】",
-      "price": 154000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10778764/"
-    },
-    {
-      "id": "DS10778760",
+      "id": "DS10778953",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) John Mayer Signature Model / Silver Sky 2021 Dodgem Blue/Maple Fingerboard 【渋谷店】",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10778760/"
+      "title": "Paul Reed Smith(PRS) Hollowbody II Piezo -Charcoal- ≒2.524Kg 2025年製",
+      "price": 827200,
+      "url": "https://www.digimart.net/cat01/shop60/DS10778953/"
     },
     {
-      "id": "DS10778774",
-      "keyword": "Fender",
-      "title": "Fender Made in Japan Artist Deluxe Jazz Bass V KAZUKI ARAI Black 【2026年11月入荷予定】【ご予約受付中】",
-      "price": 264000,
-      "url": "https://www.digimart.net/cat03/shop170/DS10778774/"
+      "id": "DS10778849",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2022 SE Custom24 Floyd Charcoal Burst 【新宿店】",
+      "price": 143000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10778849/"
     },
     {
-      "id": "DS10765683",
+      "id": "DS10778932",
       "keyword": "Fender",
-      "title": "Fender Custom Shop 1968 Telecaster Closet Classic ～Candy Apple Red～",
-      "price": 885500,
-      "url": "https://www.digimart.net/cat01/shop440/DS10765683/"
+      "title": "Fender VG Stratocaster【現物画像/3.74kg】【Made in USA】",
+      "price": 168000,
+      "url": "https://www.digimart.net/cat01/shop5271/DS10778932/"
     },
     {
-      "id": "DS10765670",
+      "id": "DS10778848",
       "keyword": "Fender",
-      "title": "Fender Custom Shop 1960 Telecaster Custom Journeyman Relic ～Chocolate 2-Tone Sunburst～",
-      "price": 968000,
-      "url": "https://www.digimart.net/cat01/shop440/DS10765670/"
-    },
-    {
-      "id": "DS10765648",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 1966 Stratocaster DLX Closet Classic ～Frost Gold～",
-      "price": 924000,
-      "url": "https://www.digimart.net/cat01/shop440/DS10765648/"
+      "title": "Fender American Vintage 62 Jazz Bass 3Knobs Black 【新宿店】",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10778848/"
     }
   ],
   "errors": [],
@@ -136,9 +108,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 300,
-      "parsed": 299,
-      "qualifying": 194,
+      "links": 299,
+      "parsed": 298,
+      "qualifying": 192,
       "page_stats": [
         {
           "page": 1,
@@ -150,7 +122,7 @@
           "page": 2,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=&readCount=50&noparallelimportp=&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=&soldoutDispCheck=false&tagWords=&dmsP=&keywordAnd=Gibson&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=&neckScaleOption=&tagWordsNot=&freeshippingp=&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=&pickupOption=&movieurlp=&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=&brandIdNot=&ecCardP=&ecpurchasep=&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=&fingerboardOption=&noshopsalep=&currentPage=2&shopNo=&stringsoption=&categoryId=&shopsalep=&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 3,
@@ -226,7 +198,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 75,
+      "qualifying": 73,
       "page_stats": [
         {
           "page": 1,
@@ -270,7 +242,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 183,
+      "qualifying": 182,
       "page_stats": [
         {
           "page": 1,
@@ -407,6 +379,6 @@
       ]
     }
   },
-  "collected": 931,
-  "seen_count": 1513
+  "collected": 926,
+  "seen_count": 1521
 }
