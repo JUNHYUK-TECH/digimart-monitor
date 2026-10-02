@@ -1,21 +1,231 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-02T02:39:37.654394+00:00",
+  "checked_at": "2026-10-02T03:41:43.231171+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10779998",
+      "id": "DS10780189",
       "keyword": "Gibson",
-      "title": "Gibson Melody Maker 1965",
-      "price": 458000,
-      "url": "https://www.digimart.net/cat01/shop4682/DS10779998/"
+      "title": "Gibson J-185 Century 12F Ebony",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat02/shop5072/DS10780189/"
     },
     {
-      "id": "DS10779976",
-      "keyword": "Fender",
-      "title": "Fender 【中古】 Fender USA フェンダー PRECISION BASS ELITE II Left Hand 1984年製 エリートII レフティ",
-      "price": 330000,
-      "url": "https://www.digimart.net/cat03/shop1000/DS10779976/"
+      "id": "DS10780187",
+      "keyword": "Gibson",
+      "title": "Gibson 1942 Banner Southern Jumbo Light Aged #22225005",
+      "price": 884000,
+      "url": "https://www.digimart.net/cat02/shop5452/DS10780187/"
+    },
+    {
+      "id": "DS10780154",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard '50s Custom Shop Top -Unburst- #218260303【4.18kg】【超良フレイム!】",
+      "price": 412500,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780154/"
+    },
+    {
+      "id": "DS10780153",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard '50s Custom Shop Top -Heritage Chery Sunburst-【4.02kg/軽量個体】",
+      "price": 412500,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780153/"
+    },
+    {
+      "id": "DS10780152",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s -Heritage Cherry Sunburst-【4.39kg】【待望のレフティー入荷!】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780152/"
+    },
+    {
+      "id": "DS10780150",
+      "keyword": "Gibson",
+      "title": "Gibson 【1999年製・生鳴り◎】Limited Edition ES-335 Plain Translucent Red【3.96kg】",
+      "price": 598000,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780150/"
+    },
+    {
+      "id": "DS10780149",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop EDS-1275 Double Neck MOD -Cherry Red-【5.41kg】",
+      "price": 990000,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780149/"
+    },
+    {
+      "id": "DS10780148",
+      "keyword": "Gibson",
+      "title": "Gibson 【1973年製】 Les Paul Custom \"Cherry\"【4.47kg】",
+      "price": 990000,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780148/"
+    },
+    {
+      "id": "DS10780147",
+      "keyword": "Gibson",
+      "title": "Gibson 【大幅値下げ】Howard Roberts Fusion【3.48kg】",
+      "price": 495000,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780147/"
+    },
+    {
+      "id": "DS10780145",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Japan Limited Murphy Lab 1956 Les Paul Standard V2 Neck Ebony Ultra Light Aged【3.97kg】【試奏動画】",
+      "price": 880000,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780145/"
+    },
+    {
+      "id": "DS10780142",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 【Dealer Select】1957 Les Paul Gold Top Reissue VOS All Gold Gloss Carmelita Neck【3.85kg】",
+      "price": 847000,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780142/"
+    },
+    {
+      "id": "DS10780140",
+      "keyword": "Gibson",
+      "title": "Gibson es Paul Standard '50s Custom Shop Top -Heritage Chery Sunburst-【3.99kg/軽量個体】",
+      "price": 412500,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780140/"
+    },
+    {
+      "id": "DS10780136",
+      "keyword": "Gibson",
+      "title": "Gibson 【セカンド品】Les Paul Special TV Yellow【3.88kg】",
+      "price": 225500,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780136/"
+    },
+    {
+      "id": "DS10780133",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 【グリップ感◎】Murphy Lab 1959 ES-335 Reissue Vintage Natural/ U.Light Aged #A960156【3.48kg】",
+      "price": 943800,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780133/"
+    },
+    {
+      "id": "DS10780129",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 【Dealer Select】1956 Les Paul Gold Top Reissue VOS All Gold Gloss Carmelita Neck【3.91kg】",
+      "price": 847000,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780129/"
+    },
+    {
+      "id": "DS10780127",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop RD Custom Ebony Gloss #CS600700 【漆黒のエボニー指板】【待望の入荷】",
+      "price": 792000,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780127/"
+    },
+    {
+      "id": "DS10780125",
+      "keyword": "Gibson",
+      "title": "Gibson 【チョイ傷特価】Les Paul Studio Double Trouble -Cherry Sunburst-【3.63kg】",
+      "price": 214500,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780125/"
+    },
+    {
+      "id": "DS10780123",
+      "keyword": "Gibson",
+      "title": "Gibson Gibson Exclusive SG Supreme -Ebony- 【3.50kg】【エクスクルーシブモデル】",
+      "price": 440000,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780123/"
+    },
+    {
+      "id": "DS10780122",
+      "keyword": "Gibson",
+      "title": "Gibson Gibson Exclusive Les Paul Supreme -Ebony- 【4.09kg/軽量個体!】【漆黒指板】",
+      "price": 498300,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780122/"
+    },
+    {
+      "id": "DS10780120",
+      "keyword": "Gibson",
+      "title": "Gibson 【傷あり特価】Les Paul Standard '60s AAA Top HCSB【3.94kg/軽量】【ワイドフレイム】",
+      "price": 396000,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780120/"
+    },
+    {
+      "id": "DS10780117",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Junior \"TV Yellow\" 【3.95kg】【良指板個体】",
+      "price": 203500,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780117/"
+    },
+    {
+      "id": "DS10780116",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Murphy Lab 1957 Les Paul Special Reissue TV Yellow Ultra Light Aged【2022年製/USED】【3.38kg】",
+      "price": 605000,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780116/"
+    },
+    {
+      "id": "DS10780101",
+      "keyword": "Gibson",
+      "title": "Gibson 1975 Les Paul Custom \"Cherry\"【4.64kg】【お客様ご委託品】",
+      "price": 880000,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780101/"
+    },
+    {
+      "id": "DS10780098",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Special TV Yellow #204760035【3.44kg】【良指板個体!】",
+      "price": 225500,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780098/"
+    },
+    {
+      "id": "DS10780096",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 1954 Les Paul Gold Top Reissue VOS Double Gold Top #4 6173【3.73kg/軽量個体】",
+      "price": 682000,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10780096/"
+    },
+    {
+      "id": "DS10780211",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Standard 24-08 BLACK Limited Model エレキギター",
+      "price": 138600,
+      "url": "https://www.digimart.net/cat01/shop5384/DS10780211/"
+    },
+    {
+      "id": "DS10472131",
+      "keyword": "Nord",
+      "title": "Nord Piano 6 73 ケース・スタンド・スピーカー 純正セット 73鍵盤 ステージキーボード ステージピアノ",
+      "price": 792550,
+      "url": "https://www.digimart.net/cat06/shop4840/DS10472131/"
+    },
+    {
+      "id": "DS10472130",
+      "keyword": "Nord",
+      "title": "Nord Stage 4 73 ケース・スタンド・スピーカー 純正セット 73鍵盤 ステージキーボード",
+      "price": 968550,
+      "url": "https://www.digimart.net/cat06/shop4840/DS10472130/"
+    },
+    {
+      "id": "DS10445035",
+      "keyword": "Nord",
+      "title": "Nord Piano 6 73 ケース・スタンド純正セット 73鍵盤 ステージキーボード ステージピアノ",
+      "price": 688050,
+      "url": "https://www.digimart.net/cat06/shop4840/DS10445035/"
+    },
+    {
+      "id": "DS10445034",
+      "keyword": "Nord",
+      "title": "Nord Piano 6 73 純正ケースセット 73鍵盤 ステージキーボード ステージピアノ",
+      "price": 661100,
+      "url": "https://www.digimart.net/cat06/shop4840/DS10445034/"
+    },
+    {
+      "id": "DS10445033",
+      "keyword": "Nord",
+      "title": "Nord Stage 4 73 ケース・スタンド純正セット 73鍵盤 ステージキーボード",
+      "price": 864050,
+      "url": "https://www.digimart.net/cat06/shop4840/DS10445033/"
+    },
+    {
+      "id": "DS10445032",
+      "keyword": "Nord",
+      "title": "Nord Stage 4 73 純正ケースセット 73鍵盤 ステージキーボード",
+      "price": 837100,
+      "url": "https://www.digimart.net/cat06/shop4840/DS10445032/"
     }
   ],
   "errors": [],
@@ -156,7 +366,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 51,
+      "qualifying": 50,
       "page_stats": [
         {
           "page": 1,
@@ -200,7 +410,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 184,
+      "qualifying": 186,
       "page_stats": [
         {
           "page": 1,
@@ -337,6 +547,6 @@
       ]
     }
   },
-  "collected": 909,
-  "seen_count": 1615
+  "collected": 910,
+  "seen_count": 1647
 }
