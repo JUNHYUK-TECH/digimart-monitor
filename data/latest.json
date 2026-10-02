@@ -1,77 +1,175 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-02T08:42:33.943201+00:00",
+  "checked_at": "2026-10-02T09:42:08.186237+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10781050",
+      "id": "DS10781343",
       "keyword": "Gibson",
-      "title": "Gibson 60s J-45 Original - Wine Red #21336110",
-      "price": 374000,
-      "url": "https://www.digimart.net/cat02/shop4540/DS10781050/"
+      "title": "Gibson 1964 Melody Maker Sunburst",
+      "price": 440000,
+      "url": "https://www.digimart.net/cat01/shop2080/DS10781343/"
     },
     {
-      "id": "DS10781063",
+      "id": "DS10781335",
       "keyword": "Gibson",
-      "title": "Gibson 1982 Jimmy Wallace 58 reissue Les Paul Standard【極上フィギュアードトップ】",
-      "price": 902000,
-      "url": "https://www.digimart.net/cat01/shop175/DS10781063/"
+      "title": "Gibson 【High Performance Series】Les Paul Traditional 2017 HP【4.32kg】【G-CLUB SHIBUYA】",
+      "price": 328000,
+      "url": "https://www.digimart.net/cat01/shop60/DS10781335/"
     },
     {
-      "id": "DS10780505",
+      "id": "DS10781058",
       "keyword": "Gibson",
-      "title": "Gibson Hummingbird Standard with HiFi DNA Vintage Cherry Sunburst ギブソン",
-      "price": 473000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10780505/"
+      "title": "Gibson Custom Shop J-45 Gold Top Gloss #20426121",
+      "price": 509600,
+      "url": "https://www.digimart.net/cat02/shop4540/DS10781058/"
     },
     {
-      "id": "DS10781102",
+      "id": "DS10781062",
+      "keyword": "Gibson",
+      "title": "Gibson SJ-200 60s Original -Vintage Sunburst #21015055",
+      "price": 715000,
+      "url": "https://www.digimart.net/cat02/shop4540/DS10781062/"
+    },
+    {
+      "id": "DS10781264",
+      "keyword": "Gibson",
+      "title": "Gibson Hummingbird Special Satin Vintage Cherry Sunburst ギブソン【池袋店】",
+      "price": 261800,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10781264/"
+    },
+    {
+      "id": "DS10781069",
+      "keyword": "Gibson",
+      "title": "Gibson SJ-200 Standard Birdseye Wildfire",
+      "price": 933000,
+      "url": "https://www.digimart.net/cat02/shop4540/DS10781069/"
+    },
+    {
+      "id": "DS10781258",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Historic Collection 1963 ES-335 Block Aged 【福岡店】",
+      "price": 594000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10781258/"
+    },
+    {
+      "id": "DS10781251",
+      "keyword": "Gibson",
+      "title": "Gibson Limited Edition Les Paul Studio Mahogany Worn Cherry 【池袋店】",
+      "price": 165000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10781251/"
+    },
+    {
+      "id": "DS10781239",
+      "keyword": "Gibson",
+      "title": "Gibson 1999 ES-335 Dot Cherry 【福岡店】",
+      "price": 396000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10781239/"
+    },
+    {
+      "id": "DS10781234",
+      "keyword": "Gibson",
+      "title": "Gibson Exclusive Model ES-335 Figured Blueberry Burst [USエクスクルーシヴモデル] ギブソン",
+      "price": 495000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10781234/"
+    },
+    {
+      "id": "DS10781187",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Studio DC (1997)",
+      "price": 137500,
+      "url": "https://www.digimart.net/cat01/shop48/DS10781187/"
+    },
+    {
+      "id": "DS10781122",
+      "keyword": "Gibson",
+      "title": "Gibson Japan Exclusive Les Paul Standard 50s \"Custom Shop Top\" -Heritage Cherry Burst- #212460110 【4.1kg】",
+      "price": 412500,
+      "url": "https://www.digimart.net/cat01/shop18/DS10781122/"
+    },
+    {
+      "id": "DS10781118",
+      "keyword": "Gibson",
+      "title": "Gibson Japan Exclusive Les Paul Standard 50s \"Custom Shop Top\" -Unburst- #219860110 【4.28kg】",
+      "price": 412500,
+      "url": "https://www.digimart.net/cat01/shop18/DS10781118/"
+    },
+    {
+      "id": "DS10781347",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE McCARTY 594 Black Gold Burst 【返品OK】[UMO46]【梅田店在庫】",
+      "price": 118000,
+      "url": "https://www.digimart.net/cat01/shop3580/DS10781347/"
+    },
+    {
+      "id": "DS10781317",
       "keyword": "Fender",
-      "title": "Fender Limited Edition American Professional Classic Telecaster - Mystic Ice Blue-",
-      "price": 228800,
-      "url": "https://www.digimart.net/cat01/shop38/DS10781102/"
+      "title": "Fender American Professional Classic Precision Bass 3-Color Sunburst [新品特価] [3.98kg]【池袋店】",
+      "price": 208980,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10781317/"
     },
     {
-      "id": "DS10781049",
+      "id": "DS10781268",
       "keyword": "Fender",
-      "title": "fender acoustic American Acoustasonic Jazzmaster NAT",
-      "price": 312400,
-      "url": "https://www.digimart.net/cat02/shop4540/DS10781049/"
+      "title": "Fender American Professional Classic Telecaster Maple Butterscotch Blonde【渋谷店】",
+      "price": 208000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10781268/"
     },
     {
-      "id": "DS10781020",
+      "id": "DS10781267",
       "keyword": "Fender",
-      "title": "Fender Custom Shop Custom Built Custom Stratocaster NOS Roasted Flame Neck Sea Foam Green 【渋谷店】",
-      "price": 957000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10781020/"
+      "title": "Fender American Professional Classic Telecaster Rosewood Faded Black【渋谷店】",
+      "price": 208000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10781267/"
     },
     {
-      "id": "DS10781019",
+      "id": "DS10781259",
       "keyword": "Fender",
-      "title": "Fender Custom Shop Custom Built Custom Stratocaster NOS Roasted Flame Neck Fiesta Red 【渋谷店】",
-      "price": 957000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10781019/"
+      "title": "Fender American Professional II Telecaster Butter Scotch Blonde/Maple 【福岡店】",
+      "price": 232000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10781259/"
     },
     {
-      "id": "DS10780903",
+      "id": "DS10781257",
       "keyword": "Fender",
-      "title": "Fender Custom Shop Fender C/S 1961 Telecaster Heavy Relic ALPB #CZ565804",
-      "price": 831600,
-      "url": "https://www.digimart.net/cat01/shop60/DS10780903/"
+      "title": "Fender Custom Shop 1961 Stratocaster Journeyman Tobacco Sunburst 【福岡店】",
+      "price": 698500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10781257/"
     },
     {
-      "id": "DS10780979",
-      "keyword": "Helix",
-      "title": "LINE 6 Helix Stadium Floor 【池袋店】",
-      "price": 286000,
-      "url": "https://www.digimart.net/cat13/shop1484/DS10780979/"
+      "id": "DS10781255",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Master Built Series Custom Deluxe Telecaster Custom 2-Tone Sunburst by Yuriy Shishkov 2012 【渋谷店",
+      "price": 990000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10781255/"
     },
     {
-      "id": "DS10137245",
-      "keyword": "Fractal",
-      "title": "FRACTAL AUDIO SYSTEMS AM4 AMP MODELER フラクタルオーディオシステム アンプモデラー【国内正規品】",
+      "id": "DS10781249",
+      "keyword": "Fender",
+      "title": "Fender American Ultra Luxe Vintage ‘50s Telecaster Maple Butterscotch Blonde 《特典付き》【池袋店】",
+      "price": 498000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10781249/"
+    },
+    {
+      "id": "DS10781243",
+      "keyword": "Fender",
+      "title": "Fender American Standard Jazz Bass 3-Color Sunburst 【福岡店】",
       "price": 176000,
-      "url": "https://www.digimart.net/cat13/shop1484/DS10137245/"
+      "url": "https://www.digimart.net/cat03/shop1484/DS10781243/"
+    },
+    {
+      "id": "DS10781235",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Telecaster Rosewood 3-Color Sunburst[3.42kg]【US25056076】【池袋店】",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10781235/"
+    },
+    {
+      "id": "DS10781194",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Stratocaster Rosewood Dark Night【値下げ10/01】【US25056220】【池袋店】",
+      "price": 259800,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10781194/"
     }
   ],
   "errors": [],
@@ -124,7 +222,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 193,
+      "qualifying": 205,
       "page_stats": [
         {
           "page": 1,
@@ -168,7 +266,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 201,
+      "qualifying": 202,
       "page_stats": [
         {
           "page": 1,
@@ -212,7 +310,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 65,
+      "qualifying": 70,
       "page_stats": [
         {
           "page": 1,
@@ -393,6 +491,6 @@
       ]
     }
   },
-  "collected": 929,
-  "seen_count": 1740
+  "collected": 947,
+  "seen_count": 1764
 }
