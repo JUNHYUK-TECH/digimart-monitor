@@ -1,21 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-02T00:48:20.670792+00:00",
+  "checked_at": "2026-10-02T01:39:55.710568+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10779024",
+      "id": "DS10779975",
       "keyword": "Gibson",
-      "title": "Gibson Noel Gallagher LPSTD エレキギター",
-      "price": 435600,
-      "url": "https://www.digimart.net/cat01/shop5187/DS10779024/"
-    },
-    {
-      "id": "DS10779944",
-      "keyword": "Fender",
-      "title": "Fender 75th Anniversary American Professional PJ Bass Rosewood Fingerboard 2-Color Sunburst [チョイキズア",
-      "price": 438000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10779944/"
+      "title": "Gibson 【中古】 エレキギター Gibson Les Paul Standard ’60s Unburst 2024年製 高年式 60sスリムテーパーネック",
+      "price": 268000,
+      "url": "https://www.digimart.net/cat01/shop1000/DS10779975/"
     }
   ],
   "errors": [],
@@ -68,7 +61,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 188,
+      "qualifying": 189,
       "page_stats": [
         {
           "page": 1,
@@ -337,6 +330,6 @@
       ]
     }
   },
-  "collected": 908,
-  "seen_count": 1612
+  "collected": 909,
+  "seen_count": 1613
 }
