@@ -1,21 +1,28 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-02T13:43:09.581066+00:00",
+  "checked_at": "2026-10-02T14:43:29.751173+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10781077",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 1954 Stratocaster 2Tone Sunburst 1997年製【3.29kg】【フレイムメイプルネック】",
-      "price": 440000,
-      "url": "https://www.digimart.net/cat01/shop26/DS10781077/"
+      "id": "DS10781929",
+      "keyword": "Gibson",
+      "title": "Gibson LES PAUL Junior TV Yellow",
+      "price": 206800,
+      "url": "https://www.digimart.net/cat01/shop2201/DS10781929/"
     },
     {
-      "id": "DS10780577",
-      "keyword": "Fender",
-      "title": "Fender Limited Edition American Ultra II Telecaster®",
-      "price": 462000,
-      "url": "https://www.digimart.net/cat01/shop5183/DS10780577/"
+      "id": "DS10781928",
+      "keyword": "Gibson",
+      "title": "Gibson LES PAUL JUNIOR EBONY",
+      "price": 206800,
+      "url": "https://www.digimart.net/cat01/shop2201/DS10781928/"
+    },
+    {
+      "id": "DS10781924",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop HISTORIC COLLECTION 1959 LES PAUL STANDARD VOS",
+      "price": 825000,
+      "url": "https://www.digimart.net/cat01/shop2201/DS10781924/"
     }
   ],
   "errors": [],
@@ -68,7 +75,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 198,
+      "qualifying": 187,
       "page_stats": [
         {
           "page": 1,
@@ -156,7 +163,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 73,
+      "qualifying": 72,
       "page_stats": [
         {
           "page": 1,
@@ -337,6 +344,6 @@
       ]
     }
   },
-  "collected": 941,
-  "seen_count": 1819
+  "collected": 929,
+  "seen_count": 1822
 }
