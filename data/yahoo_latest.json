@@ -1,8 +1,18 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-02T08:57:11.232286+00:00",
+  "checked_at": "2026-10-02T09:57:50.957893+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "o1246814366",
+      "keyword": "Quad Cortex",
+      "title": "Quad cortex mini Neural DSP",
+      "price": 210000,
+      "buyout": 210000,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/o1246814366"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -27,15 +37,15 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 271,
+      "links": 270,
       "parsed": 254,
       "qualifying": 76,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 61,
-          "unique_added": 61
+          "links": 60,
+          "unique_added": 60
         },
         {
           "page": 2,
@@ -53,65 +63,77 @@
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
           "links": 63,
-          "unique_added": 43
+          "unique_added": 42
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 64,
-          "unique_added": 44
+          "links": 66,
+          "unique_added": 46
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 39
+          "links": 58,
+          "unique_added": 38
         }
       ]
     },
     "PRS": {
-      "pages": 2,
-      "links": 88,
-      "parsed": 78,
-      "qualifying": 13,
+      "pages": 4,
+      "links": 166,
+      "parsed": 156,
+      "qualifying": 20,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=1&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
+          "links": 51,
+          "unique_added": 51
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=51&n=50&s1=new&o1=d",
-          "links": 49,
-          "unique_added": 38
+          "links": 50,
+          "unique_added": 39
+        },
+        {
+          "page": 3,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=101&n=50&s1=new&o1=d",
+          "links": 53,
+          "unique_added": 42
+        },
+        {
+          "page": 4,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=151&n=50&s1=new&o1=d",
+          "links": 45,
+          "unique_added": 34
         }
       ]
     },
     "Fender": {
       "pages": 6,
-      "links": 319,
-      "parsed": 299,
+      "links": 315,
+      "parsed": 295,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 70
+          "links": 69,
+          "unique_added": 69
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 50
+          "links": 69,
+          "unique_added": 49
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 50
+          "links": 69,
+          "unique_added": 49
         },
         {
           "page": 4,
@@ -122,8 +144,8 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 50
+          "links": 69,
+          "unique_added": 49
         },
         {
           "page": 6,
@@ -163,33 +185,33 @@
     },
     "Quad Cortex": {
       "pages": 1,
-      "links": 29,
-      "parsed": 29,
-      "qualifying": 1,
+      "links": 30,
+      "parsed": 30,
+      "qualifying": 2,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Quad+Cortex&b=1&n=50&s1=new&o1=d",
-          "links": 29,
-          "unique_added": 29
+          "links": 30,
+          "unique_added": 30
         }
       ]
     },
     "Fractal": {
       "pages": 1,
-      "links": 38,
-      "parsed": 38,
+      "links": 39,
+      "parsed": 39,
       "qualifying": 2,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fractal&b=1&n=50&s1=new&o1=d",
-          "links": 38,
-          "unique_added": 38
+          "links": 39,
+          "unique_added": 39
         }
       ]
     }
   },
-  "collected": 98,
-  "seen_count": 305
+  "collected": 106,
+  "seen_count": 306
 }
