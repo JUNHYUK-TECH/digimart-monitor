@@ -1,8 +1,23 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-01T23:37:29.321919+00:00",
+  "checked_at": "2026-10-02T00:48:20.670792+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10779024",
+      "keyword": "Gibson",
+      "title": "Gibson Noel Gallagher LPSTD エレキギター",
+      "price": 435600,
+      "url": "https://www.digimart.net/cat01/shop5187/DS10779024/"
+    },
+    {
+      "id": "DS10779944",
+      "keyword": "Fender",
+      "title": "Fender 75th Anniversary American Professional PJ Bass Rosewood Fingerboard 2-Color Sunburst [チョイキズア",
+      "price": 438000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10779944/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -141,7 +156,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 57,
+      "qualifying": 52,
       "page_stats": [
         {
           "page": 1,
@@ -185,7 +200,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 185,
+      "qualifying": 184,
       "page_stats": [
         {
           "page": 1,
@@ -322,6 +337,6 @@
       ]
     }
   },
-  "collected": 914,
-  "seen_count": 1610
+  "collected": 908,
+  "seen_count": 1612
 }
