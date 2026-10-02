@@ -1,8 +1,18 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-02T17:55:41.530149+00:00",
+  "checked_at": "2026-10-02T18:58:18.538629+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "p1246838892",
+      "keyword": "Gibson",
+      "title": "Gibson◆LP STU Faded 2015/BLK/エレキギター/レスポールタイプ/黒系/HH//",
+      "price": 143660,
+      "buyout": 143660,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/p1246838892"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -185,5 +195,5 @@
     }
   },
   "collected": 81,
-  "seen_count": 320
+  "seen_count": 321
 }
