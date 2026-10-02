@@ -1,84 +1,42 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-02T11:40:36.778892+00:00",
+  "checked_at": "2026-10-02T12:47:26.442116+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10781859",
+      "id": "DS10781889",
       "keyword": "Gibson",
-      "title": "Gibson Hummingbird Acacia Russet Burst",
-      "price": 550000,
-      "url": "https://www.digimart.net/cat02/shop5032/DS10781859/"
+      "title": "Gibson L-00 Acacia Russet Burst",
+      "price": 440000,
+      "url": "https://www.digimart.net/cat02/shop5032/DS10781889/"
     },
     {
-      "id": "DS10781844",
+      "id": "DS10754971",
       "keyword": "Gibson",
-      "title": "Gibson J-50 DELUXE (1978年製/Vintage) ギブソン アコギ アコースティックギター 【池袋店】",
-      "price": 359700,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10781844/"
+      "title": "Gibson Les Paul Standard ~Honey Burst~ 2001年製",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat01/shop5007/DS10754971/"
     },
     {
-      "id": "DS10780514",
+      "id": "DS10781845",
       "keyword": "Gibson",
-      "title": "Gibson 【クロサワ横浜店】【店頭傷あり特価品】LG-2 All Mahogany Faded #22185022【48回無金利分割可能】",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat02/shop175/DS10780514/"
+      "title": "Gibson Custom Shop Jimmy Page Signature Les Paul Standard Light Honeyburst [4.26kg/1996年製]ギブソン 【池袋店】",
+      "price": 880000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10781845/"
     },
     {
-      "id": "DS10781787",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 【蒼いセミアコ】1959 ES-335 Reissue w/Bigsby VOS Candy Apple Blue [3.95kg] 2023年製",
-      "price": 648000,
-      "url": "https://www.digimart.net/cat01/shop169/DS10781787/"
-    },
-    {
-      "id": "DS10781285",
-      "keyword": "Gibson",
-      "title": "Gibson ES-120T / 1967",
-      "price": 349800,
-      "url": "https://www.digimart.net/cat01/shop5392/DS10781285/"
-    },
-    {
-      "id": "DS10781784",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) McCarty Archtop Artist 10Top 1999年製【2.4kg】【S/N:39840】【横浜店】",
-      "price": 798000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10781784/"
-    },
-    {
-      "id": "DS10780551",
+      "id": "DS10780562",
       "keyword": "Fender",
-      "title": "Fender Deluxe Jazz Bass V Kazuki Arai Edition -Black- #JD26026984【4.78kg】",
-      "price": 264000,
-      "url": "https://www.digimart.net/cat03/shop18/DS10780551/"
+      "title": "Fender Limited Edition American Ultra II Stratocaster®",
+      "price": 473000,
+      "url": "https://www.digimart.net/cat01/shop5183/DS10780562/"
     },
     {
-      "id": "DS10781829",
+      "id": "DS10780612",
       "keyword": "Fender",
-      "title": "Fender Limited American Vintage II 1957 Stratocaster White Blonde 【3.50kg】【V2557841】",
-      "price": 407000,
-      "url": "https://www.digimart.net/cat01/shop170/DS10781829/"
-    },
-    {
-      "id": "DS10781614",
-      "keyword": "Fender",
-      "title": "Fender LTD AMERICAN PROFESSIONAL CLASSIC STRATOCASTER Mystic Ice Blue #US26021463【3.53kg】",
-      "price": 242000,
-      "url": "https://www.digimart.net/cat01/shop175/DS10781614/"
-    },
-    {
-      "id": "DS10781792",
-      "keyword": "Fender",
-      "title": "Fender American Professional II Stratocaster 3-Color Sunburst Rosewood Fingerboard【S/N:US20043180】【横浜",
-      "price": 220000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10781792/"
-    },
-    {
-      "id": "DS10781773",
-      "keyword": "Fender",
-      "title": "Fender American Vintage II Precision Bass Neck 2023 + Squier JV Body 1982-1984 4.070kg #JV51527【GIB横浜】",
-      "price": 242550,
-      "url": "https://www.digimart.net/cat03/shop5088/DS10781773/"
+      "title": "Fender Limited Edition American Ultra II Jazz Bass®",
+      "price": 473000,
+      "url": "https://www.digimart.net/cat03/shop5183/DS10780612/"
     }
   ],
   "errors": [],
@@ -219,7 +177,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 70,
+      "qualifying": 71,
       "page_stats": [
         {
           "page": 1,
@@ -400,6 +358,6 @@
       ]
     }
   },
-  "collected": 947,
-  "seen_count": 1812
+  "collected": 948,
+  "seen_count": 1817
 }
