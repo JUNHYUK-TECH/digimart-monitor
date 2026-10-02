@@ -1,30 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-02T15:42:51.883665+00:00",
+  "checked_at": "2026-10-02T16:42:31.544754+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10779927",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1959 Les Paul Standard Reissue VOS / Dirty Lemon 【3.94kg】",
-      "price": 973500,
-      "url": "https://www.digimart.net/cat01/shop5056/DS10779927/"
-    },
-    {
-      "id": "DS10779926",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1959 Les Paul Standard Reissue VOS / Iced Tea Burst 【3.95kg】",
-      "price": 973500,
-      "url": "https://www.digimart.net/cat01/shop5056/DS10779926/"
-    },
-    {
-      "id": "DS10781932",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Murphy Lab 1957 Les Paul Gold Top Darkback Reissue Light Aged / Double Gold 【3.95kg】",
-      "price": 943800,
-      "url": "https://www.digimart.net/cat01/shop5056/DS10781932/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -75,7 +53,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 187,
+      "qualifying": 188,
       "page_stats": [
         {
           "page": 1,
@@ -344,6 +322,6 @@
       ]
     }
   },
-  "collected": 929,
+  "collected": 930,
   "seen_count": 1825
 }
