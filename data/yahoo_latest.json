@@ -1,33 +1,24 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-02T01:00:01.562136+00:00",
+  "checked_at": "2026-10-02T01:56:32.990225+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "k1246705641",
-      "keyword": "Gibson",
-      "title": "Gibson◆LP STU Faded 2015/BLK/エレキギター/レスポールタイプ/黒系/HH//",
-      "price": 143660,
-      "buyout": 143660,
+      "id": "1246722628",
+      "keyword": "Fender",
+      "title": "中古 エレキギター Fender American Vintage 62 Stratocaster Olympic White Thin Lacquer 2007年製 フェンダー アメビン",
+      "price": 198000,
+      "buyout": 198000,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/k1246705641"
-    },
-    {
-      "id": "c1246474573",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Custom Silverburst エレキギター レスポール ハードケース付 USA",
-      "price": 100005,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/c1246474573"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/1246722628"
     }
   ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 2,
-      "links": 90,
-      "parsed": 89,
+      "links": 92,
+      "parsed": 91,
       "qualifying": 0,
       "page_stats": [
         {
@@ -39,16 +30,16 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=51&n=50&s1=new&o1=d",
-          "links": 44,
-          "unique_added": 38
+          "links": 46,
+          "unique_added": 40
         }
       ]
     },
     "Gibson": {
       "pages": 6,
-      "links": 268,
-      "parsed": 253,
-      "qualifying": 69,
+      "links": 270,
+      "parsed": 255,
+      "qualifying": 73,
       "page_stats": [
         {
           "page": 1,
@@ -83,8 +74,8 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 54,
-          "unique_added": 34
+          "links": 56,
+          "unique_added": 36
         }
       ]
     },
@@ -92,7 +83,7 @@
       "pages": 1,
       "links": 48,
       "parsed": 41,
-      "qualifying": 5,
+      "qualifying": 6,
       "page_stats": [
         {
           "page": 1,
@@ -104,9 +95,9 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 319,
-      "parsed": 299,
-      "qualifying": 0,
+      "links": 316,
+      "parsed": 296,
+      "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
@@ -118,7 +109,7 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 3,
@@ -130,19 +121,19 @@
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 50
+          "unique_added": 48
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 49
+          "links": 70,
+          "unique_added": 50
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 50
+          "links": 69,
+          "unique_added": 49
         }
       ]
     },
@@ -203,6 +194,6 @@
       ]
     }
   },
-  "collected": 81,
-  "seen_count": 295
+  "collected": 87,
+  "seen_count": 296
 }
