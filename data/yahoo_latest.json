@@ -1,14 +1,24 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-02T19:56:40.885526+00:00",
+  "checked_at": "2026-10-02T20:57:20.993577+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "t1246002814",
+      "keyword": "Gibson",
+      "title": "Gibson USA SG 2016年モデル エレキギター ソフトケース付 ∽ 76F16-1 現在 106,705円 21時30分に終了",
+      "price": 106705,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/t1246002814"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 255,
-      "parsed": 255,
+      "links": 254,
+      "parsed": 254,
       "qualifying": 3,
       "page_stats": [
         {
@@ -21,13 +31,13 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=51&n=50&s1=new&o1=d",
           "links": 60,
-          "unique_added": 39
+          "unique_added": 40
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=101&n=50&s1=new&o1=d",
-          "links": 56,
-          "unique_added": 32
+          "links": 57,
+          "unique_added": 31
         },
         {
           "page": 4,
@@ -38,8 +48,8 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=201&n=50&s1=new&o1=d",
-          "links": 56,
-          "unique_added": 43
+          "links": 55,
+          "unique_added": 42
         },
         {
           "page": 6,
@@ -51,9 +61,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 295,
-      "parsed": 295,
-      "qualifying": 55,
+      "links": 297,
+      "parsed": 297,
+      "qualifying": 57,
       "page_stats": [
         {
           "page": 1,
@@ -65,7 +75,7 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=51&n=50&s1=new&o1=d",
           "links": 69,
-          "unique_added": 46
+          "unique_added": 47
         },
         {
           "page": 3,
@@ -77,7 +87,7 @@
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=151&n=50&s1=new&o1=d",
           "links": 68,
-          "unique_added": 45
+          "unique_added": 46
         },
         {
           "page": 5,
@@ -184,6 +194,6 @@
       ]
     }
   },
-  "collected": 70,
-  "seen_count": 321
+  "collected": 72,
+  "seen_count": 322
 }
