@@ -1,28 +1,28 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-02T14:43:29.751173+00:00",
+  "checked_at": "2026-10-02T15:42:51.883665+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10781929",
+      "id": "DS10779927",
       "keyword": "Gibson",
-      "title": "Gibson LES PAUL Junior TV Yellow",
-      "price": 206800,
-      "url": "https://www.digimart.net/cat01/shop2201/DS10781929/"
+      "title": "Gibson Custom Shop 1959 Les Paul Standard Reissue VOS / Dirty Lemon 【3.94kg】",
+      "price": 973500,
+      "url": "https://www.digimart.net/cat01/shop5056/DS10779927/"
     },
     {
-      "id": "DS10781928",
+      "id": "DS10779926",
       "keyword": "Gibson",
-      "title": "Gibson LES PAUL JUNIOR EBONY",
-      "price": 206800,
-      "url": "https://www.digimart.net/cat01/shop2201/DS10781928/"
+      "title": "Gibson Custom Shop 1959 Les Paul Standard Reissue VOS / Iced Tea Burst 【3.95kg】",
+      "price": 973500,
+      "url": "https://www.digimart.net/cat01/shop5056/DS10779926/"
     },
     {
-      "id": "DS10781924",
+      "id": "DS10781932",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop HISTORIC COLLECTION 1959 LES PAUL STANDARD VOS",
-      "price": 825000,
-      "url": "https://www.digimart.net/cat01/shop2201/DS10781924/"
+      "title": "Gibson Custom Shop Murphy Lab 1957 Les Paul Gold Top Darkback Reissue Light Aged / Double Gold 【3.95kg】",
+      "price": 943800,
+      "url": "https://www.digimart.net/cat01/shop5056/DS10781932/"
     }
   ],
   "errors": [],
@@ -345,5 +345,5 @@
     }
   },
   "collected": 929,
-  "seen_count": 1822
+  "seen_count": 1825
 }
