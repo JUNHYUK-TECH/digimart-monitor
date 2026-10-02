@@ -1,16 +1,16 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-02T15:58:02.724369+00:00",
+  "checked_at": "2026-10-02T16:57:45.475923+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "l1246821114",
+      "id": "l1245428498",
       "keyword": "Gibson",
-      "title": "機材整理の為今回のみの大出品です！ Gibson Southern Jumbo 2006年製 山野楽器正規品 ギブソン サザンジャンボ HC付 1円スタートから！ 現在 102,000円 即決 395,000円 ＋送料2,950円 22 1日",
-      "price": 102000,
-      "buyout": 395000,
+      "title": "【希少レア】未使用品 「Gibson SG DELUXE 2013」ギブソン 現在 299,999円 21時18分に終了",
+      "price": 299999,
+      "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/l1246821114"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/l1245428498"
     }
   ],
   "errors": [],
@@ -42,8 +42,8 @@
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=151&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 46
+          "links": 60,
+          "unique_added": 47
         },
         {
           "page": 5,
@@ -54,8 +54,8 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=251&n=50&s1=new&o1=d",
-          "links": 57,
-          "unique_added": 44
+          "links": 56,
+          "unique_added": 43
         }
       ]
     },
@@ -68,8 +68,8 @@
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 72,
-          "unique_added": 72
+          "links": 71,
+          "unique_added": 71
         },
         {
           "page": 2,
@@ -80,26 +80,26 @@
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 64,
-          "unique_added": 41
+          "links": 66,
+          "unique_added": 43
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 71,
-          "unique_added": 48
-        },
-        {
-          "page": 5,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=201&n=50&s1=new&o1=d",
           "links": 69,
           "unique_added": 46
         },
         {
+          "page": 5,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=201&n=50&s1=new&o1=d",
+          "links": 71,
+          "unique_added": 48
+        },
+        {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 45,
-          "unique_added": 45
+          "links": 44,
+          "unique_added": 44
         }
       ]
     },
@@ -219,5 +219,5 @@
     }
   },
   "collected": 70,
-  "seen_count": 319
+  "seen_count": 320
 }
