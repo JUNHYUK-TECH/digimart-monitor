@@ -1,42 +1,21 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-02T12:47:26.442116+00:00",
+  "checked_at": "2026-10-02T13:43:09.581066+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10781889",
-      "keyword": "Gibson",
-      "title": "Gibson L-00 Acacia Russet Burst",
+      "id": "DS10781077",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 1954 Stratocaster 2Tone Sunburst 1997年製【3.29kg】【フレイムメイプルネック】",
       "price": 440000,
-      "url": "https://www.digimart.net/cat02/shop5032/DS10781889/"
+      "url": "https://www.digimart.net/cat01/shop26/DS10781077/"
     },
     {
-      "id": "DS10754971",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard ~Honey Burst~ 2001年製",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat01/shop5007/DS10754971/"
-    },
-    {
-      "id": "DS10781845",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Jimmy Page Signature Les Paul Standard Light Honeyburst [4.26kg/1996年製]ギブソン 【池袋店】",
-      "price": 880000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10781845/"
-    },
-    {
-      "id": "DS10780562",
+      "id": "DS10780577",
       "keyword": "Fender",
-      "title": "Fender Limited Edition American Ultra II Stratocaster®",
-      "price": 473000,
-      "url": "https://www.digimart.net/cat01/shop5183/DS10780562/"
-    },
-    {
-      "id": "DS10780612",
-      "keyword": "Fender",
-      "title": "Fender Limited Edition American Ultra II Jazz Bass®",
-      "price": 473000,
-      "url": "https://www.digimart.net/cat03/shop5183/DS10780612/"
+      "title": "Fender Limited Edition American Ultra II Telecaster®",
+      "price": 462000,
+      "url": "https://www.digimart.net/cat01/shop5183/DS10780577/"
     }
   ],
   "errors": [],
@@ -89,7 +68,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 208,
+      "qualifying": 198,
       "page_stats": [
         {
           "page": 1,
@@ -133,7 +112,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 200,
+      "qualifying": 201,
       "page_stats": [
         {
           "page": 1,
@@ -177,7 +156,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 71,
+      "qualifying": 73,
       "page_stats": [
         {
           "page": 1,
@@ -358,6 +337,6 @@
       ]
     }
   },
-  "collected": 948,
-  "seen_count": 1817
+  "collected": 941,
+  "seen_count": 1819
 }
