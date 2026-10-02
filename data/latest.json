@@ -1,14 +1,21 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-02T01:39:55.710568+00:00",
+  "checked_at": "2026-10-02T02:39:37.654394+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10779975",
+      "id": "DS10779998",
       "keyword": "Gibson",
-      "title": "Gibson 【中古】 エレキギター Gibson Les Paul Standard ’60s Unburst 2024年製 高年式 60sスリムテーパーネック",
-      "price": 268000,
-      "url": "https://www.digimart.net/cat01/shop1000/DS10779975/"
+      "title": "Gibson Melody Maker 1965",
+      "price": 458000,
+      "url": "https://www.digimart.net/cat01/shop4682/DS10779998/"
+    },
+    {
+      "id": "DS10779976",
+      "keyword": "Fender",
+      "title": "Fender 【中古】 Fender USA フェンダー PRECISION BASS ELITE II Left Hand 1984年製 エリートII レフティ",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat03/shop1000/DS10779976/"
     }
   ],
   "errors": [],
@@ -105,7 +112,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 200,
+      "qualifying": 201,
       "page_stats": [
         {
           "page": 1,
@@ -149,7 +156,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 52,
+      "qualifying": 51,
       "page_stats": [
         {
           "page": 1,
@@ -331,5 +338,5 @@
     }
   },
   "collected": 909,
-  "seen_count": 1613
+  "seen_count": 1615
 }
