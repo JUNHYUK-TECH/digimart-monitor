@@ -1,112 +1,77 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-03T05:48:59.375282+00:00",
+  "checked_at": "2026-10-03T06:55:53.470672+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10782467",
+      "id": "DS10782618",
       "keyword": "Gibson",
-      "title": "Gibson 【極上バリトラ杢】Les Paul Standard 50s \"Custom Shop Top\" / Unburst #218760049 [4.39kg]",
-      "price": 412500,
-      "url": "https://www.digimart.net/cat01/shop169/DS10782467/"
+      "title": "Gibson SG Standard (Heritage Cherry) 【S/N 218960255】",
+      "price": 224400,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10782618/"
     },
     {
-      "id": "DS10757830",
+      "id": "DS10782617",
       "keyword": "Gibson",
-      "title": "Gibson ES-335 Figured Sixties Cherry 2023",
-      "price": 398000,
-      "url": "https://www.digimart.net/cat01/shop2341/DS10757830/"
+      "title": "Gibson Les Paul Standard 60s Plain Top (Classic White) 【S/N 220160317】",
+      "price": 323400,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10782617/"
     },
     {
-      "id": "DS10782399",
+      "id": "DS10782616",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Limited Run 1968 Les Paul Custom VOS Ebony 2026",
+      "title": "Gibson Les Paul Standard 60s Plain Top (Pelham Blue) 【S/N 221060076】",
+      "price": 323400,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10782616/"
+    },
+    {
+      "id": "DS10782577",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 1960 Les Paul Standard Reissue Tangerine Burst【ギブソンカスタムショップ】【3.72Kg】",
+      "price": 957000,
+      "url": "https://www.digimart.net/cat01/shop5074/DS10782577/"
+    },
+    {
+      "id": "DS10782536",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Flying V Custom with Ebony Fingerboard ～Ebony～ CS 600959 [3.27kg]",
       "price": 792000,
-      "url": "https://www.digimart.net/cat01/shop4861/DS10782399/"
+      "url": "https://www.digimart.net/cat01/shop60/DS10782536/"
     },
     {
-      "id": "DS10782398",
+      "id": "DS10782531",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Murphy Lab 1957 Les Paul Goldtop Double Gold Darkback Light Aged 2024",
-      "price": 770000,
-      "url": "https://www.digimart.net/cat01/shop4861/DS10782398/"
+      "title": "Gibson Les Paul Special Double Cutaway TV Yellow",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat01/shop3200/DS10782531/"
     },
     {
-      "id": "DS10782397",
+      "id": "DS10782528",
       "keyword": "Gibson",
-      "title": "Gibson ~Japan Exclusive Model~ Les Paul Standard 50s Custom Shop Top -Heritage Cherry Sunburst-",
-      "price": 412500,
-      "url": "https://www.digimart.net/cat01/shop38/DS10782397/"
+      "title": "Gibson ISHIBASHI Dealer Select J-45 Custom Flower Inlay Ebony【渋谷店】",
+      "price": 550000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10782528/"
     },
     {
-      "id": "DS10782387",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Special TV Yellow s/n 202360174【3.34kg】【G-CLUB SHIBUYA】",
-      "price": 225500,
-      "url": "https://www.digimart.net/cat01/shop60/DS10782387/"
-    },
-    {
-      "id": "DS10782348",
-      "keyword": "Gibson",
-      "title": "Gibson ~Original Collection~ J-160E -Vintage Sunburst- #21536010【48回迄金利0%対象】【送料当社負担】",
-      "price": 477000,
-      "url": "https://www.digimart.net/cat02/shop1881/DS10782348/"
-    },
-    {
-      "id": "DS10782345",
-      "keyword": "Gibson",
-      "title": "Gibson Lifton Brown Hard Case 1950年代 ES-335 / ES-345 / ES-355",
-      "price": 220000,
-      "url": "https://www.digimart.net/cat23/shop4682/DS10782345/"
-    },
-    {
-      "id": "DS10782344",
-      "keyword": "Gibson",
-      "title": "Gibson Lifton Brown Hard Case 1950年代 ES-335 / ES-345 / ES-355",
-      "price": 220000,
-      "url": "https://www.digimart.net/cat01/shop4682/DS10782344/"
-    },
-    {
-      "id": "DS10782341",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1958 Korina Flying V Reissue VOS White Guard 期間限定価格",
-      "price": 984500,
-      "url": "https://www.digimart.net/cat01/shop4682/DS10782341/"
-    },
-    {
-      "id": "DS10782434",
+      "id": "DS10782585",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE NF 53 White DogHair SE NF53 ホワイトドッグヘアー 【未展示品】",
-      "price": 138600,
-      "url": "https://www.digimart.net/cat01/shop4840/DS10782434/"
+      "title": "Paul Reed Smith(PRS) Paul's Dirty 100",
+      "price": 660000,
+      "url": "https://www.digimart.net/cat01/shop4240/DS10782585/"
     },
     {
-      "id": "DS10782432",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE McCarty 594 Singlecut Vintage Sunburst",
-      "price": 157289,
-      "url": "https://www.digimart.net/cat01/shop4840/DS10782432/"
+      "id": "DS10782513",
+      "keyword": "Fender",
+      "title": "Fender Deluxe Jazz Bass V Kazuki Arai Edition 5弦ベース King Gnu 新井和輝 エレキベース【在庫あります！】",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat03/shop4921/DS10782513/"
     },
     {
-      "id": "DS10782431",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE McCarty 594 Singlecut Vintage Sunburst",
-      "price": 157289,
-      "url": "https://www.digimart.net/cat01/shop4840/DS10782431/"
-    },
-    {
-      "id": "DS10782462",
-      "keyword": "Fractal",
-      "title": "FRACTAL AUDIO SYSTEMS AM4 / AMP MODELER 【オリジナルプリセットプレゼント】",
-      "price": 176000,
-      "url": "https://www.digimart.net/cat12/shop5090/DS10782462/"
-    },
-    {
-      "id": "DS10782460",
-      "keyword": "Fractal",
-      "title": "FRACTAL AUDIO SYSTEMS VP4 / VIRTUAL PEDALBOARD 【Real In The Box】【オリジナルプリセットプレゼント】",
-      "price": 176000,
-      "url": "https://www.digimart.net/cat13/shop5090/DS10782460/"
+      "id": "DS10782510",
+      "keyword": "Fender",
+      "title": "Fender American Professional Telecaster RW NAT 【返品OK】[UMX13]【阿倍野店在庫】",
+      "price": 168000,
+      "url": "https://www.digimart.net/cat01/shop3580/DS10782510/"
     }
   ],
   "errors": [],
@@ -159,7 +124,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 184,
+      "qualifying": 183,
       "page_stats": [
         {
           "page": 1,
@@ -428,6 +393,6 @@
       ]
     }
   },
-  "collected": 928,
-  "seen_count": 1874
+  "collected": 927,
+  "seen_count": 1884
 }
