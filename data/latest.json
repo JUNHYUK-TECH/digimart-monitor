@@ -1,8 +1,23 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-03T00:47:05.102879+00:00",
+  "checked_at": "2026-10-03T01:39:20.315281+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10782005",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 Vintage Sunburst 1999",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat02/shop4978/DS10782005/"
+    },
+    {
+      "id": "DS10767173",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Custom24 Quilt Package Charcoal Blue Burst",
+      "price": 154880,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10767173/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -51,9 +66,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 300,
-      "parsed": 300,
-      "qualifying": 189,
+      "links": 299,
+      "parsed": 299,
+      "qualifying": 188,
       "page_stats": [
         {
           "page": 1,
@@ -65,7 +80,7 @@
           "page": 2,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=&readCount=50&noparallelimportp=&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=&soldoutDispCheck=false&tagWords=&dmsP=&keywordAnd=Gibson&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=&neckScaleOption=&tagWordsNot=&freeshippingp=&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=&pickupOption=&movieurlp=&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=&brandIdNot=&ecCardP=&ecpurchasep=&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=&fingerboardOption=&noshopsalep=&currentPage=2&shopNo=&stringsoption=&categoryId=&shopsalep=&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 3,
@@ -322,6 +337,6 @@
       ]
     }
   },
-  "collected": 931,
-  "seen_count": 1825
+  "collected": 930,
+  "seen_count": 1827
 }
