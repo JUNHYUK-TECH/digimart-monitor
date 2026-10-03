@@ -1,49 +1,35 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-03T03:47:09.357430+00:00",
+  "checked_at": "2026-10-03T04:41:32.849196+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10782168",
+      "id": "DS10782313",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Junior Double Cutaway TV Yellow",
-      "price": 206800,
-      "url": "https://www.digimart.net/cat01/shop3200/DS10782168/"
+      "title": "Gibson Custom Shop 【超軽量】Dealer Select 1958 Les Paul Standard Green Lemon Fade VOS #86476 【3.62kg】",
+      "price": 759000,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10782313/"
     },
     {
-      "id": "DS10782163",
+      "id": "DS10782255",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Special TV Yellow 【御茶ノ水本店】",
-      "price": 187000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10782163/"
+      "title": "Gibson Melody Maker",
+      "price": 143000,
+      "url": "https://www.digimart.net/cat01/shop4902/DS10782255/"
     },
     {
-      "id": "DS10782125",
-      "keyword": "Gibson",
-      "title": "Gibson 50s ES-125 【御茶ノ水本店】",
-      "price": 508000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10782125/"
+      "id": "DS10782263",
+      "keyword": "Fender",
+      "title": "Fender American Vintage '57 Stratocaster \"Thin Lacquer\" 2-Color Sunburst 2002",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat01/shop4836/DS10782263/"
     },
     {
-      "id": "DS10782123",
-      "keyword": "Gibson",
-      "title": "Gibson 1970s Les Paul Deluxe Gold Top Conversion 【御茶ノ水本店】",
-      "price": 708000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10782123/"
-    },
-    {
-      "id": "DS10782112",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard",
-      "price": 388000,
-      "url": "https://www.digimart.net/cat01/shop4914/DS10782112/"
-    },
-    {
-      "id": "DS10782105",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 Standard Vintage Sunburst [傷有りアウトレット特価] 【20266082】【池袋店】",
-      "price": 346500,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10782105/"
+      "id": "DS10782236",
+      "keyword": "Fender",
+      "title": "Fender Highway One Stratocaster",
+      "price": 173800,
+      "url": "https://www.digimart.net/cat01/shop4902/DS10782236/"
     }
   ],
   "errors": [],
@@ -96,7 +82,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 188,
+      "qualifying": 185,
       "page_stats": [
         {
           "page": 1,
@@ -182,9 +168,9 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 299,
-      "parsed": 299,
-      "qualifying": 80,
+      "links": 300,
+      "parsed": 300,
+      "qualifying": 74,
       "page_stats": [
         {
           "page": 1,
@@ -196,7 +182,7 @@
           "page": 2,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=&readCount=50&noparallelimportp=&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=&soldoutDispCheck=false&tagWords=&dmsP=&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=&neckScaleOption=&tagWordsNot=&freeshippingp=&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=&pickupOption=&movieurlp=&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=&brandIdNot=&ecCardP=&ecpurchasep=&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=&fingerboardOption=&noshopsalep=&currentPage=2&shopNo=&stringsoption=&categoryId=&shopsalep=&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 49
+          "unique_added": 50
         },
         {
           "page": 3,
@@ -365,6 +351,6 @@
       ]
     }
   },
-  "collected": 940,
-  "seen_count": 1855
+  "collected": 931,
+  "seen_count": 1859
 }
