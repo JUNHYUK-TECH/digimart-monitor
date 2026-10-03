@@ -1,161 +1,49 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-03T02:48:50.414648+00:00",
+  "checked_at": "2026-10-03T03:47:09.357430+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10782103",
+      "id": "DS10782168",
       "keyword": "Gibson",
-      "title": "Gibson VINTAGE Les Paul Custom '74 Tobacco Sunburst",
-      "price": 915960,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10782103/"
+      "title": "Gibson Les Paul Junior Double Cutaway TV Yellow",
+      "price": 206800,
+      "url": "https://www.digimart.net/cat01/shop3200/DS10782168/"
     },
     {
-      "id": "DS10782092",
+      "id": "DS10782163",
       "keyword": "Gibson",
-      "title": "Gibson USED 中古 Les Paul Traditional 2016(Honey Burst)[SN.160015157]ギブソン",
-      "price": 253000,
-      "url": "https://www.digimart.net/cat01/shop4/DS10782092/"
+      "title": "Gibson Les Paul Special TV Yellow 【御茶ノ水本店】",
+      "price": 187000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10782163/"
     },
     {
-      "id": "DS10782043",
+      "id": "DS10782125",
       "keyword": "Gibson",
-      "title": "Gibson ISHIBASHI Dealer Select J-45 Rosewood Custom with Flower Inlay Vintage Sunburst 【御茶ノ水本店】",
-      "price": 550000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10782043/"
+      "title": "Gibson 50s ES-125 【御茶ノ水本店】",
+      "price": 508000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10782125/"
     },
     {
-      "id": "DS10782039",
+      "id": "DS10782123",
       "keyword": "Gibson",
-      "title": "Gibson J-45 Special Satin Vintage Sunburst 【御茶ノ水本店】",
-      "price": 239800,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10782039/"
+      "title": "Gibson 1970s Les Paul Deluxe Gold Top Conversion 【御茶ノ水本店】",
+      "price": 708000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10782123/"
     },
     {
-      "id": "DS10782038",
+      "id": "DS10782112",
       "keyword": "Gibson",
-      "title": "Gibson Hummingbird Special Satin Vintage Cherry Sunburst 【御茶ノ水本店】",
-      "price": 261800,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10782038/"
+      "title": "Gibson Les Paul Standard",
+      "price": 388000,
+      "url": "https://www.digimart.net/cat01/shop4914/DS10782112/"
     },
     {
-      "id": "DS10782031",
+      "id": "DS10782105",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1957 Les Paul Custom Reissue 2PU \"Black Beauty\" VOS #751767 【4.30kg】",
-      "price": 935000,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10782031/"
-    },
-    {
-      "id": "DS10782008",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Custom Wine Red 1995",
-      "price": 528000,
-      "url": "https://www.digimart.net/cat01/shop4978/DS10782008/"
-    },
-    {
-      "id": "DS10782006",
-      "keyword": "Gibson",
-      "title": "Gibson 1957 SJ-200 w/L.R.Baggs Anthem Antique Natural 2021",
-      "price": 628000,
-      "url": "https://www.digimart.net/cat02/shop4978/DS10782006/"
-    },
-    {
-      "id": "DS10782081",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Wood Library Custom24-08 10Top/Brazilian Rosewood【2017年製】【中古品】【ハカランダ指板】",
-      "price": 880000,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10782081/"
-    },
-    {
-      "id": "DS10782100",
-      "keyword": "Fender",
-      "title": "Fender American Ultra II Stratocaster (Sinister Red/Maple)",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10782100/"
-    },
-    {
-      "id": "DS10782099",
-      "keyword": "Fender",
-      "title": "Fender American Ultra II Telecaster (Ultraburst/Maple)",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10782099/"
-    },
-    {
-      "id": "DS10782069",
-      "keyword": "Fender",
-      "title": "Fender USA 2023 American Vintage II 1972 Telecaster Thinline (Sunburst)",
-      "price": 253000,
-      "url": "https://www.digimart.net/cat01/shop87/DS10782069/"
-    },
-    {
-      "id": "DS10782062",
-      "keyword": "Fender",
-      "title": "Fender USA 2023 American Vintage II 1951 Telecaster (Butterscotch Blonde)",
-      "price": 239800,
-      "url": "https://www.digimart.net/cat01/shop87/DS10782062/"
-    },
-    {
-      "id": "DS10782048",
-      "keyword": "Fender",
-      "title": "Fender FSR American Acoustasonic Telecaster Roasted Moonlight Burst 【御茶ノ水本店】",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10782048/"
-    },
-    {
-      "id": "DS10782047",
-      "keyword": "Fender",
-      "title": "Fender FSR American Acoustasonic Telecaster Streaked Ebony Blue Paisley 【御茶ノ水本店】",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10782047/"
-    },
-    {
-      "id": "DS10782046",
-      "keyword": "Fender",
-      "title": "Fender FSR American Acoustasonic Telecaster Roasted Tungsten 【御茶ノ水本店】",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10782046/"
-    },
-    {
-      "id": "DS10782042",
-      "keyword": "Fender",
-      "title": "Fender American Acoustasonic Telecaster Sunburst 【B級アウトレット】 【御茶ノ水本店】",
-      "price": 229800,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10782042/"
-    },
-    {
-      "id": "DS10782041",
-      "keyword": "Fender",
-      "title": "Fender American Acoustasonic Telecaster Ebony Natural 【B級アウトレット】 【御茶ノ水本店】",
-      "price": 229800,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10782041/"
-    },
-    {
-      "id": "DS10782040",
-      "keyword": "Fender",
-      "title": "Fender American Acoustasonic Jazzmaster Natural 【B級アウトレット】 【御茶ノ水本店】",
-      "price": 238000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10782040/"
-    },
-    {
-      "id": "DS10778571",
-      "keyword": "Fender",
-      "title": "Fender American Standard Telecaster UG",
-      "price": 148000,
-      "url": "https://www.digimart.net/cat01/shop5099/DS10778571/"
-    },
-    {
-      "id": "DS10781943",
-      "keyword": "Fender",
-      "title": "Fender FSR American Acoustasonic Telecaster Streaked Ebony Fingerboard Blue Paisley",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat02/shop5226/DS10781943/"
-    },
-    {
-      "id": "DS07576897",
-      "keyword": "Fractal",
-      "title": "FRACTAL AUDIO SYSTEMS Axe-Fx III MARK II TURBO 【御茶ノ水本店】",
-      "price": 484000,
-      "url": "https://www.digimart.net/cat13/shop1484/DS07576897/"
+      "title": "Gibson J-45 Standard Vintage Sunburst [傷有りアウトレット特価] 【20266082】【池袋店】",
+      "price": 346500,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10782105/"
     }
   ],
   "errors": [],
@@ -208,7 +96,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 190,
+      "qualifying": 188,
       "page_stats": [
         {
           "page": 1,
@@ -294,9 +182,9 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 300,
-      "parsed": 300,
-      "qualifying": 83,
+      "links": 299,
+      "parsed": 299,
+      "qualifying": 80,
       "page_stats": [
         {
           "page": 1,
@@ -308,7 +196,7 @@
           "page": 2,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=&readCount=50&noparallelimportp=&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=&soldoutDispCheck=false&tagWords=&dmsP=&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=&neckScaleOption=&tagWordsNot=&freeshippingp=&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=&pickupOption=&movieurlp=&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=&brandIdNot=&ecCardP=&ecpurchasep=&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=&fingerboardOption=&noshopsalep=&currentPage=2&shopNo=&stringsoption=&categoryId=&shopsalep=&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 3,
@@ -477,6 +365,6 @@
       ]
     }
   },
-  "collected": 945,
-  "seen_count": 1849
+  "collected": 940,
+  "seen_count": 1855
 }
