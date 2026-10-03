@@ -1,140 +1,119 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-03T07:42:49.925395+00:00",
+  "checked_at": "2026-10-03T08:41:20.312072+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10782792",
+      "id": "DS10782965",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Gold Top ≪S/N:221960039≫ 【心斎橋店】",
-      "price": 346500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10782792/"
+      "title": "Gibson Les Paul Standard 50s Heritage Cherry Sunburst ≪S/N:221160050≫ 【心斎橋店】",
+      "price": 412500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10782965/"
     },
     {
-      "id": "DS10782791",
+      "id": "DS10782881",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Special Double Cutaway Vintage Cherry ≪S/N:220860343≫ 【心斎橋店】",
+      "title": "Gibson L-00 Century 12-Fret Vintage Amber",
+      "price": 301400,
+      "url": "https://www.digimart.net/cat02/shop3200/DS10782881/"
+    },
+    {
+      "id": "DS10782879",
+      "keyword": "Gibson",
+      "title": "Gibson L-00 Century 12-Fret Vintage Sunburst",
+      "price": 301400,
+      "url": "https://www.digimart.net/cat02/shop3200/DS10782879/"
+    },
+    {
+      "id": "DS10782856",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Special Double Cutaway Vintage Cherry ≪S/N:222660310≫ 【心斎橋店】",
       "price": 242000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10782791/"
+      "url": "https://www.digimart.net/cat01/shop1484/DS10782856/"
     },
     {
-      "id": "DS10782784",
+      "id": "DS10782855",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Junior Double Cut S/N：206260305 【未展示品】",
-      "price": 211200,
-      "url": "https://www.digimart.net/cat01/shop4840/DS10782784/"
+      "title": "Gibson Les Paul Special Double Cutaway Ebony ≪S/N:221860027≫ 【心斎橋店】",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10782855/"
     },
     {
-      "id": "DS10782766",
+      "id": "DS10782853",
       "keyword": "Gibson",
-      "title": "Gibson 【セカンド品】SG Standard ～Heritage Cherry～ s/n 210660043【3.04kg】",
-      "price": 225500,
-      "url": "https://www.digimart.net/cat01/shop60/DS10782766/"
+      "title": "Gibson Les Paul Junior Double Cutaway TV Yellow ≪S/N:220360152≫ 【心斎橋店】",
+      "price": 206800,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10782853/"
     },
     {
-      "id": "DS10782729",
+      "id": "DS10782696",
       "keyword": "Gibson",
-      "title": "Gibson 【お買得中古品】J-45Special VS【無金利キャンペーン】",
-      "price": 187000,
-      "url": "https://www.digimart.net/cat02/shop5452/DS10782729/"
+      "title": "Gibson Les Paul Standard Double Cutaway Transparent Black 【梅田店】",
+      "price": 308000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10782696/"
     },
     {
-      "id": "DS10782693",
-      "keyword": "Gibson",
-      "title": "Gibson SG Standard Bass Ebony 2014 【御茶ノ水本店】",
-      "price": 178000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10782693/"
-    },
-    {
-      "id": "DS10782711",
+      "id": "DS10782934",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) CUSTOM24/2011/SAPPHIRE SMOKEBURST/ 10TOP【＃11175338】【3.31Kg】",
-      "price": 440000,
-      "url": "https://www.digimart.net/cat01/shop5224/DS10782711/"
+      "title": "Paul Reed Smith(PRS) SE Custom24 Floyd Charcoal Burst 【未展示品】 SEカスタム24",
+      "price": 180048,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10782934/"
     },
     {
-      "id": "DS10782705",
+      "id": "DS10782933",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Ed Sheeran Hollowbody I Piezo Baritone 1E:Kaleidoscope【2026年製】",
-      "price": 193600,
-      "url": "https://www.digimart.net/cat01/shop5072/DS10782705/"
+      "title": "Paul Reed Smith(PRS) SE Custom24 Emerald Green SEカスタム24 エメラルドグリーン",
+      "price": 130680,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10782933/"
     },
     {
-      "id": "DS10782703",
+      "id": "DS10782932",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom24-08 Quilt Package Charcoal Cherry Burst 【2025年製】",
-      "price": 162800,
-      "url": "https://www.digimart.net/cat01/shop5072/DS10782703/"
+      "title": "Paul Reed Smith(PRS) SE Custom24 Vintage Sunburst SEカスタム24 VS",
+      "price": 130680,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10782932/"
     },
     {
-      "id": "DS10782828",
+      "id": "DS10782962",
       "keyword": "Fender",
-      "title": "Fender 【BIG SALE】American Professional II Jazzmaster -Dark Night/Rosewood-【US25076470】【3.82kg】",
-      "price": 304700,
-      "url": "https://www.digimart.net/cat01/shop38/DS10782828/"
+      "title": "Fender American Professional II Stratocaster HSS MN SSB 【御茶ノ水本店】",
+      "price": 228000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10782962/"
     },
     {
-      "id": "DS10782822",
+      "id": "DS10782924",
       "keyword": "Fender",
-      "title": "Fender 【軽量個体!】Fender Limited Edition American Vintage II 1961 Stratocaster ～Black～ #V2664567 ≒3.4kg",
-      "price": 318000,
-      "url": "https://www.digimart.net/cat01/shop60/DS10782822/"
-    },
-    {
-      "id": "DS10782821",
-      "keyword": "Fender",
-      "title": "Fender Fender Limited Edition American Vintage II 1961 Stratocaster ～Black～ #V26844 ≒3.67kg",
-      "price": 318000,
-      "url": "https://www.digimart.net/cat01/shop60/DS10782821/"
-    },
-    {
-      "id": "DS10782818",
-      "keyword": "Fender",
-      "title": "Fender Fender Limited Edition American Vintage II 1961 Stratocaster ～Black～ #V2601424 ≒3.54kg",
-      "price": 318000,
-      "url": "https://www.digimart.net/cat01/shop60/DS10782818/"
-    },
-    {
-      "id": "DS10782817",
-      "keyword": "Fender",
-      "title": "Fender Fender Limited Edition American Vintage II 1961 Stratocaster ～Black～ #V25482 ≒3.58kg",
-      "price": 318000,
-      "url": "https://www.digimart.net/cat01/shop60/DS10782817/"
-    },
-    {
-      "id": "DS10782815",
-      "keyword": "Fender",
-      "title": "Fender Fender Limited Edition American Vintage II 1961 Stratocaster ～Black～ #V2664059 ≒3.81kg",
-      "price": 318000,
-      "url": "https://www.digimart.net/cat01/shop60/DS10782815/"
-    },
-    {
-      "id": "DS10782808",
-      "keyword": "Fender",
-      "title": "Fender Fender Limited Edition American Vintage II 1961 Stratocaster ～Black～ #V26706 ≒3.58kg",
-      "price": 318000,
-      "url": "https://www.digimart.net/cat01/shop60/DS10782808/"
-    },
-    {
-      "id": "DS10782800",
-      "keyword": "Fender",
-      "title": "Fender 【BIG SALE】American Professional II Stratocaster -Dark Night-【US26021618】【3.69kg】",
+      "title": "Fender 【BIG SALE】American Professional II Stratocaster -Miami Blue/Rosewood-",
       "price": 291500,
-      "url": "https://www.digimart.net/cat01/shop38/DS10782800/"
+      "url": "https://www.digimart.net/cat01/shop38/DS10782924/"
     },
     {
-      "id": "DS10782742",
+      "id": "DS10782903",
       "keyword": "Fender",
-      "title": "Fender Custom Shop 1959 Stratocaster Relic / Aged Black 【3.61kg】",
-      "price": 628000,
-      "url": "https://www.digimart.net/cat01/shop169/DS10782742/"
+      "title": "Fender American Standard Precision Bass Black 【梅田店】",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10782903/"
     },
     {
-      "id": "DS10782694",
+      "id": "DS10782902",
       "keyword": "Fender",
-      "title": "Fender American Standard Telecaster Maple Jade Pearl Metallic 【御茶ノ水本店】",
-      "price": 188000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10782694/"
+      "title": "Fender American Vintage II 1977 Telecaster Custom Wine Red 【梅田店】",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10782902/"
+    },
+    {
+      "id": "DS10782900",
+      "keyword": "Fender",
+      "title": "Fender American Standard Jazz Bass 3-Tone Sunburst 【梅田店】",
+      "price": 187000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10782900/"
+    },
+    {
+      "id": "DS10782849",
+      "keyword": "Fender",
+      "title": "Fender 75th Anniversary American Vintage II 1951 Nocaster Maple Fingerboard Blonde フェンダー [USA製]【池袋",
+      "price": 495000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10782849/"
     }
   ],
   "errors": [],
@@ -186,8 +165,8 @@
     "Gibson": {
       "pages": 6,
       "links": 300,
-      "parsed": 300,
-      "qualifying": 183,
+      "parsed": 299,
+      "qualifying": 178,
       "page_stats": [
         {
           "page": 1,
@@ -231,7 +210,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 197,
+      "qualifying": 198,
       "page_stats": [
         {
           "page": 1,
@@ -275,7 +254,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 81,
+      "qualifying": 73,
       "page_stats": [
         {
           "page": 1,
@@ -456,6 +435,6 @@
       ]
     }
   },
-  "collected": 931,
-  "seen_count": 1903
+  "collected": 919,
+  "seen_count": 1919
 }
