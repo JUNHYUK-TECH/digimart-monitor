@@ -1,33 +1,60 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-04T04:32:10.067719+00:00",
+  "checked_at": "2026-10-04T10:57:24.200979+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "j1247008268",
-      "keyword": "Tyler",
-      "title": "【ゲイリー・ムーア仕様】James Tyler USA Studio Elite HD 2016 Festa Red 前オーナーカスタムオーダー品 極美品",
-      "price": 890000,
-      "buyout": 890000,
+      "id": "j1247037626",
+      "keyword": "Gibson",
+      "title": "中古 エレキギター Gibson SG Standard Heritage Cherry 2000年製 ギブソン SGスタンダード",
+      "price": 168000,
+      "buyout": 168000,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/j1247008268"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/j1247037626"
     },
     {
-      "id": "f1246994175",
+      "id": "p1247035039",
       "keyword": "Gibson",
-      "title": "Gibson◆LP STU Faded 2015/BLK/エレキギター/レスポールタイプ/黒系/HH//",
-      "price": 143660,
-      "buyout": 143660,
+      "title": "中古 エレキギター Gibson SG Special Worn White 2012年製 ギブソン SGスペシャル",
+      "price": 128000,
+      "buyout": 128000,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/f1246994175"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/p1247035039"
+    },
+    {
+      "id": "w1247012781",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Custom w/ Ebony Fingerboard Gloss Ebony ギブソン レスポール カスタム エボニー",
+      "price": 698500,
+      "buyout": 698500,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/w1247012781"
+    },
+    {
+      "id": "q1246748874",
+      "keyword": "Gibson",
+      "title": "【 J 】K9941 Gibson ES-335TD #71988012 セミアコギター ギブソン 3385156",
+      "price": 151805,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/q1246748874"
+    },
+    {
+      "id": "g1247030429",
+      "keyword": "Fender",
+      "title": "【used】Fender Custom Shop / Jazz Bass Mid-60s Style Custom Order CAR 1991 4.130kg #V054354【GIB横浜】",
+      "price": 600600,
+      "buyout": 600600,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/g1247030429"
     }
   ],
   "errors": [],
   "counts": {
     "Tyler": {
-      "pages": 3,
-      "links": 135,
-      "parsed": 130,
+      "pages": 2,
+      "links": 91,
+      "parsed": 88,
       "qualifying": 1,
       "page_stats": [
         {
@@ -39,52 +66,46 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=51&n=50&s1=new&o1=d",
-          "links": 50,
+          "links": 47,
           "unique_added": 40
-        },
-        {
-          "page": 3,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=101&n=50&s1=new&o1=d",
-          "links": 49,
-          "unique_added": 44
         }
       ]
     },
     "Gibson": {
       "pages": 6,
-      "links": 275,
-      "parsed": 256,
-      "qualifying": 67,
+      "links": 279,
+      "parsed": 260,
+      "qualifying": 68,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 65,
-          "unique_added": 65
+          "links": 66,
+          "unique_added": 66
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 64,
-          "unique_added": 44
+          "links": 65,
+          "unique_added": 45
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 40
+          "links": 62,
+          "unique_added": 42
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 61,
-          "unique_added": 41
+          "links": 62,
+          "unique_added": 42
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 63,
-          "unique_added": 43
+          "links": 62,
+          "unique_added": 42
         },
         {
           "page": 6,
@@ -98,7 +119,7 @@
       "pages": 2,
       "links": 89,
       "parsed": 83,
-      "qualifying": 10,
+      "qualifying": 11,
       "page_stats": [
         {
           "page": 1,
@@ -116,27 +137,27 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 313,
-      "parsed": 293,
-      "qualifying": 0,
+      "links": 308,
+      "parsed": 288,
+      "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 69
+          "links": 67,
+          "unique_added": 67
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 50
+          "links": 65,
+          "unique_added": 45
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 50
+          "links": 68,
+          "unique_added": 48
         },
         {
           "page": 4,
@@ -147,14 +168,14 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 48
+          "links": 69,
+          "unique_added": 49
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 67,
-          "unique_added": 47
+          "links": 70,
+          "unique_added": 50
         }
       ]
     },
@@ -215,6 +236,6 @@
       ]
     }
   },
-  "collected": 84,
-  "seen_count": 382
+  "collected": 87,
+  "seen_count": 387
 }
