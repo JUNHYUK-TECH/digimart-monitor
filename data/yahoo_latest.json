@@ -1,14 +1,24 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-04T22:55:19.758263+00:00",
+  "checked_at": "2026-10-04T23:54:51.414952+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "h1245414134",
+      "keyword": "Gibson",
+      "title": "Gibson J-200 アコースティックギター 現在 242,000円 22時51分に終了",
+      "price": 242000,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/h1245414134"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 259,
-      "parsed": 259,
+      "links": 260,
+      "parsed": 260,
       "qualifying": 9,
       "page_stats": [
         {
@@ -21,7 +31,7 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=51&n=50&s1=new&o1=d",
           "links": 63,
-          "unique_added": 31
+          "unique_added": 32
         },
         {
           "page": 3,
@@ -51,15 +61,15 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 289,
-      "parsed": 289,
-      "qualifying": 56,
+      "links": 288,
+      "parsed": 288,
+      "qualifying": 57,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 63,
-          "unique_added": 63
+          "links": 62,
+          "unique_added": 62
         },
         {
           "page": 2,
@@ -108,16 +118,40 @@
       ]
     },
     "Fender": {
-      "pages": 1,
-      "links": 48,
-      "parsed": 48,
+      "pages": 5,
+      "links": 249,
+      "parsed": 249,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 48,
-          "unique_added": 48
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 2,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=51&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 3,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=101&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 4,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=151&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 5,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=201&n=50&s1=new&o1=d",
+          "links": 49,
+          "unique_added": 49
         }
       ]
     },
@@ -178,6 +212,6 @@
       ]
     }
   },
-  "collected": 75,
-  "seen_count": 413
+  "collected": 76,
+  "seen_count": 414
 }
