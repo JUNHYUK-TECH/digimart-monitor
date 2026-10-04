@@ -1,8 +1,93 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-03T19:50:15.006447+00:00",
+  "checked_at": "2026-10-04T02:48:28.052838+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10784080",
+      "keyword": "Gibson",
+      "title": "Gibson 1975 The Grabber (G-1)【加古川店】",
+      "price": 328000,
+      "url": "https://www.digimart.net/cat03/shop5023/DS10784080/"
+    },
+    {
+      "id": "DS10784002",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s Heritage Cherry Sunburst #228750016 【HERCULESスタンドプレゼント!】【4.18kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop1140/DS10784002/"
+    },
+    {
+      "id": "DS10784001",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s Heritage Cherry Sunburst #229350075 【HERCULESスタンドプレゼント!】【4kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop1140/DS10784001/"
+    },
+    {
+      "id": "DS10784000",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 60s Unburst #226750246 【HERCULESスタンドプレゼント!!】【4.14kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop1140/DS10784000/"
+    },
+    {
+      "id": "DS10783998",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 60s Unburst #226850099 【HERCULESスタンドプレゼント!】【4.55kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop1140/DS10783998/"
+    },
+    {
+      "id": "DS10783961",
+      "keyword": "Gibson",
+      "title": "Gibson 【中古】 エレキギター Gibson Les Paul Standard 50s Plus Light Burst 2005年製 ギブソン レスポール",
+      "price": 299000,
+      "url": "https://www.digimart.net/cat01/shop1000/DS10783961/"
+    },
+    {
+      "id": "DS10783951",
+      "keyword": "Gibson",
+      "title": "Gibson SJ-200 Studio Rosewood Antique Natural 【アウトレット特価】【生産完了モデル】",
+      "price": 577500,
+      "url": "https://www.digimart.net/cat02/shop4773/DS10783951/"
+    },
+    {
+      "id": "DS10780327",
+      "keyword": "Gibson",
+      "title": "Gibson Chet Atkins SST 1989 Antique Natural /Ornate Head & Simulated Sound Hole w/OHC 3.10kg \"1st Version\"",
+      "price": 448000,
+      "url": "https://www.digimart.net/cat02/shop5028/DS10780327/"
+    },
+    {
+      "id": "DS10780748",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) Custom 24 2008 Dark Cherry Sunburst /STD Neck /Abalone JBI EX++ 3.58kg \"1Piece Killer Quilt Figured\"",
+      "price": 398000,
+      "url": "https://www.digimart.net/cat01/shop5028/DS10780748/"
+    },
+    {
+      "id": "DS10775764",
+      "keyword": "Fender",
+      "title": "Fender LTD American Professional Classic Stratocaster featuring the Fender Silent System【11月上旬入荷予定",
+      "price": 258500,
+      "url": "https://www.digimart.net/cat01/shop5310/DS10775764/"
+    },
+    {
+      "id": "DS10783990",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Organ 3 【展示処分アウトレット】",
+      "price": 671000,
+      "url": "https://www.digimart.net/cat06/shop1140/DS10783990/"
+    },
+    {
+      "id": "DS10783988",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Drum 3P 【展示処分アウトレット】",
+      "price": 123200,
+      "url": "https://www.digimart.net/cat06/shop1140/DS10783988/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -53,7 +138,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 178,
+      "qualifying": 175,
       "page_stats": [
         {
           "page": 1,
@@ -141,7 +226,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 69,
+      "qualifying": 64,
       "page_stats": [
         {
           "page": 1,
@@ -185,7 +270,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 183,
+      "qualifying": 182,
       "page_stats": [
         {
           "page": 1,
@@ -271,8 +356,8 @@
     },
     "Quad Cortex": {
       "pages": 2,
-      "links": 96,
-      "parsed": 96,
+      "links": 95,
+      "parsed": 95,
       "qualifying": 0,
       "page_stats": [
         {
@@ -284,16 +369,16 @@
         {
           "page": 2,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=&readCount=50&noparallelimportp=&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=&soldoutDispCheck=false&tagWords=&dmsP=&keywordAnd=Quad+Cortex&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=&neckScaleOption=&tagWordsNot=&freeshippingp=&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=&pickupOption=&movieurlp=&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=&brandIdNot=&ecCardP=&ecpurchasep=&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=&fingerboardOption=&noshopsalep=&currentPage=2&shopNo=&stringsoption=&categoryId=&shopsalep=&favorite=false&dispFavorite=false",
-          "links": 46,
-          "unique_added": 46
+          "links": 45,
+          "unique_added": 45
         }
       ]
     },
     "Fractal": {
       "pages": 4,
-      "links": 167,
-      "parsed": 167,
-      "qualifying": 93,
+      "links": 166,
+      "parsed": 166,
+      "qualifying": 92,
       "page_stats": [
         {
           "page": 1,
@@ -316,12 +401,12 @@
         {
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
-          "links": 17,
-          "unique_added": 17
+          "links": 16,
+          "unique_added": 16
         }
       ]
     }
   },
-  "collected": 909,
-  "seen_count": 1986
+  "collected": 899,
+  "seen_count": 1998
 }
