@@ -1,14 +1,35 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-05T01:40:28.035302+00:00",
+  "checked_at": "2026-10-05T02:41:57.806981+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10785875",
-      "keyword": "Fender",
-      "title": "Fender 【中古】 エレキギター Fender American Vintage '62 Telecaster Black 2009年製 フェンダー",
-      "price": 268000,
-      "url": "https://www.digimart.net/cat01/shop1000/DS10785875/"
+      "id": "DS10785981",
+      "keyword": "Tyler",
+      "title": "James Tyler Japan Studio Elite HD-P -Trans Blue- 2016USED!!【ハイエンドフロア在庫品】【ローン金利0%!】",
+      "price": 398000,
+      "url": "https://www.digimart.net/cat01/shop38/DS10785981/"
+    },
+    {
+      "id": "DS10785987",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Custom24 Black Gold Burst エレキギターSE カスタム24 ブラックゴールドバースト",
+      "price": 130680,
+      "url": "https://www.digimart.net/cat01/shop5422/DS10785987/"
+    },
+    {
+      "id": "DS10785985",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Custom24-08 Quilt Package Faded Blue 島村楽器限定モデルSEカスタム24-08 キルト ブルー 青",
+      "price": 169400,
+      "url": "https://www.digimart.net/cat01/shop5422/DS10785985/"
+    },
+    {
+      "id": "DS10785921",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Silver Sky Storm Gray John Mayerモデル ジョンメイヤーSE シルバースカイ ストームグレー 8J",
+      "price": 135520,
+      "url": "https://www.digimart.net/cat01/shop5422/DS10785921/"
     }
   ],
   "errors": [],
@@ -17,7 +38,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 70,
+      "qualifying": 71,
       "page_stats": [
         {
           "page": 1,
@@ -61,7 +82,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 174,
+      "qualifying": 175,
       "page_stats": [
         {
           "page": 1,
@@ -105,7 +126,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 197,
+      "qualifying": 200,
       "page_stats": [
         {
           "page": 1,
@@ -330,6 +351,6 @@
       ]
     }
   },
-  "collected": 880,
-  "seen_count": 2117
+  "collected": 885,
+  "seen_count": 2121
 }
