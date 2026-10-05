@@ -1,98 +1,119 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-05T07:45:48.532692+00:00",
+  "checked_at": "2026-10-05T08:45:19.159041+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10786956",
+      "id": "DS10787127",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop 2023 Historic Collection 1959 Les Paul Gloss (Factory Burst)",
-      "price": 723800,
-      "url": "https://www.digimart.net/cat01/shop87/DS10786956/"
+      "title": "Gibson J-45 Standard Vintage Sunburst HiFi DNA搭載モデル【現物写真/MCRS45HFVS/SN:22316076】",
+      "price": 398000,
+      "url": "https://www.digimart.net/cat02/shop5188/DS10787127/"
     },
     {
-      "id": "DS10786912",
+      "id": "DS10787100",
       "keyword": "Gibson",
-      "title": "Gibson 2014 J-45TV VOS True Vintage (Sunburst)",
-      "price": 360800,
-      "url": "https://www.digimart.net/cat02/shop87/DS10786912/"
+      "title": "Gibson 【セカンド品】Les Paul Special -TV Yellow-【#216360062】【3.48kg】",
+      "price": 225500,
+      "url": "https://www.digimart.net/cat01/shop38/DS10787100/"
     },
     {
-      "id": "DS10786908",
+      "id": "DS10787096",
       "keyword": "Gibson",
-      "title": "Gibson USA 2014 Hummingbird (Honey Burst)",
+      "title": "Gibson 1960s J-45 Original Ebony 【梅田店】",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10787096/"
+    },
+    {
+      "id": "DS10787071",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s -Gold Top- 【#215460278】【4.21kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop38/DS10787071/"
+    },
+    {
+      "id": "DS10787059",
+      "keyword": "Gibson",
+      "title": "Gibson ES-175D SB",
+      "price": 638000,
+      "url": "https://www.digimart.net/cat01/shop541/DS10787059/"
+    },
+    {
+      "id": "DS10787044",
+      "keyword": "Gibson",
+      "title": "Gibson Hummingbird Special Satin Vintage Cherry Sunburst 《特典付き》【22396016】【池袋店】",
       "price": 261800,
-      "url": "https://www.digimart.net/cat02/shop87/DS10786908/"
+      "url": "https://www.digimart.net/cat02/shop1484/DS10787044/"
     },
     {
-      "id": "DS10786897",
-      "keyword": "Gibson",
-      "title": "Gibson 【Hand Picked 2026】~Custom Shop~ Songwriter EC Custom -Ebony- #20646035【48回迄金利0%対象】",
-      "price": 678000,
-      "url": "https://www.digimart.net/cat02/shop1881/DS10786897/"
-    },
-    {
-      "id": "DS10786843",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1974 Les Paul Custom VOS like a Randy Rhoads 中古",
-      "price": 799800,
-      "url": "https://www.digimart.net/cat01/shop4682/DS10786843/"
-    },
-    {
-      "id": "DS10786842",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1974 Les Paul Custom VOS",
-      "price": 799800,
-      "url": "https://www.digimart.net/cat01/shop4682/DS10786842/"
-    },
-    {
-      "id": "DS10786837",
+      "id": "DS10787076",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Standard24-08 Black 島村楽器限定モデル SEスタンダード24-08",
-      "price": 138600,
-      "url": "https://www.digimart.net/cat01/shop4840/DS10786837/"
-    },
-    {
-      "id": "DS10786836",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Standard24-08 Black 島村楽器限定モデル SEスタンダード24-08",
-      "price": 138600,
-      "url": "https://www.digimart.net/cat01/shop4840/DS10786836/"
-    },
-    {
-      "id": "DS10786835",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom24 Quilt Amethyst SEカスタム24 キルト アメジスト",
-      "price": 140360,
-      "url": "https://www.digimart.net/cat01/shop4840/DS10786835/"
-    },
-    {
-      "id": "DS10786834",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom24 Black Gold Burst 【未展示品】 SEカスタム24",
+      "title": "Paul Reed Smith(PRS) SE CUSTOM24 Blue Matteo 2025【ロック式ペグ交換後のお渡し可能】",
       "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop4840/DS10786834/"
+      "url": "https://www.digimart.net/cat01/shop4847/DS10787076/"
     },
     {
-      "id": "DS10786962",
+      "id": "DS10787094",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE McCarty 594 Singlecut Tobacco Sunburst 【梅田店】",
+      "price": 121000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10787094/"
+    },
+    {
+      "id": "DS10787088",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Hollowbody Standard Tri-Color Sunburst 【梅田店】",
+      "price": 121000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10787088/"
+    },
+    {
+      "id": "DS10787078",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) Mark Lettieri Fiore HH / 2ハムバッカー、ローズウッド指板仕様 2026",
+      "price": 420200,
+      "url": "https://www.digimart.net/cat01/shop4847/DS10787078/"
+    },
+    {
+      "id": "DS10787145",
       "keyword": "Fender",
-      "title": "Fender USA American 57 Vintage Stratocaster '93 2cs",
+      "title": "Fender Custom Shop Limited Edition 1960 Telecaster Custom Journeyman Relic -Candy Apple Red-【3.46kg】",
+      "price": 968000,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10787145/"
+    },
+    {
+      "id": "DS10787120",
+      "keyword": "Fender",
+      "title": "Fender Deluxe Jazz Bass V Kazuki Arai Edition 2021 Limited 4.075kg #JD21023318【GIB兵庫】",
+      "price": 381150,
+      "url": "https://www.digimart.net/cat03/shop5400/DS10787120/"
+    },
+    {
+      "id": "DS10787104",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Stratocaster Faded Sherwood Green Metallic",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat01/shop4921/DS10787104/"
+    },
+    {
+      "id": "DS10787101",
+      "keyword": "Fender",
+      "title": "Fender American Ultra II Meteora Ultra Burst 【梅田店】",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10787101/"
+    },
+    {
+      "id": "DS10787091",
+      "keyword": "Fender",
+      "title": "Fender 40th Anniversary American Standard Stratocaster Midnight Wine 【梅田店】",
       "price": 198000,
-      "url": "https://www.digimart.net/cat01/shop70/DS10786962/"
+      "url": "https://www.digimart.net/cat01/shop1484/DS10787091/"
     },
     {
-      "id": "DS10786939",
+      "id": "DS10787010",
       "keyword": "Fender",
-      "title": "Fender Custom Shop 2011 1964 Telecaster Relic (Faded Sonic Blue)",
-      "price": 514800,
-      "url": "https://www.digimart.net/cat01/shop87/DS10786939/"
-    },
-    {
-      "id": "DS10786930",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 2009 Custom Esquire NOS (Olyimpic White)",
-      "price": 495000,
-      "url": "https://www.digimart.net/cat01/shop87/DS10786930/"
+      "title": "Fender American Professional Classic Precision Bass",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat03/shop4921/DS10787010/"
     }
   ],
   "errors": [],
@@ -145,7 +166,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 179,
+      "qualifying": 184,
       "page_stats": [
         {
           "page": 1,
@@ -189,7 +210,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 200,
+      "qualifying": 202,
       "page_stats": [
         {
           "page": 1,
@@ -233,7 +254,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 89,
+      "qualifying": 93,
       "page_stats": [
         {
           "page": 1,
@@ -383,9 +404,9 @@
     },
     "Fractal": {
       "pages": 4,
-      "links": 165,
-      "parsed": 165,
-      "qualifying": 92,
+      "links": 164,
+      "parsed": 164,
+      "qualifying": 91,
       "page_stats": [
         {
           "page": 1,
@@ -408,12 +429,12 @@
         {
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
-          "links": 15,
-          "unique_added": 15
+          "links": 14,
+          "unique_added": 14
         }
       ]
     }
   },
-  "collected": 929,
-  "seen_count": 2235
+  "collected": 939,
+  "seen_count": 2251
 }
