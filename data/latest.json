@@ -1,119 +1,98 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-05T08:45:19.159041+00:00",
+  "checked_at": "2026-10-05T09:45:45.660030+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10787127",
+      "id": "DS10787440",
       "keyword": "Gibson",
-      "title": "Gibson J-45 Standard Vintage Sunburst HiFi DNA搭載モデル【現物写真/MCRS45HFVS/SN:22316076】",
-      "price": 398000,
-      "url": "https://www.digimart.net/cat02/shop5188/DS10787127/"
+      "title": "Gibson Custom Shop 1959 Les Paul Standard Reissue Gloss Factory Burst【軽量個体・現地選定材使用】",
+      "price": 935000,
+      "url": "https://www.digimart.net/cat01/shop5072/DS10787440/"
     },
     {
-      "id": "DS10787100",
+      "id": "DS10787353",
       "keyword": "Gibson",
-      "title": "Gibson 【セカンド品】Les Paul Special -TV Yellow-【#216360062】【3.48kg】",
-      "price": 225500,
-      "url": "https://www.digimart.net/cat01/shop38/DS10787100/"
+      "title": "Gibson 【Price Down!!】 SJ-200 Standard Wine Red #23314017【試奏動画あり】 [G-Club Tokyo]",
+      "price": 692000,
+      "url": "https://www.digimart.net/cat02/shop35/DS10787353/"
     },
     {
-      "id": "DS10787096",
+      "id": "DS10787343",
       "keyword": "Gibson",
-      "title": "Gibson 1960s J-45 Original Ebony 【梅田店】",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10787096/"
+      "title": "Gibson SJ-200 Standard ~Triburst~ #21276033",
+      "price": 692000,
+      "url": "https://www.digimart.net/cat02/shop35/DS10787343/"
     },
     {
-      "id": "DS10787071",
+      "id": "DS10787334",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s -Gold Top- 【#215460278】【4.21kg】",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop38/DS10787071/"
+      "title": "Gibson SJ-200 Original -Antique Natural- #23174001【試奏動画あり】",
+      "price": 692000,
+      "url": "https://www.digimart.net/cat02/shop35/DS10787334/"
     },
     {
-      "id": "DS10787059",
+      "id": "DS10787333",
       "keyword": "Gibson",
-      "title": "Gibson ES-175D SB",
-      "price": 638000,
-      "url": "https://www.digimart.net/cat01/shop541/DS10787059/"
+      "title": "Gibson Memphis 2016 ES-335 Block (CH)",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat01/shop4240/DS10787333/"
     },
     {
-      "id": "DS10787044",
+      "id": "DS10787325",
       "keyword": "Gibson",
-      "title": "Gibson Hummingbird Special Satin Vintage Cherry Sunburst 《特典付き》【22396016】【池袋店】",
-      "price": 261800,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10787044/"
+      "title": "Gibson 1966年製 B-25N",
+      "price": 275000,
+      "url": "https://www.digimart.net/cat02/shop63/DS10787325/"
     },
     {
-      "id": "DS10787076",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE CUSTOM24 Blue Matteo 2025【ロック式ペグ交換後のお渡し可能】",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop4847/DS10787076/"
+      "id": "DS10787253",
+      "keyword": "Gibson",
+      "title": "Gibson Memphis ES-225TD VOS",
+      "price": 462000,
+      "url": "https://www.digimart.net/cat01/shop64/DS10787253/"
     },
     {
-      "id": "DS10787094",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE McCarty 594 Singlecut Tobacco Sunburst 【梅田店】",
-      "price": 121000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10787094/"
+      "id": "DS10787243",
+      "keyword": "Gibson",
+      "title": "Gibson 2022 Les Paul Special Win Red",
+      "price": 154000,
+      "url": "https://www.digimart.net/cat01/shop64/DS10787243/"
     },
     {
-      "id": "DS10787088",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Hollowbody Standard Tri-Color Sunburst 【梅田店】",
-      "price": 121000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10787088/"
-    },
-    {
-      "id": "DS10787078",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Mark Lettieri Fiore HH / 2ハムバッカー、ローズウッド指板仕様 2026",
-      "price": 420200,
-      "url": "https://www.digimart.net/cat01/shop4847/DS10787078/"
-    },
-    {
-      "id": "DS10787145",
+      "id": "DS10787438",
       "keyword": "Fender",
-      "title": "Fender Custom Shop Limited Edition 1960 Telecaster Custom Journeyman Relic -Candy Apple Red-【3.46kg】",
-      "price": 968000,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10787145/"
+      "title": "Fender American Vintage II 1961 Stratocaster 3-Color Sunburst エレキギター ストラトキャスター",
+      "price": 393800,
+      "url": "https://www.digimart.net/cat01/shop4921/DS10787438/"
     },
     {
-      "id": "DS10787120",
+      "id": "DS10787436",
       "keyword": "Fender",
-      "title": "Fender Deluxe Jazz Bass V Kazuki Arai Edition 2021 Limited 4.075kg #JD21023318【GIB兵庫】",
-      "price": 381150,
-      "url": "https://www.digimart.net/cat03/shop5400/DS10787120/"
+      "title": "Fender American Vintage II 1966 Jazzmaster Sherwood Green Metallic",
+      "price": 448800,
+      "url": "https://www.digimart.net/cat01/shop4921/DS10787436/"
     },
     {
-      "id": "DS10787104",
+      "id": "DS10787392",
       "keyword": "Fender",
-      "title": "Fender American Professional Classic Stratocaster Faded Sherwood Green Metallic",
+      "title": "Fender American Professional II Stratocaster Mystic Surf Green",
+      "price": 291500,
+      "url": "https://www.digimart.net/cat01/shop4921/DS10787392/"
+    },
+    {
+      "id": "DS10787182",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Telecaster 3-Color Sunburst",
       "price": 242000,
-      "url": "https://www.digimart.net/cat01/shop4921/DS10787104/"
+      "url": "https://www.digimart.net/cat01/shop4921/DS10787182/"
     },
     {
-      "id": "DS10787101",
+      "id": "DS10787181",
       "keyword": "Fender",
-      "title": "Fender American Ultra II Meteora Ultra Burst 【梅田店】",
-      "price": 264000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10787101/"
-    },
-    {
-      "id": "DS10787091",
-      "keyword": "Fender",
-      "title": "Fender 40th Anniversary American Standard Stratocaster Midnight Wine 【梅田店】",
-      "price": 198000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10787091/"
-    },
-    {
-      "id": "DS10787010",
-      "keyword": "Fender",
-      "title": "Fender American Professional Classic Precision Bass",
-      "price": 264000,
-      "url": "https://www.digimart.net/cat03/shop4921/DS10787010/"
+      "title": "Fender American Professional Classic Telecaster Lake Placid Blue",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat01/shop4921/DS10787181/"
     }
   ],
   "errors": [],
@@ -166,7 +145,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 184,
+      "qualifying": 185,
       "page_stats": [
         {
           "page": 1,
@@ -254,7 +233,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 93,
+      "qualifying": 95,
       "page_stats": [
         {
           "page": 1,
@@ -435,6 +414,6 @@
       ]
     }
   },
-  "collected": 939,
-  "seen_count": 2251
+  "collected": 942,
+  "seen_count": 2264
 }
