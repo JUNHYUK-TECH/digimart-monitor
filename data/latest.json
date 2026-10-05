@@ -1,35 +1,35 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-05T02:41:57.806981+00:00",
+  "checked_at": "2026-10-05T03:44:32.112642+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10785981",
-      "keyword": "Tyler",
-      "title": "James Tyler Japan Studio Elite HD-P -Trans Blue- 2016USED!!【ハイエンドフロア在庫品】【ローン金利0%!】",
+      "id": "DS10786147",
+      "keyword": "Gibson",
+      "title": "Gibson 【期間限定特価】Blues King #01296014",
+      "price": 248000,
+      "url": "https://www.digimart.net/cat02/shop174/DS10786147/"
+    },
+    {
+      "id": "DS10786056",
+      "keyword": "Gibson",
+      "title": "Gibson 【期間限定特価】SJ-200 Original Vintage Sunburst #21015025【クロサワ本店】",
+      "price": 753000,
+      "url": "https://www.digimart.net/cat02/shop174/DS10786056/"
+    },
+    {
+      "id": "DS10786048",
+      "keyword": "Gibson",
+      "title": "Gibson 【期間限定特価】50s J-45 Original #20716084【48回無金利分割できます】【クロサワ本店】",
       "price": 398000,
-      "url": "https://www.digimart.net/cat01/shop38/DS10785981/"
+      "url": "https://www.digimart.net/cat02/shop174/DS10786048/"
     },
     {
-      "id": "DS10785987",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom24 Black Gold Burst エレキギターSE カスタム24 ブラックゴールドバースト",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop5422/DS10785987/"
-    },
-    {
-      "id": "DS10785985",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom24-08 Quilt Package Faded Blue 島村楽器限定モデルSEカスタム24-08 キルト ブルー 青",
-      "price": 169400,
-      "url": "https://www.digimart.net/cat01/shop5422/DS10785985/"
-    },
-    {
-      "id": "DS10785921",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Silver Sky Storm Gray John Mayerモデル ジョンメイヤーSE シルバースカイ ストームグレー 8J",
-      "price": 135520,
-      "url": "https://www.digimart.net/cat01/shop5422/DS10785921/"
+      "id": "DS10786043",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 【期間限定特価】SJ-200 Original Burgundy Mist #23495061",
+      "price": 810000,
+      "url": "https://www.digimart.net/cat02/shop174/DS10786043/"
     }
   ],
   "errors": [],
@@ -82,7 +82,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 175,
+      "qualifying": 170,
       "page_stats": [
         {
           "page": 1,
@@ -126,7 +126,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 200,
+      "qualifying": 199,
       "page_stats": [
         {
           "page": 1,
@@ -168,9 +168,9 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 300,
-      "parsed": 298,
-      "qualifying": 50,
+      "links": 290,
+      "parsed": 288,
+      "qualifying": 47,
       "page_stats": [
         {
           "page": 1,
@@ -188,7 +188,7 @@
           "page": 3,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=3&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 46
         },
         {
           "page": 4,
@@ -206,7 +206,7 @@
           "page": 6,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=6&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 44
         }
       ]
     },
@@ -214,7 +214,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 180,
+      "qualifying": 179,
       "page_stats": [
         {
           "page": 1,
@@ -351,6 +351,6 @@
       ]
     }
   },
-  "collected": 885,
-  "seen_count": 2121
+  "collected": 875,
+  "seen_count": 2125
 }
