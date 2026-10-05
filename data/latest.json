@@ -1,16 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-05T15:44:47.856008+00:00",
+  "checked_at": "2026-10-05T16:43:57.961475+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10787850",
-      "keyword": "Gibson",
-      "title": "Gibson 【試奏動画あり】60s J-45 Original Ebony #21356117【漆黒のルックスに宿る、ロックな攻撃力】",
-      "price": 373000,
-      "url": "https://www.digimart.net/cat02/shop5011/DS10787850/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
