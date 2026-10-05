@@ -1,14 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-05T22:39:07.013133+00:00",
+  "checked_at": "2026-10-05T23:37:20.741764+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10784733",
-      "keyword": "Tyler",
-      "title": "James Tyler USA Studio Elite HD-P Candy Apple Red マッチングヘッド 35周年モデル 2007年製です",
-      "price": 695000,
-      "url": "https://www.digimart.net/cat01/shop4950/DS10784733/"
+      "id": "DS10787742",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 Studio walnut",
+      "price": 165000,
+      "url": "https://www.digimart.net/cat02/shop5052/DS10787742/"
     }
   ],
   "errors": [],
@@ -331,5 +331,5 @@
     }
   },
   "collected": 955,
-  "seen_count": 2305
+  "seen_count": 2306
 }
