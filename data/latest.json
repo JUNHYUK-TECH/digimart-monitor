@@ -1,35 +1,490 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-05T03:44:32.112642+00:00",
+  "checked_at": "2026-10-05T04:49:05.690456+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10786147",
+      "id": "DS10786417",
       "keyword": "Gibson",
-      "title": "Gibson 【期間限定特価】Blues King #01296014",
-      "price": 248000,
-      "url": "https://www.digimart.net/cat02/shop174/DS10786147/"
+      "title": "Gibson 【中古】 エレキギター Gibson SG Standard 2017 T Dark Cherry Burst 2017年製 ギブソン SGスタンダード",
+      "price": 178000,
+      "url": "https://www.digimart.net/cat01/shop1000/DS10786417/"
     },
     {
-      "id": "DS10786056",
-      "keyword": "Gibson",
-      "title": "Gibson 【期間限定特価】SJ-200 Original Vintage Sunburst #21015025【クロサワ本店】",
-      "price": 753000,
-      "url": "https://www.digimart.net/cat02/shop174/DS10786056/"
+      "id": "DS10782726",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2005 Custom24 Artist Package - Raspberry - 【TGS '05 Model 】",
+      "price": 498000,
+      "url": "https://www.digimart.net/cat01/shop3160/DS10782726/"
     },
     {
-      "id": "DS10786048",
-      "keyword": "Gibson",
-      "title": "Gibson 【期間限定特価】50s J-45 Original #20716084【48回無金利分割できます】【クロサワ本店】",
-      "price": 398000,
-      "url": "https://www.digimart.net/cat02/shop174/DS10786048/"
+      "id": "DS10786433",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Standard 24-08 BLACK Limited Model 【3.64kg】",
+      "price": 138600,
+      "url": "https://www.digimart.net/cat01/shop5343/DS10786433/"
     },
     {
-      "id": "DS10786043",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 【期間限定特価】SJ-200 Original Burgundy Mist #23495061",
-      "price": 810000,
-      "url": "https://www.digimart.net/cat02/shop174/DS10786043/"
+      "id": "DS10786326",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) Custom 24 Aurora Borealis 【心斎橋店】",
+      "price": 598000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786326/"
+    },
+    {
+      "id": "DS10786423",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Limited Edition 1964 L-Series Stratocaster Heavy Relic / Burgundy Mist Metallic [3.57kg]",
+      "price": 728000,
+      "url": "https://www.digimart.net/cat01/shop169/DS10786423/"
+    },
+    {
+      "id": "DS10786331",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 62 Jaguar Journeyman Relic Black 【心斎橋店】",
+      "price": 758000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786331/"
+    },
+    {
+      "id": "DS10786324",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Jazz Bass Maple Fingerboard Dark Night【渋谷店】",
+      "price": 253700,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10786324/"
+    },
+    {
+      "id": "DS10786322",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Precision Bass Maple Fingerboard Olympic White【渋谷店】",
+      "price": 241400,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10786322/"
+    },
+    {
+      "id": "DS10786315",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1966 Jazzmaster Rosewood 3-Color Sunburst【渋谷店】",
+      "price": 367700,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786315/"
+    },
+    {
+      "id": "DS10786305",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1966 Jazz Bass Rosewood Fingerboard 3-Color Sunburst【渋谷店】",
+      "price": 359900,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10786305/"
+    },
+    {
+      "id": "DS10786300",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1960 Precision Bass 3-Color Sunburst【渋谷店】",
+      "price": 321200,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10786300/"
+    },
+    {
+      "id": "DS10786295",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Stratocaster HSS Maple Faded Lake Placid Blue 【渋谷店】",
+      "price": 208980,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786295/"
+    },
+    {
+      "id": "DS10786294",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1966 Jazz Bass Rosewood Fingerboard Olympic White【渋谷店】",
+      "price": 358600,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10786294/"
+    },
+    {
+      "id": "DS10786290",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Jaguar Faded Sherwood Green Metallic【渋谷店】",
+      "price": 216700,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786290/"
+    },
+    {
+      "id": "DS10786287",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Pino Palladino Signature Precision Bass Fiesta Red Relic 【渋谷店】",
+      "price": 751700,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10786287/"
+    },
+    {
+      "id": "DS10786280",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1957 Stratocaster 2-Color Sunburst 【渋谷店】",
+      "price": 319800,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786280/"
+    },
+    {
+      "id": "DS10786279",
+      "keyword": "Fender",
+      "title": "Fender American Ultra Luxe Vintage ‘60s Telecaster Custom Rosewood Fingerboard 3CS【渋谷店】",
+      "price": 407000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786279/"
+    },
+    {
+      "id": "DS10786275",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Telecaster Maple Fingerboard Faded Sherwood Green Metallic [USA製]【渋",
+      "price": 192900,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786275/"
+    },
+    {
+      "id": "DS10786274",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Stratocaster HSS Maple Fingerboard Faded Black【渋谷店】",
+      "price": 202000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786274/"
+    },
+    {
+      "id": "DS10786265",
+      "keyword": "Fender",
+      "title": "Fender American Acoustasonic Telecaster Ebony Fingerboard Natural【渋谷店】",
+      "price": 254100,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10786265/"
+    },
+    {
+      "id": "DS10786263",
+      "keyword": "Fender",
+      "title": "Fender American Acoustasonic Jazzmaster All-Mahogany Ebony Fingerboard Bourbon Burst 【渋谷店】",
+      "price": 254000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10786263/"
+    },
+    {
+      "id": "DS10786261",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Precision Bass Faded Lake Placid Blue【渋谷店】",
+      "price": 206800,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10786261/"
+    },
+    {
+      "id": "DS10786260",
+      "keyword": "Fender",
+      "title": "Fender American Ultra II Jazz Bass Ebony Fingerboard Texas Tea【渋谷店】",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10786260/"
+    },
+    {
+      "id": "DS10786258",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1954 Precision Bass Vintage Blonde【渋谷店】",
+      "price": 319400,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10786258/"
+    },
+    {
+      "id": "DS10786254",
+      "keyword": "Fender",
+      "title": "Fender American Acoustasonic Telecaster Black【渋谷店】",
+      "price": 255100,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786254/"
+    },
+    {
+      "id": "DS10786253",
+      "keyword": "Fender",
+      "title": "Fender American Acoustasonic Telecaster All-Mahogany Ebony Fingerboard Bourbon Burst【渋谷店】",
+      "price": 254900,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786253/"
+    },
+    {
+      "id": "DS10786249",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Jazzmaster Rosewood Fingerboard Faded Firemist Gold【渋谷店】",
+      "price": 216300,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786249/"
+    },
+    {
+      "id": "DS10786246",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Telecaster Maple Fingerboard Black【渋谷店】",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786246/"
+    },
+    {
+      "id": "DS10786245",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Stratocaster Maple Fingerboard 3-Color Sunburst【渋谷店】",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786245/"
+    },
+    {
+      "id": "DS10786237",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1972 Telecaster Thinline Maple Fingerboard Aged Natural【渋谷店】",
+      "price": 363600,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786237/"
+    },
+    {
+      "id": "DS10786236",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Mustang Bass Faded Dakota Red【渋谷店】",
+      "price": 208000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10786236/"
+    },
+    {
+      "id": "DS10786235",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Fender Experience 2025 1965 Jaguar Closet Classic With NOS Darker LPB 選定品【渋谷店】",
+      "price": 965300,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786235/"
+    },
+    {
+      "id": "DS10786234",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Stratocaster Maple Miami Blue【渋谷店】",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786234/"
+    },
+    {
+      "id": "DS10786233",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1966 Jazzmaster Rosewood 3-Color Sunburst【渋谷店】",
+      "price": 367700,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786233/"
+    },
+    {
+      "id": "DS10786223",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop American Custom Stratocaster NOS Sienna Sunburst 【渋谷店】",
+      "price": 693000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786223/"
+    },
+    {
+      "id": "DS10786222",
+      "keyword": "Fender",
+      "title": "Fender 75th Anniversary American Professional Classic Cabronita Telecaster Candy Apple Red【渋谷店】",
+      "price": 275000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786222/"
+    },
+    {
+      "id": "DS10786219",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1965 Stratocaster Round-Lam Rosewood Candy Apple Red【渋谷店】",
+      "price": 319700,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786219/"
+    },
+    {
+      "id": "DS10786218",
+      "keyword": "Fender",
+      "title": "Fender Limited Edition American Vintage II 1951 Telecaster Flame Maple Black【渋谷店】",
+      "price": 339200,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786218/"
+    },
+    {
+      "id": "DS10786217",
+      "keyword": "Fender",
+      "title": "Fender American Ultra II Precision Bass Ebony Fingerboard Noble Blue【渋谷店】",
+      "price": 297000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10786217/"
+    },
+    {
+      "id": "DS10786212",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Telecaster Rosewood 3-Color Sunburst【渋谷店】",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786212/"
+    },
+    {
+      "id": "DS10786210",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Stratocaster Maple Fingerboard Dark Night【渋谷店】",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786210/"
+    },
+    {
+      "id": "DS10786209",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Custom Built 1961 Stratocaster Josefina P.U Time Capsule Super Faded Fiesta Red 【渋谷店】",
+      "price": 705800,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786209/"
+    },
+    {
+      "id": "DS10786208",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Custom Built Custom Stratocaster Ziricote Top Time Capsule Aged Natural【渋谷店】",
+      "price": 889200,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786208/"
+    },
+    {
+      "id": "DS10786207",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Limited Edition 50s Thinline Telecaster Heavy Relic Antique Burst 【渋谷店】",
+      "price": 962500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786207/"
+    },
+    {
+      "id": "DS10786204",
+      "keyword": "Fender",
+      "title": "Fender American Ultra II Stratocaster Ebony Fingerboard Noble Blue【渋谷店】",
+      "price": 309900,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786204/"
+    },
+    {
+      "id": "DS10786199",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Stratocaster HSS Rosewood Olympic White【渋谷店】",
+      "price": 231000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786199/"
+    },
+    {
+      "id": "DS10786198",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Stratocaster Maple Olympic White【渋谷店】",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786198/"
+    },
+    {
+      "id": "DS10786197",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Custom Built 1962 Stratocaster Super Heavy Relic Black【渋谷店】",
+      "price": 935000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786197/"
+    },
+    {
+      "id": "DS10786196",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Custom Built 1969 Stratocaster Time Capsule 3-Color Sunburst【渋谷店】",
+      "price": 660000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786196/"
+    },
+    {
+      "id": "DS10786195",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 70TH Anniversary 1954 Stratocaster Time Capsule Black【渋谷店】",
+      "price": 594000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786195/"
+    },
+    {
+      "id": "DS10786190",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Telecaster Maple Sienna Sunburst【渋谷店】",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786190/"
+    },
+    {
+      "id": "DS10786189",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Limited Edition 1962 Precision Bass Relic Aged Candy Apple Red【渋谷店】",
+      "price": 708400,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10786189/"
+    },
+    {
+      "id": "DS10786188",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Limited Edition 1954 Stratocaster Gold Hardware Journeyman Relic Aged Aztec Gold【渋谷店】",
+      "price": 763600,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786188/"
+    },
+    {
+      "id": "DS10786186",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Stratocaster Dark Night【渋谷店】",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786186/"
+    },
+    {
+      "id": "DS10786185",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Stratocaster Rosewood Mystic Surf Green【渋谷店】",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786185/"
+    },
+    {
+      "id": "DS10786184",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Custom Built 1965 Jaguar Heavy Relic Aged Black 別注仕様【渋谷店】",
+      "price": 891000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786184/"
+    },
+    {
+      "id": "DS10786182",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 1975 Jazz Bass Heavy Relic Aged Natural【渋谷店】",
+      "price": 858000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10786182/"
+    },
+    {
+      "id": "DS10786181",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Custom Built 1969 Stratocaster Relic 3 Color Sunburst【渋谷店】",
+      "price": 715000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786181/"
+    },
+    {
+      "id": "DS10786180",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Custom Built 1964 Jaguar Journeyman Relic Aged Black【渋谷店】",
+      "price": 815800,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786180/"
+    },
+    {
+      "id": "DS10786177",
+      "keyword": "Fender",
+      "title": "Fender Limited Edition American Professional II Stratocaster Blackguard Blonde【渋谷店】",
+      "price": 247500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786177/"
+    },
+    {
+      "id": "DS10786172",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Fender Experience 2025 1965 Stratocaster Closet Classic With / NOS Frost Gold【渋谷店】",
+      "price": 751700,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786172/"
+    },
+    {
+      "id": "DS10786171",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Hotshot Telecaster Maple 3-Color Sunburst【渋谷店】",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786171/"
+    },
+    {
+      "id": "DS10786170",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Telecaster Maple Faded Lake Placid Blue【渋谷店】",
+      "price": 195900,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786170/"
+    },
+    {
+      "id": "DS10786169",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Jaguar Maple Faded Lake Placid Blue【渋谷店】",
+      "price": 211800,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786169/"
+    },
+    {
+      "id": "DS10786168",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Jazzmaster Rosewood 3-Color Sunburst【渋谷店】",
+      "price": 202500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786168/"
+    },
+    {
+      "id": "DS10786167",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Stratocaster HSS Maple 3-Color Sunburst【渋谷店】",
+      "price": 203100,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786167/"
+    },
+    {
+      "id": "DS10786166",
+      "keyword": "Fender",
+      "title": "Fender American Ultra Luxe Vintage ‘50s Telecaster White Blonde【渋谷店】",
+      "price": 422000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786166/"
+    },
+    {
+      "id": "DS10786165",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Custom Built Custom Stratocaster HSS NOS Black Pearl[別注モデル]【渋谷店】",
+      "price": 568300,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786165/"
+    },
+    {
+      "id": "DS10786163",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Stratocaster Rosewood Miami Blue【渋谷店】",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10786163/"
     }
   ],
   "errors": [],
@@ -82,7 +537,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 170,
+      "qualifying": 167,
       "page_stats": [
         {
           "page": 1,
@@ -168,9 +623,9 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 290,
-      "parsed": 288,
-      "qualifying": 47,
+      "links": 300,
+      "parsed": 299,
+      "qualifying": 82,
       "page_stats": [
         {
           "page": 1,
@@ -188,7 +643,7 @@
           "page": 3,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=3&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 46
+          "unique_added": 50
         },
         {
           "page": 4,
@@ -206,7 +661,7 @@
           "page": 6,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=6&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 44
+          "unique_added": 50
         }
       ]
     },
@@ -214,7 +669,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 179,
+      "qualifying": 180,
       "page_stats": [
         {
           "page": 1,
@@ -320,9 +775,9 @@
     },
     "Fractal": {
       "pages": 4,
-      "links": 163,
-      "parsed": 163,
-      "qualifying": 90,
+      "links": 164,
+      "parsed": 164,
+      "qualifying": 91,
       "page_stats": [
         {
           "page": 1,
@@ -345,12 +800,12 @@
         {
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
-          "links": 13,
-          "unique_added": 13
+          "links": 14,
+          "unique_added": 14
         }
       ]
     }
   },
-  "collected": 875,
-  "seen_count": 2125
+  "collected": 909,
+  "seen_count": 2194
 }
