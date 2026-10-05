@@ -1,35 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-05T14:46:32.564524+00:00",
+  "checked_at": "2026-10-05T15:44:47.856008+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10787841",
+      "id": "DS10787850",
       "keyword": "Gibson",
-      "title": "Gibson 1998 Chet Atkins CEC",
-      "price": 359700,
-      "url": "https://www.digimart.net/cat02/shop50/DS10787841/"
-    },
-    {
-      "id": "DS10787840",
-      "keyword": "Gibson",
-      "title": "Gibson 1998 Thunderbird Ⅳ",
-      "price": 359700,
-      "url": "https://www.digimart.net/cat03/shop50/DS10787840/"
-    },
-    {
-      "id": "DS10787839",
-      "keyword": "Gibson",
-      "title": "Gibson 1965 EB-0 \"Wide Nut Width Neck\"",
-      "price": 495000,
-      "url": "https://www.digimart.net/cat03/shop50/DS10787839/"
-    },
-    {
-      "id": "DS10787842",
-      "keyword": "Fender",
-      "title": "Fender 2006 American Vintage Series 62 Telecaster",
-      "price": 220000,
-      "url": "https://www.digimart.net/cat01/shop50/DS10787842/"
+      "title": "Gibson 【試奏動画あり】60s J-45 Original Ebony #21356117【漆黒のルックスに宿る、ロックな攻撃力】",
+      "price": 373000,
+      "url": "https://www.digimart.net/cat02/shop5011/DS10787850/"
     }
   ],
   "errors": [],
@@ -82,7 +61,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 190,
+      "qualifying": 191,
       "page_stats": [
         {
           "page": 1,
@@ -351,6 +330,6 @@
       ]
     }
   },
-  "collected": 954,
-  "seen_count": 2303
+  "collected": 955,
+  "seen_count": 2304
 }
