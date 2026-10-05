@@ -1,8 +1,16 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-05T00:51:52.269762+00:00",
+  "checked_at": "2026-10-05T01:40:28.035302+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10785875",
+      "keyword": "Fender",
+      "title": "Fender 【中古】 エレキギター Fender American Vintage '62 Telecaster Black 2009年製 フェンダー",
+      "price": 268000,
+      "url": "https://www.digimart.net/cat01/shop1000/DS10785875/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -323,5 +331,5 @@
     }
   },
   "collected": 880,
-  "seen_count": 2116
+  "seen_count": 2117
 }
