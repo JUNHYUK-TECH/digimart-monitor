@@ -1,100 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-05T11:43:47.639375+00:00",
+  "checked_at": "2026-10-05T12:50:44.643827+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10787732",
-      "keyword": "Gibson",
-      "title": "Gibson LG-2 Ebony",
-      "price": 328000,
-      "url": "https://www.digimart.net/cat02/shop3800/DS10787732/"
-    },
-    {
-      "id": "DS10787628",
-      "keyword": "Gibson",
-      "title": "Gibson L-00 Original All Mahogany Rodrigo Purple",
-      "price": 396000,
-      "url": "https://www.digimart.net/cat02/shop3800/DS10787628/"
-    },
-    {
-      "id": "DS10787425",
-      "keyword": "Gibson",
-      "title": "Gibson 60's J-45 Original Ebony",
-      "price": 357500,
-      "url": "https://www.digimart.net/cat02/shop3800/DS10787425/"
-    },
-    {
-      "id": "DS10786938",
-      "keyword": "Gibson",
-      "title": "Gibson 1960s J-45 AN",
-      "price": 407000,
-      "url": "https://www.digimart.net/cat02/shop3800/DS10786938/"
-    },
-    {
-      "id": "DS10787692",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Classic 1960 - Honey Burst (2004年製)",
-      "price": 242000,
-      "url": "https://www.digimart.net/cat01/shop4816/DS10787692/"
-    },
-    {
-      "id": "DS10787679",
-      "keyword": "Gibson",
-      "title": "Gibson 【チョイキズ特価】Exclusive Les Paul Standard '50s \"Custom Shop Top\" #212460109 【3.955kg】",
-      "price": 412500,
-      "url": "https://www.digimart.net/cat01/shop26/DS10787679/"
-    },
-    {
-      "id": "DS10787675",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Special-TV Yellow- 2026年製 【3.50kg】",
-      "price": 198000,
-      "url": "https://www.digimart.net/cat01/shop38/DS10787675/"
-    },
-    {
-      "id": "DS10787668",
-      "keyword": "Gibson",
-      "title": "Gibson 1942 Banner Southern Jumbo Sedona Burst",
-      "price": 715000,
-      "url": "https://www.digimart.net/cat02/shop3800/DS10787668/"
-    },
-    {
-      "id": "DS10787664",
-      "keyword": "Gibson",
-      "title": "Gibson 1960's J-45 Antique Ebony 2015",
-      "price": 275000,
-      "url": "https://www.digimart.net/cat02/shop5032/DS10787664/"
-    },
-    {
-      "id": "DS10787645",
-      "keyword": "Gibson",
-      "title": "Gibson 【動画有り】Les Paul Standard '60s Figured Top -Honey Amber- #220450364【4.50kg】【48回無金利】",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop170/DS10787645/"
-    },
-    {
-      "id": "DS10787736",
-      "keyword": "Fender",
-      "title": "Fender American Original 50s Telecaster 2021年製 【返品OK】[VMM12]【梅田店在庫】",
-      "price": 278000,
-      "url": "https://www.digimart.net/cat01/shop3580/DS10787736/"
-    },
-    {
-      "id": "DS10787646",
-      "keyword": "Fender",
-      "title": "Fender Acoustics Limited Edition American Acoustasonic Telecaster (Green Paisley)",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat02/shop5331/DS10787646/"
-    },
-    {
-      "id": "DS10787644",
-      "keyword": "Fender",
-      "title": "Fender Acoustics Limited Edition American Acoustasonic Telecaster (Blue Paisley)",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat02/shop5331/DS10787644/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -145,7 +53,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 190,
+      "qualifying": 189,
       "page_stats": [
         {
           "page": 1,
@@ -189,7 +97,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 204,
+      "qualifying": 203,
       "page_stats": [
         {
           "page": 1,
@@ -414,6 +322,6 @@
       ]
     }
   },
-  "collected": 955,
+  "collected": 953,
   "seen_count": 2296
 }
