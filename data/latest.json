@@ -1,8 +1,30 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-05T12:50:44.643827+00:00",
+  "checked_at": "2026-10-05T13:47:19.792391+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10787608",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Studio 2016 / Pelham Blue 【S/N 160013858 / 3.80kg】 36回まで無金利",
+      "price": 158000,
+      "url": "https://www.digimart.net/cat01/shop5281/DS10787608/"
+    },
+    {
+      "id": "DS10787564",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Traditional 120th Anniversary 2014 / Wine Red 【S/N 140040473 / 4.63kg】 36回まで無金利",
+      "price": 158000,
+      "url": "https://www.digimart.net/cat01/shop5281/DS10787564/"
+    },
+    {
+      "id": "DS10786870",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s Double Trouble - Vintage Tabacco Burst",
+      "price": 297000,
+      "url": "https://www.digimart.net/cat01/shop4960/DS10786870/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -141,7 +163,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 100,
+      "qualifying": 99,
       "page_stats": [
         {
           "page": 1,
@@ -322,6 +344,6 @@
       ]
     }
   },
-  "collected": 953,
-  "seen_count": 2296
+  "collected": 952,
+  "seen_count": 2299
 }
