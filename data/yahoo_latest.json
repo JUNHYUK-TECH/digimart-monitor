@@ -1,34 +1,34 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-06T14:00:24.683606+00:00",
+  "checked_at": "2026-10-06T15:00:23.237481+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "j1247328853",
+      "id": "e1247335920",
       "keyword": "Gibson",
-      "title": "★☆★ Gibson Flying V 1995年製 希少エボニー指板 セミヴィンテージ ★☆★ 現在 237,600円 即決 237,610円 ＋送料3,470円 0 7日",
-      "price": 237600,
-      "buyout": 237610,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/j1247328853"
-    },
-    {
-      "id": "m1247317121",
-      "keyword": "Gibson",
-      "title": "1954 GIBSON les paul Goldtop conversion pickguard ピックガード レスポール ギブソン バースト ビンテージ 即決 248,000円 ＋送料440円 0 24時間",
-      "price": 248000,
-      "buyout": 248000,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/m1247317121"
-    },
-    {
-      "id": "g1247261945",
-      "keyword": "Gibson",
-      "title": "f145*180 【ジャンク】 【１円～ 】Gibson Humming Bird 1966-1969年製 Q63054 AAA6B543900 現在 134,433円 ＋送料3,058円 25 4日",
-      "price": 134433,
+      "title": "ギブソン120週年記念 1959 Les Paul Standard VOS ヒスコレ Gibson Historic Collection Burst Hand Selected 現在 750,000円 ＋送料4,280円 0 4日",
+      "price": 750000,
       "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/g1247261945"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/e1247335920"
+    },
+    {
+      "id": "v1244639722",
+      "keyword": "Gibson",
+      "title": "【Gibson Acoustic】ギブソン・アコースティック The1959 J-45 リシューモデル 純正ハードケース付き④ 格安400,000円スタート☆ 現在 400,000円 0 34分33秒",
+      "price": 400000,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/v1244639722"
+    },
+    {
+      "id": "l1244566620",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Studio / 2011年製 USA製 即決 147,000円 0 57分29秒",
+      "price": 147000,
+      "buyout": 147000,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/l1244566620"
     }
   ],
   "errors": [],
@@ -60,28 +60,28 @@
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=151&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 47
+          "links": 60,
+          "unique_added": 48
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=201&n=50&s1=new&o1=d",
-          "links": 54,
-          "unique_added": 42
+          "links": 55,
+          "unique_added": 43
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=251&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 49
+          "links": 59,
+          "unique_added": 47
         }
       ]
     },
     "Gibson": {
       "pages": 6,
-      "links": 286,
-      "parsed": 286,
-      "qualifying": 50,
+      "links": 287,
+      "parsed": 287,
+      "qualifying": 45,
       "page_stats": [
         {
           "page": 1,
@@ -116,66 +116,60 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 47
+          "links": 60,
+          "unique_added": 48
         }
       ]
     },
     "PRS": {
-      "pages": 4,
-      "links": 171,
-      "parsed": 171,
-      "qualifying": 28,
+      "pages": 3,
+      "links": 130,
+      "parsed": 130,
+      "qualifying": 22,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=PRS&b=1&n=50&s1=new&o1=d",
-          "links": 53,
-          "unique_added": 53
+          "links": 50,
+          "unique_added": 50
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=PRS&b=51&n=50&s1=new&o1=d",
-          "links": 56,
-          "unique_added": 44
+          "links": 51,
+          "unique_added": 43
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=PRS&b=101&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 38
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=PRS&b=151&n=50&s1=new&o1=d",
-          "links": 48,
-          "unique_added": 36
+          "links": 45,
+          "unique_added": 37
         }
       ]
     },
     "Fender": {
       "pages": 6,
-      "links": 310,
-      "parsed": 310,
+      "links": 309,
+      "parsed": 309,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 62,
-          "unique_added": 62
+          "links": 60,
+          "unique_added": 60
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=51&n=50&s1=new&o1=d",
           "links": 62,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=101&n=50&s1=new&o1=d",
           "links": 62,
-          "unique_added": 49
+          "unique_added": 50
         },
         {
           "page": 4,
@@ -187,7 +181,7 @@
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=201&n=50&s1=new&o1=d",
           "links": 62,
-          "unique_added": 49
+          "unique_added": 50
         },
         {
           "page": 6,
@@ -198,122 +192,98 @@
       ]
     },
     "Nord": {
-      "pages": 6,
-      "links": 283,
-      "parsed": 283,
-      "qualifying": 4,
+      "pages": 1,
+      "links": 46,
+      "parsed": 46,
+      "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Nord&b=1&n=50&s1=new&o1=d",
-          "links": 55,
-          "unique_added": 55
-        },
-        {
-          "page": 2,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Nord&b=51&n=50&s1=new&o1=d",
-          "links": 55,
-          "unique_added": 44
-        },
-        {
-          "page": 3,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Nord&b=101&n=50&s1=new&o1=d",
-          "links": 54,
-          "unique_added": 43
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Nord&b=151&n=50&s1=new&o1=d",
-          "links": 55,
-          "unique_added": 44
-        },
-        {
-          "page": 5,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Nord&b=201&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 49
-        },
-        {
-          "page": 6,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Nord&b=251&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 48
+          "links": 46,
+          "unique_added": 46
         }
       ]
     },
     "Helix": {
       "pages": 6,
-      "links": 297,
-      "parsed": 297,
-      "qualifying": 1,
+      "links": 308,
+      "parsed": 308,
+      "qualifying": 2,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Helix&b=1&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 59
+          "links": 55,
+          "unique_added": 55
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Helix&b=51&n=50&s1=new&o1=d",
-          "links": 62,
+          "links": 58,
           "unique_added": 50
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Helix&b=101&n=50&s1=new&o1=d",
-          "links": 59,
+          "links": 55,
           "unique_added": 47
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Helix&b=151&n=50&s1=new&o1=d",
-          "links": 62,
+          "links": 58,
           "unique_added": 50
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Helix&b=201&n=50&s1=new&o1=d",
-          "links": 61,
-          "unique_added": 49
+          "links": 63,
+          "unique_added": 62
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Helix&b=251&n=50&s1=new&o1=d",
-          "links": 54,
-          "unique_added": 42
+          "links": 58,
+          "unique_added": 44
         }
       ]
     },
     "Quad Cortex": {
-      "pages": 1,
-      "links": 44,
-      "parsed": 44,
+      "pages": 2,
+      "links": 57,
+      "parsed": 57,
       "qualifying": 2,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Quad+Cortex&b=1&n=50&s1=new&o1=d",
-          "links": 44,
-          "unique_added": 44
+          "links": 56,
+          "unique_added": 56
+        },
+        {
+          "page": 2,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Quad+Cortex&b=51&n=50&s1=new&o1=d",
+          "links": 25,
+          "unique_added": 1
         }
       ]
     },
     "Fractal": {
       "pages": 1,
-      "links": 49,
-      "parsed": 49,
+      "links": 43,
+      "parsed": 43,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Fractal&b=1&n=50&s1=new&o1=d",
-          "links": 49,
-          "unique_added": 49
+          "links": 43,
+          "unique_added": 43
         }
       ]
     }
   },
-  "collected": 93,
-  "seen_count": 482
+  "collected": 79,
+  "seen_count": 485
 }
