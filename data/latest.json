@@ -1,21 +1,21 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-06T12:48:31.049305+00:00",
+  "checked_at": "2026-10-06T13:43:11.166171+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10789791",
+      "id": "DS10788534",
       "keyword": "Gibson",
-      "title": "Gibson 【2026年製】【重低音◎個体】J-45 Standard with HiFi DNA #22326109",
-      "price": 381700,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10789791/"
+      "title": "Gibson 【久しぶりの入荷】【2026年製】Hummingbird Special #22046053【高音域の倍音◎】",
+      "price": 273000,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10788534/"
     },
     {
-      "id": "DS10790063",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster MN Aged Cherry Burst【S/N JD25008437】",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop3800/DS10790063/"
+      "id": "DS10788719",
+      "keyword": "Gibson",
+      "title": "Gibson LP STD 50s P90",
+      "price": 268000,
+      "url": "https://www.digimart.net/cat01/shop5353/DS10788719/"
     }
   ],
   "errors": [],
@@ -68,7 +68,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 199,
+      "qualifying": 197,
       "page_stats": [
         {
           "page": 1,
@@ -156,7 +156,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 80,
+      "qualifying": 79,
       "page_stats": [
         {
           "page": 1,
@@ -244,7 +244,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 120,
+      "qualifying": 119,
       "page_stats": [
         {
           "page": 1,
@@ -337,6 +337,6 @@
       ]
     }
   },
-  "collected": 946,
-  "seen_count": 2486
+  "collected": 942,
+  "seen_count": 2488
 }
