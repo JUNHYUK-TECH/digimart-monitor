@@ -1,98 +1,77 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-06T08:43:27.041288+00:00",
+  "checked_at": "2026-10-06T09:43:21.282119+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10789601",
+      "id": "DS10789776",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard Ebony 1995 【新宿店】",
-      "price": 396000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10789601/"
+      "title": "Gibson ES-140 3/4 '52",
+      "price": 770000,
+      "url": "https://www.digimart.net/cat01/shop70/DS10789776/"
     },
     {
-      "id": "DS10789596",
+      "id": "DS10789771",
       "keyword": "Gibson",
-      "title": "Gibson Hummingbird Faded (Natural) [LR Baggs プリアンプ搭載エレアコ仕様]",
-      "price": 508200,
-      "url": "https://www.digimart.net/cat02/shop5451/DS10789596/"
+      "title": "Gibson 2016年製 1968 J-45 BLK ♯12646020 【無金利分割OK】",
+      "price": 418000,
+      "url": "https://www.digimart.net/cat02/shop172/DS10789771/"
     },
     {
-      "id": "DS10789595",
+      "id": "DS10789725",
       "keyword": "Gibson",
-      "title": "Gibson J-45 Standard ~Heritage Cherry Sunburst~ #20566089",
-      "price": 373000,
-      "url": "https://www.digimart.net/cat02/shop35/DS10789595/"
+      "title": "Gibson Custom Shop 【チョイキズ特価】Les Paul Custom w/ Ebony Fingerboard Gloss Ebony #CS600957【4.50kg】",
+      "price": 737000,
+      "url": "https://www.digimart.net/cat01/shop170/DS10789725/"
     },
     {
-      "id": "DS10789366",
+      "id": "DS10789425",
       "keyword": "Gibson",
-      "title": "Gibson Japan Exclusive Les Paul Standard 50s Custom Shop Top / Heritage Cherry Sunburst #219760322",
+      "title": "Gibson Custom Shop 【解説・試奏動画】2012s TAK Matsumoto DC Standard \"1st Edition\" Aqua Blue #12x",
+      "price": 750000,
+      "url": "https://www.digimart.net/cat01/shop5395/DS10789425/"
+    },
+    {
+      "id": "DS10789702",
+      "keyword": "Gibson",
+      "title": "Gibson 70s Flying V / Classic White #221560200",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop4540/DS10789702/"
+    },
+    {
+      "id": "DS10789680",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 【中古】 アコースティックギター Gibson Custom Shop 1959 LG-2 KB Kustom Burst 2018年製",
+      "price": 348000,
+      "url": "https://www.digimart.net/cat02/shop1000/DS10789680/"
+    },
+    {
+      "id": "DS10789767",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Standard 24-08 BLACK Limited Model エレキギター",
+      "price": 138600,
+      "url": "https://www.digimart.net/cat01/shop5304/DS10789767/"
+    },
+    {
+      "id": "DS10789741",
+      "keyword": "Fender",
+      "title": "Fender 【Big Sale!】American Vintage II 1957 Stratocaster -Black-【V2554847】",
+      "price": 393800,
+      "url": "https://www.digimart.net/cat01/shop38/DS10789741/"
+    },
+    {
+      "id": "DS10789737",
+      "keyword": "Fender",
+      "title": "Fender 【Big Sale!】American Vintage II 1963 Telecaster -Crimson Red Transparent-【V2560573】",
       "price": 412500,
-      "url": "https://www.digimart.net/cat01/shop4540/DS10789366/"
+      "url": "https://www.digimart.net/cat01/shop38/DS10789737/"
     },
     {
-      "id": "DS10789493",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Junior 【返品OK】[UMO21]【梅田店在庫】",
-      "price": 178000,
-      "url": "https://www.digimart.net/cat01/shop3580/DS10789493/"
-    },
-    {
-      "id": "DS10789379",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard '50s - Heritage Cherry Sunburst (HCS) 現物画像",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop5186/DS10789379/"
-    },
-    {
-      "id": "DS10789577",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Custom 24 (Pearl White Top & Binding / Natural Back)2026年製",
-      "price": 638880,
-      "url": "https://www.digimart.net/cat01/shop58/DS10789577/"
-    },
-    {
-      "id": "DS10789556",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Japan Exclusive Wood Library McCarty Trem 10Top(Arctic Blue)2026年製",
-      "price": 897600,
-      "url": "https://www.digimart.net/cat01/shop58/DS10789556/"
-    },
-    {
-      "id": "DS10789419",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE McCARTY 594 Faded Blue",
-      "price": 123800,
-      "url": "https://www.digimart.net/cat01/shop5073/DS10789419/"
-    },
-    {
-      "id": "DS10789415",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) McCarty 594 10 TOP (River Blue Pearl) 2026年製",
-      "price": 756800,
-      "url": "https://www.digimart.net/cat01/shop58/DS10789415/"
-    },
-    {
-      "id": "DS10789376",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Custom 24 Piezo -River Blue Pearl- ≒3.530Kg 2026年製",
-      "price": 704000,
-      "url": "https://www.digimart.net/cat01/shop60/DS10789376/"
-    },
-    {
-      "id": "DS10789591",
+      "id": "DS10789629",
       "keyword": "Fender",
-      "title": "Fender American Professional Classic Jazzmaster Faded Dakota Red #US25099413【3.76kg】",
-      "price": 264000,
-      "url": "https://www.digimart.net/cat01/shop5389/DS10789591/"
-    },
-    {
-      "id": "DS10789529",
-      "keyword": "Fender",
-      "title": "Fender American Vintage II 1973 Stratocaster",
-      "price": 268980,
-      "url": "https://www.digimart.net/cat01/shop5104/DS10789529/"
+      "title": "Fender AMERICAN VINTAGE '62JAZZ BASS / Modified & Refinish ( フェンダー アメリカンヴィンテージ 2001年製)",
+      "price": 258000,
+      "url": "https://www.digimart.net/cat03/shop4881/DS10789629/"
     }
   ],
   "errors": [],
@@ -145,7 +124,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 200,
+      "qualifying": 201,
       "page_stats": [
         {
           "page": 1,
@@ -233,7 +212,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 87,
+      "qualifying": 85,
       "page_stats": [
         {
           "page": 1,
@@ -383,8 +362,8 @@
     },
     "Fractal": {
       "pages": 4,
-      "links": 165,
-      "parsed": 165,
+      "links": 166,
+      "parsed": 166,
       "qualifying": 92,
       "page_stats": [
         {
@@ -408,12 +387,12 @@
         {
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
-          "links": 15,
-          "unique_added": 15
+          "links": 16,
+          "unique_added": 16
         }
       ]
     }
   },
-  "collected": 953,
-  "seen_count": 2445
+  "collected": 952,
+  "seen_count": 2455
 }
