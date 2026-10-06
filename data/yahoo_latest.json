@@ -1,11 +1,10 @@
 {
   "status": "failed",
-  "checked_at": "2026-10-06T11:56:24.498056+00:00",
+  "checked_at": "2026-10-06T13:00:10.624287+00:00",
   "baseline": false,
   "new": [],
   "errors": [
-    "Tyler: HTTP 500: https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=51&n=50&s1=new&o1=d",
-    "Gibson: HTTP 500: https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=1&n=50&s1=new&o1=d",
+    "Gibson: HTTP 500: https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=201&n=50&s1=new&o1=d",
     "PRS: HTTP 500: https://auctions.yahoo.co.jp/opensearch?p=PRS&b=1&n=50&s1=new&o1=d",
     "Fender: HTTP 500: https://auctions.yahoo.co.jp/opensearch?p=Fender&b=1&n=50&s1=new&o1=d",
     "Nord: HTTP 500: https://auctions.yahoo.co.jp/opensearch?p=Nord&b=1&n=50&s1=new&o1=d",
@@ -13,5 +12,50 @@
     "Quad Cortex: HTTP 500: https://auctions.yahoo.co.jp/opensearch?p=Quad+Cortex&b=1&n=50&s1=new&o1=d",
     "Fractal: HTTP 500: https://auctions.yahoo.co.jp/opensearch?p=Fractal&b=1&n=50&s1=new&o1=d"
   ],
-  "counts": {}
+  "counts": {
+    "Tyler": {
+      "pages": 6,
+      "links": 242,
+      "parsed": 242,
+      "qualifying": 8,
+      "page_stats": [
+        {
+          "page": 1,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=1&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 2,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=51&n=50&s1=new&o1=d",
+          "links": 59,
+          "unique_added": 58
+        },
+        {
+          "page": 3,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=101&n=50&s1=new&o1=d",
+          "links": 58,
+          "unique_added": 28
+        },
+        {
+          "page": 4,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=151&n=50&s1=new&o1=d",
+          "links": 57,
+          "unique_added": 25
+        },
+        {
+          "page": 5,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=201&n=50&s1=new&o1=d",
+          "links": 55,
+          "unique_added": 34
+        },
+        {
+          "page": 6,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=251&n=50&s1=new&o1=d",
+          "links": 59,
+          "unique_added": 47
+        }
+      ]
+    }
+  }
 }
