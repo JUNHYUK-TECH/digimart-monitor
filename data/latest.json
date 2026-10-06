@@ -1,112 +1,98 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-06T07:42:38.582159+00:00",
+  "checked_at": "2026-10-06T08:43:27.041288+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10789371",
+      "id": "DS10789601",
       "keyword": "Gibson",
-      "title": "Gibson 【Hand Picked】~Greatest Hits~ Custom Shop L-00 -Argentine Grey- #23115093【48回迄金利0%対象】",
-      "price": 558000,
-      "url": "https://www.digimart.net/cat02/shop1881/DS10789371/"
+      "title": "Gibson Les Paul Standard Ebony 1995 【新宿店】",
+      "price": 396000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10789601/"
     },
     {
-      "id": "DS10789361",
+      "id": "DS10789596",
       "keyword": "Gibson",
-      "title": "Gibson 【セカンド品】Les Paul Special Double Cutaway -TV Yellow- #209860065【3.46kg】",
-      "price": 223300,
-      "url": "https://www.digimart.net/cat01/shop5045/DS10789361/"
+      "title": "Gibson Hummingbird Faded (Natural) [LR Baggs プリアンプ搭載エレアコ仕様]",
+      "price": 508200,
+      "url": "https://www.digimart.net/cat02/shop5451/DS10789596/"
     },
     {
-      "id": "DS10789359",
+      "id": "DS10789595",
       "keyword": "Gibson",
-      "title": "Gibson 【セカンド品】Les Paul Standard 50s Plain Top -Classic White Top- #205460200【4.25kg】",
-      "price": 290400,
-      "url": "https://www.digimart.net/cat01/shop5045/DS10789359/"
+      "title": "Gibson J-45 Standard ~Heritage Cherry Sunburst~ #20566089",
+      "price": 373000,
+      "url": "https://www.digimart.net/cat02/shop35/DS10789595/"
     },
     {
-      "id": "DS10789357",
+      "id": "DS10789366",
       "keyword": "Gibson",
-      "title": "Gibson 【セカンド品】Les Paul Standard 50s Figured Top -60s Cherry- #212250172【4.30kg】",
-      "price": 312400,
-      "url": "https://www.digimart.net/cat01/shop5045/DS10789357/"
+      "title": "Gibson Japan Exclusive Les Paul Standard 50s Custom Shop Top / Heritage Cherry Sunburst #219760322",
+      "price": 412500,
+      "url": "https://www.digimart.net/cat01/shop4540/DS10789366/"
     },
     {
-      "id": "DS10789300",
+      "id": "DS10789493",
       "keyword": "Gibson",
-      "title": "Gibson 2023 Generation Collection G-200 EC",
-      "price": 138000,
-      "url": "https://www.digimart.net/cat02/shop5330/DS10789300/"
+      "title": "Gibson Les Paul Junior 【返品OK】[UMO21]【梅田店在庫】",
+      "price": 178000,
+      "url": "https://www.digimart.net/cat01/shop3580/DS10789493/"
     },
     {
-      "id": "DS10788773",
+      "id": "DS10789379",
       "keyword": "Gibson",
-      "title": "Gibson Victory Floyd Rose Deep Ocean Burst ヴィクトリー ギブソン【アウトレット/未展示品】[3.39kg][S/N 20336",
-      "price": 335500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10788773/"
+      "title": "Gibson Les Paul Standard '50s - Heritage Cherry Sunburst (HCS) 現物画像",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop5186/DS10789379/"
     },
     {
-      "id": "DS10789356",
+      "id": "DS10789577",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Japan Exclusive Model Wood Library Custom 24(Laguna)2026年製",
+      "title": "Paul Reed Smith(PRS) Custom 24 (Pearl White Top & Binding / Natural Back)2026年製",
+      "price": 638880,
+      "url": "https://www.digimart.net/cat01/shop58/DS10789577/"
+    },
+    {
+      "id": "DS10789556",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) Japan Exclusive Wood Library McCarty Trem 10Top(Arctic Blue)2026年製",
       "price": 897600,
-      "url": "https://www.digimart.net/cat01/shop58/DS10789356/"
+      "url": "https://www.digimart.net/cat01/shop58/DS10789556/"
     },
     {
-      "id": "DS10789321",
+      "id": "DS10789419",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Custom 24 Piezo -Dark Cherry Sunburst- ≒3.612Kg 2026年製",
+      "title": "Paul Reed Smith(PRS) SE McCARTY 594 Faded Blue",
+      "price": 123800,
+      "url": "https://www.digimart.net/cat01/shop5073/DS10789419/"
+    },
+    {
+      "id": "DS10789415",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) McCarty 594 10 TOP (River Blue Pearl) 2026年製",
+      "price": 756800,
+      "url": "https://www.digimart.net/cat01/shop58/DS10789415/"
+    },
+    {
+      "id": "DS10789376",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) Custom 24 Piezo -River Blue Pearl- ≒3.530Kg 2026年製",
       "price": 704000,
-      "url": "https://www.digimart.net/cat01/shop60/DS10789321/"
+      "url": "https://www.digimart.net/cat01/shop60/DS10789376/"
     },
     {
-      "id": "DS10789320",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Japan Exclusive Model Wood Library Custom 24(Natural)2026年製",
-      "price": 897600,
-      "url": "https://www.digimart.net/cat01/shop58/DS10789320/"
+      "id": "DS10789591",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Jazzmaster Faded Dakota Red #US25099413【3.76kg】",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10789591/"
     },
     {
-      "id": "DS10789282",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Custom24-08 -Aurora Borealis- ≒3.452Kg 2026年製",
-      "price": 643500,
-      "url": "https://www.digimart.net/cat01/shop60/DS10789282/"
-    },
-    {
-      "id": "DS10789277",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom24 Amethyst AT エレキギター 【未展示品・専任担当者による調整済み】【ミ･ナーラ奈良店】",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop4840/DS10789277/"
-    },
-    {
-      "id": "DS10789276",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom24 Fire Red Burst SEカスタム24 ファイヤーレッドバースト",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop4840/DS10789276/"
-    },
-    {
-      "id": "DS10789274",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom24 Fire Red Burst SEカスタム24 ファイヤーレッドバースト",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop4840/DS10789274/"
-    },
-    {
-      "id": "DS10789270",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Custom 24 10 Top -Faded Whale Blue- ≒3.485Kg 2026年製",
-      "price": 739200,
-      "url": "https://www.digimart.net/cat01/shop60/DS10789270/"
-    },
-    {
-      "id": "DS10789217",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Custom 24 10 Top -River Blue Pearl- ≒3.699Kg 2026年製",
-      "price": 739200,
-      "url": "https://www.digimart.net/cat01/shop60/DS10789217/"
+      "id": "DS10789529",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1973 Stratocaster",
+      "price": 268980,
+      "url": "https://www.digimart.net/cat01/shop5104/DS10789529/"
     }
   ],
   "errors": [],
@@ -159,7 +145,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 198,
+      "qualifying": 200,
       "page_stats": [
         {
           "page": 1,
@@ -203,7 +189,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 201,
+      "qualifying": 203,
       "page_stats": [
         {
           "page": 1,
@@ -428,6 +414,6 @@
       ]
     }
   },
-  "collected": 949,
-  "seen_count": 2432
+  "collected": 953,
+  "seen_count": 2445
 }
