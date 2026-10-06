@@ -1,14 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-06T14:42:15.276981+00:00",
+  "checked_at": "2026-10-06T15:41:00.985761+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10790062",
+      "id": "DS10790089",
       "keyword": "Fender",
-      "title": "Fender American Standard Stratocaster / Black 1998",
-      "price": 110000,
-      "url": "https://www.digimart.net/cat01/shop4360/DS10790062/"
+      "title": "Fender American Vintage '62 Stratocaster 3-Color Sunburst",
+      "price": 278000,
+      "url": "https://www.digimart.net/cat01/shop4943/DS10790089/"
     }
   ],
   "errors": [],
@@ -331,5 +331,5 @@
     }
   },
   "collected": 946,
-  "seen_count": 2489
+  "seen_count": 2490
 }
