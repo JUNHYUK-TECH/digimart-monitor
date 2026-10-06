@@ -1,28 +1,28 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-06T01:40:00.463521+00:00",
+  "checked_at": "2026-10-06T02:41:24.309549+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10788035",
-      "keyword": "Gibson",
-      "title": "Gibson 【動画有り】【良杢個体】Les Paul Standard '50s Heritage Cherry Sunburst #215360184【4.42kg】",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop170/DS10788035/"
+      "id": "DS10788132",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Custom 24 2025【三重本店】",
+      "price": 108000,
+      "url": "https://www.digimart.net/cat01/shop5023/DS10788132/"
     },
     {
-      "id": "DS10787904",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 Studio Walnut Walnut Burst 2023【ロッキン岐阜店12周年記念セール!】",
-      "price": 218000,
-      "url": "https://www.digimart.net/cat02/shop4978/DS10787904/"
+      "id": "DS10788145",
+      "keyword": "Fender",
+      "title": "Fender 【GP ''MOD''】American Professional II Stratocaster MOD -Olympic White/Maple-",
+      "price": 248000,
+      "url": "https://www.digimart.net/cat01/shop38/DS10788145/"
     },
     {
-      "id": "DS09906579",
-      "keyword": "Helix",
-      "title": "LINE 6 HELIX STADIUM FLOOR",
-      "price": 341000,
-      "url": "https://www.digimart.net/cat12/shop58/DS09906579/"
+      "id": "DS10788125",
+      "keyword": "Fender",
+      "title": "Fender American Original '60s Stratocaster -3-Color Sunburst- 【3.68kg】",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10788125/"
     }
   ],
   "errors": [],
@@ -74,8 +74,8 @@
     "Gibson": {
       "pages": 6,
       "links": 300,
-      "parsed": 299,
-      "qualifying": 192,
+      "parsed": 298,
+      "qualifying": 190,
       "page_stats": [
         {
           "page": 1,
@@ -163,7 +163,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 101,
+      "qualifying": 102,
       "page_stats": [
         {
           "page": 1,
@@ -344,6 +344,6 @@
       ]
     }
   },
-  "collected": 958,
-  "seen_count": 2312
+  "collected": 957,
+  "seen_count": 2315
 }
