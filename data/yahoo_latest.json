@@ -1,14 +1,24 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-06T17:56:53.935739+00:00",
+  "checked_at": "2026-10-06T18:59:24.058391+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "d1247318240",
+      "keyword": "Gibson",
+      "title": "Gibson USA ES-335TD 1979年製 ギブソン セミアコースティックギター PUダンカン交換等 リアPUジャンク 配送/来店引取可 ★ 7705B-3 現在 122,100円 送料未定 10 6日",
+      "price": 122100,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/d1247318240"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 258,
-      "parsed": 258,
+      "links": 259,
+      "parsed": 259,
       "qualifying": 7,
       "page_stats": [
         {
@@ -21,13 +31,13 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=51&n=50&s1=new&o1=d",
           "links": 60,
-          "unique_added": 29
+          "unique_added": 31
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=101&n=50&s1=new&o1=d",
           "links": 59,
-          "unique_added": 46
+          "unique_added": 44
         },
         {
           "page": 4,
@@ -44,16 +54,16 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=251&n=50&s1=new&o1=d",
-          "links": 56,
-          "unique_added": 43
+          "links": 57,
+          "unique_added": 44
         }
       ]
     },
     "Gibson": {
       "pages": 6,
-      "links": 298,
-      "parsed": 298,
-      "qualifying": 59,
+      "links": 299,
+      "parsed": 299,
+      "qualifying": 60,
       "page_stats": [
         {
           "page": 1,
@@ -65,7 +75,7 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=51&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 47
+          "unique_added": 48
         },
         {
           "page": 3,
@@ -82,14 +92,14 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 62,
-          "unique_added": 39
+          "links": 63,
+          "unique_added": 40
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 49,
-          "unique_added": 49
+          "links": 48,
+          "unique_added": 48
         }
       ]
     },
@@ -109,8 +119,8 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 299,
-      "parsed": 299,
+      "links": 300,
+      "parsed": 300,
       "qualifying": 0,
       "page_stats": [
         {
@@ -146,8 +156,8 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 49,
-          "unique_added": 49
+          "links": 50,
+          "unique_added": 50
         }
       ]
     },
@@ -208,6 +218,6 @@
       ]
     }
   },
-  "collected": 73,
-  "seen_count": 486
+  "collected": 74,
+  "seen_count": 487
 }
