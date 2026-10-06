@@ -1,33 +1,24 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-06T20:56:22.240741+00:00",
+  "checked_at": "2026-10-06T21:55:23.886437+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "v1247350981",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard チェリーサンバースト エレキギター ハードケース付 即決 240,000円 送料未定 0 7日",
-      "price": 240000,
-      "buyout": 240000,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/v1247350981"
-    },
-    {
-      "id": "q1239145159",
-      "keyword": "Gibson",
-      "title": "[美品] Gibson Les Paul Studio Ebony 装飾を削ぎ落とした王道レスポール 1999年製 [SM094]【神戸店在庫】 現在 147,977円 22時40分に終了",
-      "price": 147977,
+      "id": "o1247360050",
+      "keyword": "Fender",
+      "title": "Fender custom shop 1960Stratocaster バーガンディミスト レリック 2007年製 現在 395,000円 送料無料 0 3日",
+      "price": 395000,
       "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/q1239145159"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/o1247360050"
     }
   ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 259,
-      "parsed": 259,
+      "links": 260,
+      "parsed": 260,
       "qualifying": 7,
       "page_stats": [
         {
@@ -45,26 +36,26 @@
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=101&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 42
+          "links": 60,
+          "unique_added": 44
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=151&n=50&s1=new&o1=d",
-          "links": 61,
-          "unique_added": 48
+          "links": 60,
+          "unique_added": 47
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=201&n=50&s1=new&o1=d",
-          "links": 53,
-          "unique_added": 40
+          "links": 54,
+          "unique_added": 41
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=251&n=50&s1=new&o1=d",
-          "links": 58,
-          "unique_added": 45
+          "links": 57,
+          "unique_added": 44
         }
       ]
     },
@@ -72,36 +63,36 @@
       "pages": 6,
       "links": 297,
       "parsed": 297,
-      "qualifying": 61,
+      "qualifying": 60,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 71,
-          "unique_added": 71
+          "links": 70,
+          "unique_added": 70
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 47
+          "links": 71,
+          "unique_added": 49
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 46
+          "links": 67,
+          "unique_added": 45
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 68,
+          "links": 67,
           "unique_added": 45
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 63,
+          "links": 62,
           "unique_added": 40
         },
         {
@@ -114,15 +105,15 @@
     },
     "PRS": {
       "pages": 1,
-      "links": 42,
-      "parsed": 42,
+      "links": 43,
+      "parsed": 43,
       "qualifying": 5,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=PRS&b=1&n=50&s1=new&o1=d",
-          "links": 42,
-          "unique_added": 42
+          "links": 43,
+          "unique_added": 43
         }
       ]
     },
@@ -130,7 +121,7 @@
       "pages": 1,
       "links": 49,
       "parsed": 49,
-      "qualifying": 0,
+      "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
@@ -198,5 +189,5 @@
     }
   },
   "collected": 75,
-  "seen_count": 490
+  "seen_count": 491
 }
