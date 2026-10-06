@@ -1,28 +1,77 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-06T02:41:24.309549+00:00",
+  "checked_at": "2026-10-06T03:41:51.294381+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10788132",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24 2025【三重本店】",
-      "price": 108000,
-      "url": "https://www.digimart.net/cat01/shop5023/DS10788132/"
+      "id": "DS10788238",
+      "keyword": "Gibson",
+      "title": "Gibson 【USED】Victory Floyd Rose Iguana Burst #208560086 【3.30kg】",
+      "price": 246000,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10788238/"
     },
     {
-      "id": "DS10788145",
+      "id": "DS10788321",
       "keyword": "Fender",
-      "title": "Fender 【GP ''MOD''】American Professional II Stratocaster MOD -Olympic White/Maple-",
-      "price": 248000,
-      "url": "https://www.digimart.net/cat01/shop38/DS10788145/"
+      "title": "Fender American Ultra II Stratocaster HSS -Noble Blue- #US26008965 ≒3.64kg",
+      "price": 385000,
+      "url": "https://www.digimart.net/cat01/shop60/DS10788321/"
     },
     {
-      "id": "DS10788125",
+      "id": "DS10788312",
       "keyword": "Fender",
-      "title": "Fender American Original '60s Stratocaster -3-Color Sunburst- 【3.68kg】",
+      "title": "Fender 【P.G交換】LTD American Professional Classic Stratocaster -Mystic Ice Bluel- #US26023787 ≒3.39kg",
       "price": 242000,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10788125/"
+      "url": "https://www.digimart.net/cat01/shop60/DS10788312/"
+    },
+    {
+      "id": "DS10788298",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 【漆黒指板】1964 Jaguar Journeyman Relic Faded Aged Shoreline Gold ≒3.88kg【新品】",
+      "price": 924000,
+      "url": "https://www.digimart.net/cat01/shop60/DS10788298/"
+    },
+    {
+      "id": "DS10788296",
+      "keyword": "Fender",
+      "title": "Fender FSR Limited Edition American Vintage II 1966 Jazzmaster 3A Flame Neck BLACK #V2559409 ≒3.59kg",
+      "price": 418000,
+      "url": "https://www.digimart.net/cat01/shop60/DS10788296/"
+    },
+    {
+      "id": "DS10788212",
+      "keyword": "Fender",
+      "title": "Fender Limited American Professional II Classic Stratocaster Olympic Pearl 【3.39kg】【US25075565】",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat01/shop170/DS10788212/"
+    },
+    {
+      "id": "DS10788155",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Jazz Bass 3-Color Sunburst エレキベース ジャズベース",
+      "price": 306900,
+      "url": "https://www.digimart.net/cat03/shop5188/DS10788155/"
+    },
+    {
+      "id": "DS10788222",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Stage 4 Compact 【即納可能・送料無料】",
+      "price": 858000,
+      "url": "https://www.digimart.net/cat07/shop1140/DS10788222/"
+    },
+    {
+      "id": "DS10788219",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Organ 3 【展示処分アウトレット】",
+      "price": 671000,
+      "url": "https://www.digimart.net/cat06/shop1140/DS10788219/"
+    },
+    {
+      "id": "DS10788209",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Drum 3P 【展示処分アウトレット】",
+      "price": 123200,
+      "url": "https://www.digimart.net/cat06/shop1140/DS10788209/"
     }
   ],
   "errors": [],
@@ -119,7 +168,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 202,
+      "qualifying": 201,
       "page_stats": [
         {
           "page": 1,
@@ -161,9 +210,9 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 300,
-      "parsed": 300,
-      "qualifying": 102,
+      "links": 299,
+      "parsed": 299,
+      "qualifying": 85,
       "page_stats": [
         {
           "page": 1,
@@ -181,7 +230,7 @@
           "page": 3,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=3&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 4,
@@ -344,6 +393,6 @@
       ]
     }
   },
-  "collected": 957,
-  "seen_count": 2315
+  "collected": 939,
+  "seen_count": 2325
 }
