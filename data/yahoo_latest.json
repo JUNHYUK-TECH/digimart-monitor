@@ -1,24 +1,24 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-06T18:59:24.058391+00:00",
+  "checked_at": "2026-10-06T19:56:05.705188+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "d1247318240",
+      "id": "b1247095768",
       "keyword": "Gibson",
-      "title": "Gibson USA ES-335TD 1979年製 ギブソン セミアコースティックギター PUダンカン交換等 リアPUジャンク 配送/来店引取可 ★ 7705B-3 現在 122,100円 送料未定 10 6日",
-      "price": 122100,
+      "title": "【 C 】K9775 Gibson Lespaul CUSTOM #90347473 エレキギター ギブソン 3248727 現在 181,500円 ＋送料3,660円 32 3日",
+      "price": 181500,
       "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/d1247318240"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/b1247095768"
     }
   ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 259,
-      "parsed": 259,
+      "links": 260,
+      "parsed": 260,
       "qualifying": 7,
       "page_stats": [
         {
@@ -31,38 +31,38 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=51&n=50&s1=new&o1=d",
           "links": 60,
-          "unique_added": 31
+          "unique_added": 32
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=101&n=50&s1=new&o1=d",
           "links": 59,
-          "unique_added": 44
+          "unique_added": 43
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=151&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 47
+          "links": 61,
+          "unique_added": 48
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=201&n=50&s1=new&o1=d",
-          "links": 54,
-          "unique_added": 41
+          "links": 53,
+          "unique_added": 40
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=251&n=50&s1=new&o1=d",
-          "links": 57,
-          "unique_added": 44
+          "links": 58,
+          "unique_added": 45
         }
       ]
     },
     "Gibson": {
       "pages": 6,
-      "links": 299,
-      "parsed": 299,
+      "links": 298,
+      "parsed": 298,
       "qualifying": 60,
       "page_stats": [
         {
@@ -75,7 +75,7 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=51&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 48
+          "unique_added": 47
         },
         {
           "page": 3,
@@ -118,46 +118,16 @@
       ]
     },
     "Fender": {
-      "pages": 6,
-      "links": 300,
-      "parsed": 300,
+      "pages": 1,
+      "links": 49,
+      "parsed": 49,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 2,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 3,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=151&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 5,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=201&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 6,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
+          "links": 49,
+          "unique_added": 49
         }
       ]
     },
@@ -191,15 +161,15 @@
     },
     "Quad Cortex": {
       "pages": 1,
-      "links": 32,
-      "parsed": 32,
+      "links": 31,
+      "parsed": 31,
       "qualifying": 2,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Quad+Cortex&b=1&n=50&s1=new&o1=d",
-          "links": 32,
-          "unique_added": 32
+          "links": 31,
+          "unique_added": 31
         }
       ]
     },
@@ -219,5 +189,5 @@
     }
   },
   "collected": 74,
-  "seen_count": 487
+  "seen_count": 488
 }
