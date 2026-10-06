@@ -1,28 +1,28 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-06T00:52:22.170547+00:00",
+  "checked_at": "2026-10-06T01:40:00.463521+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10787903",
+      "id": "DS10788035",
       "keyword": "Gibson",
-      "title": "Gibson SG Standard Cherry 1969【ロッキン岐阜店12周年記念セール!】",
-      "price": 998000,
-      "url": "https://www.digimart.net/cat01/shop4978/DS10787903/"
+      "title": "Gibson 【動画有り】【良杢個体】Les Paul Standard '50s Heritage Cherry Sunburst #215360184【4.42kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop170/DS10788035/"
     },
     {
-      "id": "DS10787864",
+      "id": "DS10787904",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Junior Worn TV Yellow 2010【ロッキン岐阜店12周年記念セール!】",
-      "price": 148000,
-      "url": "https://www.digimart.net/cat01/shop4978/DS10787864/"
+      "title": "Gibson J-45 Studio Walnut Walnut Burst 2023【ロッキン岐阜店12周年記念セール!】",
+      "price": 218000,
+      "url": "https://www.digimart.net/cat02/shop4978/DS10787904/"
     },
     {
-      "id": "DS10787865",
-      "keyword": "Fender",
-      "title": "Fender American Vintage II 1963 Telecaster Crimson Red Transparent【ロッキン岐阜店12周年記念セール!】",
-      "price": 248000,
-      "url": "https://www.digimart.net/cat01/shop4978/DS10787865/"
+      "id": "DS09906579",
+      "keyword": "Helix",
+      "title": "LINE 6 HELIX STADIUM FLOOR",
+      "price": 341000,
+      "url": "https://www.digimart.net/cat12/shop58/DS09906579/"
     }
   ],
   "errors": [],
@@ -251,7 +251,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 118,
+      "qualifying": 119,
       "page_stats": [
         {
           "page": 1,
@@ -293,8 +293,8 @@
     },
     "Quad Cortex": {
       "pages": 2,
-      "links": 96,
-      "parsed": 96,
+      "links": 95,
+      "parsed": 95,
       "qualifying": 0,
       "page_stats": [
         {
@@ -306,8 +306,8 @@
         {
           "page": 2,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=&readCount=50&noparallelimportp=&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=&soldoutDispCheck=false&tagWords=&dmsP=&keywordAnd=Quad+Cortex&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=&neckScaleOption=&tagWordsNot=&freeshippingp=&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=&pickupOption=&movieurlp=&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=&brandIdNot=&ecCardP=&ecpurchasep=&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=&fingerboardOption=&noshopsalep=&currentPage=2&shopNo=&stringsoption=&categoryId=&shopsalep=&favorite=false&dispFavorite=false",
-          "links": 46,
-          "unique_added": 46
+          "links": 45,
+          "unique_added": 45
         }
       ]
     },
@@ -344,6 +344,6 @@
       ]
     }
   },
-  "collected": 957,
-  "seen_count": 2309
+  "collected": 958,
+  "seen_count": 2312
 }
