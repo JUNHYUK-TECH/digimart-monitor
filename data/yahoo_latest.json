@@ -1,51 +1,33 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-06T01:01:46.392437+00:00",
+  "checked_at": "2026-10-06T01:55:37.502907+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "v1247217913",
+      "id": "q1247199249",
       "keyword": "Gibson",
-      "title": "Gibson USA Les Paul Standard 50s エレキギター LP STD 50S AAA CV ギブソン 楽器 2022-23年製 ハードケース 中古 N11654334 現在 177,331円 即決 241,494円 ＋送料4,600円 0 1日",
-      "price": 177331,
-      "buyout": 241494,
+      "title": "【中古】Gibson Les Paul Custom 1999年製 アルパインホワイト ペグ交換済 塗装ヤケあり ギブソン レスポールカスタム K11497262 現在 319,770円 即決 440,000円 ＋送料3,770円 0 2日",
+      "price": 319770,
+      "buyout": 440000,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/v1247217913"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/q1247199249"
     },
     {
-      "id": "v1247211968",
+      "id": "v1247217962",
       "keyword": "Gibson",
-      "title": "Greco L6-S model グレコ エレキギターgibson L6コピーモデルです。 現在 150,000円 ＋送料2,810円 0 6日",
-      "price": 150000,
+      "title": "Gibson Dove Custom 1973年製 Cherry Sunburst ヴィンテージ アコースティックギター ギブソン 弦楽器 ハードケース付 中古 B11707670 現在 326,700円 ＋送料5,420円 0 7日",
+      "price": 326700,
       "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/v1247211968"
-    },
-    {
-      "id": "r1240641262",
-      "keyword": "Gibson",
-      "title": "[美品] Gibson Les Paul Standard 50s 2024年製/バーストバッカー搭載！ 2024年製 [TMW24]【阿倍野店在庫】 現在 297,977円 22時44分に終了",
-      "price": 297977,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/r1240641262"
-    },
-    {
-      "id": "j1238649409",
-      "keyword": "Gibson",
-      "title": "現状品 ◆ Gibson J-200 1996 ◆ ギブソン スーパージャンボ アコースティックギター ハードケース付属です♪中古品 SALE! 現在 349,800円 0 1日",
-      "price": 349800,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/j1238649409"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/v1247217962"
     }
   ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 264,
-      "parsed": 264,
+      "links": 263,
+      "parsed": 263,
       "qualifying": 10,
       "page_stats": [
         {
@@ -57,14 +39,14 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=51&n=50&s1=new&o1=d",
-          "links": 62,
-          "unique_added": 35
+          "links": 61,
+          "unique_added": 32
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=101&n=50&s1=new&o1=d",
           "links": 60,
-          "unique_added": 44
+          "unique_added": 46
         },
         {
           "page": 4,
@@ -88,8 +70,8 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 288,
-      "parsed": 288,
+      "links": 289,
+      "parsed": 289,
       "qualifying": 66,
       "page_stats": [
         {
@@ -101,32 +83,32 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 67,
-          "unique_added": 43
+          "links": 68,
+          "unique_added": 44
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 45
+          "links": 68,
+          "unique_added": 44
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 66,
-          "unique_added": 42
+          "links": 68,
+          "unique_added": 44
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 71,
-          "unique_added": 47
+          "links": 69,
+          "unique_added": 45
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 44,
-          "unique_added": 43
+          "links": 45,
+          "unique_added": 44
         }
       ]
     },
@@ -202,19 +184,19 @@
     },
     "Fractal": {
       "pages": 1,
-      "links": 37,
-      "parsed": 37,
+      "links": 36,
+      "parsed": 36,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Fractal&b=1&n=50&s1=new&o1=d",
-          "links": 37,
-          "unique_added": 37
+          "links": 36,
+          "unique_added": 36
         }
       ]
     }
   },
   "collected": 83,
-  "seen_count": 459
+  "seen_count": 461
 }
