@@ -1,21 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-06T13:43:11.166171+00:00",
+  "checked_at": "2026-10-06T14:42:15.276981+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10788534",
-      "keyword": "Gibson",
-      "title": "Gibson 【久しぶりの入荷】【2026年製】Hummingbird Special #22046053【高音域の倍音◎】",
-      "price": 273000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10788534/"
-    },
-    {
-      "id": "DS10788719",
-      "keyword": "Gibson",
-      "title": "Gibson LP STD 50s P90",
-      "price": 268000,
-      "url": "https://www.digimart.net/cat01/shop5353/DS10788719/"
+      "id": "DS10790062",
+      "keyword": "Fender",
+      "title": "Fender American Standard Stratocaster / Black 1998",
+      "price": 110000,
+      "url": "https://www.digimart.net/cat01/shop4360/DS10790062/"
     }
   ],
   "errors": [],
@@ -68,7 +61,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 197,
+      "qualifying": 198,
       "page_stats": [
         {
           "page": 1,
@@ -112,7 +105,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 204,
+      "qualifying": 205,
       "page_stats": [
         {
           "page": 1,
@@ -156,7 +149,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 79,
+      "qualifying": 81,
       "page_stats": [
         {
           "page": 1,
@@ -337,6 +330,6 @@
       ]
     }
   },
-  "collected": 942,
-  "seen_count": 2488
+  "collected": 946,
+  "seen_count": 2489
 }
