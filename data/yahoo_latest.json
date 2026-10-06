@@ -1,16 +1,52 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-06T02:57:23.433716+00:00",
+  "checked_at": "2026-10-06T03:58:21.974599+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "v1247229949",
-      "keyword": "PRS",
-      "title": "CHROME HEARTS クロムハーツ DBL CH PRS ダブルCHプラス ペンダントトップ シルバー BCA249 即決 150,150円 ＋送料0円 0 6日",
-      "price": 150150,
-      "buyout": 150150,
+      "id": "d1247250740",
+      "keyword": "Gibson",
+      "title": "1998年製 Gibson SG Z 1年間だけの製造の超希少 即決 530,000円 送料無料 0 2日 未使用",
+      "price": 530000,
+      "buyout": 530000,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/v1247229949"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/d1247250740"
+    },
+    {
+      "id": "l1247255462",
+      "keyword": "Gibson",
+      "title": "【used】Gibson SG Standard Heritage Cherry 2022 2.99kg #222920096【TONIQ横浜】 即決 184,800円 送料無料 0 6日",
+      "price": 184800,
+      "buyout": 184800,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/l1247255462"
+    },
+    {
+      "id": "p1247248577",
+      "keyword": "Gibson",
+      "title": "Gibson Flying V 2004年制 即決 238,000円 送料無料 0 5日",
+      "price": 238000,
+      "buyout": 238000,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/p1247248577"
+    },
+    {
+      "id": "l1247246636",
+      "keyword": "Gibson",
+      "title": "Gibson◆Les Paul Junior Special Plus/Trans Amber/2002/ハードケース付// 即決 220,660円 送料無料 0 7日",
+      "price": 220660,
+      "buyout": 220660,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/l1247246636"
+    },
+    {
+      "id": "q1247245203",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Stratocaster Roasted Pine 即決 208,000円 送料無料 0 5日",
+      "price": 208000,
+      "buyout": 208000,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/q1247245203"
     }
   ],
   "errors": [],
@@ -31,7 +67,7 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=51&n=50&s1=new&o1=d",
           "links": 61,
-          "unique_added": 33
+          "unique_added": 31
         },
         {
           "page": 3,
@@ -54,15 +90,15 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=251&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 45
+          "links": 60,
+          "unique_added": 47
         }
       ]
     },
     "Gibson": {
       "pages": 6,
-      "links": 288,
-      "parsed": 288,
+      "links": 291,
+      "parsed": 291,
       "qualifying": 66,
       "page_stats": [
         {
@@ -74,32 +110,32 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 44
+          "links": 71,
+          "unique_added": 47
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 44
+          "links": 64,
+          "unique_added": 40
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 67,
-          "unique_added": 43
+          "links": 71,
+          "unique_added": 47
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 45
+          "links": 66,
+          "unique_added": 42
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 45,
-          "unique_added": 44
+          "links": 47,
+          "unique_added": 47
         }
       ]
     },
@@ -118,46 +154,16 @@
       ]
     },
     "Fender": {
-      "pages": 6,
-      "links": 300,
-      "parsed": 300,
-      "qualifying": 0,
+      "pages": 1,
+      "links": 49,
+      "parsed": 49,
+      "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 2,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 3,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=151&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 5,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=201&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 6,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
+          "links": 49,
+          "unique_added": 49
         }
       ]
     },
@@ -176,14 +182,20 @@
       ]
     },
     "Helix": {
-      "pages": 1,
-      "links": 48,
-      "parsed": 48,
+      "pages": 2,
+      "links": 98,
+      "parsed": 98,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Helix&b=1&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 2,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Helix&b=51&n=50&s1=new&o1=d",
           "links": 48,
           "unique_added": 48
         }
@@ -218,6 +230,6 @@
       ]
     }
   },
-  "collected": 84,
-  "seen_count": 462
+  "collected": 85,
+  "seen_count": 467
 }
