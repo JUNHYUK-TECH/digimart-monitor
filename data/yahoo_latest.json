@@ -1,24 +1,33 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-06T19:56:05.705188+00:00",
+  "checked_at": "2026-10-06T20:56:22.240741+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "b1247095768",
+      "id": "v1247350981",
       "keyword": "Gibson",
-      "title": "【 C 】K9775 Gibson Lespaul CUSTOM #90347473 エレキギター ギブソン 3248727 現在 181,500円 ＋送料3,660円 32 3日",
-      "price": 181500,
+      "title": "Gibson Les Paul Standard チェリーサンバースト エレキギター ハードケース付 即決 240,000円 送料未定 0 7日",
+      "price": 240000,
+      "buyout": 240000,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/v1247350981"
+    },
+    {
+      "id": "q1239145159",
+      "keyword": "Gibson",
+      "title": "[美品] Gibson Les Paul Studio Ebony 装飾を削ぎ落とした王道レスポール 1999年製 [SM094]【神戸店在庫】 現在 147,977円 22時40分に終了",
+      "price": 147977,
       "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/b1247095768"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/q1239145159"
     }
   ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 260,
-      "parsed": 260,
+      "links": 259,
+      "parsed": 259,
       "qualifying": 7,
       "page_stats": [
         {
@@ -37,7 +46,7 @@
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=101&n=50&s1=new&o1=d",
           "links": 59,
-          "unique_added": 43
+          "unique_added": 42
         },
         {
           "page": 4,
@@ -61,9 +70,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 298,
-      "parsed": 298,
-      "qualifying": 60,
+      "links": 297,
+      "parsed": 297,
+      "qualifying": 61,
       "page_stats": [
         {
           "page": 1,
@@ -80,8 +89,8 @@
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 47
+          "links": 69,
+          "unique_added": 46
         },
         {
           "page": 4,
@@ -188,6 +197,6 @@
       ]
     }
   },
-  "collected": 74,
-  "seen_count": 488
+  "collected": 75,
+  "seen_count": 490
 }
