@@ -1,49 +1,217 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-07T03:43:27.220538+00:00",
+  "checked_at": "2026-10-07T04:44:56.157164+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10792164",
+      "id": "DS10792417",
       "keyword": "Gibson",
-      "title": "Gibson J-45 Studio Waln lefty【現物写真】1.94Kg",
-      "price": 148000,
-      "url": "https://www.digimart.net/cat02/shop5363/DS10792164/"
+      "title": "Gibson J-45 Standard Vintage Sunburst【チョイキズアウトレット】【御茶ノ水HARVEST_GUITARS】",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792417/"
     },
     {
-      "id": "DS10792132",
+      "id": "DS10792408",
       "keyword": "Gibson",
-      "title": "Gibson ES-335 Dot",
-      "price": 396000,
-      "url": "https://www.digimart.net/cat01/shop4916/DS10792132/"
+      "title": "Gibson Hummingbird Custom Walnut 2012 【御茶ノ水HARVEST_GUITARS】【値下げ】",
+      "price": 398000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792408/"
     },
     {
-      "id": "DS10792077",
+      "id": "DS10792407",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard HP-II/High Performance II Cobalt Fade [3.75kg/2018年製] ギブソン 【池袋店】",
-      "price": 297000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10792077/"
+      "title": "Gibson SJ-200 Standard Classic White 【御茶ノ水HARVEST_GUITARS】【値下げ】",
+      "price": 798000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792407/"
     },
     {
-      "id": "DS10789739",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE McCARTY 594 Singlecut Turquoise ITEM：S522TU S/N：CTIF067695 【未展示品】 【現物画像】",
-      "price": 157289,
-      "url": "https://www.digimart.net/cat01/shop4840/DS10789739/"
+      "id": "DS10792405",
+      "keyword": "Gibson",
+      "title": "Gibson Southern Jumbo Original Vintage Sunburst 【御茶ノ水HARVEST_GUITARS】【値下げ】",
+      "price": 372000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792405/"
     },
     {
-      "id": "DS10792167",
+      "id": "DS10792404",
+      "keyword": "Gibson",
+      "title": "Gibson Blue Ridge 【御茶ノ水HARVEST_GUITARS】【値下げ】",
+      "price": 248000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792404/"
+    },
+    {
+      "id": "DS10792403",
+      "keyword": "Gibson",
+      "title": "Gibson Murphy Lab Acoustic Collection 1957 SJ-200 Light Aged Dark Natural【アウトレット】【御茶ノ水HARVEST_",
+      "price": 825000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792403/"
+    },
+    {
+      "id": "DS10792397",
+      "keyword": "Gibson",
+      "title": "Gibson L-00 Special Satin Ebony 【御茶ノ水HARVEST_GUITARS】【値下げ】",
+      "price": 228000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792397/"
+    },
+    {
+      "id": "DS10792395",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop J-60 Bone Crusher II 2008年製 【御茶ノ水HARVEST_GUITARS】【値下げ】",
+      "price": 598000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792395/"
+    },
+    {
+      "id": "DS10792394",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 Standard Lefty 【御茶ノ水HARVEST_GUITARS】【値下げ】",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792394/"
+    },
+    {
+      "id": "DS10792389",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 Standard Gold Top 【御茶ノ水HARVEST_GUITARS】【値下げ】",
+      "price": 428000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792389/"
+    },
+    {
+      "id": "DS10792387",
+      "keyword": "Gibson",
+      "title": "Gibson RB250 bowtie 【御茶ノ水HARVEST_GUITARS】【値下げ】",
+      "price": 358000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792387/"
+    },
+    {
+      "id": "DS10792386",
+      "keyword": "Gibson",
+      "title": "Gibson Hummingbird Standard Vintage Cherry Sunburst 【御茶ノ水HARVEST_GUITARS】【値下げ】",
+      "price": 428000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792386/"
+    },
+    {
+      "id": "DS10792383",
+      "keyword": "Gibson",
+      "title": "Gibson 1964 LG-0 【御茶ノ水HARVEST_GUITARS】【値下げ】",
+      "price": 278000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792383/"
+    },
+    {
+      "id": "DS10792379",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Historic Collection 1957 SJ-200 Antique Natural【御茶ノ水HARVEST_GUITARS】【アウトレット",
+      "price": 648000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792379/"
+    },
+    {
+      "id": "DS10792377",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 Koa Carpathian Spruce Honeyburst【SN 23145080】【御茶ノ水HARVEST_GUITARS】【値下げ】",
+      "price": 498000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792377/"
+    },
+    {
+      "id": "DS10792376",
+      "keyword": "Gibson",
+      "title": "Gibson ISHIBASHI PSL J-45 Standard \"Snake Skin Top\" Cobra Burst【アウトレット】【御茶ノ水HARVEST_GUITARS】",
+      "price": 378000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792376/"
+    },
+    {
+      "id": "DS10792375",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Murphy Lab Collection 1942 Banner J-45 Light Aged Vintage Sunburst【御茶ノ水HARVEST_GUIT",
+      "price": 798000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792375/"
+    },
+    {
+      "id": "DS10792374",
+      "keyword": "Gibson",
+      "title": "Gibson Murphy Lab 1942 J-45 All Mahogany Vintage Sunburst Light Aged【御茶ノ水HARVEST_GUITARS】【値下げ】",
+      "price": 728000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792374/"
+    },
+    {
+      "id": "DS10792373",
+      "keyword": "Gibson",
+      "title": "Gibson 1957 J-45 【御茶ノ水HARVEST_GUITARS】【値下げ】",
+      "price": 958000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792373/"
+    },
+    {
+      "id": "DS10792367",
+      "keyword": "Gibson",
+      "title": "Gibson SJ-200 Original Vintage Sunburst [Original Collection] 【御茶ノ水HARVEST_GUITARS】【アウトレット】",
+      "price": 568000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792367/"
+    },
+    {
+      "id": "DS10792365",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Historic Collection 1957 SJ-200 Antique Natural【御茶ノ水HARVEST_GUITARS】【アウトレット",
+      "price": 648000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792365/"
+    },
+    {
+      "id": "DS10792364",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Murphy Lab Collection 1957 SJ-200 Light Aged Vintage Sunburst 【御茶ノ水HARVEST_GUITARS",
+      "price": 778000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792364/"
+    },
+    {
+      "id": "DS10792363",
+      "keyword": "Gibson",
+      "title": "Gibson SJ-200 Original Antique Natural【S/N 23174011】【アウトレット】【御茶ノ水HARVEST_GUITARS】",
+      "price": 538000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792363/"
+    },
+    {
+      "id": "DS10792362",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Historic Collection 1957 SJ-200 Vintage Sunburst 【アウトレット】【御茶ノ水HARVEST_GUITA",
+      "price": 625000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792362/"
+    },
+    {
+      "id": "DS10792361",
+      "keyword": "Gibson",
+      "title": "Gibson SJ-200 Standard Triburst【S/N 20075009】【御茶ノ水HARVEST_GUITARS】【アウトレット】",
+      "price": 563800,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792361/"
+    },
+    {
+      "id": "DS10792318",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 美品!Historic Collection 1958 Les Paul Reissue Hand Selected Lightly Figured VOS Iced Tea Burst",
+      "price": 648000,
+      "url": "https://www.digimart.net/cat01/shop60/DS10792318/"
+    },
+    {
+      "id": "DS10792242",
+      "keyword": "Gibson",
+      "title": "Gibson 【セカンド品】Les Paul Special -TV Yellow-【#234350014】【3.52kg】",
+      "price": 225500,
+      "url": "https://www.digimart.net/cat01/shop38/DS10792242/"
+    },
+    {
+      "id": "DS10792418",
       "keyword": "Fender",
-      "title": "Fender American Vintage II 1972 Telecaster Thinline AGN/M '23",
-      "price": 297000,
-      "url": "https://www.digimart.net/cat01/shop4951/DS10792167/"
+      "title": "Fender FSR American Acoustasonic Telecaster Streaked Ebony Fingerboard Blue Paisley 【福岡店】",
+      "price": 352000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792418/"
     },
     {
-      "id": "DS10792064",
+      "id": "DS10792293",
       "keyword": "Fender",
-      "title": "Fender Limited Edition American Professional Classic Telecaster featuring the Fender Silent System (Soni...",
+      "title": "Fender 【中古】 エレキギター Fender Custom Shop Custom 59 Esquire Relic Blonde 2003年製",
+      "price": 498000,
+      "url": "https://www.digimart.net/cat01/shop1000/DS10792293/"
+    },
+    {
+      "id": "DS10792273",
+      "keyword": "Fender",
+      "title": "Fender フェンダー American Professional Classic Stratocaster SLSM RW 3TS エレキギター",
       "price": 258500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10792064/"
+      "url": "https://www.digimart.net/cat01/shop1000/DS10792273/"
     }
   ],
   "errors": [],
@@ -184,7 +352,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 79,
+      "qualifying": 78,
       "page_stats": [
         {
           "page": 1,
@@ -226,9 +394,9 @@
     },
     "Nord": {
       "pages": 6,
-      "links": 300,
-      "parsed": 300,
-      "qualifying": 181,
+      "links": 299,
+      "parsed": 299,
+      "qualifying": 180,
       "page_stats": [
         {
           "page": 1,
@@ -240,7 +408,7 @@
           "page": 2,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=&readCount=50&noparallelimportp=&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=&soldoutDispCheck=false&tagWords=&dmsP=&keywordAnd=Nord&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=&neckScaleOption=&tagWordsNot=&freeshippingp=&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=&pickupOption=&movieurlp=&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=&brandIdNot=&ecCardP=&ecpurchasep=&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=&fingerboardOption=&noshopsalep=&currentPage=2&shopNo=&stringsoption=&categoryId=&shopsalep=&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 3,
@@ -365,6 +533,6 @@
       ]
     }
   },
-  "collected": 940,
-  "seen_count": 2499
+  "collected": 938,
+  "seen_count": 2529
 }
