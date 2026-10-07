@@ -1,77 +1,49 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-07T11:42:17.750246+00:00",
+  "checked_at": "2026-10-07T12:51:32.752922+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10793585",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard",
-      "price": 365000,
-      "url": "https://www.digimart.net/cat01/shop3420/DS10793585/"
-    },
-    {
-      "id": "DS10793468",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Heritage Cherry Sunburst ≪S/N:231450120≫ 【心斎橋店】",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10793468/"
-    },
-    {
-      "id": "DS10793586",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Custom 22 10Top Bird Inlay Tobacco Sunburst 2001年製【3.81kg】【S/N:161014】【横浜店】",
-      "price": 398000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10793586/"
-    },
-    {
-      "id": "DS10793581",
-      "keyword": "PRS",
-      "title": "PRS 513",
-      "price": 598000,
-      "url": "https://www.digimart.net/cat01/shop3420/DS10793581/"
-    },
-    {
-      "id": "DS10793545",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 Ishibashi Exclusive SE Custom 24 Quilt Package Charcoal【渋谷店】",
-      "price": 156428,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10793545/"
-    },
-    {
-      "id": "DS10793532",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) P22 McCarty Tobacco Sunburst 2012 【渋谷店】",
-      "price": 440000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10793532/"
-    },
-    {
-      "id": "DS10793454",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Custom 24-08 Limited Run w/ DMO Pickups (Custom Color) SN.0424098 [2026年生産品]",
-      "price": 853600,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10793454/"
-    },
-    {
-      "id": "DS10793453",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Astryx Limited Edition (Ocaso / Sunset) SN.0430498 【2026年生産品】",
-      "price": 990000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10793453/"
-    },
-    {
-      "id": "DS10793534",
+      "id": "DS10793240",
       "keyword": "Fender",
-      "title": "Fender American Vintage 62 Jazz Bass 3-Color Sunburst 【心斎橋店】",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10793534/"
+      "title": "Fender American Ultra II Stratocaster Left Hand Avalanche 2024年製",
+      "price": 278000,
+      "url": "https://www.digimart.net/cat01/shop5155/DS10793240/"
     },
     {
-      "id": "DS10793502",
+      "id": "DS10793640",
       "keyword": "Fender",
-      "title": "Fender LTD American Professional Telecaster Silent System Sonic Blue #US26032668【3.58kg】",
-      "price": 258500,
-      "url": "https://www.digimart.net/cat01/shop175/DS10793502/"
+      "title": "Fender Limited Edition American Vintage II '61 Stratocaster Black ≪S/N:V214973≫【心斎橋店】",
+      "price": 318000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10793640/"
+    },
+    {
+      "id": "DS10793634",
+      "keyword": "Fender",
+      "title": "Fender American Ultra II Jazz Bass Ultraburs Ebony ≪S/N:US25025437≫【心斎橋店】",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10793634/"
+    },
+    {
+      "id": "DS10793627",
+      "keyword": "Fender",
+      "title": "Fender American Ultra Luxe ‘60s Stratocaster HSS Fiesta Red ≪S/N:US25005096≫【心斎橋店】",
+      "price": 378000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10793627/"
+    },
+    {
+      "id": "DS10793625",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Telecaster Faded Black ≪S/N:US26021774≫ 【心斎橋店】",
+      "price": 179800,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10793625/"
+    },
+    {
+      "id": "DS10793631",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Jazz Bass 2020年製 【返品OK】[VMR12]【箕面店在庫】",
+      "price": 228000,
+      "url": "https://www.digimart.net/cat03/shop3580/DS10793631/"
     }
   ],
   "errors": [],
@@ -122,9 +94,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 299,
-      "parsed": 298,
-      "qualifying": 189,
+      "links": 300,
+      "parsed": 299,
+      "qualifying": 188,
       "page_stats": [
         {
           "page": 1,
@@ -154,7 +126,7 @@
           "page": 5,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Gibson&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=5&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 49
+          "unique_added": 50
         },
         {
           "page": 6,
@@ -212,7 +184,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 43,
+      "qualifying": 41,
       "page_stats": [
         {
           "page": 1,
@@ -393,6 +365,6 @@
       ]
     }
   },
-  "collected": 913,
-  "seen_count": 2616
+  "collected": 910,
+  "seen_count": 2622
 }
