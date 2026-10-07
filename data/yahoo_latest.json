@@ -1,24 +1,33 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-07T19:09:26.112019+00:00",
+  "checked_at": "2026-10-07T19:55:59.825630+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "u1247479389",
-      "keyword": "Fender",
-      "title": "Fender◆American Deluxe Stratocaster/ACS/20007/ハードケース付// 即決 198,660円 送料無料 0 6日",
-      "price": 198660,
-      "buyout": 198660,
+      "id": "d1244865663",
+      "keyword": "Gibson",
+      "title": "Gibson USA Les Paul 2008 ギブソン レスポール エレキギター 楽器 弦楽器 中古 N11643283 現在 126,962円 22時47分に終了",
+      "price": 126962,
+      "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/u1247479389"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/d1244865663"
+    },
+    {
+      "id": "j1247487502",
+      "keyword": "PRS",
+      "title": "ティソ PRS 516 Powermatic 80 Rose ゴールド PVD Black Dial Automatic Box & Manuals 海外 即決 即決 147,114円 送料無料 0 5日",
+      "price": 147114,
+      "buyout": 147114,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/j1247487502"
     }
   ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 270,
-      "parsed": 270,
+      "links": 269,
+      "parsed": 269,
       "qualifying": 8,
       "page_stats": [
         {
@@ -31,7 +40,7 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=51&n=50&s1=new&o1=d",
           "links": 64,
-          "unique_added": 37
+          "unique_added": 36
         },
         {
           "page": 3,
@@ -48,14 +57,14 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=201&n=50&s1=new&o1=d",
-          "links": 62,
-          "unique_added": 46
+          "links": 63,
+          "unique_added": 47
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=251&n=50&s1=new&o1=d",
-          "links": 57,
-          "unique_added": 41
+          "links": 56,
+          "unique_added": 40
         }
       ]
     },
@@ -63,7 +72,7 @@
       "pages": 6,
       "links": 297,
       "parsed": 297,
-      "qualifying": 63,
+      "qualifying": 64,
       "page_stats": [
         {
           "page": 1,
@@ -86,14 +95,14 @@
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 71,
-          "unique_added": 47
+          "links": 72,
+          "unique_added": 48
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 44
+          "links": 67,
+          "unique_added": 43
         },
         {
           "page": 6,
@@ -107,7 +116,7 @@
       "pages": 1,
       "links": 47,
       "parsed": 47,
-      "qualifying": 5,
+      "qualifying": 6,
       "page_stats": [
         {
           "page": 1,
@@ -119,15 +128,15 @@
     },
     "Fender": {
       "pages": 1,
-      "links": 49,
-      "parsed": 49,
+      "links": 48,
+      "parsed": 48,
       "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 49,
-          "unique_added": 49
+          "links": 48,
+          "unique_added": 48
         }
       ]
     },
@@ -188,6 +197,6 @@
       ]
     }
   },
-  "collected": 78,
-  "seen_count": 544
+  "collected": 80,
+  "seen_count": 546
 }
