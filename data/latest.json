@@ -1,49 +1,133 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-07T08:45:27.307193+00:00",
+  "checked_at": "2026-10-07T09:43:51.394429+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10793012",
+      "id": "DS10793246",
       "keyword": "Gibson",
-      "title": "Gibson 【Hand Picked 2026】~One Off Model~ Murphy Lab J-45 Ultra Light Aged -Gold Top- #22625026",
-      "price": 898000,
-      "url": "https://www.digimart.net/cat02/shop1881/DS10793012/"
+      "title": "Gibson Heritage Series Les Paul Standard 80 VCS 1981",
+      "price": 638000,
+      "url": "https://www.digimart.net/cat01/shop70/DS10793246/"
     },
     {
-      "id": "DS10792988",
+      "id": "DS10792979",
+      "keyword": "Gibson",
+      "title": "Gibson Exclusive Les Paul Standard '50s \"Custom Shop Top\" #214760074 【4.61kg】",
+      "price": 412500,
+      "url": "https://www.digimart.net/cat01/shop26/DS10792979/"
+    },
+    {
+      "id": "DS10792975",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 【極上選定Top!!】PSL 1959 Les Paul Standard VOS Green Lemon Fade #961189【3.93kg】",
+      "price": 957000,
+      "url": "https://www.digimart.net/cat01/shop26/DS10792975/"
+    },
+    {
+      "id": "DS10793201",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop J-45 Vintage Cherry (2013)",
+      "price": 297000,
+      "url": "https://www.digimart.net/cat02/shop48/DS10793201/"
+    },
+    {
+      "id": "DS10793198",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 Standard アコースティックギター",
+      "price": 385000,
+      "url": "https://www.digimart.net/cat02/shop5345/DS10793198/"
+    },
+    {
+      "id": "DS10786579",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 2025 Historic Collection 1964 ES-335 Reissue VOS Sixties Cherry",
+      "price": 648000,
+      "url": "https://www.digimart.net/cat01/shop5395/DS10786579/"
+    },
+    {
+      "id": "DS10793172",
+      "keyword": "Gibson",
+      "title": "Gibson 【中古】 エレキギター Gibson Les Paul Custom Ebony 1988年製 ギブソン レスポールカスタム",
+      "price": 548000,
+      "url": "https://www.digimart.net/cat01/shop1000/DS10793172/"
+    },
+    {
+      "id": "DS10793155",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 【中古】 エレキギター Gibson Custom Shop CS-336 Figured Heritage Cherry Sunburst",
+      "price": 578000,
+      "url": "https://www.digimart.net/cat01/shop1000/DS10793155/"
+    },
+    {
+      "id": "DS10793152",
+      "keyword": "Gibson",
+      "title": "Gibson 【中古】 Gibson 1957 Historic Collectio Les Paul Standard Gold Top Dark Back VOS 2013年製",
+      "price": 578000,
+      "url": "https://www.digimart.net/cat01/shop1000/DS10793152/"
+    },
+    {
+      "id": "DS10793106",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Custom Ebony 【御茶ノ水本店】",
+      "price": 558000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10793106/"
+    },
+    {
+      "id": "DS10793243",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) S2 STUDIO GI:Faded Gray Black Purple Burst【2026年製】",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat01/shop5072/DS10792988/"
+      "title": "Paul Reed Smith(PRS) 2025 SE Zach Myers Purple Burst(3.18kg)【S/N:CTI H046872】 【御茶ノ水本店】",
+      "price": 123188,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10793243/"
     },
     {
-      "id": "DS10792986",
+      "id": "DS10793233",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) S2 McCarty 594 GS(Faded Grey Black Burst)【2026年製】",
-      "price": 351120,
-      "url": "https://www.digimart.net/cat01/shop5072/DS10792986/"
+      "title": "Paul Reed Smith(PRS) SE Custom24 Quilt Package Charcoal Blue Burst",
+      "price": 154880,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10793233/"
     },
     {
-      "id": "DS10793054",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Hand Wired 64 Custom Deluxe Reverb -Black-【CR428251】",
-      "price": 573100,
-      "url": "https://www.digimart.net/cat12/shop38/DS10793054/"
+      "id": "DS10793232",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Custom24 Turquoise SEカスタム24 ターコイズ",
+      "price": 130680,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10793232/"
     },
     {
-      "id": "DS10793003",
-      "keyword": "Fender",
-      "title": "Fender American Professional II Telecaster, Rosewood , Dark Night 【現物画像】",
-      "price": 291500,
-      "url": "https://www.digimart.net/cat01/shop5185/DS10793003/"
+      "id": "DS10793230",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Custom24 Quilt Package Charcoal Blue Burst",
+      "price": 154880,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10793230/"
     },
     {
-      "id": "DS10792977",
+      "id": "DS10793196",
       "keyword": "Fender",
-      "title": "Fender Custom Shop 1963 Stratocaster Journeyman Relic Candy Apple Red",
-      "price": 935000,
-      "url": "https://www.digimart.net/cat01/shop5034/DS10792977/"
+      "title": "Fender American Professional Classic Stratocaster Faded Sherwood Green Metallic",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat01/shop5120/DS10793196/"
+    },
+    {
+      "id": "DS10793158",
+      "keyword": "Fender",
+      "title": "Fender 【中古】 American Professional Stratocaster Rosewood Fingerboard 3-Color Sunburst 2019年製",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat01/shop1000/DS10793158/"
+    },
+    {
+      "id": "DS10793109",
+      "keyword": "Fender",
+      "title": "Fender American Ultra Stratocaster Maple Fingerboard Ultraburst 【御茶ノ水本店】",
+      "price": 258000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10793109/"
+    },
+    {
+      "id": "DS10793107",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Stratocaster Rosewood Miami Blue 【御茶ノ水本店】",
+      "price": 228000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10793107/"
     }
   ],
   "errors": [],
@@ -96,7 +180,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 184,
+      "qualifying": 190,
       "page_stats": [
         {
           "page": 1,
@@ -140,7 +224,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 212,
+      "qualifying": 214,
       "page_stats": [
         {
           "page": 1,
@@ -184,7 +268,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 52,
+      "qualifying": 51,
       "page_stats": [
         {
           "page": 1,
@@ -365,6 +449,6 @@
       ]
     }
   },
-  "collected": 912,
-  "seen_count": 2567
+  "collected": 919,
+  "seen_count": 2585
 }
