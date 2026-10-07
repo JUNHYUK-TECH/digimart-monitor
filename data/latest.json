@@ -1,105 +1,77 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-07T05:42:35.990411+00:00",
+  "checked_at": "2026-10-07T06:48:52.318681+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10792532",
+      "id": "DS10792673",
       "keyword": "Gibson",
-      "title": "Gibson Custom 1942 Banner J-45 Reissue (Vintage Sunburst)",
-      "price": 726000,
-      "url": "https://www.digimart.net/cat02/shop5451/DS10792532/"
+      "title": "Gibson VINTAGE Dove Custom'78 ギブソン",
+      "price": 329000,
+      "url": "https://www.digimart.net/cat02/shop4/DS10792673/"
     },
     {
-      "id": "DS10792530",
+      "id": "DS10792603",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Studio Wine Red",
-      "price": 233200,
-      "url": "https://www.digimart.net/cat01/shop4863/DS10792530/"
+      "title": "Gibson Hummingbird Standard with HiFi DNA Vintage Cherry Sunburst 【横浜店】【S/N:22366064】【2.23kg】",
+      "price": 473000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10792603/"
     },
     {
-      "id": "DS10792454",
+      "id": "DS10792618",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Classic Plus -Heritage Cherry Sunburst- 2011年製【4.26kg】",
-      "price": 278000,
-      "url": "https://www.digimart.net/cat01/shop38/DS10792454/"
+      "title": "Gibson 70s Flying V ギブソン 70sフライングV",
+      "price": 253000,
+      "url": "https://www.digimart.net/cat01/shop5304/DS10792618/"
     },
     {
-      "id": "DS10792505",
+      "id": "DS10792337",
+      "keyword": "Gibson",
+      "title": "Gibson 【試奏動画あり】J-45 Standard VS #22326048【図太く迫力のある低音が響く一本】【新仕様】",
+      "price": 381700,
+      "url": "https://www.digimart.net/cat02/shop5011/DS10792337/"
+    },
+    {
+      "id": "DS10792564",
+      "keyword": "Gibson",
+      "title": "Gibson Howard Roberts Custom (1975)",
+      "price": 435600,
+      "url": "https://www.digimart.net/cat01/shop48/DS10792564/"
+    },
+    {
+      "id": "DS10792659",
       "keyword": "PRS",
-      "title": "PRS SE 2026 SE Custom24 Quilt Package Peacock Blue【渋谷店】",
-      "price": 156428,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10792505/"
+      "title": "Paul Reed Smith(PRS) SE NF3 Maple（Ice Blue Metallic）【現物写真／重量：3.45kg】",
+      "price": 123200,
+      "url": "https://www.digimart.net/cat01/shop5065/DS10792659/"
     },
     {
-      "id": "DS10792504",
+      "id": "DS10792658",
       "keyword": "PRS",
-      "title": "PRS SE 2026 SE Custom24 Quilt Package Black Cherry【渋谷店】",
-      "price": 156428,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10792504/"
+      "title": "Paul Reed Smith(PRS) SE NF3 Maple（Gun Metal Gray）【現物写真／重量：3.63kg】",
+      "price": 123200,
+      "url": "https://www.digimart.net/cat01/shop5065/DS10792658/"
     },
     {
-      "id": "DS10792503",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 Dany Villarreal Signature Astryx Limited Edition Ocaso【渋谷店】",
-      "price": 999900,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10792503/"
-    },
-    {
-      "id": "DS10792502",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 Custom 24 10 Top River Blue Pearl 【渋谷店】",
-      "price": 746592,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10792502/"
-    },
-    {
-      "id": "DS10792501",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 Custom 24 River Blue Pearl【渋谷店】",
-      "price": 644380,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10792501/"
-    },
-    {
-      "id": "DS10792440",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Custom 24 10Top (Carroll Blue) 2025年製",
-      "price": 739200,
-      "url": "https://www.digimart.net/cat01/shop58/DS10792440/"
-    },
-    {
-      "id": "DS10792464",
+      "id": "DS10792629",
       "keyword": "Fender",
-      "title": "Fender American Vintage II 1951 Telecaster Butterscotch Blonde",
-      "price": 412500,
-      "url": "https://www.digimart.net/cat01/shop4854/DS10792464/"
+      "title": "Fender American Professional II Telecaster フェンダー アメリカンプロフェッショナル2 テレキャスター",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat01/shop5304/DS10792629/"
     },
     {
-      "id": "DS10792444",
+      "id": "DS10792577",
       "keyword": "Fender",
-      "title": "Fender FSR American Acoustasonic Telecaster Roasted Maple Fingerboard Tungsten 【福岡店】",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10792444/"
+      "title": "Fender Custom Shop 【USED】 MBS 1961 Stratocaster NOS Lefty built by Greg Fessler [2009年製] [3.50kg]",
+      "price": 998800,
+      "url": "https://www.digimart.net/cat01/shop35/DS10792577/"
     },
     {
-      "id": "DS10724170",
-      "keyword": "Nord",
-      "title": "CLAVIA Nord Electro 7 73 [キーボードスタンド&ベンチ・ペダル・ヘッドホンセット!]【WEBSHOP】",
-      "price": 499800,
-      "url": "https://www.digimart.net/cat07/shop1484/DS10724170/"
-    },
-    {
-      "id": "DS10724168",
-      "keyword": "Nord",
-      "title": "CLAVIA Nord Electro 7 73 [アクセサリーセット!]【WEBSHOP】",
-      "price": 515790,
-      "url": "https://www.digimart.net/cat07/shop1484/DS10724168/"
-    },
-    {
-      "id": "DS10720144",
-      "keyword": "Nord",
-      "title": "CLAVIA Nord Electro 7 73 セミウェイテッド・ウォーターフォール 73 鍵盤【WEBSHOP】",
-      "price": 484000,
-      "url": "https://www.digimart.net/cat07/shop1484/DS10720144/"
+      "id": "DS10789942",
+      "keyword": "Fender",
+      "title": "Fender FSR American Acoustasonic Telecaster Streaked Ebony Fingerboard Green Paisley フェンダー 【2.22kg】[",
+      "price": 341440,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10789942/"
     }
   ],
   "errors": [],
@@ -152,7 +124,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 190,
+      "qualifying": 189,
       "page_stats": [
         {
           "page": 1,
@@ -196,7 +168,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 209,
+      "qualifying": 208,
       "page_stats": [
         {
           "page": 1,
@@ -240,7 +212,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 74,
+      "qualifying": 71,
       "page_stats": [
         {
           "page": 1,
@@ -421,6 +393,6 @@
       ]
     }
   },
-  "collected": 937,
-  "seen_count": 2543
+  "collected": 932,
+  "seen_count": 2553
 }
