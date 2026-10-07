@@ -1,63 +1,49 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-07T07:43:49.588822+00:00",
+  "checked_at": "2026-10-07T08:45:27.307193+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10792764",
+      "id": "DS10793012",
       "keyword": "Gibson",
-      "title": "Gibson 【軽量!】Custom Color Series SG Standard ~Classic White~ #214960092 【2.87kg】",
-      "price": 225500,
-      "url": "https://www.digimart.net/cat01/shop26/DS10792764/"
+      "title": "Gibson 【Hand Picked 2026】~One Off Model~ Murphy Lab J-45 Ultra Light Aged -Gold Top- #22625026",
+      "price": 898000,
+      "url": "https://www.digimart.net/cat02/shop1881/DS10793012/"
     },
     {
-      "id": "DS10792747",
-      "keyword": "Gibson",
-      "title": "Gibson 【NEW】 Les Paul Special TV Yellow 211060139 [3.80kg] [2026年製]",
-      "price": 225500,
-      "url": "https://www.digimart.net/cat01/shop35/DS10792747/"
-    },
-    {
-      "id": "DS10792715",
-      "keyword": "Gibson",
-      "title": "Gibson VINTAGE Dove Custom'78 ギブソン",
-      "price": 335580,
-      "url": "https://www.digimart.net/cat02/shop5331/DS10792715/"
-    },
-    {
-      "id": "DS10792684",
-      "keyword": "Gibson",
-      "title": "Gibson 【軽量】Les Paul Standard '50s Mahogany Top #229540176 [3.98kg] [送料込]【G-CLUB TOKYO】",
-      "price": 341000,
-      "url": "https://www.digimart.net/cat01/shop35/DS10792684/"
-    },
-    {
-      "id": "DS10792930",
+      "id": "DS10792988",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) S2 Vela Semi-Hollow Satin 8N:McCarty Tobacco Sunburst【2024年製・生産完了カラー】",
-      "price": 278960,
-      "url": "https://www.digimart.net/cat01/shop5072/DS10792930/"
+      "title": "Paul Reed Smith(PRS) S2 STUDIO GI:Faded Gray Black Purple Burst【2026年製】",
+      "price": 352000,
+      "url": "https://www.digimart.net/cat01/shop5072/DS10792988/"
     },
     {
-      "id": "DS10792683",
+      "id": "DS10792986",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE NF3 Rosewood（Gun Metal Gray）【現物写真／重量：3.42kg】",
-      "price": 123200,
-      "url": "https://www.digimart.net/cat01/shop5065/DS10792683/"
+      "title": "Paul Reed Smith(PRS) S2 McCarty 594 GS(Faded Grey Black Burst)【2026年製】",
+      "price": 351120,
+      "url": "https://www.digimart.net/cat01/shop5072/DS10792986/"
     },
     {
-      "id": "DS10792815",
+      "id": "DS10793054",
       "keyword": "Fender",
-      "title": "Fender Custom Shop 1961 Stratocaster Journeyman Relic Faded Fiesta Red",
-      "price": 946000,
-      "url": "https://www.digimart.net/cat01/shop5034/DS10792815/"
+      "title": "Fender Custom Shop Hand Wired 64 Custom Deluxe Reverb -Black-【CR428251】",
+      "price": 573100,
+      "url": "https://www.digimart.net/cat12/shop38/DS10793054/"
     },
     {
-      "id": "DS10792939",
-      "keyword": "Nord",
-      "title": "CLAVIA NORD ELECTRO6D 61【中古】",
-      "price": 220000,
-      "url": "https://www.digimart.net/cat06/shop169/DS10792939/"
+      "id": "DS10793003",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Telecaster, Rosewood , Dark Night 【現物画像】",
+      "price": 291500,
+      "url": "https://www.digimart.net/cat01/shop5185/DS10793003/"
+    },
+    {
+      "id": "DS10792977",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 1963 Stratocaster Journeyman Relic Candy Apple Red",
+      "price": 935000,
+      "url": "https://www.digimart.net/cat01/shop5034/DS10792977/"
     }
   ],
   "errors": [],
@@ -110,7 +96,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 186,
+      "qualifying": 184,
       "page_stats": [
         {
           "page": 1,
@@ -153,8 +139,8 @@
     "PRS": {
       "pages": 6,
       "links": 300,
-      "parsed": 299,
-      "qualifying": 209,
+      "parsed": 300,
+      "qualifying": 212,
       "page_stats": [
         {
           "page": 1,
@@ -198,7 +184,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 66,
+      "qualifying": 52,
       "page_stats": [
         {
           "page": 1,
@@ -379,6 +365,6 @@
       ]
     }
   },
-  "collected": 925,
-  "seen_count": 2561
+  "collected": 912,
+  "seen_count": 2567
 }
