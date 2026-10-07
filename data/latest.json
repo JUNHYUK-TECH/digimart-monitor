@@ -1,28 +1,49 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-07T02:42:14.960049+00:00",
+  "checked_at": "2026-10-07T03:43:27.220538+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10791947",
-      "keyword": "Nord",
-      "title": "CLAVIA Nord Electro 7 73 【即納可能!】",
-      "price": 484000,
-      "url": "https://www.digimart.net/cat06/shop5397/DS10791947/"
+      "id": "DS10792164",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 Studio Waln lefty【現物写真】1.94Kg",
+      "price": 148000,
+      "url": "https://www.digimart.net/cat02/shop5363/DS10792164/"
     },
     {
-      "id": "DS10747526",
-      "keyword": "Helix",
-      "title": "LINE 6 Helix Stadium Floor アンプ/エフェクトプロセッサー マルチエフェクター 《箱ボロB級特価!》【新宿店】",
-      "price": 277200,
-      "url": "https://www.digimart.net/cat13/shop1484/DS10747526/"
+      "id": "DS10792132",
+      "keyword": "Gibson",
+      "title": "Gibson ES-335 Dot",
+      "price": 396000,
+      "url": "https://www.digimart.net/cat01/shop4916/DS10792132/"
     },
     {
-      "id": "DS10592984",
-      "keyword": "Fractal",
-      "title": "FRACTAL AUDIO SYSTEMS Axe-Fx III MARK II TURBO フラクタル 《48回分割無金利キャンペーン》 【新宿店】",
-      "price": 484000,
-      "url": "https://www.digimart.net/cat13/shop1484/DS10592984/"
+      "id": "DS10792077",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard HP-II/High Performance II Cobalt Fade [3.75kg/2018年製] ギブソン 【池袋店】",
+      "price": 297000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10792077/"
+    },
+    {
+      "id": "DS10789739",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE McCARTY 594 Singlecut Turquoise ITEM：S522TU S/N：CTIF067695 【未展示品】 【現物画像】",
+      "price": 157289,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10789739/"
+    },
+    {
+      "id": "DS10792167",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1972 Telecaster Thinline AGN/M '23",
+      "price": 297000,
+      "url": "https://www.digimart.net/cat01/shop4951/DS10792167/"
+    },
+    {
+      "id": "DS10792064",
+      "keyword": "Fender",
+      "title": "Fender Limited Edition American Professional Classic Telecaster featuring the Fender Silent System (Soni...",
+      "price": 258500,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10792064/"
     }
   ],
   "errors": [],
@@ -75,7 +96,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 195,
+      "qualifying": 193,
       "page_stats": [
         {
           "page": 1,
@@ -344,6 +365,6 @@
       ]
     }
   },
-  "collected": 942,
-  "seen_count": 2493
+  "collected": 940,
+  "seen_count": 2499
 }
