@@ -1,8 +1,16 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-07T16:45:03.273599+00:00",
+  "checked_at": "2026-10-07T17:43:14.769925+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10793000",
+      "keyword": "Gibson",
+      "title": "Kz Guitar Works Kz One Air Natural w/Gibson 57 Classic Pickup【展示入替特価】",
+      "price": 434500,
+      "url": "https://www.digimart.net/cat01/shop4773/DS10793000/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -53,7 +61,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 188,
+      "qualifying": 189,
       "page_stats": [
         {
           "page": 1,
@@ -322,6 +330,6 @@
       ]
     }
   },
-  "collected": 910,
-  "seen_count": 2623
+  "collected": 911,
+  "seen_count": 2624
 }
