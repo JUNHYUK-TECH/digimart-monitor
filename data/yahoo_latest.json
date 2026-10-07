@@ -1,33 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-07T19:55:59.825630+00:00",
+  "checked_at": "2026-10-07T20:57:24.519859+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "d1244865663",
-      "keyword": "Gibson",
-      "title": "Gibson USA Les Paul 2008 ギブソン レスポール エレキギター 楽器 弦楽器 中古 N11643283 現在 126,962円 22時47分に終了",
-      "price": 126962,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/d1244865663"
-    },
-    {
-      "id": "j1247487502",
-      "keyword": "PRS",
-      "title": "ティソ PRS 516 Powermatic 80 Rose ゴールド PVD Black Dial Automatic Box & Manuals 海外 即決 即決 147,114円 送料無料 0 5日",
-      "price": 147114,
-      "buyout": 147114,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/j1247487502"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 269,
-      "parsed": 269,
+      "links": 268,
+      "parsed": 268,
       "qualifying": 8,
       "page_stats": [
         {
@@ -40,19 +21,19 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=51&n=50&s1=new&o1=d",
           "links": 64,
-          "unique_added": 36
+          "unique_added": 35
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=101&n=50&s1=new&o1=d",
           "links": 63,
-          "unique_added": 44
+          "unique_added": 45
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=151&n=50&s1=new&o1=d",
           "links": 61,
-          "unique_added": 46
+          "unique_added": 45
         },
         {
           "page": 5,
@@ -70,27 +51,27 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 297,
-      "parsed": 297,
+      "links": 296,
+      "parsed": 296,
       "qualifying": 64,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 71,
-          "unique_added": 71
+          "links": 70,
+          "unique_added": 70
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 46
+          "links": 71,
+          "unique_added": 47
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 45
+          "links": 68,
+          "unique_added": 44
         },
         {
           "page": 4,
@@ -101,14 +82,14 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 67,
-          "unique_added": 43
+          "links": 68,
+          "unique_added": 44
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=251&n=50&s1=new&o1=d",
           "links": 45,
-          "unique_added": 44
+          "unique_added": 43
         }
       ]
     },
