@@ -1,8 +1,30 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-07T01:42:02.577867+00:00",
+  "checked_at": "2026-10-07T02:42:14.960049+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10791947",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Electro 7 73 【即納可能!】",
+      "price": 484000,
+      "url": "https://www.digimart.net/cat06/shop5397/DS10791947/"
+    },
+    {
+      "id": "DS10747526",
+      "keyword": "Helix",
+      "title": "LINE 6 Helix Stadium Floor アンプ/エフェクトプロセッサー マルチエフェクター 《箱ボロB級特価!》【新宿店】",
+      "price": 277200,
+      "url": "https://www.digimart.net/cat13/shop1484/DS10747526/"
+    },
+    {
+      "id": "DS10592984",
+      "keyword": "Fractal",
+      "title": "FRACTAL AUDIO SYSTEMS Axe-Fx III MARK II TURBO フラクタル 《48回分割無金利キャンペーン》 【新宿店】",
+      "price": 484000,
+      "url": "https://www.digimart.net/cat13/shop1484/DS10592984/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -53,7 +75,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 197,
+      "qualifying": 195,
       "page_stats": [
         {
           "page": 1,
@@ -141,7 +163,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 81,
+      "qualifying": 79,
       "page_stats": [
         {
           "page": 1,
@@ -229,7 +251,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 118,
+      "qualifying": 119,
       "page_stats": [
         {
           "page": 1,
@@ -291,9 +313,9 @@
     },
     "Fractal": {
       "pages": 4,
-      "links": 166,
-      "parsed": 166,
-      "qualifying": 92,
+      "links": 167,
+      "parsed": 167,
+      "qualifying": 93,
       "page_stats": [
         {
           "page": 1,
@@ -316,12 +338,12 @@
         {
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
-          "links": 16,
-          "unique_added": 16
+          "links": 17,
+          "unique_added": 17
         }
       ]
     }
   },
-  "collected": 944,
-  "seen_count": 2490
+  "collected": 942,
+  "seen_count": 2493
 }
