@@ -1,16 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-07T13:44:32.138803+00:00",
+  "checked_at": "2026-10-07T14:45:28.204368+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10793676",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24 2025 (Faded Grey Black Burst)",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop73/DS10793676/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
