@@ -1,14 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-07T20:57:24.519859+00:00",
+  "checked_at": "2026-10-07T21:57:43.045056+00:00",
   "baseline": false,
   "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 268,
-      "parsed": 268,
+      "links": 267,
+      "parsed": 267,
       "qualifying": 8,
       "page_stats": [
         {
@@ -27,13 +27,13 @@
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=101&n=50&s1=new&o1=d",
           "links": 63,
-          "unique_added": 45
+          "unique_added": 44
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=151&n=50&s1=new&o1=d",
-          "links": 61,
-          "unique_added": 45
+          "links": 62,
+          "unique_added": 46
         },
         {
           "page": 5,
@@ -44,15 +44,15 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=251&n=50&s1=new&o1=d",
-          "links": 56,
-          "unique_added": 40
+          "links": 55,
+          "unique_added": 39
         }
       ]
     },
     "Gibson": {
       "pages": 6,
-      "links": 296,
-      "parsed": 296,
+      "links": 297,
+      "parsed": 297,
       "qualifying": 64,
       "page_stats": [
         {
@@ -82,8 +82,8 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 44
+          "links": 69,
+          "unique_added": 45
         },
         {
           "page": 6,
@@ -109,15 +109,15 @@
     },
     "Fender": {
       "pages": 1,
-      "links": 48,
-      "parsed": 48,
-      "qualifying": 1,
+      "links": 49,
+      "parsed": 49,
+      "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 48,
-          "unique_added": 48
+          "links": 49,
+          "unique_added": 49
         }
       ]
     },
@@ -178,6 +178,6 @@
       ]
     }
   },
-  "collected": 80,
+  "collected": 79,
   "seen_count": 546
 }
