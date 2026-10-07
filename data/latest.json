@@ -1,49 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-07T12:51:32.752922+00:00",
+  "checked_at": "2026-10-07T13:44:32.138803+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10793240",
-      "keyword": "Fender",
-      "title": "Fender American Ultra II Stratocaster Left Hand Avalanche 2024年製",
-      "price": 278000,
-      "url": "https://www.digimart.net/cat01/shop5155/DS10793240/"
-    },
-    {
-      "id": "DS10793640",
-      "keyword": "Fender",
-      "title": "Fender Limited Edition American Vintage II '61 Stratocaster Black ≪S/N:V214973≫【心斎橋店】",
-      "price": 318000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10793640/"
-    },
-    {
-      "id": "DS10793634",
-      "keyword": "Fender",
-      "title": "Fender American Ultra II Jazz Bass Ultraburs Ebony ≪S/N:US25025437≫【心斎橋店】",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10793634/"
-    },
-    {
-      "id": "DS10793627",
-      "keyword": "Fender",
-      "title": "Fender American Ultra Luxe ‘60s Stratocaster HSS Fiesta Red ≪S/N:US25005096≫【心斎橋店】",
-      "price": 378000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10793627/"
-    },
-    {
-      "id": "DS10793625",
-      "keyword": "Fender",
-      "title": "Fender American Professional Classic Telecaster Faded Black ≪S/N:US26021774≫ 【心斎橋店】",
-      "price": 179800,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10793625/"
-    },
-    {
-      "id": "DS10793631",
-      "keyword": "Fender",
-      "title": "Fender American Professional II Jazz Bass 2020年製 【返品OK】[VMR12]【箕面店在庫】",
-      "price": 228000,
-      "url": "https://www.digimart.net/cat03/shop3580/DS10793631/"
+      "id": "DS10793676",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Custom 24 2025 (Faded Grey Black Burst)",
+      "price": 130680,
+      "url": "https://www.digimart.net/cat01/shop73/DS10793676/"
     }
   ],
   "errors": [],
@@ -140,7 +105,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 217,
+      "qualifying": 218,
       "page_stats": [
         {
           "page": 1,
@@ -334,9 +299,9 @@
     },
     "Fractal": {
       "pages": 4,
-      "links": 167,
-      "parsed": 167,
-      "qualifying": 93,
+      "links": 166,
+      "parsed": 166,
+      "qualifying": 92,
       "page_stats": [
         {
           "page": 1,
@@ -359,12 +324,12 @@
         {
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
-          "links": 17,
-          "unique_added": 17
+          "links": 16,
+          "unique_added": 16
         }
       ]
     }
   },
   "collected": 910,
-  "seen_count": 2622
+  "seen_count": 2623
 }
