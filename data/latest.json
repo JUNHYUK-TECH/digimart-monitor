@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-08T01:42:15.174020+00:00",
+  "checked_at": "2026-10-08T02:40:18.520282+00:00",
   "baseline": false,
   "new": [],
   "errors": [],
@@ -53,7 +53,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 188,
+      "qualifying": 187,
       "page_stats": [
         {
           "page": 1,
@@ -97,7 +97,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 218,
+      "qualifying": 217,
       "page_stats": [
         {
           "page": 1,
@@ -183,9 +183,9 @@
     },
     "Nord": {
       "pages": 6,
-      "links": 300,
-      "parsed": 300,
-      "qualifying": 182,
+      "links": 298,
+      "parsed": 298,
+      "qualifying": 181,
       "page_stats": [
         {
           "page": 1,
@@ -215,7 +215,7 @@
           "page": 5,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Nord&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=5&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 48
         },
         {
           "page": 6,
@@ -322,6 +322,6 @@
       ]
     }
   },
-  "collected": 910,
+  "collected": 907,
   "seen_count": 2626
 }
