@@ -1,154 +1,28 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-08T11:43:14.239899+00:00",
+  "checked_at": "2026-10-08T12:51:50.364331+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10795599",
-      "keyword": "Gibson",
-      "title": "Gibson L-00 Original with HiFi DNA Vintage Sunburst【渋谷店】",
-      "price": 379500,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10795599/"
-    },
-    {
-      "id": "DS10795598",
-      "keyword": "Gibson",
-      "title": "Gibson Hummingbird Standard with HiFi DNA Vintage Cherry Sunburst【渋谷店】",
-      "price": 473000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10795598/"
-    },
-    {
-      "id": "DS10795597",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 Standard with HiFi DNA Vintage Sunburst【渋谷店】",
-      "price": 379500,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10795597/"
-    },
-    {
-      "id": "DS10795591",
-      "keyword": "Gibson",
-      "title": "Gibson Hummingbird Original with HiFi DNA Heritage Sunburst ≪S/N:22326066≫ 【心斎橋店】",
-      "price": 473000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10795591/"
-    },
-    {
-      "id": "DS10795587",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Future Tribute 【渋谷店】",
-      "price": 154000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10795587/"
-    },
-    {
-      "id": "DS10795555",
-      "keyword": "Gibson",
-      "title": "Gibson 【美品中古・軽量個体】Les Paul Special / TV Yellow [3.18kg] 2025年製 3F",
-      "price": 198000,
-      "url": "https://www.digimart.net/cat01/shop169/DS10795555/"
-    },
-    {
-      "id": "DS10795550",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 Special Satin Vintage Sunburst ≪S/N:22396119≫ 【心斎橋店】",
-      "price": 239800,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10795550/"
-    },
-    {
-      "id": "DS10795549",
-      "keyword": "Gibson",
-      "title": "Gibson Hummingbird Special Satin Vintage Cherry Sunburst ≪S/N:22376066≫ 【心斎橋店】",
-      "price": 261800,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10795549/"
-    },
-    {
-      "id": "DS10795548",
-      "keyword": "Gibson",
-      "title": "Gibson Hummingbird Special Satin Vintage Cherry Sunburst ≪S/N:22326106≫ 【心斎橋店】",
-      "price": 261800,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10795548/"
-    },
-    {
-      "id": "DS10795345",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Studio",
-      "price": 148000,
-      "url": "https://www.digimart.net/cat01/shop5450/DS10795345/"
-    },
-    {
-      "id": "DS10795386",
-      "keyword": "Gibson",
-      "title": "Gibson Gibson Les Paul Traditional Goldtop",
-      "price": 268000,
-      "url": "https://www.digimart.net/cat01/shop5450/DS10795386/"
-    },
-    {
-      "id": "DS10795596",
+      "id": "DS10795635",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 Custom 24 10 Top River Blue Pearl【渋谷店】",
-      "price": 746592,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10795596/"
+      "title": "Paul Reed Smith(PRS) SE Silver Sky Maple Fingerboard 3J 2025 (Stone Blue)",
+      "price": 135520,
+      "url": "https://www.digimart.net/cat01/shop73/DS10795635/"
     },
     {
-      "id": "DS10795595",
+      "id": "DS10795031",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 Custom 24 10 Top River Blue Pearl【渋谷店】",
-      "price": 746592,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10795595/"
+      "title": "Paul Reed Smith(PRS) SE Standard 24-08 Limited Model / Black 【S/N I000965 / 3.61kg】 36回まで無金利",
+      "price": 138600,
+      "url": "https://www.digimart.net/cat01/shop5281/DS10795031/"
     },
     {
-      "id": "DS10795381",
+      "id": "DS10795030",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) S2 Vela HHT Black Rainbow Holoflake 2026",
-      "price": 293040,
-      "url": "https://www.digimart.net/cat01/shop1220/DS10795381/"
-    },
-    {
-      "id": "DS10795262",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Astryx Limited Edition/Dany Villarreal Signature Ocaso (Sunset) 2026",
-      "price": 990000,
-      "url": "https://www.digimart.net/cat01/shop1220/DS10795262/"
-    },
-    {
-      "id": "DS10795047",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Wood Library Custom 24 10Top Laguna Japan Exclusive 2026",
-      "price": 897600,
-      "url": "https://www.digimart.net/cat01/shop1220/DS10795047/"
-    },
-    {
-      "id": "DS10795499",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24 Quilt Pakage C1 ~Charcoal Blue Burst~ #CTI I013728 [3.56kg][2026年製][激杢個体]",
-      "price": 154880,
-      "url": "https://www.digimart.net/cat01/shop169/DS10795499/"
-    },
-    {
-      "id": "DS10795491",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Custom 24 10TOP -Faded Whale Blue- 2026【おすすめ個体】【ハイエンドフロア】",
-      "price": 739200,
-      "url": "https://www.digimart.net/cat01/shop38/DS10795491/"
-    },
-    {
-      "id": "DS10795559",
-      "keyword": "Fender",
-      "title": "Fender American Professional II Stratocaster Black 【実機写真】【重量約3.57kg】",
-      "price": 291500,
-      "url": "https://www.digimart.net/cat01/shop5272/DS10795559/"
-    },
-    {
-      "id": "DS10795521",
-      "keyword": "Fender",
-      "title": "Fender Ltd Ed American Professional Classic Stratocaster featuring the Fender Silent System 3CS",
-      "price": 258500,
-      "url": "https://www.digimart.net/cat01/shop2340/DS10795521/"
-    },
-    {
-      "id": "DS10795501",
-      "keyword": "Fender",
-      "title": "Fender Made in Japan Artist Deluxe Jazz Bass V KAZUKI ARAI Black 【2026年11月入荷予定】【ご予約受付中】",
-      "price": 264000,
-      "url": "https://www.digimart.net/cat03/shop170/DS10795501/"
+      "title": "Paul Reed Smith(PRS) SE Custom24 / Charcoal 【S/N H080681 / 3.51kg】 36回まで無金利",
+      "price": 130680,
+      "url": "https://www.digimart.net/cat01/shop5281/DS10795030/"
     }
   ],
   "errors": [],
@@ -245,7 +119,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 226,
+      "qualifying": 228,
       "page_stats": [
         {
           "page": 1,
@@ -419,8 +293,8 @@
     },
     "Quad Cortex": {
       "pages": 2,
-      "links": 93,
-      "parsed": 93,
+      "links": 92,
+      "parsed": 92,
       "qualifying": 0,
       "page_stats": [
         {
@@ -432,15 +306,15 @@
         {
           "page": 2,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=&readCount=50&noparallelimportp=&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=&soldoutDispCheck=false&tagWords=&dmsP=&keywordAnd=Quad+Cortex&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=&neckScaleOption=&tagWordsNot=&freeshippingp=&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=&pickupOption=&movieurlp=&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=&brandIdNot=&ecCardP=&ecpurchasep=&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=&fingerboardOption=&noshopsalep=&currentPage=2&shopNo=&stringsoption=&categoryId=&shopsalep=&favorite=false&dispFavorite=false",
-          "links": 43,
-          "unique_added": 43
+          "links": 42,
+          "unique_added": 42
         }
       ]
     },
     "Fractal": {
       "pages": 4,
-      "links": 162,
-      "parsed": 162,
+      "links": 161,
+      "parsed": 161,
       "qualifying": 91,
       "page_stats": [
         {
@@ -464,12 +338,12 @@
         {
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
-          "links": 12,
-          "unique_added": 12
+          "links": 11,
+          "unique_added": 11
         }
       ]
     }
   },
-  "collected": 888,
-  "seen_count": 2763
+  "collected": 890,
+  "seen_count": 2766
 }
