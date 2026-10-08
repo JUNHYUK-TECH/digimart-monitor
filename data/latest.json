@@ -1,42 +1,42 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-08T03:45:25.472483+00:00",
+  "checked_at": "2026-10-08T04:43:35.033289+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10793842",
-      "keyword": "Gibson",
-      "title": "Gibson 1958 LES PAUL JUNIOR DOUBLECUT PELHAM BLUE VOS NH",
-      "price": 649000,
-      "url": "https://www.digimart.net/cat01/shop4938/DS10793842/"
+      "id": "DS10794224",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Custom 24 Semi-Hollow Piezo (Lake Blue) 2025年製",
+      "price": 189200,
+      "url": "https://www.digimart.net/cat01/shop3660/DS10794224/"
     },
     {
-      "id": "DS10793967",
+      "id": "DS10794216",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Silver Sky Moon White 【軽量個体】【3.23kg】【2026年製】",
-      "price": 135520,
-      "url": "https://www.digimart.net/cat01/shop170/DS10793967/"
-    },
-    {
-      "id": "DS10793966",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Silver Sky Stone Blue 【軽量個体】【3.16kg】【2026年製】",
-      "price": 135520,
-      "url": "https://www.digimart.net/cat01/shop170/DS10793966/"
-    },
-    {
-      "id": "DS10793964",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24 Amethyst 【3.54kg】【2026年製】",
+      "title": "Paul Reed Smith(PRS) SE Custom 24 / Blue Matteo (2025年製)",
       "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop170/DS10793964/"
+      "url": "https://www.digimart.net/cat01/shop3660/DS10794216/"
     },
     {
-      "id": "DS10793961",
+      "id": "DS10793968",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE CE 24 Turquoise 【ボルトオンネック】【3.45kg】【2026年製】",
-      "price": 109384,
-      "url": "https://www.digimart.net/cat01/shop170/DS10793961/"
+      "title": "Paul Reed Smith(PRS) SE Custom 24 -Sapphire-#CTI H070288【3.44kg】",
+      "price": 130680,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10793968/"
+    },
+    {
+      "id": "DS10794069",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 1954 Stratocaster 2Tone Sunburst 1997年製【3.29kg】【フレイムメイプルネック】",
+      "price": 440000,
+      "url": "https://www.digimart.net/cat01/shop26/DS10794069/"
+    },
+    {
+      "id": "DS10794031",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1966 Jazzmaster 3-Color Sunburst 【3.61kg】【V2554324】",
+      "price": 435600,
+      "url": "https://www.digimart.net/cat01/shop170/DS10794031/"
     }
   ],
   "errors": [],
@@ -89,7 +89,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 185,
+      "qualifying": 184,
       "page_stats": [
         {
           "page": 1,
@@ -177,7 +177,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 42,
+      "qualifying": 34,
       "page_stats": [
         {
           "page": 1,
@@ -221,7 +221,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 183,
+      "qualifying": 182,
       "page_stats": [
         {
           "page": 1,
@@ -358,6 +358,6 @@
       ]
     }
   },
-  "collected": 906,
-  "seen_count": 2631
+  "collected": 896,
+  "seen_count": 2636
 }
