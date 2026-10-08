@@ -1,17 +1,229 @@
 {
-  "status": "failed",
-  "checked_at": "2026-10-08T09:58:43.924589+00:00",
+  "status": "ok",
+  "checked_at": "2026-10-08T10:58:46.910266+00:00",
   "baseline": false,
-  "new": [],
-  "errors": [
-    "Tyler: HTTP 500: https://auctions.yahoo.co.jp/search/search?p=Tyler&b=1&n=50&s1=new&o1=d",
-    "Gibson: HTTP 500: https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-    "PRS: HTTP 500: https://auctions.yahoo.co.jp/search/search?p=PRS&b=1&n=50&s1=new&o1=d",
-    "Fender: HTTP 500: https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-    "Nord: HTTP 500: https://auctions.yahoo.co.jp/search/search?p=Nord&b=1&n=50&s1=new&o1=d",
-    "Helix: HTTP 500: https://auctions.yahoo.co.jp/search/search?p=Helix&b=1&n=50&s1=new&o1=d",
-    "Quad Cortex: HTTP 500: https://auctions.yahoo.co.jp/search/search?p=Quad+Cortex&b=1&n=50&s1=new&o1=d",
-    "Fractal: HTTP 500: https://auctions.yahoo.co.jp/search/search?p=Fractal&b=1&n=50&s1=new&o1=d"
+  "new": [
+    {
+      "id": "g1247593408",
+      "keyword": "Gibson",
+      "title": "Gibson Limited Edition J-160E 1998 / 2.29kg 即決 362,000円 ＋送料2,800円 0 7日",
+      "price": 362000,
+      "buyout": 362000,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/g1247593408"
+    },
+    {
+      "id": "p1247597265",
+      "keyword": "PRS",
+      "title": "【new】PRS(Paul Reed Smith) / SE CE 24 Maple Fingerboard 2025 Teal Black 3.465kg #H067803【TONIQ横浜】 即決 109,384円 送料無料 0 5日 未使用",
+      "price": 109384,
+      "buyout": 109384,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/p1247597265"
+    },
+    {
+      "id": "x1247577543",
+      "keyword": "PRS",
+      "title": "【new】Paul Reed Smith(PRS) / SE Custom 24 Quilt Package Charcoal Blue Burst 3.425kg#I013260【TONIQ横浜】 即決 154,880円 送料無料 0 5日 未使用",
+      "price": 154880,
+      "buyout": 154880,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/x1247577543"
+    },
+    {
+      "id": "r1247593510",
+      "keyword": "PRS",
+      "title": "【new】Paul Reed Smith(PRS) / SE Custom 24 Quilt Package Charcoal Blue Burst 3.52kg #I012780【TONIQ横浜】 即決 154,880円 送料無料 0 5日 未使用",
+      "price": 154880,
+      "buyout": 154880,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/r1247593510"
+    },
+    {
+      "id": "t1247582313",
+      "keyword": "PRS",
+      "title": "【new】Paul Reed Smith(PRS) / Custom 24-08 Limited Edition Indigo (Stained Neck) 2026 3.475kg #0426700【TONIQ横浜】 即決 853,600円 送料無料 0 5日 未使用",
+      "price": 853600,
+      "buyout": 853600,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/t1247582313"
+    }
   ],
-  "counts": {}
+  "errors": [],
+  "counts": {
+    "Tyler": {
+      "pages": 6,
+      "links": 270,
+      "parsed": 270,
+      "qualifying": 6,
+      "page_stats": [
+        {
+          "page": 1,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=1&n=50&s1=new&o1=d",
+          "links": 56,
+          "unique_added": 56
+        },
+        {
+          "page": 2,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=51&n=50&s1=new&o1=d",
+          "links": 65,
+          "unique_added": 37
+        },
+        {
+          "page": 3,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=101&n=50&s1=new&o1=d",
+          "links": 64,
+          "unique_added": 36
+        },
+        {
+          "page": 4,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=151&n=50&s1=new&o1=d",
+          "links": 63,
+          "unique_added": 47
+        },
+        {
+          "page": 5,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=201&n=50&s1=new&o1=d",
+          "links": 62,
+          "unique_added": 46
+        },
+        {
+          "page": 6,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=251&n=50&s1=new&o1=d",
+          "links": 64,
+          "unique_added": 48
+        }
+      ]
+    },
+    "Gibson": {
+      "pages": 6,
+      "links": 302,
+      "parsed": 302,
+      "qualifying": 59,
+      "page_stats": [
+        {
+          "page": 1,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=1&n=50&s1=new&o1=d",
+          "links": 71,
+          "unique_added": 71
+        },
+        {
+          "page": 2,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=51&n=50&s1=new&o1=d",
+          "links": 73,
+          "unique_added": 49
+        },
+        {
+          "page": 3,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=101&n=50&s1=new&o1=d",
+          "links": 67,
+          "unique_added": 43
+        },
+        {
+          "page": 4,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=151&n=50&s1=new&o1=d",
+          "links": 71,
+          "unique_added": 47
+        },
+        {
+          "page": 5,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=201&n=50&s1=new&o1=d",
+          "links": 68,
+          "unique_added": 44
+        },
+        {
+          "page": 6,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=251&n=50&s1=new&o1=d",
+          "links": 48,
+          "unique_added": 48
+        }
+      ]
+    },
+    "PRS": {
+      "pages": 1,
+      "links": 48,
+      "parsed": 48,
+      "qualifying": 10,
+      "page_stats": [
+        {
+          "page": 1,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=PRS&b=1&n=50&s1=new&o1=d",
+          "links": 48,
+          "unique_added": 48
+        }
+      ]
+    },
+    "Fender": {
+      "pages": 1,
+      "links": 49,
+      "parsed": 49,
+      "qualifying": 0,
+      "page_stats": [
+        {
+          "page": 1,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=1&n=50&s1=new&o1=d",
+          "links": 49,
+          "unique_added": 49
+        }
+      ]
+    },
+    "Nord": {
+      "pages": 1,
+      "links": 48,
+      "parsed": 48,
+      "qualifying": 0,
+      "page_stats": [
+        {
+          "page": 1,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Nord&b=1&n=50&s1=new&o1=d",
+          "links": 48,
+          "unique_added": 48
+        }
+      ]
+    },
+    "Helix": {
+      "pages": 1,
+      "links": 46,
+      "parsed": 46,
+      "qualifying": 0,
+      "page_stats": [
+        {
+          "page": 1,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Helix&b=1&n=50&s1=new&o1=d",
+          "links": 46,
+          "unique_added": 46
+        }
+      ]
+    },
+    "Quad Cortex": {
+      "pages": 1,
+      "links": 30,
+      "parsed": 30,
+      "qualifying": 1,
+      "page_stats": [
+        {
+          "page": 1,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Quad+Cortex&b=1&n=50&s1=new&o1=d",
+          "links": 30,
+          "unique_added": 30
+        }
+      ]
+    },
+    "Fractal": {
+      "pages": 1,
+      "links": 39,
+      "parsed": 39,
+      "qualifying": 0,
+      "page_stats": [
+        {
+          "page": 1,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fractal&b=1&n=50&s1=new&o1=d",
+          "links": 39,
+          "unique_added": 39
+        }
+      ]
+    }
+  },
+  "collected": 76,
+  "seen_count": 579
 }
