@@ -1,27 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-08T16:00:39.764926+00:00",
+  "checked_at": "2026-10-08T17:00:12.871850+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "d1247609504",
-      "keyword": "Gibson",
-      "title": "Greco L6-S model グレコ エレキギターgibson L6コピーモデルです。 現在 180,000円 即決 260,000円 ＋送料2,810円 0 6日",
-      "price": 180000,
-      "buyout": 260000,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/d1247609504"
-    },
-    {
-      "id": "g1240537284",
-      "keyword": "Gibson",
-      "title": "GIBSON MARAUDER 70年代 現在 175,000円 21時47分に終了",
-      "price": 175000,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/g1240537284"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -40,19 +21,19 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=51&n=50&s1=new&o1=d",
           "links": 64,
-          "unique_added": 42
+          "unique_added": 43
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=101&n=50&s1=new&o1=d",
           "links": 65,
-          "unique_added": 35
+          "unique_added": 34
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=151&n=50&s1=new&o1=d",
-          "links": 62,
-          "unique_added": 46
+          "links": 63,
+          "unique_added": 47
         },
         {
           "page": 5,
@@ -63,8 +44,8 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=251&n=50&s1=new&o1=d",
-          "links": 63,
-          "unique_added": 47
+          "links": 62,
+          "unique_added": 46
         }
       ]
     },
@@ -88,7 +69,7 @@
         },
         {
           "page": 3,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=101&n=50&s1=new&o1=d",
           "links": 68,
           "unique_added": 45
         },
@@ -100,7 +81,7 @@
         },
         {
           "page": 5,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=201&n=50&s1=new&o1=d",
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
           "links": 70,
           "unique_added": 47
         },
@@ -127,9 +108,9 @@
       ]
     },
     "Fender": {
-      "pages": 4,
-      "links": 191,
-      "parsed": 191,
+      "pages": 2,
+      "links": 98,
+      "parsed": 98,
       "qualifying": 0,
       "page_stats": [
         {
@@ -141,20 +122,8 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 47
-        },
-        {
-          "page": 3,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 50,
+          "links": 48,
           "unique_added": 48
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=151&n=50&s1=new&o1=d",
-          "links": 49,
-          "unique_added": 46
         }
       ]
     },
