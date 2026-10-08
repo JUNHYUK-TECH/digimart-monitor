@@ -1,28 +1,21 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-08T12:51:50.364331+00:00",
+  "checked_at": "2026-10-08T13:46:09.931530+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10795635",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Silver Sky Maple Fingerboard 3J 2025 (Stone Blue)",
-      "price": 135520,
-      "url": "https://www.digimart.net/cat01/shop73/DS10795635/"
+      "id": "DS10794359",
+      "keyword": "Fender",
+      "title": "Fender American Ultra II Jazz Bass -Ultraburst-【4.26kg】【ギグバックプレゼント】",
+      "price": 396000,
+      "url": "https://www.digimart.net/cat03/shop5452/DS10794359/"
     },
     {
-      "id": "DS10795031",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Standard 24-08 Limited Model / Black 【S/N I000965 / 3.61kg】 36回まで無金利",
-      "price": 138600,
-      "url": "https://www.digimart.net/cat01/shop5281/DS10795031/"
-    },
-    {
-      "id": "DS10795030",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom24 / Charcoal 【S/N H080681 / 3.51kg】 36回まで無金利",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop5281/DS10795030/"
+      "id": "DS10794348",
+      "keyword": "Fender",
+      "title": "Fender American Ultra II Jazz Bass V / Sinister Red【5弦】【4.54kg】",
+      "price": 407000,
+      "url": "https://www.digimart.net/cat03/shop5452/DS10794348/"
     }
   ],
   "errors": [],
@@ -75,7 +68,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 154,
+      "qualifying": 153,
       "page_stats": [
         {
           "page": 1,
@@ -119,7 +112,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 228,
+      "qualifying": 227,
       "page_stats": [
         {
           "page": 1,
@@ -163,7 +156,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 44,
+      "qualifying": 46,
       "page_stats": [
         {
           "page": 1,
@@ -345,5 +338,5 @@
     }
   },
   "collected": 890,
-  "seen_count": 2766
+  "seen_count": 2768
 }
