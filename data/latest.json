@@ -1,23 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-08T00:52:59.697632+00:00",
+  "checked_at": "2026-10-08T01:42:15.174020+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10793744",
-      "keyword": "Fender",
-      "title": "Fender 【中古】 Fender American Professional II Telecaster Maple Fingerboard Miami Blue 2022年製",
-      "price": 209000,
-      "url": "https://www.digimart.net/cat01/shop1000/DS10793744/"
-    },
-    {
-      "id": "DS10793743",
-      "keyword": "Fender",
-      "title": "Fender 【中古】 Fender American Acoustasonic Stratocaster Ebony Fingerboard Black 2020年製",
-      "price": 187000,
-      "url": "https://www.digimart.net/cat02/shop1000/DS10793743/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -68,7 +53,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 189,
+      "qualifying": 188,
       "page_stats": [
         {
           "page": 1,
@@ -337,6 +322,6 @@
       ]
     }
   },
-  "collected": 911,
+  "collected": 910,
   "seen_count": 2626
 }
