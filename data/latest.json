@@ -1,8 +1,44 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-08T02:40:18.520282+00:00",
+  "checked_at": "2026-10-08T03:45:25.472483+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10793842",
+      "keyword": "Gibson",
+      "title": "Gibson 1958 LES PAUL JUNIOR DOUBLECUT PELHAM BLUE VOS NH",
+      "price": 649000,
+      "url": "https://www.digimart.net/cat01/shop4938/DS10793842/"
+    },
+    {
+      "id": "DS10793967",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Silver Sky Moon White 【軽量個体】【3.23kg】【2026年製】",
+      "price": 135520,
+      "url": "https://www.digimart.net/cat01/shop170/DS10793967/"
+    },
+    {
+      "id": "DS10793966",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Silver Sky Stone Blue 【軽量個体】【3.16kg】【2026年製】",
+      "price": 135520,
+      "url": "https://www.digimart.net/cat01/shop170/DS10793966/"
+    },
+    {
+      "id": "DS10793964",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Custom 24 Amethyst 【3.54kg】【2026年製】",
+      "price": 130680,
+      "url": "https://www.digimart.net/cat01/shop170/DS10793964/"
+    },
+    {
+      "id": "DS10793961",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE CE 24 Turquoise 【ボルトオンネック】【3.45kg】【2026年製】",
+      "price": 109384,
+      "url": "https://www.digimart.net/cat01/shop170/DS10793961/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -53,7 +89,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 187,
+      "qualifying": 185,
       "page_stats": [
         {
           "page": 1,
@@ -97,7 +133,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 217,
+      "qualifying": 216,
       "page_stats": [
         {
           "page": 1,
@@ -183,9 +219,9 @@
     },
     "Nord": {
       "pages": 6,
-      "links": 298,
-      "parsed": 298,
-      "qualifying": 181,
+      "links": 300,
+      "parsed": 300,
+      "qualifying": 183,
       "page_stats": [
         {
           "page": 1,
@@ -215,7 +251,7 @@
           "page": 5,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Nord&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=5&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 48
+          "unique_added": 50
         },
         {
           "page": 6,
@@ -322,6 +358,6 @@
       ]
     }
   },
-  "collected": 907,
-  "seen_count": 2626
+  "collected": 906,
+  "seen_count": 2631
 }
