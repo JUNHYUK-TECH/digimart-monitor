@@ -1,52 +1,43 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-08T04:58:56.130604+00:00",
+  "checked_at": "2026-10-08T05:58:07.855155+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "m1247452588",
-      "keyword": "Tyler",
-      "title": "Tyler the Creator CAMP FLOG GNAW Dodger Stadium LA Music Fest ボブルヘッド NIB! 海外 即決 即決 118,954円 送料無料 0 5日 未使用",
-      "price": 118954,
-      "buyout": 118954,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/m1247452588"
-    },
-    {
-      "id": "n1247541427",
+      "id": "s1247557538",
       "keyword": "Gibson",
-      "title": "Gibson custom shop CS-336P 現在 320,000円 送料未定 0 3日",
-      "price": 320000,
+      "title": "47 送180サ 1014UB21 Gibson Custom Shop Edition Les Paul Junior DC Refinish 1993年製 現在 300,000円 送料未定 0 6日",
+      "price": 300000,
       "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/n1247541427"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/s1247557538"
     },
     {
-      "id": "o1247549533",
+      "id": "j1235196975",
       "keyword": "Gibson",
-      "title": "Gibson J-45 ADJ 1968年製 USA製 ナローネック サンバースト SN:001929 ハードケース付 アコギ 中古 T11569968 現在 384,912円 即決 528,000円 ＋送料4,600円 0 2日",
-      "price": 384912,
-      "buyout": 528000,
+      "title": "90年製 Gibson Les Paul ’60 Reissue Pre-Historic ギブソン レスポール レスポールリイシュー ハードケース付き 現在 488,000円 23時45分に終了",
+      "price": 488000,
+      "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/o1247549533"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/j1235196975"
     },
     {
-      "id": "u1247557300",
+      "id": "s1247556348",
       "keyword": "Fender",
-      "title": "Fender USA American Series Jazz Bass ベース 2004年製 サンバースト ジェットケース付き フェンダー 中古 W11578523 現在 142,582円 即決 142,583円 ＋送料5,420円 0 2日",
-      "price": 142582,
-      "buyout": 142583,
+      "title": "Fender Custom Shop 1965 Jazz Bass Journeyman Relic, Rosewood Fingerboard, Faded Burgundy Mist Metallic フェンダー 即決 726,000円 送料無料 0 7日 未使用",
+      "price": 726000,
+      "buyout": 726000,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/u1247557300"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/s1247556348"
     }
   ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 267,
-      "parsed": 267,
-      "qualifying": 9,
+      "links": 268,
+      "parsed": 268,
+      "qualifying": 6,
       "page_stats": [
         {
           "page": 1,
@@ -58,13 +49,13 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=51&n=50&s1=new&o1=d",
           "links": 65,
-          "unique_added": 33
+          "unique_added": 32
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=101&n=50&s1=new&o1=d",
           "links": 64,
-          "unique_added": 44
+          "unique_added": 45
         },
         {
           "page": 4,
@@ -81,8 +72,8 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=251&n=50&s1=new&o1=d",
-          "links": 57,
-          "unique_added": 41
+          "links": 58,
+          "unique_added": 42
         }
       ]
     },
@@ -90,7 +81,7 @@
       "pages": 6,
       "links": 302,
       "parsed": 302,
-      "qualifying": 61,
+      "qualifying": 62,
       "page_stats": [
         {
           "page": 1,
@@ -113,8 +104,8 @@
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 66,
-          "unique_added": 42
+          "links": 67,
+          "unique_added": 43
         },
         {
           "page": 5,
@@ -125,8 +116,8 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 48,
-          "unique_added": 46
+          "links": 47,
+          "unique_added": 45
         }
       ]
     },
@@ -145,9 +136,9 @@
       ]
     },
     "Fender": {
-      "pages": 6,
-      "links": 299,
-      "parsed": 299,
+      "pages": 4,
+      "links": 199,
+      "parsed": 199,
       "qualifying": 1,
       "page_stats": [
         {
@@ -171,20 +162,8 @@
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=151&n=50&s1=new&o1=d",
-          "links": 50,
+          "links": 49,
           "unique_added": 49
-        },
-        {
-          "page": 5,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=201&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 6,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
         }
       ]
     },
@@ -251,6 +230,6 @@
       ]
     }
   },
-  "collected": 79,
-  "seen_count": 565
+  "collected": 77,
+  "seen_count": 568
 }
