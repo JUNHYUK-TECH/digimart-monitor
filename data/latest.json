@@ -1,77 +1,273 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-08T08:45:04.952667+00:00",
+  "checked_at": "2026-10-08T09:44:04.508115+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10794285",
+      "id": "DS10795112",
       "keyword": "Gibson",
-      "title": "Gibson 【クロサワ横浜店】【当時の限定カラーモデル!】J-45 M HCS【48回無金利分割可能】",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat02/shop175/DS10794285/"
+      "title": "Gibson Les Paul Special Faded",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat01/shop4902/DS10795112/"
     },
     {
-      "id": "DS10794825",
+      "id": "DS10795109",
       "keyword": "Gibson",
-      "title": "Gibson 【セカンド品】SG Standard '61 ~Classic White~ #233650064 【2.835kg】【軽量】",
-      "price": 249700,
-      "url": "https://www.digimart.net/cat01/shop26/DS10794825/"
+      "title": "Gibson 【動画有り】Les Paul Junior Double Cutaway Tortoise -Cherry- #228840025【3.22kg】",
+      "price": 217800,
+      "url": "https://www.digimart.net/cat01/shop170/DS10795109/"
     },
     {
-      "id": "DS10794740",
+      "id": "DS10795021",
       "keyword": "Gibson",
-      "title": "Gibson Hummingbird MVS 2001年製",
-      "price": 358000,
-      "url": "https://www.digimart.net/cat02/shop5452/DS10794740/"
+      "title": "Gibson 【動画有り】【美杢】Les Paul Standard '50s Plain Top Washed Cherry Sunburst #234250141【4.51kg】",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat01/shop170/DS10795021/"
     },
     {
-      "id": "DS10794734",
-      "keyword": "Gibson",
-      "title": "Gibson 1960s J-45 Original Ebony 【梅田店】",
-      "price": 357500,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10794734/"
-    },
-    {
-      "id": "DS10794720",
-      "keyword": "Gibson",
-      "title": "Gibson 【チョイキズ特価】Exclusive Les Paul Standard '50s \"Custom Shop Top\" #214760072 【4.06kg】",
-      "price": 412500,
-      "url": "https://www.digimart.net/cat01/shop26/DS10794720/"
-    },
-    {
-      "id": "DS10794712",
-      "keyword": "Gibson",
-      "title": "Gibson 2006 Limited Edition Les Paul Standard Pacific Reef 【新宿店】",
-      "price": 297000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10794712/"
-    },
-    {
-      "id": "DS10794721",
+      "id": "DS10795126",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 Ishibashi Exclusive SE Custom 24 Quilt Package Peacock Blue 【梅田店】",
-      "price": 156428,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10794721/"
+      "title": "Paul Reed Smith(PRS) SE Custom 24 Quilt Package Charcoal Blue Burst 3.425kg#I013260【TONIQ横浜】",
+      "price": 154880,
+      "url": "https://www.digimart.net/cat01/shop5401/DS10795126/"
     },
     {
-      "id": "DS10794719",
+      "id": "DS10795105",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 Ishibashi Exclusive SE Custom 24 Quilt Package Peacock Blue 【梅田店】",
-      "price": 156428,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10794719/"
+      "title": "Paul Reed Smith(PRS) SE Custom 24 Quilt Package Charcoal Blue Burst 3.52kg #I012780【TONIQ横浜】",
+      "price": 154880,
+      "url": "https://www.digimart.net/cat01/shop5401/DS10795105/"
     },
     {
-      "id": "DS10794717",
+      "id": "DS10794841",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 Ishibashi Exclusive SE Custom 24 Quilt Package Dark Whale Blue 【梅田店】",
-      "price": 156428,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10794717/"
+      "title": "Paul Reed Smith(PRS) S2 Standard 22 Satin MM:Midnight Metallic【2025年製】",
+      "price": 269280,
+      "url": "https://www.digimart.net/cat01/shop5072/DS10794841/"
     },
     {
-      "id": "DS10794716",
+      "id": "DS10794787",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 Ishibashi Exclusive SE Custom 24 Quilt Package Dark Whale Blue 【梅田店】",
-      "price": 156428,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10794716/"
+      "title": "Paul Reed Smith(PRS) S2 McCarty 594 Singlecut LB(Lake Blue)【2026年製】",
+      "price": 351120,
+      "url": "https://www.digimart.net/cat01/shop5072/DS10794787/"
+    },
+    {
+      "id": "DS10795044",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) \"Custom 24-08 Limited Edition Indigo (Stained Neck) 2026 3.475kg #0426700【TONIQ横浜】",
+      "price": 853600,
+      "url": "https://www.digimart.net/cat01/shop5401/DS10795044/"
+    },
+    {
+      "id": "DS10795175",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Stratocaster MN Roasted Pine【大バーゲンセール！】",
+      "price": 248100,
+      "url": "https://www.digimart.net/cat01/shop3400/DS10795175/"
+    },
+    {
+      "id": "DS10795169",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Stratocaster Faded Firemist Gold 【大バーゲンセール！】",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat01/shop3400/DS10795169/"
+    },
+    {
+      "id": "DS10795168",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Stratocaster HSS Maple Fingerboard Faded Black 【大バーゲンセール！】",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat01/shop3400/DS10795168/"
+    },
+    {
+      "id": "DS10795167",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Precision Bass Faded Lake Placid Blue【大バーゲンセール！】",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat03/shop3400/DS10795167/"
+    },
+    {
+      "id": "DS10795166",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1954 Precision Bass Vintage Blonde 【大バーゲンセール！】",
+      "price": 400400,
+      "url": "https://www.digimart.net/cat03/shop3400/DS10795166/"
+    },
+    {
+      "id": "DS10795165",
+      "keyword": "Fender",
+      "title": "Fender DE American Vintage II 1957 Stratocaster Flame Maple Fingerboard White Blonde 【大バーゲンセール！】",
+      "price": 407000,
+      "url": "https://www.digimart.net/cat01/shop3400/DS10795165/"
+    },
+    {
+      "id": "DS10795164",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Jaguar Faded Sherwood Green Metallic 【大バーゲンセール！】",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat01/shop3400/DS10795164/"
+    },
+    {
+      "id": "DS10795159",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1951 Telecaster MN Prototype White【大バーゲンセール！】",
+      "price": 374000,
+      "url": "https://www.digimart.net/cat01/shop3400/DS10795159/"
+    },
+    {
+      "id": "DS10795157",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Telecaster RW Dark Night【大バーゲンセール！】",
+      "price": 291500,
+      "url": "https://www.digimart.net/cat01/shop3400/DS10795157/"
+    },
+    {
+      "id": "DS10795156",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1972 Telecaster Thinline Aged Natural【大バーゲンセール！】",
+      "price": 435600,
+      "url": "https://www.digimart.net/cat01/shop3400/DS10795156/"
+    },
+    {
+      "id": "DS10795155",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1954 Precision Bass Vintage Blonde 【大バーゲンセール！】",
+      "price": 400400,
+      "url": "https://www.digimart.net/cat03/shop3400/DS10795155/"
+    },
+    {
+      "id": "DS10795154",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Telecaster Left-Hand Butterscotch Blonde【大バーゲンセール！】",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop3400/DS10795154/"
+    },
+    {
+      "id": "DS10795152",
+      "keyword": "Fender",
+      "title": "Fender 75th Anniv. American Professional Classic Cabronita Telecaster Candy Apple Red",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat01/shop3400/DS10795152/"
+    },
+    {
+      "id": "DS10795148",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1977 Telecaster Custom 3-Color Sunburst【大バーゲンセール！】",
+      "price": 426800,
+      "url": "https://www.digimart.net/cat01/shop3400/DS10795148/"
+    },
+    {
+      "id": "DS10795144",
+      "keyword": "Fender",
+      "title": "Fender American Ultra Luxe Vintage '50s Telecaster White Blonde 【大バーゲンセール！】",
+      "price": 398000,
+      "url": "https://www.digimart.net/cat01/shop3400/DS10795144/"
+    },
+    {
+      "id": "DS10795057",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 【2017年製美品中古!軽量個体】Eric Clapton Signature Stratocaster Pewter ≒3.49kg",
+      "price": 638000,
+      "url": "https://www.digimart.net/cat01/shop169/DS10795057/"
+    },
+    {
+      "id": "DS10795093",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Limited Edition 1967 Stratocaster HSS Journeyman Relic Faded -AIBM- #CZ583315 ≒3.66kg",
+      "price": 822800,
+      "url": "https://www.digimart.net/cat01/shop60/DS10795093/"
+    },
+    {
+      "id": "DS10795080",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Vibro king (Custom) CSR-4 / Black 2000s w/Case",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat12/shop5418/DS10795080/"
+    },
+    {
+      "id": "DS10795050",
+      "keyword": "Fender",
+      "title": "Fender Limited Edition American Professional Classic Telecaster featuring the Fender Silent System - Vintag",
+      "price": 258500,
+      "url": "https://www.digimart.net/cat01/shop5238/DS10795050/"
+    },
+    {
+      "id": "DS10795038",
+      "keyword": "Fender",
+      "title": "Fender Limited Edition American Professional Classic Stratocaster featuring the Fender Silent System - 3-Co",
+      "price": 258500,
+      "url": "https://www.digimart.net/cat01/shop5238/DS10795038/"
+    },
+    {
+      "id": "DS10795018",
+      "keyword": "Fender",
+      "title": "Fender Limited Edition American Professional II Stratocaster HH -Ice Blue Metallic- [3.56kg]",
+      "price": 291500,
+      "url": "https://www.digimart.net/cat01/shop5045/DS10795018/"
+    },
+    {
+      "id": "DS10795017",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1965 Stratocaster -Sonic Blue- [3.56kg]",
+      "price": 393800,
+      "url": "https://www.digimart.net/cat01/shop5045/DS10795017/"
+    },
+    {
+      "id": "DS10795014",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Jaguar -Faded Firemist Gold- [3.71kg]",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat01/shop5045/DS10795014/"
+    },
+    {
+      "id": "DS10795010",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Telecaster -Butterscotch Blonde- [3.30kg]",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat01/shop5045/DS10795010/"
+    },
+    {
+      "id": "DS10795002",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Telecaster -Faded Black- [3.45kg]",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat01/shop5045/DS10795002/"
+    },
+    {
+      "id": "DS10794999",
+      "keyword": "Fender",
+      "title": "Fender American Professional Classic Stratocaster -Faded Dakota Red- [3.48kg]",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat01/shop5045/DS10794999/"
+    },
+    {
+      "id": "DS10794973",
+      "keyword": "Fender",
+      "title": "Fender American VintageⅡ1966 Jazzmaster -Sherwood Green Metallic-【3.86kg】",
+      "price": 435600,
+      "url": "https://www.digimart.net/cat01/shop5045/DS10794973/"
+    },
+    {
+      "id": "DS10794967",
+      "keyword": "Fender",
+      "title": "Fender FSR Limited Edition American Vintage II 1966 Jazzmaster 3A Flame Neck -Black-【3.85kg】",
+      "price": 418000,
+      "url": "https://www.digimart.net/cat01/shop5045/DS10794967/"
+    },
+    {
+      "id": "DS10794965",
+      "keyword": "Fender",
+      "title": "Fender FSR Limited Edition American Vintage II 1966 Jazzmaster 3A Flame Neck -Black-【3.72kg】",
+      "price": 418000,
+      "url": "https://www.digimart.net/cat01/shop5045/DS10794965/"
+    },
+    {
+      "id": "DS10794955",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 【中古】 エレキギター Fender Custom Shop 1960 Stratocaster Olympic White Relic 2007年製",
+      "price": 478000,
+      "url": "https://www.digimart.net/cat01/shop1000/DS10794955/"
     }
   ],
   "errors": [],
@@ -124,7 +320,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 182,
+      "qualifying": 180,
       "page_stats": [
         {
           "page": 1,
@@ -168,7 +364,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 222,
+      "qualifying": 225,
       "page_stats": [
         {
           "page": 1,
@@ -210,9 +406,9 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 298,
-      "parsed": 298,
-      "qualifying": 29,
+      "links": 294,
+      "parsed": 294,
+      "qualifying": 49,
       "page_stats": [
         {
           "page": 1,
@@ -224,7 +420,7 @@
           "page": 2,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=&readCount=50&noparallelimportp=&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=&soldoutDispCheck=false&tagWords=&dmsP=&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=&neckScaleOption=&tagWordsNot=&freeshippingp=&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=&pickupOption=&movieurlp=&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=&brandIdNot=&ecCardP=&ecpurchasep=&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=&fingerboardOption=&noshopsalep=&currentPage=2&shopNo=&stringsoption=&categoryId=&shopsalep=&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 47
         },
         {
           "page": 3,
@@ -248,7 +444,7 @@
           "page": 6,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=6&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 48
+          "unique_added": 47
         }
       ]
     },
@@ -300,7 +496,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 119,
+      "qualifying": 120,
       "page_stats": [
         {
           "page": 1,
@@ -393,6 +589,6 @@
       ]
     }
   },
-  "collected": 896,
-  "seen_count": 2674
+  "collected": 918,
+  "seen_count": 2712
 }
