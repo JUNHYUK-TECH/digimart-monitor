@@ -1,21 +1,21 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-08T13:46:09.931530+00:00",
+  "checked_at": "2026-10-08T14:46:30.045549+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10794359",
-      "keyword": "Fender",
-      "title": "Fender American Ultra II Jazz Bass -Ultraburst-【4.26kg】【ギグバックプレゼント】",
-      "price": 396000,
-      "url": "https://www.digimart.net/cat03/shop5452/DS10794359/"
+      "id": "DS10795664",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 【試奏動画あり】Hata Motohiro J-45 Heritage Cherry Sunburst #23225058【限定生産品】",
+      "price": 871200,
+      "url": "https://www.digimart.net/cat02/shop5011/DS10795664/"
     },
     {
-      "id": "DS10794348",
-      "keyword": "Fender",
-      "title": "Fender American Ultra II Jazz Bass V / Sinister Red【5弦】【4.54kg】",
-      "price": 407000,
-      "url": "https://www.digimart.net/cat03/shop5452/DS10794348/"
+      "id": "DS10795222",
+      "keyword": "Gibson",
+      "title": "Gibson 1961 J-45",
+      "price": 792000,
+      "url": "https://www.digimart.net/cat02/shop4360/DS10795222/"
     }
   ],
   "errors": [],
@@ -68,7 +68,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 153,
+      "qualifying": 155,
       "page_stats": [
         {
           "page": 1,
@@ -112,7 +112,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 227,
+      "qualifying": 226,
       "page_stats": [
         {
           "page": 1,
@@ -337,6 +337,6 @@
       ]
     }
   },
-  "collected": 890,
-  "seen_count": 2768
+  "collected": 891,
+  "seen_count": 2770
 }
