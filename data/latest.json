@@ -1,14 +1,77 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-08T07:44:37.865213+00:00",
+  "checked_at": "2026-10-08T08:45:04.952667+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10794534",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 【2007年製中古】Vintage Stratocaster Blonde ≒3.73kg",
-      "price": 648000,
-      "url": "https://www.digimart.net/cat01/shop169/DS10794534/"
+      "id": "DS10794285",
+      "keyword": "Gibson",
+      "title": "Gibson 【クロサワ横浜店】【当時の限定カラーモデル!】J-45 M HCS【48回無金利分割可能】",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat02/shop175/DS10794285/"
+    },
+    {
+      "id": "DS10794825",
+      "keyword": "Gibson",
+      "title": "Gibson 【セカンド品】SG Standard '61 ~Classic White~ #233650064 【2.835kg】【軽量】",
+      "price": 249700,
+      "url": "https://www.digimart.net/cat01/shop26/DS10794825/"
+    },
+    {
+      "id": "DS10794740",
+      "keyword": "Gibson",
+      "title": "Gibson Hummingbird MVS 2001年製",
+      "price": 358000,
+      "url": "https://www.digimart.net/cat02/shop5452/DS10794740/"
+    },
+    {
+      "id": "DS10794734",
+      "keyword": "Gibson",
+      "title": "Gibson 1960s J-45 Original Ebony 【梅田店】",
+      "price": 357500,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10794734/"
+    },
+    {
+      "id": "DS10794720",
+      "keyword": "Gibson",
+      "title": "Gibson 【チョイキズ特価】Exclusive Les Paul Standard '50s \"Custom Shop Top\" #214760072 【4.06kg】",
+      "price": 412500,
+      "url": "https://www.digimart.net/cat01/shop26/DS10794720/"
+    },
+    {
+      "id": "DS10794712",
+      "keyword": "Gibson",
+      "title": "Gibson 2006 Limited Edition Les Paul Standard Pacific Reef 【新宿店】",
+      "price": 297000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10794712/"
+    },
+    {
+      "id": "DS10794721",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2026 Ishibashi Exclusive SE Custom 24 Quilt Package Peacock Blue 【梅田店】",
+      "price": 156428,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10794721/"
+    },
+    {
+      "id": "DS10794719",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2026 Ishibashi Exclusive SE Custom 24 Quilt Package Peacock Blue 【梅田店】",
+      "price": 156428,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10794719/"
+    },
+    {
+      "id": "DS10794717",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2026 Ishibashi Exclusive SE Custom 24 Quilt Package Dark Whale Blue 【梅田店】",
+      "price": 156428,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10794717/"
+    },
+    {
+      "id": "DS10794716",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2026 Ishibashi Exclusive SE Custom 24 Quilt Package Dark Whale Blue 【梅田店】",
+      "price": 156428,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10794716/"
     }
   ],
   "errors": [],
@@ -61,7 +124,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 181,
+      "qualifying": 182,
       "page_stats": [
         {
           "page": 1,
@@ -105,7 +168,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 218,
+      "qualifying": 222,
       "page_stats": [
         {
           "page": 1,
@@ -147,9 +210,9 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 295,
-      "parsed": 295,
-      "qualifying": 32,
+      "links": 298,
+      "parsed": 298,
+      "qualifying": 29,
       "page_stats": [
         {
           "page": 1,
@@ -173,7 +236,7 @@
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 45
+          "unique_added": 50
         },
         {
           "page": 5,
@@ -185,7 +248,7 @@
           "page": 6,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=6&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 48
         }
       ]
     },
@@ -330,6 +393,6 @@
       ]
     }
   },
-  "collected": 894,
-  "seen_count": 2664
+  "collected": 896,
+  "seen_count": 2674
 }
