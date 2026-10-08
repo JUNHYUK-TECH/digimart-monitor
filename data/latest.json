@@ -1,42 +1,70 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-08T04:43:35.033289+00:00",
+  "checked_at": "2026-10-08T05:42:43.158772+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10794224",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24 Semi-Hollow Piezo (Lake Blue) 2025年製",
-      "price": 189200,
-      "url": "https://www.digimart.net/cat01/shop3660/DS10794224/"
+      "id": "DS10794343",
+      "keyword": "Gibson",
+      "title": "Gibson 【動画有り】Les Paul Standard '50s Plain Top Bourbon Burst #233650223【4.39kg】",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat01/shop170/DS10794343/"
     },
     {
-      "id": "DS10794216",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24 / Blue Matteo (2025年製)",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop3660/DS10794216/"
+      "id": "DS10794276",
+      "keyword": "Gibson",
+      "title": "Gibson 【動画有り】Les Paul Standard '60s Mahogany Top Vintage Cherry #218260183【4.25kg】",
+      "price": 341000,
+      "url": "https://www.digimart.net/cat01/shop170/DS10794276/"
     },
     {
-      "id": "DS10793968",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24 -Sapphire-#CTI H070288【3.44kg】",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10793968/"
+      "id": "DS10794268",
+      "keyword": "Gibson",
+      "title": "Gibson 【動画有り】【アウトレット品】Les Paul Standard '50s Gold Top #205660321【4.57kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop170/DS10794268/"
     },
     {
-      "id": "DS10794069",
+      "id": "DS10794017",
+      "keyword": "Gibson",
+      "title": "Gibson 【クロサワ横浜店】Hummingbird Special Satin Vintage Cherry Sunburst #22096074【48回無金利分割可能】",
+      "price": 273000,
+      "url": "https://www.digimart.net/cat02/shop175/DS10794017/"
+    },
+    {
+      "id": "DS10794265",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Historic Collection 1959 Les Paul Standard VOS Dirty Lemon \"Transition Burst\" -2013- 【御茶ノ水本店F",
+      "price": 880000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10794265/"
+    },
+    {
+      "id": "DS10794038",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 【ピエゾ搭載】 SE Hollowbody II Piezo Orange Tiger Smokeburst- 2026年製#CTCI04092【2.80kg】",
+      "price": 254584,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10794038/"
+    },
+    {
+      "id": "DS10794034",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Hollowbody II Piezo Vintage Sunburst - 2026年製#CTCI03962【2.74kg】",
+      "price": 254584,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10794034/"
+    },
+    {
+      "id": "DS10794353",
       "keyword": "Fender",
-      "title": "Fender Custom Shop 1954 Stratocaster 2Tone Sunburst 1997年製【3.29kg】【フレイムメイプルネック】",
-      "price": 440000,
-      "url": "https://www.digimart.net/cat01/shop26/DS10794069/"
+      "title": "Fender Custom Shop 1955 Telecaster NOS Aged White Blonde Gols Hardware",
+      "price": 528000,
+      "url": "https://www.digimart.net/cat01/shop5333/DS10794353/"
     },
     {
-      "id": "DS10794031",
+      "id": "DS10794327",
       "keyword": "Fender",
-      "title": "Fender American Vintage II 1966 Jazzmaster 3-Color Sunburst 【3.61kg】【V2554324】",
-      "price": 435600,
-      "url": "https://www.digimart.net/cat01/shop170/DS10794031/"
+      "title": "Fender American Professional Classic Precision Bass Faded Lake Placid Blue",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat03/shop4898/DS10794327/"
     }
   ],
   "errors": [],
@@ -359,5 +387,5 @@
     }
   },
   "collected": 896,
-  "seen_count": 2636
+  "seen_count": 2645
 }
