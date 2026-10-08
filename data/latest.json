@@ -1,23 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-08T14:46:30.045549+00:00",
+  "checked_at": "2026-10-08T15:45:00.138460+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10795664",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 【試奏動画あり】Hata Motohiro J-45 Heritage Cherry Sunburst #23225058【限定生産品】",
-      "price": 871200,
-      "url": "https://www.digimart.net/cat02/shop5011/DS10795664/"
-    },
-    {
-      "id": "DS10795222",
-      "keyword": "Gibson",
-      "title": "Gibson 1961 J-45",
-      "price": 792000,
-      "url": "https://www.digimart.net/cat02/shop4360/DS10795222/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -156,7 +141,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 46,
+      "qualifying": 45,
       "page_stats": [
         {
           "page": 1,
@@ -337,6 +322,6 @@
       ]
     }
   },
-  "collected": 891,
+  "collected": 890,
   "seen_count": 2770
 }
