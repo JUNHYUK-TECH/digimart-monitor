@@ -1,217 +1,154 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-08T10:48:54.339595+00:00",
+  "checked_at": "2026-10-08T11:43:14.239899+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10795347",
-      "keyword": "Tyler",
-      "title": "James Tyler Japan Studio Elite HD-P Rear Rout Alder / Rosewood Candy Jimburst",
-      "price": 440000,
-      "url": "https://www.digimart.net/cat01/shop4540/DS10795347/"
-    },
-    {
-      "id": "DS10795468",
+      "id": "DS10795599",
       "keyword": "Gibson",
-      "title": "Gibson SG Standard (Heritage Cherry) 【S/N 218960259】",
-      "price": 224400,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10795468/"
-    },
-    {
-      "id": "DS10795466",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 60s Plain Top (Classic White) 【S/N 220160156】",
-      "price": 323400,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10795466/"
-    },
-    {
-      "id": "DS10795417",
-      "keyword": "Gibson",
-      "title": "Gibson J-160E Original Vintage Sunburst ≪S/N:22226022≫ 【心斎橋店】",
-      "price": 495000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10795417/"
-    },
-    {
-      "id": "DS10795416",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 Standard Vintage Sunburst with HiFi DNA ≪S/N:22176088≫ 【心斎橋店】",
+      "title": "Gibson L-00 Original with HiFi DNA Vintage Sunburst【渋谷店】",
       "price": 379500,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10795416/"
+      "url": "https://www.digimart.net/cat02/shop1484/DS10795599/"
     },
     {
-      "id": "DS10795414",
+      "id": "DS10795598",
       "keyword": "Gibson",
-      "title": "Gibson J-45 Standard Vintage Sunburst with HiFi DNA ≪S/N:22166138≫ 【心斎橋店】",
+      "title": "Gibson Hummingbird Standard with HiFi DNA Vintage Cherry Sunburst【渋谷店】",
+      "price": 473000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10795598/"
+    },
+    {
+      "id": "DS10795597",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 Standard with HiFi DNA Vintage Sunburst【渋谷店】",
       "price": 379500,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10795414/"
+      "url": "https://www.digimart.net/cat02/shop1484/DS10795597/"
     },
     {
-      "id": "DS10795383",
+      "id": "DS10795591",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Murphy Lab 1942 Banner J-45 Light Aged, Ebony Top #22505001",
-      "price": 898000,
-      "url": "https://www.digimart.net/cat02/shop4540/DS10795383/"
+      "title": "Gibson Hummingbird Original with HiFi DNA Heritage Sunburst ≪S/N:22326066≫ 【心斎橋店】",
+      "price": 473000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10795591/"
     },
     {
-      "id": "DS10795300",
+      "id": "DS10795587",
       "keyword": "Gibson",
-      "title": "Gibson 【試奏動画あり】Pete Townshend SJ-200 Limited '04【極上バリトラ杢・ブライトで音抜けの良いサウンド】",
-      "price": 698000,
-      "url": "https://www.digimart.net/cat02/shop5011/DS10795300/"
+      "title": "Gibson Les Paul Future Tribute 【渋谷店】",
+      "price": 154000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10795587/"
     },
     {
-      "id": "DS10795306",
+      "id": "DS10795555",
       "keyword": "Gibson",
-      "title": "Gibson 【2015年製】Donovan 1965 J-45 Cherry Sunburst #11685070【USED】",
-      "price": 548000,
-      "url": "https://www.digimart.net/cat02/shop5045/DS10795306/"
+      "title": "Gibson 【美品中古・軽量個体】Les Paul Special / TV Yellow [3.18kg] 2025年製 3F",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat01/shop169/DS10795555/"
     },
     {
-      "id": "DS10795305",
+      "id": "DS10795550",
       "keyword": "Gibson",
-      "title": "Gibson 【動画有り】【リアルトップ】Les Paul Standard '60s Barbon Burst #231650129【4.01kg】",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop170/DS10795305/"
+      "title": "Gibson J-45 Special Satin Vintage Sunburst ≪S/N:22396119≫ 【心斎橋店】",
+      "price": 239800,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10795550/"
     },
     {
-      "id": "DS10775470",
+      "id": "DS10795549",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1960 Les Paul Standard Reissue VOS Washed Cherry Sunburst",
-      "price": 828000,
-      "url": "https://www.digimart.net/cat01/shop440/DS10775470/"
+      "title": "Gibson Hummingbird Special Satin Vintage Cherry Sunburst ≪S/N:22376066≫ 【心斎橋店】",
+      "price": 261800,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10795549/"
     },
     {
-      "id": "DS10794432",
+      "id": "DS10795548",
       "keyword": "Gibson",
-      "title": "Gibson Flood Les Paul Studio【尾張小牧店】",
-      "price": 278000,
-      "url": "https://www.digimart.net/cat01/shop5023/DS10794432/"
+      "title": "Gibson Hummingbird Special Satin Vintage Cherry Sunburst ≪S/N:22326106≫ 【心斎橋店】",
+      "price": 261800,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10795548/"
     },
     {
-      "id": "DS10795232",
+      "id": "DS10795345",
       "keyword": "Gibson",
-      "title": "Gibson 【動画有り】【最新2026年製】Les Paul Standard '50s Gold Top #210360060【4.46kg】",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop170/DS10795232/"
+      "title": "Gibson Les Paul Studio",
+      "price": 148000,
+      "url": "https://www.digimart.net/cat01/shop5450/DS10795345/"
     },
     {
-      "id": "DS10795216",
+      "id": "DS10795386",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1959 Les Paul Standard Reissue Gloss Factory Burst",
-      "price": 935000,
-      "url": "https://www.digimart.net/cat01/shop4921/DS10795216/"
+      "title": "Gibson Gibson Les Paul Traditional Goldtop",
+      "price": 268000,
+      "url": "https://www.digimart.net/cat01/shop5450/DS10795386/"
     },
     {
-      "id": "DS10787461",
-      "keyword": "Gibson",
-      "title": "Gibson B-25 Natural / Circa1968",
-      "price": 506000,
-      "url": "https://www.digimart.net/cat02/shop5392/DS10787461/"
-    },
-    {
-      "id": "DS10795421",
+      "id": "DS10795596",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 Ishibashi Exclusive SE Custom 24 Quilt Package Peacock Blue 【横浜店】【S/N:CTI I026542】【3.50",
-      "price": 156428,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10795421/"
+      "title": "Paul Reed Smith(PRS) 2026 Custom 24 10 Top River Blue Pearl【渋谷店】",
+      "price": 746592,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10795596/"
     },
     {
-      "id": "DS10795420",
+      "id": "DS10795595",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 Ishibashi Exclusive SE Custom 24 Quilt Package Peacock Blue 【横浜店】【S/N:CTI I027886】【3.44",
-      "price": 156428,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10795420/"
+      "title": "Paul Reed Smith(PRS) 2026 Custom 24 10 Top River Blue Pearl【渋谷店】",
+      "price": 746592,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10795595/"
     },
     {
-      "id": "DS10795419",
+      "id": "DS10795381",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 Ishibashi Exclusive SE Custom 24 Quilt Package Black Cherry 【横浜店】【S/N:CTI I027771】【3.53",
-      "price": 156428,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10795419/"
+      "title": "Paul Reed Smith(PRS) S2 Vela HHT Black Rainbow Holoflake 2026",
+      "price": 293040,
+      "url": "https://www.digimart.net/cat01/shop1220/DS10795381/"
     },
     {
-      "id": "DS10795418",
+      "id": "DS10795262",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 Ishibashi Exclusive SE Custom 24 Quilt Package Black Cherry 【横浜店】【S/N:CTI I024160】【3.52",
-      "price": 156428,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10795418/"
+      "title": "Paul Reed Smith(PRS) Astryx Limited Edition/Dany Villarreal Signature Ocaso (Sunset) 2026",
+      "price": 990000,
+      "url": "https://www.digimart.net/cat01/shop1220/DS10795262/"
     },
     {
-      "id": "DS10795384",
+      "id": "DS10795047",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24 Quilt Pakage H1 ~Charcoal Purple Burst~ #CTI H087896 [3.42kg][2025年製][NEWカラー]",
-      "price": 154880,
-      "url": "https://www.digimart.net/cat01/shop169/DS10795384/"
-    },
-    {
-      "id": "DS10795382",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Wood Library Custom 24 10Top Stained Maple Neck -Laguna-【Japan Exclusive】【ハイエンドフロア】",
+      "title": "Paul Reed Smith(PRS) Wood Library Custom 24 10Top Laguna Japan Exclusive 2026",
       "price": 897600,
-      "url": "https://www.digimart.net/cat01/shop38/DS10795382/"
+      "url": "https://www.digimart.net/cat01/shop1220/DS10795047/"
     },
     {
-      "id": "DS10795337",
+      "id": "DS10795499",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24 BN ~Blue Matteo~ #CTI H0289530 [3.42kg][2025年製]",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop169/DS10795337/"
+      "title": "Paul Reed Smith(PRS) SE Custom 24 Quilt Pakage C1 ~Charcoal Blue Burst~ #CTI I013728 [3.56kg][2026年製][激杢個体]",
+      "price": 154880,
+      "url": "https://www.digimart.net/cat01/shop169/DS10795499/"
     },
     {
-      "id": "DS10795333",
+      "id": "DS10795491",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Custom 24 10TOP -River Blue Pearl- 2026【超美麗トップ!】【おすすめ個体】【ハイエンドフロア】",
+      "title": "Paul Reed Smith(PRS) Custom 24 10TOP -Faded Whale Blue- 2026【おすすめ個体】【ハイエンドフロア】",
       "price": 739200,
-      "url": "https://www.digimart.net/cat01/shop38/DS10795333/"
+      "url": "https://www.digimart.net/cat01/shop38/DS10795491/"
     },
     {
-      "id": "DS10795296",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24 GS ~Faded Grey Black Burst~ #CTI I026718 [3.58kg][2026年製]",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop169/DS10795296/"
-    },
-    {
-      "id": "DS10795195",
-      "keyword": "PRS",
-      "title": "PRS(Paul Reed Smith) SE CE 24 Maple Fingerboard 2025 Teal Black 3.465kg #H067803【TONIQ横浜】",
-      "price": 109384,
-      "url": "https://www.digimart.net/cat01/shop5401/DS10795195/"
-    },
-    {
-      "id": "DS10795411",
+      "id": "DS10795559",
       "keyword": "Fender",
-      "title": "Fender AMERICAN ACOUSTASONIC TELECASTER Natural ≪S/N:US253779A≫ 【2NDアウトレット】【心斎橋店】",
-      "price": 229800,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10795411/"
+      "title": "Fender American Professional II Stratocaster Black 【実機写真】【重量約3.57kg】",
+      "price": 291500,
+      "url": "https://www.digimart.net/cat01/shop5272/DS10795559/"
     },
     {
-      "id": "DS10795440",
+      "id": "DS10795521",
       "keyword": "Fender",
-      "title": "Fender American Professional Classic Hotshot Telecaster Faded Sherwood Green Metallic",
+      "title": "Fender Ltd Ed American Professional Classic Stratocaster featuring the Fender Silent System 3CS",
+      "price": 258500,
+      "url": "https://www.digimart.net/cat01/shop2340/DS10795521/"
+    },
+    {
+      "id": "DS10795501",
+      "keyword": "Fender",
+      "title": "Fender Made in Japan Artist Deluxe Jazz Bass V KAZUKI ARAI Black 【2026年11月入荷予定】【ご予約受付中】",
       "price": 264000,
-      "url": "https://www.digimart.net/cat01/shop2340/DS10795440/"
-    },
-    {
-      "id": "DS10795201",
-      "keyword": "Fender",
-      "title": "Fender American Vintage II 1966 Jazz Bass Rosewood 3-Color Sunburst 《特典付き》 [4.35kg]【V2559414】【池",
-      "price": 398000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10795201/"
-    },
-    {
-      "id": "DS10795199",
-      "keyword": "Fender",
-      "title": "Fender American Ultra Jazz Bass Rosewood Ultraburstウルトラ [4.27kg]【US24004701】【池袋店】",
-      "price": 305400,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10795199/"
-    },
-    {
-      "id": "DS10795332",
-      "keyword": "Fractal",
-      "title": "FRACTAL AUDIO SYSTEMS AM4 / AMP MODELER【即納可能】",
-      "price": 176000,
-      "url": "https://www.digimart.net/cat13/shop2820/DS10795332/"
+      "url": "https://www.digimart.net/cat03/shop170/DS10795501/"
     }
   ],
   "errors": [],
@@ -264,7 +201,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 299,
-      "qualifying": 163,
+      "qualifying": 154,
       "page_stats": [
         {
           "page": 1,
@@ -308,7 +245,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 225,
+      "qualifying": 226,
       "page_stats": [
         {
           "page": 1,
@@ -533,6 +470,6 @@
       ]
     }
   },
-  "collected": 896,
-  "seen_count": 2742
+  "collected": 888,
+  "seen_count": 2763
 }
