@@ -1,91 +1,63 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-09T05:43:10.960462+00:00",
+  "checked_at": "2026-10-09T06:50:44.869673+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10796279",
+      "id": "DS10796644",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1942 Banner J-45 Heavy Aged Vintage Sunburst 2025 ~Pre-Owned~ 【クロサワ本店店頭在庫品】",
-      "price": 848000,
-      "url": "https://www.digimart.net/cat02/shop174/DS10796279/"
+      "title": "Gibson 2005 SG Special Ebony",
+      "price": 128000,
+      "url": "https://www.digimart.net/cat01/shop5330/DS10796644/"
     },
     {
-      "id": "DS10796232",
+      "id": "DS10796572",
       "keyword": "Gibson",
-      "title": "Gibson Hummingbird Standard Purple Burst ギブソン 【実物画像/未展示品】[S/N 21886035]",
-      "price": 473000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10796232/"
+      "title": "Gibson 60's J-45 Original Ebony Black #23145072 【現物動画あり】【柔軟性のあるサウンド!】【48回無金利】",
+      "price": 373000,
+      "url": "https://www.digimart.net/cat02/shop170/DS10796572/"
     },
     {
-      "id": "DS10796256",
+      "id": "DS10796459",
       "keyword": "Gibson",
-      "title": "Gibson Thunderbird IV BLK 2019年製 【返品OK】[VMR13]【箕面店在庫】",
-      "price": 228000,
-      "url": "https://www.digimart.net/cat03/shop3580/DS10796256/"
+      "title": "Gibson Limited Edition SG Reissue Bass Corona Yellow 2006 【御茶ノ水本店】",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10796459/"
     },
     {
-      "id": "DS10796375",
+      "id": "DS10796466",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Zach Myers -Myers Blue 24.594スケール【現物画像】",
-      "price": 135520,
-      "url": "https://www.digimart.net/cat01/shop5338/DS10796375/"
+      "title": "Paul Reed Smith(PRS) 2026 SE Custom24 Quilt Package -Peacock Blue-【3.56kg】[S/N CTII024646]【Ishibashi Exclusive】",
+      "price": 154880,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10796466/"
     },
     {
-      "id": "DS10796245",
+      "id": "DS10796465",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 SE Hollowbody I Piezo -LB- Lake Blue【2.97kg】[S/N CTII027380]",
-      "price": 193600,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10796245/"
+      "title": "Paul Reed Smith(PRS) 2026 SE Custom24 Quilt Package -Peacock Blue-【3.55kg】[S/N CTII024482]【Ishibashi Exclusive】",
+      "price": 154880,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10796465/"
     },
     {
-      "id": "DS10796287",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Custom Deluxe HB S-1 Stratocaster Relic A.Vintage White R142023【漆黒指板、EXPERIENCE出展品】",
-      "price": 734800,
-      "url": "https://www.digimart.net/cat01/shop175/DS10796287/"
+      "id": "DS10796464",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2026 SE Custom24 -GS- Faded Grey Black Burst【3.45kg】[S/N CTII026715]",
+      "price": 130680,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10796464/"
     },
     {
-      "id": "DS10796285",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 1969 Stratocaster Journeyman Relic Graffiti Yellow CZ586856【カラーオーダー品】",
-      "price": 734800,
-      "url": "https://www.digimart.net/cat01/shop175/DS10796285/"
+      "id": "DS10796422",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 35th Anniversary SE Custom 24-Faded Blue Burst- 2020年製 【Coil Tap !】【3.52kg】",
+      "price": 118000,
+      "url": "https://www.digimart.net/cat01/shop38/DS10796422/"
     },
     {
-      "id": "DS10796280",
+      "id": "DS10796557",
       "keyword": "Fender",
-      "title": "Fender Custom Shop 1961 Telecaster Heavy Relic Aged Olympic White CZ586481【6105フレット、漆黒指板、軽量3.29kg】",
-      "price": 825000,
-      "url": "https://www.digimart.net/cat01/shop175/DS10796280/"
-    },
-    {
-      "id": "DS10796264",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop NAMM LTD 1951 Nocaster Heavy Relic Black R143068【軽量3.07kg】",
-      "price": 833800,
-      "url": "https://www.digimart.net/cat01/shop175/DS10796264/"
-    },
-    {
-      "id": "DS10796261",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop LTD 1963 Telecaster J.Relic Tahitian Coral CZ581384【軽量3.31kg、漆黒指板個体】",
-      "price": 730400,
-      "url": "https://www.digimart.net/cat01/shop175/DS10796261/"
-    },
-    {
-      "id": "DS10796260",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 1963 Stratocaster Relic 3TS R141630【チョイ傷特価、特注モデル、漆黒指板個体】",
-      "price": 749100,
-      "url": "https://www.digimart.net/cat01/shop175/DS10796260/"
-    },
-    {
-      "id": "DS10796249",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 1960 Stratocaster J.Relic Aged Olympic White CZ578774【漆黒指板、3.49kg】",
-      "price": 792000,
-      "url": "https://www.digimart.net/cat01/shop175/DS10796249/"
+      "title": "Fender American Vintage '62 Stratocaster RW VWT 1991",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat01/shop5285/DS10796557/"
     }
   ],
   "errors": [],
@@ -136,9 +108,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 299,
+      "links": 298,
       "parsed": 298,
-      "qualifying": 157,
+      "qualifying": 142,
       "page_stats": [
         {
           "page": 1,
@@ -162,7 +134,7 @@
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Gibson&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 49
+          "unique_added": 50
         },
         {
           "page": 5,
@@ -174,7 +146,7 @@
           "page": 6,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Gibson&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=6&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 48
         }
       ]
     },
@@ -182,7 +154,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 233,
+      "qualifying": 234,
       "page_stats": [
         {
           "page": 1,
@@ -226,7 +198,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 70,
+      "qualifying": 67,
       "page_stats": [
         {
           "page": 1,
@@ -407,6 +379,6 @@
       ]
     }
   },
-  "collected": 922,
-  "seen_count": 2839
+  "collected": 905,
+  "seen_count": 2847
 }
