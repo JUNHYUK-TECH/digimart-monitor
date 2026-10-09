@@ -1,168 +1,49 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-09T02:41:44.111619+00:00",
+  "checked_at": "2026-10-09T03:43:47.550959+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10795823",
+      "id": "DS10796011",
       "keyword": "Gibson",
-      "title": "Gibson 【クロサワ横浜店】1942 Banner LG-2 Vintage Sunburst #22356018【48回無金利分割可能】",
-      "price": 585000,
-      "url": "https://www.digimart.net/cat02/shop175/DS10795823/"
-    },
-    {
-      "id": "DS10795778",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 美品!Historic Collection 1958 Les Paul Reissue Hand Selected Lightly Figured VOS Iced Tea Burst",
-      "price": 648000,
-      "url": "https://www.digimart.net/cat01/shop60/DS10795778/"
-    },
-    {
-      "id": "DS10795772",
-      "keyword": "Gibson",
-      "title": "Gibson ES-350T Limited Edition 1992 3.385kg #93252460【委託品】【TONIQ横浜】",
+      "title": "Gibson Custom Shop Peter Frampton \"Phenix\" Inspired Les Paul Custom VOS Ebony #CS503863【軽量4.18kg】【即納可能!】",
       "price": 880000,
-      "url": "https://www.digimart.net/cat01/shop5401/DS10795772/"
+      "url": "https://www.digimart.net/cat01/shop175/DS10796011/"
     },
     {
-      "id": "DS10795792",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2025 SE Custom24 Quilt -SA- Sapphire【3.63kg】[S/N CTIH087845]",
-      "price": 140360,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10795792/"
+      "id": "DS10796009",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard '60s Faded Vintage Bourbon Burst #221050063【漆黒指板個体、4.17kg】",
+      "price": 297000,
+      "url": "https://www.digimart.net/cat01/shop175/DS10796009/"
     },
     {
-      "id": "DS10795791",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2025 SE Custom24 Floyd -CA- Charcoal Burst【3.58kg】[S/N CTIH070914]",
-      "price": 181848,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10795791/"
+      "id": "DS10796005",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard '60s Bourbon Burst #219340274【チョイ傷特価、漆黒指板個体、4.39kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop175/DS10796005/"
     },
     {
-      "id": "DS10795790",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2025 SE CE24 Maple Fretboard -TE- Teal Black (Natural Back)【3.40kg】[S/N CTIH066913]",
-      "price": 109384,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10795790/"
+      "id": "DS10795997",
+      "keyword": "Gibson",
+      "title": "Gibson Ripper Bass Cherry Sunburst 【御茶ノ水本店】",
+      "price": 398000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10795997/"
     },
     {
-      "id": "DS10795789",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2025 SE Custom24 Quilt -BF- Blue Fade【3.50kg】[S/N CTIH033098]",
-      "price": 140360,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10795789/"
+      "id": "DS10795987",
+      "keyword": "Gibson",
+      "title": "Gibson 1968 J-45 2006年製",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat02/shop4704/DS10795987/"
     },
     {
-      "id": "DS10795852",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop B3 65 TELECASTER CUSTOM Heavy Relic -Aged Sherwood Green Metallic- #CZ578027 ≒3.42kg【渋谷店】",
-      "price": 972400,
-      "url": "https://www.digimart.net/cat01/shop5141/DS10795852/"
-    },
-    {
-      "id": "DS10795851",
-      "keyword": "Fender",
-      "title": "Fender American Vintage II 1966 Jazzmaster RW 3-Color Sunburst【大バーゲンセール！】",
-      "price": 407000,
-      "url": "https://www.digimart.net/cat01/shop3400/DS10795851/"
-    },
-    {
-      "id": "DS10795850",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 【傷アリ特価!】Limited 1954 Blackguard Telecaster NOS - Nocaster Blonde - ≒3.21kg【渋谷店】",
-      "price": 680900,
-      "url": "https://www.digimart.net/cat01/shop5141/DS10795850/"
-    },
-    {
-      "id": "DS10795846",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 1964 Jaguar Journeyman Relic Faded Aged Shoreline Gold ≒3.88kg【渋谷店】",
-      "price": 924000,
-      "url": "https://www.digimart.net/cat01/shop5141/DS10795846/"
-    },
-    {
-      "id": "DS10795845",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 2025 T. Machine 1955 Telecaster Journeyman Relic Super Aged Natural Blonde #CZ586406【渋谷店】",
-      "price": 763400,
-      "url": "https://www.digimart.net/cat01/shop5141/DS10795845/"
-    },
-    {
-      "id": "DS10795843",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Time Machine 1961 Telecaster Heavy Relic Faded Aged Candy Apple Red ≒3.44kg【渋谷店】",
-      "price": 825000,
-      "url": "https://www.digimart.net/cat01/shop5141/DS10795843/"
-    },
-    {
-      "id": "DS10795841",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Fender Custom Shop Fender C/S 1961 Telecaster Heavy Relic ALPB #CZ565804【渋谷店】",
-      "price": 831600,
-      "url": "https://www.digimart.net/cat01/shop5141/DS10795841/"
-    },
-    {
-      "id": "DS10795835",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 【2025年モデル】Time Machine 1961 Telecaster Heavy Relic Faded Aged Candy Apple Red ≒3.44kg",
-      "price": 825000,
-      "url": "https://www.digimart.net/cat01/shop60/DS10795835/"
-    },
-    {
-      "id": "DS10795830",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop F24 Limited 1954 Blackguard Telecaster New Old Stock - Nocaster Blonde - ≒3.21kg #R142623",
-      "price": 680900,
-      "url": "https://www.digimart.net/cat01/shop60/DS10795830/"
-    },
-    {
-      "id": "DS10795829",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 【軽量3.03kg】2025 T. Machine 1955 Telecaster Journeyman Relic Super Aged Natural Blonde #CZ586406",
-      "price": 763400,
-      "url": "https://www.digimart.net/cat01/shop60/DS10795829/"
-    },
-    {
-      "id": "DS10795828",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop B3 65 TELECASTER CUSTOM Heavy Relic -Aged Sherwood Green Metallic- #CZ578027 ≒3.42kg",
-      "price": 972400,
-      "url": "https://www.digimart.net/cat01/shop60/DS10795828/"
-    },
-    {
-      "id": "DS10795827",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 【漆黒指板】1964 Jaguar Journeyman Relic Faded Aged Shoreline Gold ≒3.88kg【新品】",
-      "price": 924000,
-      "url": "https://www.digimart.net/cat01/shop60/DS10795827/"
-    },
-    {
-      "id": "DS10795825",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Fender C/S 1961 Telecaster Heavy Relic ALPB #CZ565804",
-      "price": 831600,
-      "url": "https://www.digimart.net/cat01/shop60/DS10795825/"
-    },
-    {
-      "id": "DS10795808",
-      "keyword": "Fender",
-      "title": "Fender American Ultra II Jazz Bass Ebony Fingerboard Texas Tea【大バーゲンセール！】",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat03/shop3400/DS10795808/"
-    },
-    {
-      "id": "DS10795806",
-      "keyword": "Fender",
-      "title": "Fender Deluxe Jazz Bass V Kazuki Arai Edition Black【大バーゲンセール！】",
-      "price": 264000,
-      "url": "https://www.digimart.net/cat03/shop3400/DS10795806/"
-    },
-    {
-      "id": "DS10795805",
-      "keyword": "Fender",
-      "title": "Fender American Vintage II 1966 Jazz Bass RW 3-Color Sunburst【大バーゲンセール！】",
-      "price": 396000,
-      "url": "https://www.digimart.net/cat03/shop3400/DS10795805/"
+      "id": "DS10795974",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Standard Historic 1957 Les Paul Reissue Gold Top 2016",
+      "price": 639000,
+      "url": "https://www.digimart.net/cat01/shop700/DS10795974/"
     }
   ],
   "errors": [],
@@ -213,9 +94,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 300,
-      "parsed": 299,
-      "qualifying": 157,
+      "links": 299,
+      "parsed": 298,
+      "qualifying": 155,
       "page_stats": [
         {
           "page": 1,
@@ -233,7 +114,7 @@
           "page": 3,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Gibson&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=3&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 4,
@@ -484,6 +365,6 @@
       ]
     }
   },
-  "collected": 909,
-  "seen_count": 2793
+  "collected": 907,
+  "seen_count": 2799
 }
