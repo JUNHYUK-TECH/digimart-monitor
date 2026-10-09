@@ -1,8 +1,27 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-08T23:56:53.908818+00:00",
+  "checked_at": "2026-10-09T01:07:11.784313+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "g1247629930",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop SJ-200 2015 ギブソン カスタムショップ スーパージャンボ SJ-200 厳選素材の名器 即決 748,000円 送料未定 0 6日",
+      "price": 748000,
+      "buyout": 748000,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/g1247629930"
+    },
+    {
+      "id": "1234010642",
+      "keyword": "Gibson",
+      "title": "Gibson ギブソン Les Paul Special PILOT RUN 2018 レスポール スペシャル Gibson Custom 即決 399,700円 22時56分に終了",
+      "price": 399700,
+      "buyout": 399700,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/1234010642"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -20,20 +39,20 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=51&n=50&s1=new&o1=d",
-          "links": 62,
-          "unique_added": 40
+          "links": 63,
+          "unique_added": 41
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=101&n=50&s1=new&o1=d",
-          "links": 66,
+          "links": 65,
           "unique_added": 39
         },
         {
           "page": 4,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Tyler&b=151&n=50&s1=new&o1=d",
-          "links": 64,
-          "unique_added": 48
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=151&n=50&s1=new&o1=d",
+          "links": 63,
+          "unique_added": 47
         },
         {
           "page": 5,
@@ -51,38 +70,38 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 296,
-      "parsed": 296,
-      "qualifying": 58,
+      "links": 298,
+      "parsed": 298,
+      "qualifying": 60,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 70
+          "links": 71,
+          "unique_added": 71
         },
         {
           "page": 2,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 67,
+          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=51&n=50&s1=new&o1=d",
+          "links": 68,
           "unique_added": 45
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 71,
-          "unique_added": 49
+          "links": 73,
+          "unique_added": 50
         },
         {
           "page": 4,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 64,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
+          "links": 65,
           "unique_added": 42
         },
         {
           "page": 5,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 69,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
+          "links": 70,
           "unique_added": 47
         },
         {
@@ -108,9 +127,9 @@
       ]
     },
     "Fender": {
-      "pages": 6,
-      "links": 284,
-      "parsed": 284,
+      "pages": 2,
+      "links": 99,
+      "parsed": 99,
       "qualifying": 0,
       "page_stats": [
         {
@@ -122,32 +141,8 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 3,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=151&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 47
-        },
-        {
-          "page": 5,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=201&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 45
-        },
-        {
-          "page": 6,
-          "url": "https://auctions.yahoo.co.jp/opensearch?p=Fender&b=251&n=50&s1=new&o1=d",
           "links": 49,
-          "unique_added": 42
+          "unique_added": 49
         }
       ]
     },
@@ -208,6 +203,6 @@
       ]
     }
   },
-  "collected": 78,
-  "seen_count": 599
+  "collected": 80,
+  "seen_count": 601
 }
