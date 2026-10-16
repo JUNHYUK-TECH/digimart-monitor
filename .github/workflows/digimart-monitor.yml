@@ -88,10 +88,20 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add data/seen.json data/latest.json
           if ! git diff --cached --quiet; then
-            git commit -m "Update Digimart monitor state"
-            git fetch origin main
-            git rebase origin/main
-            git push
+            git commit -m "Update Digimart monitor state [skip ci]"
+            for attempt in 1 2 3 4 5; do
+              git fetch origin main
+              # Monitoring state is a generated snapshot, not source code.
+              # Retain this run's generated snapshot if main changed concurrently.
+              if git rebase -X ours origin/main && git push origin HEAD:main; then
+                echo "Monitor state saved."
+                exit 0
+              fi
+              git rebase --abort 2>/dev/null || true
+              sleep 3
+            done
+            echo "Could not save monitor state after retries."
+            exit 1
           else
             echo "No monitor state changes to save."
           fi
