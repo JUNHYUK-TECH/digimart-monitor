@@ -1,8 +1,16 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-16T15:01:47.124787+00:00",
+  "checked_at": "2026-10-16T16:00:37.059386+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10812879",
+      "keyword": "Fender",
+      "title": "Fender 2004 American Vintage '62 Jazz Bass (3-Color Sunburst) [USED]",
+      "price": 249800,
+      "url": "https://www.digimart.net/cat03/shop5451/DS10812879/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -141,7 +149,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 97,
+      "qualifying": 98,
       "page_stats": [
         {
           "page": 1,
@@ -185,7 +193,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 185,
+      "qualifying": 183,
       "page_stats": [
         {
           "page": 1,
@@ -291,8 +299,8 @@
     },
     "Fractal": {
       "pages": 4,
-      "links": 170,
-      "parsed": 170,
+      "links": 169,
+      "parsed": 169,
       "qualifying": 93,
       "page_stats": [
         {
@@ -316,12 +324,12 @@
         {
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
-          "links": 20,
-          "unique_added": 20
+          "links": 19,
+          "unique_added": 19
         }
       ]
     }
   },
-  "collected": 943,
-  "seen_count": 3325
+  "collected": 942,
+  "seen_count": 3326
 }
