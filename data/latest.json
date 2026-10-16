@@ -1,14 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-16T16:00:37.059386+00:00",
+  "checked_at": "2026-10-16T17:01:05.312879+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10812879",
+      "id": "DS10812880",
       "keyword": "Fender",
-      "title": "Fender 2004 American Vintage '62 Jazz Bass (3-Color Sunburst) [USED]",
-      "price": 249800,
-      "url": "https://www.digimart.net/cat03/shop5451/DS10812879/"
+      "title": "Fender Custom Shop 1963 Telecaster Relic Black",
+      "price": 550000,
+      "url": "https://www.digimart.net/cat01/shop4943/DS10812880/"
     }
   ],
   "errors": [],
@@ -149,7 +149,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 98,
+      "qualifying": 99,
       "page_stats": [
         {
           "page": 1,
@@ -330,6 +330,6 @@
       ]
     }
   },
-  "collected": 942,
-  "seen_count": 3326
+  "collected": 943,
+  "seen_count": 3327
 }
