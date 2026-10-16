@@ -288,6 +288,8 @@ def main():
         raise RuntimeError("\n".join(errors))
 
     new=[] if baseline else [x for x in uniq.values() if x["id"] not in seen]
+    # A product may match multiple keywords, but its listing ID is unique.
+    new=list({x["id"]:x for x in new}.values())
     seen.update(uniq)
     STATE.write_text(json.dumps(sorted(seen),ensure_ascii=False,indent=2),"utf-8")
     RESULT.write_text(json.dumps({
