@@ -1,79 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-16T12:07:09.579741+00:00",
+  "checked_at": "2026-10-16T12:21:58.879050+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10810090",
-      "keyword": "Gibson",
-      "title": "Gibson 335-S Reissue 2011年製",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat01/shop5155/DS10810090/"
-    },
-    {
-      "id": "DS10812254",
-      "keyword": "Fender",
-      "title": "Fender American Professional Precision Bass, Rosewood Fingerboard, Dark Night",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat03/shop5323/DS10812254/"
-    },
-    {
-      "id": "DS10812233",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster Maple Fingerboard Butterscotch Blonde 【名古屋栄店】",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10812233/"
-    },
-    {
-      "id": "DS10812231",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster Maple Fingerboard Aged Cherry Burst 【名古屋栄店】",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10812231/"
-    },
-    {
-      "id": "DS10812230",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster Maple Fingerboard 3-Color Sunburst 【名古屋栄店】",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10812230/"
-    },
-    {
-      "id": "DS10812228",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster Rosewood Fingerboard Black 【名古屋栄店】",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10812228/"
-    },
-    {
-      "id": "DS10812118",
-      "keyword": "Fender",
-      "title": "Fender American Professional Jaguar, Rosewood Fingerboard, Oxblood",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop5323/DS10812118/"
-    },
-    {
-      "id": "DS10812847",
-      "keyword": "Fender",
-      "title": "Fender American Standard Stratocaster Lefty 2012 3.585kg #US12038106 LH【TONIQ横浜】",
-      "price": 161700,
-      "url": "https://www.digimart.net/cat01/shop5401/DS10812847/"
-    },
-    {
-      "id": "DS10812205",
-      "keyword": "Helix",
-      "title": "LINE 6 HELIX LT ハイエンドデジタルマルチプロセッサー 【名古屋栄店】",
-      "price": 104800,
-      "url": "https://www.digimart.net/cat13/shop1484/DS10812205/"
-    },
-    {
-      "id": "DS10812197",
-      "keyword": "Fractal",
-      "title": "FRACTAL AUDIO SYSTEMS AM4 AMP MODELER アンプモデラー 【名古屋栄店】",
-      "price": 176000,
-      "url": "https://www.digimart.net/cat13/shop1484/DS10812197/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
