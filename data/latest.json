@@ -1,16 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-16T17:01:05.312879+00:00",
+  "checked_at": "2026-10-16T17:57:19.177421+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10812880",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 1963 Telecaster Relic Black",
-      "price": 550000,
-      "url": "https://www.digimart.net/cat01/shop4943/DS10812880/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
