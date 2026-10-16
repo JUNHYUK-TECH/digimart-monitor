@@ -1,23 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-16T13:13:50.253209+00:00",
+  "checked_at": "2026-10-16T14:04:38.227286+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10812188",
-      "keyword": "Tyler",
-      "title": "James Tyler Studio Elite 3Tone Sunburst 2019年製【3.58kg】【美品USED】",
-      "price": 968000,
-      "url": "https://www.digimart.net/cat01/shop26/DS10812188/"
-    },
-    {
-      "id": "DS10812297",
-      "keyword": "Gibson",
-      "title": "Gibson 【良杢個体】 Hummingbird Standard ~Purple Burst~",
-      "price": 477000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10812297/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
