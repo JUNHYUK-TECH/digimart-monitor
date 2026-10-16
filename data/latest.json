@@ -1,8 +1,16 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-16T22:57:14.660099+00:00",
+  "checked_at": "2026-10-16T23:50:03.037443+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10812883",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop J-45 Standard VOS ADIRON 2013年製",
+      "price": 348000,
+      "url": "https://www.digimart.net/cat02/shop5437/DS10812883/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -53,7 +61,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 139,
+      "qualifying": 140,
       "page_stats": [
         {
           "page": 1,
@@ -322,6 +330,6 @@
       ]
     }
   },
-  "collected": 943,
-  "seen_count": 3327
+  "collected": 944,
+  "seen_count": 3328
 }
