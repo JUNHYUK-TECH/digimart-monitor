@@ -1,23 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-17T19:49:45.083168+00:00",
+  "checked_at": "2026-10-17T20:53:09.796629+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10815050",
-      "keyword": "Fender",
-      "title": "Fender American Performer Jazzmaster",
-      "price": 148000,
-      "url": "https://www.digimart.net/cat01/shop3740/DS10815050/"
-    },
-    {
-      "id": "DS10815049",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster",
-      "price": 188000,
-      "url": "https://www.digimart.net/cat01/shop3740/DS10815049/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -244,7 +229,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 118,
+      "qualifying": 119,
       "page_stats": [
         {
           "page": 1,
@@ -337,6 +322,6 @@
       ]
     }
   },
-  "collected": 898,
+  "collected": 899,
   "seen_count": 3497
 }
