@@ -1,63 +1,70 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-17T02:58:11.351664+00:00",
+  "checked_at": "2026-10-17T03:59:15.931092+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10812973",
+      "id": "DS10813238",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop 2013 Historic Collection 1967 Flying V Japan Limited VOS (Silver Fox)",
-      "price": 547800,
-      "url": "https://www.digimart.net/cat01/shop87/DS10812973/"
+      "title": "Gibson Custom Shop SJ-200 Original Burgundy Mist #23495061 ~Greatest Hits Vol.��~【クロサワ本店店頭展示品】",
+      "price": 810000,
+      "url": "https://www.digimart.net/cat02/shop5141/DS10813238/"
     },
     {
-      "id": "DS10812957",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE SILVER SKY (Stone Blue) 2024年製",
-      "price": 135520,
-      "url": "https://www.digimart.net/cat01/shop3660/DS10812957/"
+      "id": "DS10813232",
+      "keyword": "Gibson",
+      "title": "Gibson Hummingbird Special #21976102 ~The Special Treatment Series~【クロサワ本店店頭在庫品】",
+      "price": 258000,
+      "url": "https://www.digimart.net/cat02/shop5141/DS10813232/"
     },
     {
-      "id": "DS10813048",
+      "id": "DS10813231",
+      "keyword": "Gibson",
+      "title": "Gibson L-00 Special #20586006 ~The Special Treatment Series~【クロサワ本店店頭在庫品】",
+      "price": 258000,
+      "url": "https://www.digimart.net/cat02/shop5141/DS10813231/"
+    },
+    {
+      "id": "DS10813230",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 Special #22126078 ~The Special Treatment Series~【クロサワ本店店頭在庫品】",
+      "price": 258000,
+      "url": "https://www.digimart.net/cat02/shop5141/DS10813230/"
+    },
+    {
+      "id": "DS10813228",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 60s Original Ebony #22316032 ~Original Acoustic Collection~【クロサワ本店店頭在庫品】",
+      "price": 373000,
+      "url": "https://www.digimart.net/cat02/shop5141/DS10813228/"
+    },
+    {
+      "id": "DS10813223",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop SJ-200 Elegant Koa Honey Burst #21476009 ~V&V Appeal of Koa Series~【クロサワ本店店頭在庫品】",
+      "price": 859000,
+      "url": "https://www.digimart.net/cat02/shop5141/DS10813223/"
+    },
+    {
+      "id": "DS10813220",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Murphy Lab 1942 Banner J-45 Heavy Aged Vintage Sunburst 2025 ~Pre-Owned~ 【クロサワ本店店頭在庫品】",
+      "price": 848000,
+      "url": "https://www.digimart.net/cat02/shop5141/DS10813220/"
+    },
+    {
+      "id": "DS10813190",
+      "keyword": "Gibson",
+      "title": "Gibson ~The True Vintage~ Hummingbird 1966 Narrow Neck&Full Scale【クロサワ本店店頭在庫品】",
+      "price": 898000,
+      "url": "https://www.digimart.net/cat02/shop5141/DS10813190/"
+    },
+    {
+      "id": "DS10813256",
       "keyword": "Fender",
-      "title": "Fender Fender American Professional Stratocaster MN ACB【松戸店】",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop5377/DS10813048/"
-    },
-    {
-      "id": "DS10813002",
-      "keyword": "Fender",
-      "title": "Fender American Vintage II 1966 Jazzmaster",
-      "price": 448800,
-      "url": "https://www.digimart.net/cat01/shop5205/DS10813002/"
-    },
-    {
-      "id": "DS10812117",
-      "keyword": "Fender",
-      "title": "Fender American Standard Telecaster／Maple Neck",
-      "price": 138980,
-      "url": "https://www.digimart.net/cat01/shop5245/DS10812117/"
-    },
-    {
-      "id": "DS10813004",
-      "keyword": "Nord",
-      "title": "CLAVIA Nord Electro 7 HP ノード エレクトロ7 (予約商品・11月中旬発売予定) 73鍵 ハンマーアクション ステー...",
-      "price": 539000,
-      "url": "https://www.digimart.net/cat06/shop5331/DS10813004/"
-    },
-    {
-      "id": "DS10809686",
-      "keyword": "Nord",
-      "title": "CLAVIA Nord Elector 7 HP 【2026年11月中旬発売予定・ご予約受け付け中】",
-      "price": 539000,
-      "url": "https://www.digimart.net/cat06/shop5397/DS10809686/"
-    },
-    {
-      "id": "DS10808108",
-      "keyword": "Nord",
-      "title": "CLAVIA Nord Electro 7 HP ハンマーアクション・ポータブル 73 鍵盤【WEBSHOP】",
-      "price": 539000,
-      "url": "https://www.digimart.net/cat07/shop1484/DS10808108/"
+      "title": "Fender American Professional Jazzmaster Dark Night【清水巴町本店】",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop5460/DS10813256/"
     }
   ],
   "errors": [],
@@ -108,9 +115,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 300,
-      "parsed": 300,
-      "qualifying": 142,
+      "links": 298,
+      "parsed": 298,
+      "qualifying": 141,
       "page_stats": [
         {
           "page": 1,
@@ -122,7 +129,7 @@
           "page": 2,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=&readCount=50&noparallelimportp=&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=&soldoutDispCheck=false&tagWords=&dmsP=&keywordAnd=Gibson&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=&neckScaleOption=&tagWordsNot=&freeshippingp=&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=&pickupOption=&movieurlp=&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=&brandIdNot=&ecCardP=&ecpurchasep=&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=&fingerboardOption=&noshopsalep=&currentPage=2&shopNo=&stringsoption=&categoryId=&shopsalep=&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 48
         },
         {
           "page": 3,
@@ -154,7 +161,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 242,
+      "qualifying": 243,
       "page_stats": [
         {
           "page": 1,
@@ -196,9 +203,9 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 300,
-      "parsed": 300,
-      "qualifying": 82,
+      "links": 297,
+      "parsed": 297,
+      "qualifying": 71,
       "page_stats": [
         {
           "page": 1,
@@ -222,7 +229,7 @@
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 47
         },
         {
           "page": 5,
@@ -379,6 +386,6 @@
       ]
     }
   },
-  "collected": 930,
-  "seen_count": 3342
+  "collected": 919,
+  "seen_count": 3351
 }
