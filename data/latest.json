@@ -1,49 +1,21 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-17T13:04:59.212637+00:00",
+  "checked_at": "2026-10-17T13:53:54.091133+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10814986",
+      "id": "DS10815012",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Historic Collection 1956 Les Paul Goldtop Reissue VOS【LPR-6】【2007年製】【Gold Top】",
-      "price": 498000,
-      "url": "https://www.digimart.net/cat01/shop5120/DS10814986/"
+      "title": "Gibson Custom Shop Murphy Lab Acoustic Collection 1942 Banner Southern Jumbo Light Aged : Vintage Sunburst",
+      "price": 935000,
+      "url": "https://www.digimart.net/cat02/shop1981/DS10815012/"
     },
     {
-      "id": "DS10814975",
-      "keyword": "Gibson",
-      "title": "Gibson 2002年製 J-185",
-      "price": 407000,
-      "url": "https://www.digimart.net/cat02/shop63/DS10814975/"
-    },
-    {
-      "id": "DS10814970",
-      "keyword": "Gibson",
-      "title": "Gibson Historic Collection 1957 Les Paul Reissue w/ Bigsby 【1997年頃の製造モデル】",
-      "price": 550000,
-      "url": "https://www.digimart.net/cat01/shop5359/DS10814970/"
-    },
-    {
-      "id": "DS10814982",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 【現物画像】SE Paul's Guitar Charcoal CH ポールズギター チャコール",
-      "price": 170368,
-      "url": "https://www.digimart.net/cat01/shop5295/DS10814982/"
-    },
-    {
-      "id": "DS10814994",
+      "id": "DS10815006",
       "keyword": "Fender",
-      "title": "Fender 75th Anniversary American Vintage II 1951 Precision Bass / Butterscotch Blonde",
-      "price": 473000,
-      "url": "https://www.digimart.net/cat03/shop5033/DS10814994/"
-    },
-    {
-      "id": "DS10814990",
-      "keyword": "Fractal",
-      "title": "FRACTAL AUDIO SYSTEMS VP4 for BASS",
-      "price": 185900,
-      "url": "https://www.digimart.net/cat13/shop5033/DS10814990/"
+      "title": "Fender American Original '60s Stratocaster",
+      "price": 268000,
+      "url": "https://www.digimart.net/cat01/shop1240/DS10815006/"
     }
   ],
   "errors": [],
@@ -96,7 +68,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 131,
+      "qualifying": 132,
       "page_stats": [
         {
           "page": 1,
@@ -365,6 +337,6 @@
       ]
     }
   },
-  "collected": 902,
-  "seen_count": 3493
+  "collected": 903,
+  "seen_count": 3495
 }
