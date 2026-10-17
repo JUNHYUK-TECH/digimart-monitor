@@ -1,23 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-17T13:53:54.091133+00:00",
+  "checked_at": "2026-10-17T14:52:58.911851+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10815012",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Murphy Lab Acoustic Collection 1942 Banner Southern Jumbo Light Aged : Vintage Sunburst",
-      "price": 935000,
-      "url": "https://www.digimart.net/cat02/shop1981/DS10815012/"
-    },
-    {
-      "id": "DS10815006",
-      "keyword": "Fender",
-      "title": "Fender American Original '60s Stratocaster",
-      "price": 268000,
-      "url": "https://www.digimart.net/cat01/shop1240/DS10815006/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -68,7 +53,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 132,
+      "qualifying": 129,
       "page_stats": [
         {
           "page": 1,
@@ -337,6 +322,6 @@
       ]
     }
   },
-  "collected": 903,
+  "collected": 900,
   "seen_count": 3495
 }
