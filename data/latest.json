@@ -1,84 +1,49 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-17T11:51:51.746585+00:00",
+  "checked_at": "2026-10-17T13:04:59.212637+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10814940",
+      "id": "DS10814986",
       "keyword": "Gibson",
-      "title": "Gibson 1999 SG '61 Reissue",
-      "price": 187000,
-      "url": "https://www.digimart.net/cat01/shop64/DS10814940/"
+      "title": "Gibson Custom Shop Historic Collection 1956 Les Paul Goldtop Reissue VOS【LPR-6】【2007年製】【Gold Top】",
+      "price": 498000,
+      "url": "https://www.digimart.net/cat01/shop5120/DS10814986/"
     },
     {
-      "id": "DS10814910",
+      "id": "DS10814975",
       "keyword": "Gibson",
-      "title": "Gibson ES-335 DOT Figured Cherry",
-      "price": 278000,
-      "url": "https://www.digimart.net/cat01/shop5251/DS10814910/"
+      "title": "Gibson 2002年製 J-185",
+      "price": 407000,
+      "url": "https://www.digimart.net/cat02/shop63/DS10814975/"
     },
     {
-      "id": "DS10814806",
+      "id": "DS10814970",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop ~Dealer Select~ Murphy Lab 60s J-45 Ebony Light Aged #22046052【爆鳴り・骨太ロックサウンド】",
-      "price": 698000,
-      "url": "https://www.digimart.net/cat02/shop5011/DS10814806/"
+      "title": "Gibson Historic Collection 1957 Les Paul Reissue w/ Bigsby 【1997年頃の製造モデル】",
+      "price": 550000,
+      "url": "https://www.digimart.net/cat01/shop5359/DS10814970/"
     },
     {
-      "id": "DS10814474",
+      "id": "DS10814982",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) S2 Special Semi-Hollow 2026",
-      "price": 367840,
-      "url": "https://www.digimart.net/cat01/shop4847/DS10814474/"
+      "title": "Paul Reed Smith(PRS) 【現物画像】SE Paul's Guitar Charcoal CH ポールズギター チャコール",
+      "price": 170368,
+      "url": "https://www.digimart.net/cat01/shop5295/DS10814982/"
     },
     {
-      "id": "DS10814895",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom24 Slate Blue エレキギターSEカスタム24 スレートブルー 青",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop5274/DS10814895/"
-    },
-    {
-      "id": "DS10814886",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Custom 24 10Top Faded Blue Burst【2011年製】【ロッキン岐阜店12周年記念セール!】",
-      "price": 398000,
-      "url": "https://www.digimart.net/cat01/shop4978/DS10814886/"
-    },
-    {
-      "id": "DS10722621",
+      "id": "DS10814994",
       "keyword": "Fender",
-      "title": "Fender American Professional II Stratocaster Maple Fingerboard ~Miami Blue~",
-      "price": 198000,
-      "url": "https://www.digimart.net/cat01/shop5007/DS10722621/"
+      "title": "Fender 75th Anniversary American Vintage II 1951 Precision Bass / Butterscotch Blonde",
+      "price": 473000,
+      "url": "https://www.digimart.net/cat03/shop5033/DS10814994/"
     },
     {
-      "id": "DS10814765",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop ~Custom Collection~ 1960 Stratocaster Journeyman Relic -Bleached 3 Color Sunburst-",
-      "price": 951500,
-      "url": "https://www.digimart.net/cat01/shop38/DS10814765/"
-    },
-    {
-      "id": "DS10814876",
-      "keyword": "Fender",
-      "title": "Fender American Vintage 62 Jazz Bass 2Knob 3TS【≒4.20kg】",
-      "price": 198000,
-      "url": "https://www.digimart.net/cat03/shop5227/DS10814876/"
-    },
-    {
-      "id": "DS10814864",
-      "keyword": "Fender",
-      "title": "Fender American Professional Jazz Bass V - 3-Color Sunburst -【4.34kg】",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat03/shop169/DS10814864/"
-    },
-    {
-      "id": "DS10813754",
-      "keyword": "Fender",
-      "title": "Fender 【現物画像】American Professional JAZZMASTER エレキギター",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat01/shop5118/DS10813754/"
+      "id": "DS10814990",
+      "keyword": "Fractal",
+      "title": "FRACTAL AUDIO SYSTEMS VP4 for BASS",
+      "price": 185900,
+      "url": "https://www.digimart.net/cat13/shop5033/DS10814990/"
     }
   ],
   "errors": [],
@@ -131,7 +96,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 132,
+      "qualifying": 131,
       "page_stats": [
         {
           "page": 1,
@@ -400,6 +365,6 @@
       ]
     }
   },
-  "collected": 903,
-  "seen_count": 3487
+  "collected": 902,
+  "seen_count": 3493
 }
