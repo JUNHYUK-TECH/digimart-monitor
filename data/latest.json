@@ -1,42 +1,63 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-17T01:56:06.510940+00:00",
+  "checked_at": "2026-10-17T02:58:11.351664+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10812946",
+      "id": "DS10812973",
       "keyword": "Gibson",
-      "title": "Gibson ES-335 Sixties Cherry ウエイト3.51キロ",
-      "price": 440000,
-      "url": "https://www.digimart.net/cat01/shop460/DS10812946/"
+      "title": "Gibson Custom Shop 2013 Historic Collection 1967 Flying V Japan Limited VOS (Silver Fox)",
+      "price": 547800,
+      "url": "https://www.digimart.net/cat01/shop87/DS10812973/"
     },
     {
-      "id": "DS10812937",
-      "keyword": "Gibson",
-      "title": "Gibson 1960s J-45 Original Ebony 【Harvest_Guitars】 【御茶ノ水本店】",
-      "price": 357500,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10812937/"
+      "id": "DS10812957",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE SILVER SKY (Stone Blue) 2024年製",
+      "price": 135520,
+      "url": "https://www.digimart.net/cat01/shop3660/DS10812957/"
     },
     {
-      "id": "DS10812930",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1961 Les Paul SG Standard Reissue Stop Bar VOS Cherry Red 【御茶ノ水本店FINEST GUITARS】",
-      "price": 539000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10812930/"
-    },
-    {
-      "id": "DS10812929",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Heritage Cherry Sunburst #229350075 【HERCULESスタンドプレゼント!】【4kg】",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop1140/DS10812929/"
-    },
-    {
-      "id": "DS10811212",
+      "id": "DS10813048",
       "keyword": "Fender",
-      "title": "Fender フェンダー American Professional Classic Telecaster Silent System RW CAR エレキギター",
-      "price": 258500,
-      "url": "https://www.digimart.net/cat01/shop1000/DS10811212/"
+      "title": "Fender Fender American Professional Stratocaster MN ACB【松戸店】",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat01/shop5377/DS10813048/"
+    },
+    {
+      "id": "DS10813002",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1966 Jazzmaster",
+      "price": 448800,
+      "url": "https://www.digimart.net/cat01/shop5205/DS10813002/"
+    },
+    {
+      "id": "DS10812117",
+      "keyword": "Fender",
+      "title": "Fender American Standard Telecaster／Maple Neck",
+      "price": 138980,
+      "url": "https://www.digimart.net/cat01/shop5245/DS10812117/"
+    },
+    {
+      "id": "DS10813004",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Electro 7 HP ノード エレクトロ7 (予約商品・11月中旬発売予定) 73鍵 ハンマーアクション ステー...",
+      "price": 539000,
+      "url": "https://www.digimart.net/cat06/shop5331/DS10813004/"
+    },
+    {
+      "id": "DS10809686",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Elector 7 HP 【2026年11月中旬発売予定・ご予約受け付け中】",
+      "price": 539000,
+      "url": "https://www.digimart.net/cat06/shop5397/DS10809686/"
+    },
+    {
+      "id": "DS10808108",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Electro 7 HP ハンマーアクション・ポータブル 73 鍵盤【WEBSHOP】",
+      "price": 539000,
+      "url": "https://www.digimart.net/cat07/shop1484/DS10808108/"
     }
   ],
   "errors": [],
@@ -177,7 +198,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 93,
+      "qualifying": 82,
       "page_stats": [
         {
           "page": 1,
@@ -221,7 +242,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 183,
+      "qualifying": 184,
       "page_stats": [
         {
           "page": 1,
@@ -265,7 +286,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 119,
+      "qualifying": 118,
       "page_stats": [
         {
           "page": 1,
@@ -358,6 +379,6 @@
       ]
     }
   },
-  "collected": 941,
-  "seen_count": 3334
+  "collected": 930,
+  "seen_count": 3342
 }
