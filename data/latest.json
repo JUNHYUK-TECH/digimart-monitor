@@ -1,14 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-16T23:50:03.037443+00:00",
+  "checked_at": "2026-10-17T01:09:33.206504+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10812883",
+      "id": "DS10808644",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop J-45 Standard VOS ADIRON 2013年製",
-      "price": 348000,
-      "url": "https://www.digimart.net/cat02/shop5437/DS10812883/"
+      "title": "Gibson Memphis ES-275",
+      "price": 548000,
+      "url": "https://www.digimart.net/cat01/shop5167/DS10808644/"
     }
   ],
   "errors": [],
@@ -61,7 +61,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 140,
+      "qualifying": 141,
       "page_stats": [
         {
           "page": 1,
@@ -105,7 +105,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 241,
+      "qualifying": 242,
       "page_stats": [
         {
           "page": 1,
@@ -330,6 +330,6 @@
       ]
     }
   },
-  "collected": 944,
-  "seen_count": 3328
+  "collected": 946,
+  "seen_count": 3329
 }
