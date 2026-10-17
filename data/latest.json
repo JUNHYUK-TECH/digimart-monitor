@@ -1,51 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-17T22:49:41.789616+00:00",
+  "checked_at": "2026-10-17T23:46:33.494649+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10813946",
-      "keyword": "Gibson",
-      "title": "Gibson SG Standard Early 1974 (1973 Spec) Cherry Red w/Neck Repair 3.21kg \"Virgin Solder & Hi-Originality\"",
-      "price": 398000,
-      "url": "https://www.digimart.net/cat01/shop5028/DS10813946/"
-    },
-    {
-      "id": "DS10811375",
-      "keyword": "Gibson",
-      "title": "Gibson Joan Jett Signature Melody Maker 2009 Worn White Aged /M-Scale w/B-Bucker PU 2.96kg \"No-Frills Rock\"",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat01/shop5028/DS10811375/"
-    },
-    {
-      "id": "DS10811281",
-      "keyword": "Gibson",
-      "title": "Gibson ES-340TDN 1972 Blonde(Natural) /Dark RW-FB Full-Original ex./335 Wiring Mod. w/OHC \"Excellent Clean\"",
-      "price": 698000,
-      "url": "https://www.digimart.net/cat01/shop5028/DS10811281/"
-    },
-    {
-      "id": "DS10805000",
-      "keyword": "Gibson",
-      "title": "Gibson ES-120T 1962 Sunburst /42mm 17°Angle /Jacaranda FB & Bridge Hi-Originality Pats 2.38kg \"First Year\"",
-      "price": 398000,
-      "url": "https://www.digimart.net/cat01/shop5028/DS10805000/"
-    },
-    {
-      "id": "DS10813681",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) WOOD LIBRARY CUSTOM24 Blue Matteo \"Vivid Birds Stone\" 2017年製です",
-      "price": 698000,
-      "url": "https://www.digimart.net/cat01/shop4950/DS10813681/"
-    },
-    {
-      "id": "DS09906560",
-      "keyword": "Helix",
-      "title": "LINE 6 HELIX STADIUM XL FLOOR",
-      "price": 418000,
-      "url": "https://www.digimart.net/cat12/shop58/DS09906560/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -184,7 +141,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 65,
+      "qualifying": 64,
       "page_stats": [
         {
           "page": 1,
@@ -365,6 +322,6 @@
       ]
     }
   },
-  "collected": 896,
+  "collected": 895,
   "seen_count": 3503
 }
