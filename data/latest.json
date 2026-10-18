@@ -1,63 +1,35 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-18T03:59:34.242631+00:00",
+  "checked_at": "2026-10-18T04:58:17.354992+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10815316",
+      "id": "DS10815392",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Heritage Cherry Sunburst #229350075 【HERCULESスタンドプレゼント!】【4kg】",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop1140/DS10815316/"
+      "title": "Gibson Gibson LP STD 60s Unburst 【現物写真】【軽量個体】【4.14kg】",
+      "price": 293333,
+      "url": "https://www.digimart.net/cat01/shop5233/DS10815392/"
     },
     {
-      "id": "DS10815271",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 2024 Historic Collection 1959 Les Paul VOS (Washed Cherry)",
-      "price": 657800,
-      "url": "https://www.digimart.net/cat01/shop87/DS10815271/"
-    },
-    {
-      "id": "DS10815167",
-      "keyword": "Gibson",
-      "title": "Gibson Memphis Memphis ES-355 2016 Limited Run Bigsby VOS / Antique Ebony",
-      "price": 628000,
-      "url": "https://www.digimart.net/cat01/shop5214/DS10815167/"
-    },
-    {
-      "id": "DS10815232",
+      "id": "DS10815385",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 Custom 24 Semi-Hollow Artist Flame Maple Top Faded Indigo Pattern Thin Neck 【御茶ノ水本店】",
-      "price": 808000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10815232/"
+      "title": "Paul Reed Smith(PRS) CUSTOM 24 10‐Top/River Blue Pearl【2026年製/重量3.55kg】",
+      "price": 739200,
+      "url": "https://www.digimart.net/cat01/shop5107/DS10815385/"
     },
     {
-      "id": "DS10815260",
+      "id": "DS10815433",
       "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster Rosewood 3-Color Sunburst 【3.74kg】",
+      "title": "Fender American Professional Stratocaster 3-Color Sunburst",
       "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5225/DS10815260/"
+      "url": "https://www.digimart.net/cat01/shop5151/DS10815433/"
     },
     {
-      "id": "DS10815281",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster Rosewood 3-Color Sunburst【3.35kg】",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5225/DS10815281/"
-    },
-    {
-      "id": "DS10815254",
-      "keyword": "Fender",
-      "title": "Fender 【現物画像】 中古 American ACOUSTASONIC Telecaster Black 重量≒3.67kg 純正ケース付属",
-      "price": 218000,
-      "url": "https://www.digimart.net/cat02/shop5469/DS10815254/"
-    },
-    {
-      "id": "DS10815249",
-      "keyword": "Fender",
-      "title": "Fender American Professional Jazzmaster Rosewood Fingerboard 3-Color Sunburst 【4.01kg】",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat01/shop5225/DS10815249/"
+      "id": "DS10815436",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Electro 7 HP【2026年11月中旬発売予定・ご予約受け付け中】",
+      "price": 539000,
+      "url": "https://www.digimart.net/cat06/shop5396/DS10815436/"
     }
   ],
   "errors": [],
@@ -110,7 +82,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 129,
+      "qualifying": 128,
       "page_stats": [
         {
           "page": 1,
@@ -198,7 +170,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 66,
+      "qualifying": 64,
       "page_stats": [
         {
           "page": 1,
@@ -242,7 +214,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 183,
+      "qualifying": 184,
       "page_stats": [
         {
           "page": 1,
@@ -286,7 +258,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 120,
+      "qualifying": 118,
       "page_stats": [
         {
           "page": 1,
@@ -379,6 +351,6 @@
       ]
     }
   },
-  "collected": 898,
-  "seen_count": 3514
+  "collected": 894,
+  "seen_count": 3518
 }
