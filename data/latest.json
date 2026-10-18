@@ -1,14 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-18T01:09:54.663893+00:00",
+  "checked_at": "2026-10-18T01:55:59.470166+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10813745",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom24-08 Quilt Package Faded Blue 島村楽器限定モデルSEカスタム24-08 キルト ブルー 青",
-      "price": 169400,
-      "url": "https://www.digimart.net/cat01/shop5230/DS10813745/"
+      "id": "DS10815087",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s \"Custom Shop Top\" Heritage Cherry Sunburst【御茶ノ水本店FINEST GUITARS】",
+      "price": 412500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815087/"
     }
   ],
   "errors": [],
@@ -61,7 +61,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 128,
+      "qualifying": 129,
       "page_stats": [
         {
           "page": 1,
@@ -330,6 +330,6 @@
       ]
     }
   },
-  "collected": 895,
-  "seen_count": 3504
+  "collected": 896,
+  "seen_count": 3505
 }
