@@ -1,35 +1,161 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-18T07:55:24.264191+00:00",
+  "checked_at": "2026-10-18T08:56:37.404256+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10816155",
+      "id": "DS10816538",
       "keyword": "Gibson",
-      "title": "Gibson Thunderbird Non-Reverse(2024)",
-      "price": 169400,
-      "url": "https://www.digimart.net/cat03/shop48/DS10816155/"
+      "title": "Gibson SG Standard ‘61【現物画像】Custom Color Classic White",
+      "price": 249700,
+      "url": "https://www.digimart.net/cat01/shop5245/DS10816538/"
     },
     {
-      "id": "DS10816149",
+      "id": "DS10816510",
       "keyword": "Gibson",
-      "title": "Gibson L-00 Original Vintage Sunburst",
-      "price": 330000,
-      "url": "https://www.digimart.net/cat02/shop4970/DS10816149/"
+      "title": "Gibson 60s J-45 Original Wine Red",
+      "price": 294800,
+      "url": "https://www.digimart.net/cat02/shop4916/DS10816510/"
     },
     {
-      "id": "DS10816147",
+      "id": "DS10816506",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Nick Lucas Reissue (1999)",
-      "price": 368500,
-      "url": "https://www.digimart.net/cat02/shop48/DS10816147/"
+      "title": "Gibson Dealer Select Les Paul Axcess Standard Floyd Rose / Figured Siberian Tiger Gloss #CS600771",
+      "price": 792000,
+      "url": "https://www.digimart.net/cat01/shop4540/DS10816506/"
     },
     {
-      "id": "DS10816145",
+      "id": "DS10816498",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Tribute【加古川店】",
+      "price": 138000,
+      "url": "https://www.digimart.net/cat01/shop5023/DS10816498/"
+    },
+    {
+      "id": "DS10816502",
+      "keyword": "Gibson",
+      "title": "Gibson #PAF SET (1967)",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat15/shop48/DS10816502/"
+    },
+    {
+      "id": "DS10816494",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Murphy Lab 1964 SG Standard w/Maestro \"Ultra Light Aged\" Pelham Blue【2023年製】【3.55kg】",
+      "price": 728000,
+      "url": "https://www.digimart.net/cat01/shop60/DS10816494/"
+    },
+    {
+      "id": "DS10816488",
+      "keyword": "Gibson",
+      "title": "Gibson 【New】 Custom Shop Greatest Hits Vol.Ⅱ SJ-200 Original Burgundy Mist #20146037 【G-CLUB TOKYO",
+      "price": 810000,
+      "url": "https://www.digimart.net/cat02/shop35/DS10816488/"
+    },
+    {
+      "id": "DS10816464",
+      "keyword": "Gibson",
+      "title": "Gibson Melody Maker Flying V Satin Ebony 2011",
+      "price": 128000,
+      "url": "https://www.digimart.net/cat01/shop43/DS10816464/"
+    },
+    {
+      "id": "DS10816453",
+      "keyword": "Gibson",
+      "title": "Gibson ES Supreme / Bourbon Burst #210930121【Proto Type】",
+      "price": 528000,
+      "url": "https://www.digimart.net/cat01/shop4540/DS10816453/"
+    },
+    {
+      "id": "DS10816405",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Modern Collection SJ-200 Western Classic ~Vintage Sunburst~ #22056029 【G-CLUB TOKYO】",
+      "price": 975000,
+      "url": "https://www.digimart.net/cat02/shop35/DS10816405/"
+    },
+    {
+      "id": "DS10816395",
+      "keyword": "Gibson",
+      "title": "Gibson RB-250",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat02/shop541/DS10816395/"
+    },
+    {
+      "id": "DS10816352",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Dealder Select Japan Limited Run 1959 Les Paul Standard Reissue / Lemon Burst VOS #953262",
+      "price": 957000,
+      "url": "https://www.digimart.net/cat01/shop4540/DS10816352/"
+    },
+    {
+      "id": "DS10816330",
+      "keyword": "Gibson",
+      "title": "Gibson 【Price Down!!】Hummingbird Standard / Vintage Cherry Sunburst #20275112【G-CLUB TOKYO】",
+      "price": 477000,
+      "url": "https://www.digimart.net/cat02/shop35/DS10816330/"
+    },
+    {
+      "id": "DS10816474",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) CE 24 -Faded Abalone- 2026【3.44Kg】【ハイエンドフロア在庫品】",
-      "price": 381700,
-      "url": "https://www.digimart.net/cat01/shop38/DS10816145/"
+      "title": "Paul Reed Smith(PRS) McCarty 594 Pearl White Top Natural Back(Custom Color)【2025年製/重量3.26kg】",
+      "price": 652300,
+      "url": "https://www.digimart.net/cat01/shop5107/DS10816474/"
+    },
+    {
+      "id": "DS10816377",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE \"Rock Lady\" Limited Edition Pearl Pink 2026",
+      "price": 275000,
+      "url": "https://www.digimart.net/cat01/shop4939/DS10816377/"
+    },
+    {
+      "id": "DS10816508",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 1952 Telecaster Relic Daphne Blue 2021 3.26kg #R116752【TONIQ横浜】",
+      "price": 583000,
+      "url": "https://www.digimart.net/cat01/shop5401/DS10816508/"
+    },
+    {
+      "id": "DS10816472",
+      "keyword": "Fender",
+      "title": "Fender American Hand-Wired 57 Custom Champ Lacquered Tweed 2022",
+      "price": 168000,
+      "url": "https://www.digimart.net/cat12/shop43/DS10816472/"
+    },
+    {
+      "id": "DS10816322",
+      "keyword": "Fender",
+      "title": "Fender LTD American Professional Classic Telecaster Roasted Maple Butterscotch Blonde 【福岡店】",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816322/"
+    },
+    {
+      "id": "DS10816265",
+      "keyword": "Fender",
+      "title": "Fender Limited Model American Ultra II HSS Stratocaster Gold Dust Roasted Maple Fingerboard 【福岡店】",
+      "price": 473000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816265/"
+    },
+    {
+      "id": "DS10816260",
+      "keyword": "Fender",
+      "title": "Fender American Vintage 62 Stratocaster Mod【加古川店】",
+      "price": 258000,
+      "url": "https://www.digimart.net/cat01/shop5023/DS10816260/"
+    },
+    {
+      "id": "DS10816294",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Organ 3 【展示処分によるアウトレット大特価・美品】【通常価格より231,000円OFF!!】",
+      "price": 231000,
+      "url": "https://www.digimart.net/cat06/shop1140/DS10816294/"
+    },
+    {
+      "id": "DS10816289",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Drum 3P 【展示処分アウトレット】",
+      "price": 123200,
+      "url": "https://www.digimart.net/cat06/shop1140/DS10816289/"
     }
   ],
   "errors": [],
@@ -82,7 +208,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 138,
+      "qualifying": 136,
       "page_stats": [
         {
           "page": 1,
@@ -170,7 +296,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 83,
+      "qualifying": 82,
       "page_stats": [
         {
           "page": 1,
@@ -351,6 +477,6 @@
       ]
     }
   },
-  "collected": 924,
-  "seen_count": 3597
+  "collected": 921,
+  "seen_count": 3619
 }
