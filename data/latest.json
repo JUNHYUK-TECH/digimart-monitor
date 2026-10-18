@@ -1,8 +1,16 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-18T13:54:08.298061+00:00",
+  "checked_at": "2026-10-18T14:54:13.265992+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10817129",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Eric Clapton Signature Stratocaster / Mercedes Blue",
+      "price": 834900,
+      "url": "https://www.digimart.net/cat01/shop1580/DS10817129/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -141,7 +149,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 95,
+      "qualifying": 93,
       "page_stats": [
         {
           "page": 1,
@@ -322,6 +330,6 @@
       ]
     }
   },
-  "collected": 934,
-  "seen_count": 3681
+  "collected": 932,
+  "seen_count": 3682
 }
