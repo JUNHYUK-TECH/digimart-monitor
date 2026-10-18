@@ -1,14 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-18T01:55:59.470166+00:00",
+  "checked_at": "2026-10-18T02:57:17.241514+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10815087",
+      "id": "DS10815148",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s \"Custom Shop Top\" Heritage Cherry Sunburst【御茶ノ水本店FINEST GUITARS】",
-      "price": 412500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10815087/"
+      "title": "Gibson Les Paul Junior",
+      "price": 159800,
+      "url": "https://www.digimart.net/cat01/shop5311/DS10815148/"
     }
   ],
   "errors": [],
@@ -331,5 +331,5 @@
     }
   },
   "collected": 896,
-  "seen_count": 3505
+  "seen_count": 3506
 }
