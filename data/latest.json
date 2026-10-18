@@ -1,161 +1,70 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-18T08:56:37.404256+00:00",
+  "checked_at": "2026-10-18T09:55:40.037069+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10816538",
+      "id": "DS10815724",
       "keyword": "Gibson",
-      "title": "Gibson SG Standard ‘61【現物画像】Custom Color Classic White",
-      "price": 249700,
-      "url": "https://www.digimart.net/cat01/shop5245/DS10816538/"
+      "title": "Gibson Custom Shop Les Paul 1959 VOS",
+      "price": 748000,
+      "url": "https://www.digimart.net/cat01/shop5018/DS10815724/"
     },
     {
-      "id": "DS10816510",
+      "id": "DS10816655",
       "keyword": "Gibson",
-      "title": "Gibson 60s J-45 Original Wine Red",
-      "price": 294800,
-      "url": "https://www.digimart.net/cat02/shop4916/DS10816510/"
+      "title": "Gibson Memphis TAMIO OKUDA 1959 ES-330 Limited Run VOS Classic White",
+      "price": 660000,
+      "url": "https://www.digimart.net/cat01/shop4969/DS10816655/"
     },
     {
-      "id": "DS10816506",
+      "id": "DS10816653",
       "keyword": "Gibson",
-      "title": "Gibson Dealer Select Les Paul Axcess Standard Floyd Rose / Figured Siberian Tiger Gloss #CS600771",
-      "price": 792000,
-      "url": "https://www.digimart.net/cat01/shop4540/DS10816506/"
+      "title": "Gibson Custom Shop 2016 Limited Run 50s ES-355 Bigsby VOS Antique Ebony",
+      "price": 748000,
+      "url": "https://www.digimart.net/cat01/shop5021/DS10816653/"
     },
     {
-      "id": "DS10816498",
+      "id": "DS10816641",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Tribute【加古川店】",
-      "price": 138000,
-      "url": "https://www.digimart.net/cat01/shop5023/DS10816498/"
+      "title": "Gibson Adam Jones Les Paul Standard Antique Silverburst 2026 【渋谷店】",
+      "price": 440000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816641/"
     },
     {
-      "id": "DS10816502",
+      "id": "DS10816626",
       "keyword": "Gibson",
-      "title": "Gibson #PAF SET (1967)",
-      "price": 220000,
-      "url": "https://www.digimart.net/cat15/shop48/DS10816502/"
+      "title": "Gibson 【USED】 Custom Shop Greatest Hits Vol.Ⅱ Hummingbird Torch -Ebony Gloss- [2025年製]【G-CLUB TOKYO】",
+      "price": 495000,
+      "url": "https://www.digimart.net/cat02/shop35/DS10816626/"
     },
     {
-      "id": "DS10816494",
+      "id": "DS10816589",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Murphy Lab 1964 SG Standard w/Maestro \"Ultra Light Aged\" Pelham Blue【2023年製】【3.55kg】",
-      "price": 728000,
-      "url": "https://www.digimart.net/cat01/shop60/DS10816494/"
+      "title": "Gibson Custom Shop 【解説・試奏動画】2020 Historic Collection 1961 Les Paul SG Standard Reissue Stop Bar VOS Cherry Red",
+      "price": 498000,
+      "url": "https://www.digimart.net/cat01/shop5395/DS10816589/"
     },
     {
-      "id": "DS10816488",
-      "keyword": "Gibson",
-      "title": "Gibson 【New】 Custom Shop Greatest Hits Vol.Ⅱ SJ-200 Original Burgundy Mist #20146037 【G-CLUB TOKYO",
-      "price": 810000,
-      "url": "https://www.digimart.net/cat02/shop35/DS10816488/"
-    },
-    {
-      "id": "DS10816464",
-      "keyword": "Gibson",
-      "title": "Gibson Melody Maker Flying V Satin Ebony 2011",
-      "price": 128000,
-      "url": "https://www.digimart.net/cat01/shop43/DS10816464/"
-    },
-    {
-      "id": "DS10816453",
-      "keyword": "Gibson",
-      "title": "Gibson ES Supreme / Bourbon Burst #210930121【Proto Type】",
-      "price": 528000,
-      "url": "https://www.digimart.net/cat01/shop4540/DS10816453/"
-    },
-    {
-      "id": "DS10816405",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Modern Collection SJ-200 Western Classic ~Vintage Sunburst~ #22056029 【G-CLUB TOKYO】",
-      "price": 975000,
-      "url": "https://www.digimart.net/cat02/shop35/DS10816405/"
-    },
-    {
-      "id": "DS10816395",
-      "keyword": "Gibson",
-      "title": "Gibson RB-250",
-      "price": 264000,
-      "url": "https://www.digimart.net/cat02/shop541/DS10816395/"
-    },
-    {
-      "id": "DS10816352",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Dealder Select Japan Limited Run 1959 Les Paul Standard Reissue / Lemon Burst VOS #953262",
-      "price": 957000,
-      "url": "https://www.digimart.net/cat01/shop4540/DS10816352/"
-    },
-    {
-      "id": "DS10816330",
-      "keyword": "Gibson",
-      "title": "Gibson 【Price Down!!】Hummingbird Standard / Vintage Cherry Sunburst #20275112【G-CLUB TOKYO】",
-      "price": 477000,
-      "url": "https://www.digimart.net/cat02/shop35/DS10816330/"
-    },
-    {
-      "id": "DS10816474",
+      "id": "DS10816642",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) McCarty 594 Pearl White Top Natural Back(Custom Color)【2025年製/重量3.26kg】",
-      "price": 652300,
-      "url": "https://www.digimart.net/cat01/shop5107/DS10816474/"
+      "title": "Paul Reed Smith(PRS) 2025 Special Semi-Hollow Mango Top Limited Edition Faded Whale Blue【渋谷店】",
+      "price": 794587,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816642/"
     },
     {
-      "id": "DS10816377",
+      "id": "DS10816618",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE \"Rock Lady\" Limited Edition Pearl Pink 2026",
-      "price": 275000,
-      "url": "https://www.digimart.net/cat01/shop4939/DS10816377/"
+      "title": "Paul Reed Smith(PRS) S2 Mira",
+      "price": 184800,
+      "url": "https://www.digimart.net/cat01/shop4902/DS10816618/"
     },
     {
-      "id": "DS10816508",
+      "id": "DS10816643",
       "keyword": "Fender",
-      "title": "Fender Custom Shop 1952 Telecaster Relic Daphne Blue 2021 3.26kg #R116752【TONIQ横浜】",
-      "price": 583000,
-      "url": "https://www.digimart.net/cat01/shop5401/DS10816508/"
-    },
-    {
-      "id": "DS10816472",
-      "keyword": "Fender",
-      "title": "Fender American Hand-Wired 57 Custom Champ Lacquered Tweed 2022",
-      "price": 168000,
-      "url": "https://www.digimart.net/cat12/shop43/DS10816472/"
-    },
-    {
-      "id": "DS10816322",
-      "keyword": "Fender",
-      "title": "Fender LTD American Professional Classic Telecaster Roasted Maple Butterscotch Blonde 【福岡店】",
-      "price": 264000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10816322/"
-    },
-    {
-      "id": "DS10816265",
-      "keyword": "Fender",
-      "title": "Fender Limited Model American Ultra II HSS Stratocaster Gold Dust Roasted Maple Fingerboard 【福岡店】",
-      "price": 473000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10816265/"
-    },
-    {
-      "id": "DS10816260",
-      "keyword": "Fender",
-      "title": "Fender American Vintage 62 Stratocaster Mod【加古川店】",
-      "price": 258000,
-      "url": "https://www.digimart.net/cat01/shop5023/DS10816260/"
-    },
-    {
-      "id": "DS10816294",
-      "keyword": "Nord",
-      "title": "CLAVIA Nord Organ 3 【展示処分によるアウトレット大特価・美品】【通常価格より231,000円OFF!!】",
-      "price": 231000,
-      "url": "https://www.digimart.net/cat06/shop1140/DS10816294/"
-    },
-    {
-      "id": "DS10816289",
-      "keyword": "Nord",
-      "title": "CLAVIA Nord Drum 3P 【展示処分アウトレット】",
-      "price": 123200,
-      "url": "https://www.digimart.net/cat06/shop1140/DS10816289/"
+      "title": "Fender Custom Shop 1961 Stratocaster NOS 3-Color Sunburst 2025 【渋谷店】",
+      "price": 572000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816643/"
     }
   ],
   "errors": [],
@@ -206,9 +115,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 300,
-      "parsed": 300,
-      "qualifying": 136,
+      "links": 299,
+      "parsed": 299,
+      "qualifying": 126,
       "page_stats": [
         {
           "page": 1,
@@ -244,7 +153,7 @@
           "page": 6,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Gibson&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=6&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 49
         }
       ]
     },
@@ -296,7 +205,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 82,
+      "qualifying": 79,
       "page_stats": [
         {
           "page": 1,
@@ -340,7 +249,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 184,
+      "qualifying": 183,
       "page_stats": [
         {
           "page": 1,
@@ -477,6 +386,6 @@
       ]
     }
   },
-  "collected": 921,
-  "seen_count": 3619
+  "collected": 907,
+  "seen_count": 3628
 }
