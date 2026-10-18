@@ -1,14 +1,63 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-18T02:57:17.241514+00:00",
+  "checked_at": "2026-10-18T03:59:34.242631+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10815148",
+      "id": "DS10815316",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Junior",
-      "price": 159800,
-      "url": "https://www.digimart.net/cat01/shop5311/DS10815148/"
+      "title": "Gibson Les Paul Standard 50s Heritage Cherry Sunburst #229350075 【HERCULESスタンドプレゼント!】【4kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop1140/DS10815316/"
+    },
+    {
+      "id": "DS10815271",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 2024 Historic Collection 1959 Les Paul VOS (Washed Cherry)",
+      "price": 657800,
+      "url": "https://www.digimart.net/cat01/shop87/DS10815271/"
+    },
+    {
+      "id": "DS10815167",
+      "keyword": "Gibson",
+      "title": "Gibson Memphis Memphis ES-355 2016 Limited Run Bigsby VOS / Antique Ebony",
+      "price": 628000,
+      "url": "https://www.digimart.net/cat01/shop5214/DS10815167/"
+    },
+    {
+      "id": "DS10815232",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2026 Custom 24 Semi-Hollow Artist Flame Maple Top Faded Indigo Pattern Thin Neck 【御茶ノ水本店】",
+      "price": 808000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815232/"
+    },
+    {
+      "id": "DS10815260",
+      "keyword": "Fender",
+      "title": "Fender American Professional Stratocaster Rosewood 3-Color Sunburst 【3.74kg】",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop5225/DS10815260/"
+    },
+    {
+      "id": "DS10815281",
+      "keyword": "Fender",
+      "title": "Fender American Professional Telecaster Rosewood 3-Color Sunburst【3.35kg】",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop5225/DS10815281/"
+    },
+    {
+      "id": "DS10815254",
+      "keyword": "Fender",
+      "title": "Fender 【現物画像】 中古 American ACOUSTASONIC Telecaster Black 重量≒3.67kg 純正ケース付属",
+      "price": 218000,
+      "url": "https://www.digimart.net/cat02/shop5469/DS10815254/"
+    },
+    {
+      "id": "DS10815249",
+      "keyword": "Fender",
+      "title": "Fender American Professional Jazzmaster Rosewood Fingerboard 3-Color Sunburst 【4.01kg】",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop5225/DS10815249/"
     }
   ],
   "errors": [],
@@ -149,7 +198,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 64,
+      "qualifying": 66,
       "page_stats": [
         {
           "page": 1,
@@ -330,6 +379,6 @@
       ]
     }
   },
-  "collected": 896,
-  "seen_count": 3506
+  "collected": 898,
+  "seen_count": 3514
 }
