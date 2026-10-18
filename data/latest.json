@@ -1,49 +1,189 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-18T11:51:57.948169+00:00",
+  "checked_at": "2026-10-18T13:03:31.944203+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10817082",
+      "id": "DS10817031",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Classic 60s Plain Top",
-      "price": 228800,
-      "url": "https://www.digimart.net/cat01/shop42/DS10817082/"
+      "title": "Gibson 70s Flying V / Dark Walnut",
+      "price": 385000,
+      "url": "https://www.digimart.net/cat01/shop5322/DS10817031/"
     },
     {
-      "id": "DS10817013",
+      "id": "DS10817030",
       "keyword": "Gibson",
-      "title": "Gibson Historic Collection 1957 Les Paul Custom Ebony 【心斎橋店】",
-      "price": 748000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10817013/"
+      "title": "Gibson Les Paul Special / TV Yellow",
+      "price": 261800,
+      "url": "https://www.digimart.net/cat01/shop5322/DS10817030/"
     },
     {
-      "id": "DS10817012",
+      "id": "DS10817029",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Historic Collection 1959 Les Paul Standard Gloss Lemon Burst 【心斎橋店】",
-      "price": 770000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10817012/"
+      "title": "Gibson Les Paul Standard 60s AAA / Exclusive Lemonburst",
+      "price": 473000,
+      "url": "https://www.digimart.net/cat01/shop5322/DS10817029/"
     },
     {
-      "id": "DS10816178",
+      "id": "DS10816391",
       "keyword": "Gibson",
-      "title": "Gibson Thunderbird 中古",
-      "price": 242000,
-      "url": "https://www.digimart.net/cat03/shop5072/DS10816178/"
+      "title": "Gibson Limited Run Les Paul Standard 120th Light Honeyburst 【名古屋栄店】",
+      "price": 278000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816391/"
     },
     {
-      "id": "DS10814672",
+      "id": "DS10816390",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Classic Honeyburst 2019 【名古屋栄店】",
+      "price": 253000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816390/"
+    },
+    {
+      "id": "DS10816388",
+      "keyword": "Gibson",
+      "title": "Gibson ES-390 Figured Vintage Sunburst 【名古屋栄店】",
+      "price": 368000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816388/"
+    },
+    {
+      "id": "DS10816379",
+      "keyword": "Gibson",
+      "title": "Gibson Southern Jumbo Vintage Sunburst Customize L.R.Baggs M1 Active 2001 【名古屋栄店】",
+      "price": 358000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10816379/"
+    },
+    {
+      "id": "DS10816420",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Custom 24 Black Gold Burst 【名古屋栄店】",
+      "price": 118000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816420/"
+    },
+    {
+      "id": "DS10816481",
       "keyword": "Fender",
-      "title": "Fender 【現物写真/3.51kg】 American Professional Stratocaster",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5335/DS10814672/"
+      "title": "Fender American Professional Jazz Bass Maple Fingerboard Aged Cherry Burst 【名古屋栄店】",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10816481/"
     },
     {
-      "id": "DS10817002",
+      "id": "DS10816479",
       "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster",
+      "title": "Fender American Professional Jazz Bass Rosewood Fingerboard Oxblood 【名古屋栄店】",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10816479/"
+    },
+    {
+      "id": "DS10816477",
+      "keyword": "Fender",
+      "title": "Fender American Professional Precision Bass Maple Fingerboard Natural 【名古屋栄店】",
+      "price": 324500,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10816477/"
+    },
+    {
+      "id": "DS10816476",
+      "keyword": "Fender",
+      "title": "Fender American Professional Jazzmaster Rosewood Fingerboard Oxblood 【名古屋栄店】",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816476/"
+    },
+    {
+      "id": "DS10816475",
+      "keyword": "Fender",
+      "title": "Fender American Professional Jazzmaster Rosewood Fingerboard Olympic White 【名古屋栄店】",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816475/"
+    },
+    {
+      "id": "DS10816473",
+      "keyword": "Fender",
+      "title": "Fender American Professional Telecaster Maple Fingerboard Oxblood 【名古屋栄店】",
       "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5092/DS10817002/"
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816473/"
+    },
+    {
+      "id": "DS10816471",
+      "keyword": "Fender",
+      "title": "Fender American Professional Telecaster Rosewood Fingerboard Oxblood 【名古屋栄店】",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816471/"
+    },
+    {
+      "id": "DS10816470",
+      "keyword": "Fender",
+      "title": "Fender American Professional Telecaster Rosewood Fingerboard 3-Color Sunburst 【名古屋栄店】",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816470/"
+    },
+    {
+      "id": "DS10816468",
+      "keyword": "Fender",
+      "title": "Fender American Professional Stratocaster HSS Maple Fingerboard Black 【名古屋栄店】",
+      "price": 308000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816468/"
+    },
+    {
+      "id": "DS10816467",
+      "keyword": "Fender",
+      "title": "Fender American Professional Stratocaster HSS Rosewood Fingerboard Oxblood 【名古屋栄店】",
+      "price": 308000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816467/"
+    },
+    {
+      "id": "DS10816466",
+      "keyword": "Fender",
+      "title": "Fender American Professional Stratocaster Maple Fingerboard Olympic White 【名古屋栄店】",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816466/"
+    },
+    {
+      "id": "DS10816463",
+      "keyword": "Fender",
+      "title": "Fender American Professional Stratocaster Maple Fingerboard 3-Color Sunburst 【名古屋栄店】",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816463/"
+    },
+    {
+      "id": "DS10816462",
+      "keyword": "Fender",
+      "title": "Fender American Professional Stratocaster Rosewood Fingerboard Olympic White 【名古屋栄店】",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816462/"
+    },
+    {
+      "id": "DS10816446",
+      "keyword": "Fender",
+      "title": "Fender American Elite Telecaster Autumn Blaze Metallic 【名古屋栄店】",
+      "price": 238000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816446/"
+    },
+    {
+      "id": "DS10816426",
+      "keyword": "Fender",
+      "title": "Fender American Standard Stratocaster Upgrade MN Mystic Red 【名古屋栄店】",
+      "price": 178000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816426/"
+    },
+    {
+      "id": "DS10816414",
+      "keyword": "Fender",
+      "title": "Fender American Performer Telecaster Honey Burst 【名古屋栄店】",
+      "price": 158000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816414/"
+    },
+    {
+      "id": "DS10816397",
+      "keyword": "Fender",
+      "title": "Fender Highway 1 Stratocaster Upgrade Black MOD 【名古屋栄店】",
+      "price": 148000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816397/"
+    },
+    {
+      "id": "DS10816393",
+      "keyword": "Fender",
+      "title": "Fender American Standard Telecaster Candy Apple Red 【名古屋栄店】",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10816393/"
     }
   ],
   "errors": [],
@@ -96,7 +236,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 131,
+      "qualifying": 137,
       "page_stats": [
         {
           "page": 1,
@@ -184,7 +324,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 79,
+      "qualifying": 95,
       "page_stats": [
         {
           "page": 1,
@@ -365,6 +505,6 @@
       ]
     }
   },
-  "collected": 913,
-  "seen_count": 3655
+  "collected": 935,
+  "seen_count": 3681
 }
