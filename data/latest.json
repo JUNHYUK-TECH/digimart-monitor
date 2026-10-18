@@ -1,8 +1,16 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-17T23:46:33.494649+00:00",
+  "checked_at": "2026-10-18T01:09:54.663893+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10813745",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Custom24-08 Quilt Package Faded Blue 島村楽器限定モデルSEカスタム24-08 キルト ブルー 青",
+      "price": 169400,
+      "url": "https://www.digimart.net/cat01/shop5230/DS10813745/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -323,5 +331,5 @@
     }
   },
   "collected": 895,
-  "seen_count": 3503
+  "seen_count": 3504
 }
