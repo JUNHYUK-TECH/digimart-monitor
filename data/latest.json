@@ -1,35 +1,196 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-18T04:58:17.354992+00:00",
+  "checked_at": "2026-10-18T05:55:04.460179+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10815392",
+      "id": "DS10815601",
       "keyword": "Gibson",
-      "title": "Gibson Gibson LP STD 60s Unburst 【現物写真】【軽量個体】【4.14kg】",
-      "price": 293333,
-      "url": "https://www.digimart.net/cat01/shop5233/DS10815392/"
+      "title": "Gibson Custom Historic Collection 1958 Mahogany Flying V VOS Antique Natural【渋谷店】",
+      "price": 671000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815601/"
     },
     {
-      "id": "DS10815385",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) CUSTOM 24 10‐Top/River Blue Pearl【2026年製/重量3.55kg】",
-      "price": 739200,
-      "url": "https://www.digimart.net/cat01/shop5107/DS10815385/"
-    },
-    {
-      "id": "DS10815433",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster 3-Color Sunburst",
+      "id": "DS10815600",
+      "keyword": "Gibson",
+      "title": "Gibson Exclusive Model Les Paul Standard 60s Mahogany Top Vintage Cherry【渋谷店】",
       "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5151/DS10815433/"
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815600/"
     },
     {
-      "id": "DS10815436",
-      "keyword": "Nord",
-      "title": "CLAVIA Nord Electro 7 HP【2026年11月中旬発売予定・ご予約受け付け中】",
-      "price": 539000,
-      "url": "https://www.digimart.net/cat06/shop5396/DS10815436/"
+      "id": "DS10815599",
+      "keyword": "Gibson",
+      "title": "Gibson Exclusive Model Les Paul Standard 50s Mahogany Top Vintage Cherry【渋谷店】",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815599/"
+    },
+    {
+      "id": "DS10815598",
+      "keyword": "Gibson",
+      "title": "Gibson Custom 1958 Mahogany Explorer Reissue Antique Natural【渋谷店】",
+      "price": 671000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815598/"
+    },
+    {
+      "id": "DS10815597",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Historic Collection 1961 ES-335 Reissue VOS 60s Cherry【渋谷店】",
+      "price": 693000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815597/"
+    },
+    {
+      "id": "DS10815595",
+      "keyword": "Gibson",
+      "title": "Gibson ES-335 Figured Antique Natural 【渋谷店】",
+      "price": 462000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815595/"
+    },
+    {
+      "id": "DS10815594",
+      "keyword": "Gibson",
+      "title": "Gibson Hand Picked 1957 Les Paul Standard Wraparound Tailpiece Gloss Inverness Green【渋谷店】",
+      "price": 880000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815594/"
+    },
+    {
+      "id": "DS10815593",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Modern Supreme Ebony【渋谷店】",
+      "price": 462000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815593/"
+    },
+    {
+      "id": "DS10815592",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s \"Custom Shop Top\" Heritage Cherry Sunburst【渋谷店】",
+      "price": 374000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815592/"
+    },
+    {
+      "id": "DS10815590",
+      "keyword": "Gibson",
+      "title": "Gibson 1957 Les Paul Standard Gloss Green Shift Top【渋谷店】",
+      "price": 924000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815590/"
+    },
+    {
+      "id": "DS10815587",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Historic Collection 1961 ES-335 Reissue VOS Vintage Sunburst【渋谷店】",
+      "price": 693000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815587/"
+    },
+    {
+      "id": "DS10815584",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Special Ebony【渋谷店】",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815584/"
+    },
+    {
+      "id": "DS10815574",
+      "keyword": "Gibson",
+      "title": "Gibson Custom M2M 1959 Les Paul Standard 3A Quilt Gloss Lemon Burst【渋谷店】",
+      "price": 935000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815574/"
+    },
+    {
+      "id": "DS10815569",
+      "keyword": "Gibson",
+      "title": "Gibson Slash Victoria Les Paul Standard Goldtop【渋谷店】",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815569/"
+    },
+    {
+      "id": "DS10815568",
+      "keyword": "Gibson",
+      "title": "Gibson Custom 1957 Les Paul Standard Reissue VOS Double Gold Dark Back Left Hand【渋谷店】",
+      "price": 594000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815568/"
+    },
+    {
+      "id": "DS10815567",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Murphy Lab 1964 SG Standard w/Bigsby B5 Ultra Light Aged TV Gold【渋谷店】",
+      "price": 836000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815567/"
+    },
+    {
+      "id": "DS10815564",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Dealer Select Murphy Lab 1964 ES-345 Reissue w/Bigsby Custom Made Plate Ultra Light Aged Ebony 【渋",
+      "price": 957000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815564/"
+    },
+    {
+      "id": "DS10815562",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Hand Picked 1959 Les Paul Standard Emerald Green Top Gloss【渋谷店】",
+      "price": 836000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815562/"
+    },
+    {
+      "id": "DS10815561",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Hand Picked 1957 Les Paul Standard Silver Sparkle VOS【渋谷店】",
+      "price": 682000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815561/"
+    },
+    {
+      "id": "DS10815560",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Hand Picked 1959 Les Paul Standard 3PU Dark Magenta Gloss【渋谷店】",
+      "price": 825000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815560/"
+    },
+    {
+      "id": "DS10815557",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Hand Selected Top 1959 Les Paul Standard Reissue Faded Cherry Tea Burst VOS【渋谷店】",
+      "price": 748000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815557/"
+    },
+    {
+      "id": "DS10815415",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Historic Collection LPR9 Heavy Aged DDL[XL009]【神戸店在庫】",
+      "price": 898000,
+      "url": "https://www.digimart.net/cat01/shop3580/DS10815415/"
+    },
+    {
+      "id": "DS10815572",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Time Machine 1969 Stratocaster Journeyman Relic Faded Shoreline Gold 【渋谷店】",
+      "price": 649000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815572/"
+    },
+    {
+      "id": "DS10815571",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Limited Edition 70th Anniversary 1954 Roasted Stratocaster Journeyman Relic Natural Blonde【渋谷店】",
+      "price": 682000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815571/"
+    },
+    {
+      "id": "DS10815570",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Limited Edition 70th Anniversary 1954 Stratocaster Hard Tail DLX Closet Classic India Ivory 【渋谷店",
+      "price": 682000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815570/"
+    },
+    {
+      "id": "DS10815565",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Limited Edition 1960 Stratocaster Relic Matching Headstock Vintage White 【渋谷店】",
+      "price": 880000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815565/"
+    },
+    {
+      "id": "DS10815558",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Custom Built 1969 Stratocaster Relic 3 Color Sunburst【渋谷店】",
+      "price": 704000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815558/"
     }
   ],
   "errors": [],
@@ -82,7 +243,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 128,
+      "qualifying": 133,
       "page_stats": [
         {
           "page": 1,
@@ -170,7 +331,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 64,
+      "qualifying": 62,
       "page_stats": [
         {
           "page": 1,
@@ -351,6 +512,6 @@
       ]
     }
   },
-  "collected": 894,
-  "seen_count": 3518
+  "collected": 897,
+  "seen_count": 3545
 }
