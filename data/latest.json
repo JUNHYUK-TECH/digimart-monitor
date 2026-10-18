@@ -1,343 +1,35 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-18T07:08:03.713521+00:00",
+  "checked_at": "2026-10-18T07:55:24.264191+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10816102",
+      "id": "DS10816155",
       "keyword": "Gibson",
-      "title": "Gibson 【10月セール!31日迄開催】Les Paul Standard -WineRed - 【2000' USED】【1F】",
-      "price": 338000,
-      "url": "https://www.digimart.net/cat01/shop169/DS10816102/"
+      "title": "Gibson Thunderbird Non-Reverse(2024)",
+      "price": 169400,
+      "url": "https://www.digimart.net/cat03/shop48/DS10816155/"
     },
     {
-      "id": "DS10816085",
+      "id": "DS10816149",
       "keyword": "Gibson",
-      "title": "Gibson SG Standard 61 Maestro Vibrola -Vintage Cherry-【#223860146】【3.51kg】",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat01/shop38/DS10816085/"
-    },
-    {
-      "id": "DS10816083",
-      "keyword": "Gibson",
-      "title": "Gibson 【New】 Custom Shop Greatest Hits Vol.ⅡJ-45 Gold Top Gloss #20346060 【G-Club Tokyo】",
-      "price": 510000,
-      "url": "https://www.digimart.net/cat02/shop35/DS10816083/"
-    },
-    {
-      "id": "DS10816036",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop USED 中古 Murphy Lab 1959 ES-335 Reissue Vintage Burst Ultra Light Aged SN. A92765",
-      "price": 762960,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816036/"
-    },
-    {
-      "id": "DS10816024",
-      "keyword": "Gibson",
-      "title": "Gibson SG Standard ‘61 Stop Bar (Classic White)",
-      "price": 249700,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816024/"
-    },
-    {
-      "id": "DS10816015",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s P-90 -Gold Top-【#210460224】【4.28kg】",
+      "title": "Gibson L-00 Original Vintage Sunburst",
       "price": 330000,
-      "url": "https://www.digimart.net/cat01/shop38/DS10816015/"
+      "url": "https://www.digimart.net/cat02/shop4970/DS10816149/"
     },
     {
-      "id": "DS10815944",
+      "id": "DS10816147",
       "keyword": "Gibson",
-      "title": "Gibson SG Standard 【返品OK】[VM109]【神戸店在庫】",
-      "price": 168000,
-      "url": "https://www.digimart.net/cat01/shop3580/DS10815944/"
+      "title": "Gibson Custom Shop Nick Lucas Reissue (1999)",
+      "price": 368500,
+      "url": "https://www.digimart.net/cat02/shop48/DS10816147/"
     },
     {
-      "id": "DS10815937",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 1991年製 【返品OK】[VM154]【神戸店在庫】",
-      "price": 129800,
-      "url": "https://www.digimart.net/cat01/shop3580/DS10815937/"
-    },
-    {
-      "id": "DS10815851",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Murphy Lab 1968 Les Paul Custom Ebony Ultra Light Aged【ネック折れ】 【渋谷店】",
-      "price": 693000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10815851/"
-    },
-    {
-      "id": "DS10815879",
+      "id": "DS10816145",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2025 Custom24 10Top Fire Smoke Burst Fire Smoke Burst 【渋谷店】",
-      "price": 594000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10815879/"
-    },
-    {
-      "id": "DS10815853",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) P245 Scared Red 【渋谷店】",
-      "price": 363000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10815853/"
-    },
-    {
-      "id": "DS10815849",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Custom 22 Dot 2005 【渋谷店】",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10815849/"
-    },
-    {
-      "id": "DS10816064",
-      "keyword": "Fender",
-      "title": "Fender American Professional Jazzmaster (Oxblood/Rosewood)",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816064/"
-    },
-    {
-      "id": "DS10816063",
-      "keyword": "Fender",
-      "title": "Fender American Professional Jazzmaster (Black／Rosewood)",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816063/"
-    },
-    {
-      "id": "DS10816062",
-      "keyword": "Fender",
-      "title": "Fender American Professional Jazzmaster (3-Color Sunburst／Rosewood)",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816062/"
-    },
-    {
-      "id": "DS10816061",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster (Butterscotch Blonde/Maple)",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816061/"
-    },
-    {
-      "id": "DS10816060",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster (Aged Cherry Burst／Maple)",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816060/"
-    },
-    {
-      "id": "DS10816059",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster (Oxblood／Maple)",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816059/"
-    },
-    {
-      "id": "DS10816058",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster (Natural／Maple)",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816058/"
-    },
-    {
-      "id": "DS10816057",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster (Black/Maple)",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816057/"
-    },
-    {
-      "id": "DS10816056",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster (3-Color Sunburst／Maple)",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816056/"
-    },
-    {
-      "id": "DS10816055",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster (Dark Night/Rosewood)",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816055/"
-    },
-    {
-      "id": "DS10816054",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster (Oxblood／Rosewood)",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816054/"
-    },
-    {
-      "id": "DS10816053",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster (3-Color Sunburst／Rosewood)",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816053/"
-    },
-    {
-      "id": "DS10816052",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster HSS （Black／Maple）",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816052/"
-    },
-    {
-      "id": "DS10816051",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster HSS (Olympic White/Maple)",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816051/"
-    },
-    {
-      "id": "DS10816050",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster HSS (3-Color Sunburst/Maple)",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816050/"
-    },
-    {
-      "id": "DS10816049",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster HSS (Olympic White／Rosewood)",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816049/"
-    },
-    {
-      "id": "DS10816048",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster HSS (3-Color Sunburst／Rosewood)",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816048/"
-    },
-    {
-      "id": "DS10816047",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster (Dark Night／Maple)",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816047/"
-    },
-    {
-      "id": "DS10816046",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster (Aged Cherry Burst／Maple)",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816046/"
-    },
-    {
-      "id": "DS10816045",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster (Natural/Maple)",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816045/"
-    },
-    {
-      "id": "DS10816044",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster (Black/Maple)",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816044/"
-    },
-    {
-      "id": "DS10816043",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster (Olympic White/Maple)",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816043/"
-    },
-    {
-      "id": "DS10816042",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster (3-Color Sunburst/Maple)",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816042/"
-    },
-    {
-      "id": "DS10816041",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster (Dark Night／Rosewood)",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816041/"
-    },
-    {
-      "id": "DS10816040",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster (Oxblood／Rosewood)",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816040/"
-    },
-    {
-      "id": "DS10816039",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster (Black/Rosewood)",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816039/"
-    },
-    {
-      "id": "DS10816038",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster (Olympic White/Rosewood)",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816038/"
-    },
-    {
-      "id": "DS10816037",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster (3-Color Sunburst／Rosewood)",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816037/"
-    },
-    {
-      "id": "DS10816021",
-      "keyword": "Fender",
-      "title": "Fender American Vintage II 1961 Stratocaster (Olympic White/Rosewood)",
-      "price": 357500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10816021/"
-    },
-    {
-      "id": "DS10815873",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 1960 Stratocaster NOS Sonic Blue 2012 Sonic Blue 【渋谷店】",
-      "price": 594000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10815873/"
-    },
-    {
-      "id": "DS10815870",
-      "keyword": "Fender",
-      "title": "Fender 70th Anniversary American Vintage II 1954 Stratocaster 2-Color Sunburst 【渋谷店】",
-      "price": 297000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10815870/"
-    },
-    {
-      "id": "DS10815865",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Master Built 1962 Stratocaster NOS Target 3 Color Sunburst by Kyle Mcmillin 【渋谷店】",
-      "price": 990000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10815865/"
-    },
-    {
-      "id": "DS10815864",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 1959 Stratocaster Relic Super Faded/Aged Candy Apple Red 【渋谷店】",
-      "price": 594000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10815864/"
-    },
-    {
-      "id": "DS10815850",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Master Grade Series 1966 Stratocaster 1997 【渋谷店】",
-      "price": 660000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10815850/"
-    },
-    {
-      "id": "DS10815848",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Master Built Blue Paisley Telecaster Bigsby Closet Classic by Dennis Galuszka 2015 【渋谷店】",
-      "price": 792000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10815848/"
-    },
-    {
-      "id": "DS10815847",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 50's Thinline Telecaster Relic BLK【渋谷店】",
-      "price": 495000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10815847/"
+      "title": "Paul Reed Smith(PRS) CE 24 -Faded Abalone- 2026【3.44Kg】【ハイエンドフロア在庫品】",
+      "price": 381700,
+      "url": "https://www.digimart.net/cat01/shop38/DS10816145/"
     }
   ],
   "errors": [],
@@ -390,7 +82,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 137,
+      "qualifying": 138,
       "page_stats": [
         {
           "page": 1,
@@ -478,7 +170,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 84,
+      "qualifying": 83,
       "page_stats": [
         {
           "page": 1,
@@ -659,6 +351,6 @@
       ]
     }
   },
-  "collected": 923,
-  "seen_count": 3593
+  "collected": 924,
+  "seen_count": 3597
 }
