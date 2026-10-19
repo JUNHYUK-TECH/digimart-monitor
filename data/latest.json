@@ -1,105 +1,161 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-19T08:12:41.468038+00:00",
+  "checked_at": "2026-10-19T09:07:57.128322+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10818007",
+      "id": "DS10817143",
       "keyword": "Gibson",
-      "title": "Gibson 【セカンド品】SG Standard 61 Stop Bar -Classic White- 【#213360259】【3.07kg】",
-      "price": 249700,
-      "url": "https://www.digimart.net/cat01/shop38/DS10818007/"
+      "title": "Gibson Custom Shop 【解説・試奏動画】2025 Murphy Lab 1954 Les Paul Goldtop Reissue Heavy Aged Double Gold",
+      "price": 948000,
+      "url": "https://www.digimart.net/cat01/shop5395/DS10817143/"
     },
     {
-      "id": "DS10817986",
+      "id": "DS10818414",
       "keyword": "Gibson",
-      "title": "Gibson ~Japan Exclusive Model~ Les Paul Standard 50s Custom Shop Top -Heritage Cherry Sunburst-",
-      "price": 412500,
-      "url": "https://www.digimart.net/cat01/shop38/DS10817986/"
+      "title": "Gibson Country Western 60s Original【現物画像】",
+      "price": 483800,
+      "url": "https://www.digimart.net/cat02/shop5052/DS10818414/"
     },
     {
-      "id": "DS10817978",
+      "id": "DS10818206",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Double Trouble -Vintage Cherry Sunburst- 【#218160204】【超軽量3.89kg】",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop38/DS10817978/"
+      "title": "Gibson L-50 '50",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat02/shop70/DS10818206/"
     },
     {
-      "id": "DS10818139",
+      "id": "DS10818300",
       "keyword": "Fender",
-      "title": "Fender American Vintage II 1951 Telecaster / Butterscotch Blonde",
-      "price": 412500,
-      "url": "https://www.digimart.net/cat01/shop2040/DS10818139/"
+      "title": "Fender American Professional Stratocaster HSS 3-Color Sunburst #US26081778【現物写真】",
+      "price": 308000,
+      "url": "https://www.digimart.net/cat01/shop5102/DS10818300/"
     },
     {
-      "id": "DS10818135",
+      "id": "DS10818325",
       "keyword": "Fender",
-      "title": "Fender American Vintage II 1961 Stratocaster / 3CS",
-      "price": 393800,
-      "url": "https://www.digimart.net/cat01/shop2040/DS10818135/"
+      "title": "Fender Custom Shop 1963 Jazz Bass【4.18kg】",
+      "price": 598000,
+      "url": "https://www.digimart.net/cat03/shop169/DS10818325/"
     },
     {
-      "id": "DS10818133",
+      "id": "DS10818167",
       "keyword": "Fender",
-      "title": "Fender American Vintage II 1966 Jazzmaster / 3CS",
-      "price": 448800,
-      "url": "https://www.digimart.net/cat01/shop2040/DS10818133/"
+      "title": "Fender American Professional Jaguar Rosewood Fingerboard Black フェンダー [USA製][2026年新モデル]【3.79kg】",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10818167/"
     },
     {
-      "id": "DS10818130",
+      "id": "DS10818166",
       "keyword": "Fender",
-      "title": "Fender American Vintage II 1975 Telecaster Deluxe / Mocha",
-      "price": 437800,
-      "url": "https://www.digimart.net/cat01/shop2040/DS10818130/"
+      "title": "Fender American Professional Telecaster Rosewood Fingerboard Oxblood フェンダー [USA製][2026年新モデル]【3.",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10818166/"
     },
     {
-      "id": "DS10818107",
+      "id": "DS10818165",
       "keyword": "Fender",
-      "title": "Fender Custom Shop Vintage Custom 1959 Stratocaster NOS Blue Ice Metallic #R139306",
-      "price": 752400,
-      "url": "https://www.digimart.net/cat01/shop2040/DS10818107/"
+      "title": "Fender American Professional Telecaster Rosewood Fingerboard Dark Night フェンダー [USA製][2026年新モデル]",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10818165/"
     },
     {
-      "id": "DS10818104",
+      "id": "DS10818163",
       "keyword": "Fender",
-      "title": "Fender Custom Shop 1950s Telecaster Thinline Journeyman Relic / 2CS",
-      "price": 818400,
-      "url": "https://www.digimart.net/cat01/shop2040/DS10818104/"
+      "title": "Fender American Professional Telecaster Rosewood Fingerboard Black フェンダー [USA製][2026年新モデル]【3.48",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10818163/"
     },
     {
-      "id": "DS10818096",
+      "id": "DS10818162",
       "keyword": "Fender",
-      "title": "Fender Custom Shop 1965 Telecaster Closet Classic/NOS / Target 3CS",
-      "price": 803000,
-      "url": "https://www.digimart.net/cat01/shop2040/DS10818096/"
+      "title": "Fender American Professional Telecaster Maple Fingerboard Black フェンダー [USA製][2026年新モデル]【3.36kg",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10818162/"
     },
     {
-      "id": "DS10818089",
+      "id": "DS10818161",
       "keyword": "Fender",
-      "title": "Fender Custom Shop 1964 Jaguar Journeyman Relic / Faded Aged Lake Placid Blue",
-      "price": 924000,
-      "url": "https://www.digimart.net/cat01/shop2040/DS10818089/"
+      "title": "Fender American Professional Precision Bass Rosewood Fingerboard Oxblood フェンダー [USA製][2026年新モデル]",
+      "price": 308000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10818161/"
     },
     {
-      "id": "DS10818084",
+      "id": "DS10818160",
       "keyword": "Fender",
-      "title": "Fender Custom Shop INORAN Jazzmaster Desert Sand Team Built",
-      "price": 968000,
-      "url": "https://www.digimart.net/cat01/shop2040/DS10818084/"
+      "title": "Fender American Professional Jazz Bass Rosewood Fingerboard Dark Night フェンダー [USA製][2026年新モデル]【",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10818160/"
     },
     {
-      "id": "DS10818072",
+      "id": "DS10818159",
       "keyword": "Fender",
-      "title": "Fender American Vintage II 1966 Jazzmaster / Sherwood Green Metallic",
-      "price": 448800,
-      "url": "https://www.digimart.net/cat01/shop2040/DS10818072/"
+      "title": "Fender American Professional Jazzmaster Rosewood Fingerboard Dark Night フェンダー [USA製][2026年新モデル]",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10818159/"
     },
     {
-      "id": "DS10818070",
+      "id": "DS10818158",
       "keyword": "Fender",
-      "title": "Fender Custom Shop Team Built 1957 Stratocaster Relic ～Black～ 【3.45kg】【2013年製中古】",
-      "price": 698000,
-      "url": "https://www.digimart.net/cat01/shop26/DS10818070/"
+      "title": "Fender American Professional Jazzmaster Rosewood Fingerboard Black フェンダー [USA製][2026年新モデル]【3.7k",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10818158/"
+    },
+    {
+      "id": "DS10818157",
+      "keyword": "Fender",
+      "title": "Fender American Professional Stratocaster HSS Maple Fingerboard Olympic White フェンダー [USA製][2026年新モ",
+      "price": 308000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10818157/"
+    },
+    {
+      "id": "DS10818156",
+      "keyword": "Fender",
+      "title": "Fender American Professional Stratocaster Rosewood Fingerboard Olympic White フェンダー [USA製][2026年新モ",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10818156/"
+    },
+    {
+      "id": "DS10818155",
+      "keyword": "Fender",
+      "title": "Fender American Professional Stratocaster Rosewood Fingerboard Dark Night フェンダー [USA製][2026年新モデル",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10818155/"
+    },
+    {
+      "id": "DS10818153",
+      "keyword": "Fender",
+      "title": "Fender American Professional Jaguar Rosewood Fingerboard Olympic White フェンダー [USA製][2026年新モデル]【",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10818153/"
+    },
+    {
+      "id": "DS10818152",
+      "keyword": "Fender",
+      "title": "Fender American Professional Stratocaster Rosewood Fingerboard Black フェンダー [USA製][2026年新モデル]【3.",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10818152/"
+    },
+    {
+      "id": "DS10818151",
+      "keyword": "Fender",
+      "title": "Fender American Professional Stratocaster Maple Fingerboard Oxblood フェンダー [USA製][2026年新モデル]【3.4",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10818151/"
+    },
+    {
+      "id": "DS10818150",
+      "keyword": "Fender",
+      "title": "Fender American Professional Stratocaster Maple Fingerboard Dark Night フェンダー [USA製][2026年新モデル]【",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10818150/"
+    },
+    {
+      "id": "DS10818149",
+      "keyword": "Fender",
+      "title": "Fender American Professional Stratocaster Maple Fingerboard Black フェンダー [USA製][2026年新モデル]【3.7kg",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10818149/"
     }
   ],
   "errors": [],
@@ -238,9 +294,9 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 298,
-      "parsed": 298,
-      "qualifying": 101,
+      "links": 300,
+      "parsed": 300,
+      "qualifying": 113,
       "page_stats": [
         {
           "page": 1,
@@ -264,13 +320,13 @@
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 49
+          "unique_added": 50
         },
         {
           "page": 5,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=5&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 49
+          "unique_added": 50
         },
         {
           "page": 6,
@@ -421,6 +477,6 @@
       ]
     }
   },
-  "collected": 946,
-  "seen_count": 3749
+  "collected": 958,
+  "seen_count": 3771
 }
