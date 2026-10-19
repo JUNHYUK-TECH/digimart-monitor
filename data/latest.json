@@ -1,56 +1,42 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-19T03:00:14.680533+00:00",
+  "checked_at": "2026-10-19T04:04:46.792955+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10817187",
+      "id": "DS10817292",
       "keyword": "Gibson",
-      "title": "Gibson 【良杢×1超軽量】Exclusive Les Paul Standard '50s \"Custom Shop Top\" Unburst #218760048【3.83kg】",
-      "price": 412500,
-      "url": "https://www.digimart.net/cat01/shop26/DS10817187/"
+      "title": "Gibson 【超軽量3.93kg】Les Paul Standard '50s P-90 ~ Gold Top ~ #222260307 【お勧め個体!!】【56スタイル】",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat01/shop26/DS10817292/"
     },
     {
-      "id": "DS10817184",
+      "id": "DS10817274",
       "keyword": "Gibson",
-      "title": "Gibson Memphis Custom Shop 2011 ES-330 VOS w/ B7 Bigsby (Vintage Cherry)",
-      "price": 569800,
-      "url": "https://www.digimart.net/cat01/shop87/DS10817184/"
+      "title": "Gibson Les Paul Standard 50s ~Gold Top~ #210560259【4.72kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop26/DS10817274/"
     },
     {
-      "id": "DS10817170",
+      "id": "DS10817198",
       "keyword": "Gibson",
-      "title": "Gibson USA 2022 Les Paul Classic (Translucent Cherry)",
-      "price": 228800,
-      "url": "https://www.digimart.net/cat01/shop87/DS10817170/"
+      "title": "Gibson Custom Shop 1964 ES-335 Reissue VOS Sixties Cherry 2023",
+      "price": 701000,
+      "url": "https://www.digimart.net/cat01/shop700/DS10817198/"
     },
     {
-      "id": "DS10817212",
+      "id": "DS10815573",
+      "keyword": "Gibson",
+      "title": "Gibson Custom 1957 Les Paul Goldtop Reissue Double Gold VOS【渋谷店】",
+      "price": 594000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10815573/"
+    },
+    {
+      "id": "DS10817254",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) USED 中古 Custom 24-08 10 Top [SN.25 0407069] Paul Reed Smith ポールリードスミス",
-      "price": 609960,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10817212/"
-    },
-    {
-      "id": "DS10817218",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 【2025カタログモデル】1962 Stratocaster Relic Aged Seminole Red #CZ591486【3.56kg】",
-      "price": 751300,
-      "url": "https://www.digimart.net/cat01/shop5389/DS10817218/"
-    },
-    {
-      "id": "DS10817178",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 2009 1960 Stratocaster NOS (Lake Placid Blue)",
-      "price": 503800,
-      "url": "https://www.digimart.net/cat01/shop87/DS10817178/"
-    },
-    {
-      "id": "DS10817177",
-      "keyword": "Fender",
-      "title": "Fender USA 2013 FSR American Vintage 1970's Stratocaster (Black/R/MH)",
-      "price": 261800,
-      "url": "https://www.digimart.net/cat01/shop87/DS10817177/"
+      "title": "Paul Reed Smith(PRS) 513 Mahogany 10Top Johnny Hiland Model / Violin Amber Burs",
+      "price": 473000,
+      "url": "https://www.digimart.net/cat01/shop4938/DS10817254/"
     }
   ],
   "errors": [],
@@ -147,7 +133,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 237,
+      "qualifying": 236,
       "page_stats": [
         {
           "page": 1,
@@ -191,7 +177,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 94,
+      "qualifying": 92,
       "page_stats": [
         {
           "page": 1,
@@ -372,6 +358,6 @@
       ]
     }
   },
-  "collected": 935,
-  "seen_count": 3690
+  "collected": 932,
+  "seen_count": 3695
 }
