@@ -1,119 +1,105 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-19T07:22:23.184405+00:00",
+  "checked_at": "2026-10-19T08:12:41.468038+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10817973",
+      "id": "DS10818007",
       "keyword": "Gibson",
-      "title": "Gibson 1942 LG-2 AJ 1930s Burst VOS 2025",
-      "price": 466400,
-      "url": "https://www.digimart.net/cat02/shop5032/DS10817973/"
+      "title": "Gibson 【セカンド品】SG Standard 61 Stop Bar -Classic White- 【#213360259】【3.07kg】",
+      "price": 249700,
+      "url": "https://www.digimart.net/cat01/shop38/DS10818007/"
     },
     {
-      "id": "DS10817969",
+      "id": "DS10817986",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s P-90 -Gold Top-【#210160119】【4.08kg】",
-      "price": 330000,
-      "url": "https://www.digimart.net/cat01/shop38/DS10817969/"
+      "title": "Gibson ~Japan Exclusive Model~ Les Paul Standard 50s Custom Shop Top -Heritage Cherry Sunburst-",
+      "price": 412500,
+      "url": "https://www.digimart.net/cat01/shop38/DS10817986/"
     },
     {
-      "id": "DS10817927",
+      "id": "DS10817978",
       "keyword": "Gibson",
-      "title": "Gibson 80's Custom Shop Edition Les Paul Reissue",
-      "price": 550000,
-      "url": "https://www.digimart.net/cat01/shop5330/DS10817927/"
+      "title": "Gibson Les Paul Standard 50s Double Trouble -Vintage Cherry Sunburst- 【#218160204】【超軽量3.89kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop38/DS10817978/"
     },
     {
-      "id": "DS10817925",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Recording Walnut【ロッキン岐阜店12周年記念セール!】",
-      "price": 498000,
-      "url": "https://www.digimart.net/cat01/shop4978/DS10817925/"
-    },
-    {
-      "id": "DS10817862",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1959 Les Paul Standard Reissue VOS Western Desert Fade【ロッキン岐阜店12周年記念セール!】",
-      "price": 957000,
-      "url": "https://www.digimart.net/cat01/shop4978/DS10817862/"
-    },
-    {
-      "id": "DS10817811",
-      "keyword": "Gibson",
-      "title": "Gibson Songwriter Recording Artist EC Antique Natural【ロッキン岐阜店12周年記念セール!】",
-      "price": 577500,
-      "url": "https://www.digimart.net/cat02/shop4978/DS10817811/"
-    },
-    {
-      "id": "DS10817791",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 Special Satin Wine Red【ロッキン岐阜店12周年記念セール!】",
-      "price": 258000,
-      "url": "https://www.digimart.net/cat02/shop4978/DS10817791/"
-    },
-    {
-      "id": "DS10817777",
-      "keyword": "Gibson",
-      "title": "Gibson Southern Jumbo 2013",
-      "price": 297000,
-      "url": "https://www.digimart.net/cat02/shop5032/DS10817777/"
-    },
-    {
-      "id": "DS10817765",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Classic Translucent Red 2019【ロッキン岐阜店12周年記念セール!】",
-      "price": 258000,
-      "url": "https://www.digimart.net/cat01/shop4978/DS10817765/"
-    },
-    {
-      "id": "DS10817750",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 Standard アコースティックギター",
-      "price": 385000,
-      "url": "https://www.digimart.net/cat02/shop5443/DS10817750/"
-    },
-    {
-      "id": "DS10817867",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Silver Sky Maple Frost 2021",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat01/shop5393/DS10817867/"
-    },
-    {
-      "id": "DS10817977",
+      "id": "DS10818139",
       "keyword": "Fender",
-      "title": "Fender Custom Shop 1961 Jazz Bass Closet Classic Black 2012【ロッキン岐阜店12周年記念セール!】",
-      "price": 550000,
-      "url": "https://www.digimart.net/cat03/shop4978/DS10817977/"
+      "title": "Fender American Vintage II 1951 Telecaster / Butterscotch Blonde",
+      "price": 412500,
+      "url": "https://www.digimart.net/cat01/shop2040/DS10818139/"
     },
     {
-      "id": "DS10817885",
+      "id": "DS10818135",
       "keyword": "Fender",
-      "title": "Fender Custom Shop USED 中古 1963 Stratocaster Journeyman Relic Rosewood Neck Aged Vintage White SN. R132954",
-      "price": 684420,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10817885/"
+      "title": "Fender American Vintage II 1961 Stratocaster / 3CS",
+      "price": 393800,
+      "url": "https://www.digimart.net/cat01/shop2040/DS10818135/"
     },
     {
-      "id": "DS10817856",
+      "id": "DS10818133",
       "keyword": "Fender",
-      "title": "Fender Custom Shop Limited Edition Double Custom Esquire LCC -Aged Copper- #CZ5589354 ≒3.57kg",
-      "price": 734800,
-      "url": "https://www.digimart.net/cat01/shop60/DS10817856/"
+      "title": "Fender American Vintage II 1966 Jazzmaster / 3CS",
+      "price": 448800,
+      "url": "https://www.digimart.net/cat01/shop2040/DS10818133/"
     },
     {
-      "id": "DS10817843",
+      "id": "DS10818130",
       "keyword": "Fender",
-      "title": "Fender Custom Shop 1960 Stratocaster Journeyman Relic -Bleached 3-Color Sunburst- 【3.46kg】",
-      "price": 951500,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10817843/"
+      "title": "Fender American Vintage II 1975 Telecaster Deluxe / Mocha",
+      "price": 437800,
+      "url": "https://www.digimart.net/cat01/shop2040/DS10818130/"
     },
     {
-      "id": "DS10687273",
-      "keyword": "Nord",
-      "title": "CLAVIA Nord Electro 6D 61",
-      "price": 341000,
-      "url": "https://www.digimart.net/cat06/shop1720/DS10687273/"
+      "id": "DS10818107",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Vintage Custom 1959 Stratocaster NOS Blue Ice Metallic #R139306",
+      "price": 752400,
+      "url": "https://www.digimart.net/cat01/shop2040/DS10818107/"
+    },
+    {
+      "id": "DS10818104",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 1950s Telecaster Thinline Journeyman Relic / 2CS",
+      "price": 818400,
+      "url": "https://www.digimart.net/cat01/shop2040/DS10818104/"
+    },
+    {
+      "id": "DS10818096",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 1965 Telecaster Closet Classic/NOS / Target 3CS",
+      "price": 803000,
+      "url": "https://www.digimart.net/cat01/shop2040/DS10818096/"
+    },
+    {
+      "id": "DS10818089",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 1964 Jaguar Journeyman Relic / Faded Aged Lake Placid Blue",
+      "price": 924000,
+      "url": "https://www.digimart.net/cat01/shop2040/DS10818089/"
+    },
+    {
+      "id": "DS10818084",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop INORAN Jazzmaster Desert Sand Team Built",
+      "price": 968000,
+      "url": "https://www.digimart.net/cat01/shop2040/DS10818084/"
+    },
+    {
+      "id": "DS10818072",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1966 Jazzmaster / Sherwood Green Metallic",
+      "price": 448800,
+      "url": "https://www.digimart.net/cat01/shop2040/DS10818072/"
+    },
+    {
+      "id": "DS10818070",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Team Built 1957 Stratocaster Relic ～Black～ 【3.45kg】【2013年製中古】",
+      "price": 698000,
+      "url": "https://www.digimart.net/cat01/shop26/DS10818070/"
     }
   ],
   "errors": [],
@@ -166,7 +152,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 144,
+      "qualifying": 142,
       "page_stats": [
         {
           "page": 1,
@@ -252,9 +238,9 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 300,
-      "parsed": 300,
-      "qualifying": 95,
+      "links": 298,
+      "parsed": 298,
+      "qualifying": 101,
       "page_stats": [
         {
           "page": 1,
@@ -278,13 +264,13 @@
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 5,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=5&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 6,
@@ -435,6 +421,6 @@
       ]
     }
   },
-  "collected": 942,
-  "seen_count": 3735
+  "collected": 946,
+  "seen_count": 3749
 }
