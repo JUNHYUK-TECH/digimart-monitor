@@ -1,51 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-19T16:00:22.771525+00:00",
+  "checked_at": "2026-10-19T17:04:24.619760+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10818914",
-      "keyword": "Gibson",
-      "title": "Gibson Guitar of The Month LP-295 Gold Top 2008 【Autumn Sale!!】",
-      "price": 660000,
-      "url": "https://www.digimart.net/cat01/shop2340/DS10818914/"
-    },
-    {
-      "id": "DS10818909",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Custom 3 Pickups 1976【Autumn Sale!!】",
-      "price": 968000,
-      "url": "https://www.digimart.net/cat01/shop2340/DS10818909/"
-    },
-    {
-      "id": "DS10818908",
-      "keyword": "Gibson",
-      "title": "Gibson Memphis ES-335 Figured 2019 Model Blue Burst【Autumn Sale!!】",
-      "price": 363000,
-      "url": "https://www.digimart.net/cat01/shop2340/DS10818908/"
-    },
-    {
-      "id": "DS10818913",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop MBS 1963 Stratocaster NOS Built by Dennis Galuszka 【Autumn Sale!!】",
-      "price": 770000,
-      "url": "https://www.digimart.net/cat01/shop2340/DS10818913/"
-    },
-    {
-      "id": "DS10818911",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Limited Edition 1964 Stratocaster L-Series Heavy Relic 3A RW FB Aged Daphne Blue【Autumn Sale!!】",
-      "price": 693000,
-      "url": "https://www.digimart.net/cat01/shop2340/DS10818911/"
-    },
-    {
-      "id": "DS10818905",
-      "keyword": "Fender",
-      "title": "Fender American Acoustasonic Telecaster Ebony Fingerboard Surf Green【Autumn Sale!!】",
-      "price": 198000,
-      "url": "https://www.digimart.net/cat02/shop2340/DS10818905/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
