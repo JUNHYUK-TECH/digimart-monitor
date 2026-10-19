@@ -1,42 +1,154 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-19T04:04:46.792955+00:00",
+  "checked_at": "2026-10-19T05:03:43.582791+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10817292",
+      "id": "DS10817448",
       "keyword": "Gibson",
-      "title": "Gibson 【超軽量3.93kg】Les Paul Standard '50s P-90 ~ Gold Top ~ #222260307 【お勧め個体!!】【56スタイル】",
-      "price": 330000,
-      "url": "https://www.digimart.net/cat01/shop26/DS10817292/"
+      "title": "Gibson L-00 Century 12-Fret Vintage Sunburst 【Autumn SALE】",
+      "price": 301400,
+      "url": "https://www.digimart.net/cat02/shop3200/DS10817448/"
     },
     {
-      "id": "DS10817274",
+      "id": "DS10817447",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s ~Gold Top~ #210560259【4.72kg】",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop26/DS10817274/"
+      "title": "Gibson L-00 Standard Vintage Sunburst 【Autumn SALE】",
+      "price": 352000,
+      "url": "https://www.digimart.net/cat02/shop3200/DS10817447/"
     },
     {
-      "id": "DS10817198",
+      "id": "DS10817445",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1964 ES-335 Reissue VOS Sixties Cherry 2023",
-      "price": 701000,
-      "url": "https://www.digimart.net/cat01/shop700/DS10817198/"
+      "title": "Gibson 50s J-45 Original Vintage Sunburst 【Autumn SALE】",
+      "price": 379500,
+      "url": "https://www.digimart.net/cat02/shop3200/DS10817445/"
     },
     {
-      "id": "DS10815573",
+      "id": "DS10817444",
       "keyword": "Gibson",
-      "title": "Gibson Custom 1957 Les Paul Goldtop Reissue Double Gold VOS【渋谷店】",
-      "price": 594000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10815573/"
+      "title": "Gibson LG-2 50s Original Vintage Sunburst 【Autumn SALE】",
+      "price": 372900,
+      "url": "https://www.digimart.net/cat02/shop3200/DS10817444/"
     },
     {
-      "id": "DS10817254",
+      "id": "DS10817442",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop SJ-200 Standard Birdseye Natural 【Autumn SALE】",
+      "price": 893200,
+      "url": "https://www.digimart.net/cat02/shop3200/DS10817442/"
+    },
+    {
+      "id": "DS10817440",
+      "keyword": "Gibson",
+      "title": "Gibson SJ-200 Standard Maple Tri-Burst 【Autumn SALE】",
+      "price": 753001,
+      "url": "https://www.digimart.net/cat02/shop3200/DS10817440/"
+    },
+    {
+      "id": "DS10817439",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Hummingbird Original Ebony 【Autumn SALE】",
+      "price": 561000,
+      "url": "https://www.digimart.net/cat02/shop3200/DS10817439/"
+    },
+    {
+      "id": "DS10817438",
+      "keyword": "Gibson",
+      "title": "Gibson Dove Original Antique Natural 【Autumn SALE】",
+      "price": 628001,
+      "url": "https://www.digimart.net/cat02/shop3200/DS10817438/"
+    },
+    {
+      "id": "DS10817381",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 Standard 【Vintage Sunburst】",
+      "price": 435600,
+      "url": "https://www.digimart.net/cat02/shop1640/DS10817381/"
+    },
+    {
+      "id": "DS10817359",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 1968 Les Paul Custom Reissue Gloss Ebony #507408 ウエイト4.22キロ",
+      "price": 847000,
+      "url": "https://www.digimart.net/cat01/shop460/DS10817359/"
+    },
+    {
+      "id": "DS10817356",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Les Paul Axcess Standard Root Beer Floyd Rose Gloss GH 【Autumn SALE】",
+      "price": 827200,
+      "url": "https://www.digimart.net/cat01/shop4861/DS10817356/"
+    },
+    {
+      "id": "DS10817355",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Les Paul Custom Copper Penny Gloss 【Autumn SALE】",
+      "price": 957000,
+      "url": "https://www.digimart.net/cat01/shop4861/DS10817355/"
+    },
+    {
+      "id": "DS10817354",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Japan Limited 1957 Les Paul Standard Candy Apple Blue VOS 【Autumn SALE】",
+      "price": 748000,
+      "url": "https://www.digimart.net/cat01/shop4861/DS10817354/"
+    },
+    {
+      "id": "DS10817353",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 1957 Les Paul Standard Sweet Green Shift Gloss NH 【Autumn SALE】",
+      "price": 955900,
+      "url": "https://www.digimart.net/cat01/shop4861/DS10817353/"
+    },
+    {
+      "id": "DS10817326",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 60s Figured Top Unburst 2022",
+      "price": 268000,
+      "url": "https://www.digimart.net/cat01/shop4978/DS10817326/"
+    },
+    {
+      "id": "DS10817473",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 513 Mahogany 10Top Johnny Hiland Model / Violin Amber Burs",
-      "price": 473000,
-      "url": "https://www.digimart.net/cat01/shop4938/DS10817254/"
+      "title": "Paul Reed Smith(PRS) 1980 West Street Limited 2007年製USED",
+      "price": 698500,
+      "url": "https://www.digimart.net/cat01/shop35/DS10817473/"
+    },
+    {
+      "id": "DS10817516",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Relic Jazz Bass Sonic Blue Matching Head \"Vince Cunetto Era\"【1997年製】",
+      "price": 598000,
+      "url": "https://www.digimart.net/cat03/shop4978/DS10817516/"
+    },
+    {
+      "id": "DS10817511",
+      "keyword": "Fender",
+      "title": "Fender American Professional Telecaster®, Rosewood Fingerboard, Dark Night",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop1720/DS10817511/"
+    },
+    {
+      "id": "DS10817510",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 1951 Telecaster Journeyman Relic -Aged Nocaster Blonde- 【3.30kg】",
+      "price": 968000,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10817510/"
+    },
+    {
+      "id": "DS10817498",
+      "keyword": "Fender",
+      "title": "Fender American Professional Jazzmaster Rosewood Fingerboard Black 【梅田店】",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10817498/"
+    },
+    {
+      "id": "DS10817387",
+      "keyword": "Fender",
+      "title": "Fender 《現物画像 / クリアランス特価！》American Professional Classic Jaguar Faded Sherwood Green Metallic",
+      "price": 237600,
+      "url": "https://www.digimart.net/cat01/shop5387/DS10817387/"
     }
   ],
   "errors": [],
@@ -359,5 +471,5 @@
     }
   },
   "collected": 932,
-  "seen_count": 3695
+  "seen_count": 3716
 }
