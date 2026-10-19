@@ -1,58 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-19T13:15:11.959877+00:00",
+  "checked_at": "2026-10-19T14:10:36.316535+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10818137",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard【2012年製】【現物画像】",
-      "price": 182980,
-      "url": "https://www.digimart.net/cat01/shop5185/DS10818137/"
-    },
-    {
-      "id": "DS10818898",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Gibson 2017年製 J-35 VINTAGE",
-      "price": 528000,
-      "url": "https://www.digimart.net/cat02/shop63/DS10818898/"
-    },
-    {
-      "id": "DS10818896",
-      "keyword": "Gibson",
-      "title": "Gibson 2016年製 1950's J-45 Antiquity",
-      "price": 418000,
-      "url": "https://www.digimart.net/cat02/shop63/DS10818896/"
-    },
-    {
-      "id": "DS10818405",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Historic Collection 1956 Les Paul Goldtop Reissue VOS Double Gold 【名古屋栄店】",
-      "price": 671000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818405/"
-    },
-    {
-      "id": "DS10818404",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Murphy Lab 1968 Les Paul Custom Reissue Ultra Light Aged Ebony 【名古屋栄店】",
-      "price": 972400,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818404/"
-    },
-    {
-      "id": "DS10818403",
-      "keyword": "Fender",
-      "title": "Fender Limited Edition American Professional Classic Telecaster Roasted Maple Fingerboard Butterscotch Blon",
-      "price": 264000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818403/"
-    },
-    {
-      "id": "DS10818402",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster Maple Fingerboard Natural 【名古屋栄店】",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818402/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
