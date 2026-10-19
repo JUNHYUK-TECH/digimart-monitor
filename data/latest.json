@@ -1,49 +1,56 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-19T12:03:19.732772+00:00",
+  "checked_at": "2026-10-19T13:15:11.959877+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10818809",
+      "id": "DS10818137",
       "keyword": "Gibson",
-      "title": "Gibson J-160E お買得品",
-      "price": 279800,
-      "url": "https://www.digimart.net/cat02/shop4682/DS10818809/"
+      "title": "Gibson Les Paul Standard【2012年製】【現物画像】",
+      "price": 182980,
+      "url": "https://www.digimart.net/cat01/shop5185/DS10818137/"
     },
     {
-      "id": "DS10818719",
+      "id": "DS10818898",
       "keyword": "Gibson",
-      "title": "Gibson Dave Mustaine Flying V EXP Antique Natural / 2022",
-      "price": 275000,
-      "url": "https://www.digimart.net/cat01/shop1220/DS10818719/"
+      "title": "Gibson Custom Shop Gibson 2017年製 J-35 VINTAGE",
+      "price": 528000,
+      "url": "https://www.digimart.net/cat02/shop63/DS10818898/"
     },
     {
-      "id": "DS10818798",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) PRS SE Custom24 Quilt Sapphire",
-      "price": 112000,
-      "url": "https://www.digimart.net/cat01/shop5073/DS10818798/"
+      "id": "DS10818896",
+      "keyword": "Gibson",
+      "title": "Gibson 2016年製 1950's J-45 Antiquity",
+      "price": 418000,
+      "url": "https://www.digimart.net/cat02/shop63/DS10818896/"
     },
     {
-      "id": "DS10818531",
+      "id": "DS10818405",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Historic Collection 1956 Les Paul Goldtop Reissue VOS Double Gold 【名古屋栄店】",
+      "price": 671000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10818405/"
+    },
+    {
+      "id": "DS10818404",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Murphy Lab 1968 Les Paul Custom Reissue Ultra Light Aged Ebony 【名古屋栄店】",
+      "price": 972400,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10818404/"
+    },
+    {
+      "id": "DS10818403",
       "keyword": "Fender",
-      "title": "Fender American Vintage 52 Telecaster (BTB)",
-      "price": 297000,
-      "url": "https://www.digimart.net/cat01/shop4790/DS10818531/"
+      "title": "Fender Limited Edition American Professional Classic Telecaster Roasted Maple Fingerboard Butterscotch Blon",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10818403/"
     },
     {
-      "id": "DS10818819",
+      "id": "DS10818402",
       "keyword": "Fender",
-      "title": "Fender 【展示1本特価】American Professional II Telecaster Butterscotch Blonde #US24035015【現物写真】",
-      "price": 252656,
-      "url": "https://www.digimart.net/cat01/shop5102/DS10818819/"
-    },
-    {
-      "id": "DS10818835",
-      "keyword": "Fender",
-      "title": "Fender 1997 90s Tele Thinline American Special Series",
-      "price": 220000,
-      "url": "https://www.digimart.net/cat01/shop64/DS10818835/"
+      "title": "Fender American Professional Telecaster Maple Fingerboard Natural 【名古屋栄店】",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10818402/"
     }
   ],
   "errors": [],
@@ -96,7 +103,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 150,
+      "qualifying": 151,
       "page_stats": [
         {
           "page": 1,
@@ -184,7 +191,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 107,
+      "qualifying": 108,
       "page_stats": [
         {
           "page": 1,
@@ -365,6 +372,6 @@
       ]
     }
   },
-  "collected": 959,
-  "seen_count": 3815
+  "collected": 961,
+  "seen_count": 3822
 }
