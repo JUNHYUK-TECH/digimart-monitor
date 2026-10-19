@@ -1,16 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-19T01:11:14.426701+00:00",
+  "checked_at": "2026-10-19T01:58:35.531044+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10816816",
-      "keyword": "Gibson",
-      "title": "Gibson Southern Jumbo Original Vintage Sunburst アコースティックギター オール単板",
-      "price": 462000,
-      "url": "https://www.digimart.net/cat02/shop5076/DS10816816/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -299,8 +291,8 @@
     },
     "Fractal": {
       "pages": 4,
-      "links": 165,
-      "parsed": 165,
+      "links": 166,
+      "parsed": 166,
       "qualifying": 94,
       "page_stats": [
         {
@@ -324,8 +316,8 @@
         {
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
-          "links": 15,
-          "unique_added": 15
+          "links": 16,
+          "unique_added": 16
         }
       ]
     }
