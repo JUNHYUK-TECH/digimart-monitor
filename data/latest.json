@@ -1,273 +1,49 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-19T11:00:21.252764+00:00",
+  "checked_at": "2026-10-19T12:03:19.732772+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10818797",
+      "id": "DS10818809",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Historic Collection 1957 Les Paul Standard VOS Antique Gold 2013年製 【返品OK】[VMN29]【梅田店在庫】",
-      "price": 638000,
-      "url": "https://www.digimart.net/cat01/shop3580/DS10818797/"
+      "title": "Gibson J-160E お買得品",
+      "price": 279800,
+      "url": "https://www.digimart.net/cat02/shop4682/DS10818809/"
     },
     {
-      "id": "DS10818790",
+      "id": "DS10818719",
       "keyword": "Gibson",
-      "title": "Gibson J-185 Century 12-Fret Cherry #22905049",
-      "price": 363000,
-      "url": "https://www.digimart.net/cat02/shop4540/DS10818790/"
+      "title": "Gibson Dave Mustaine Flying V EXP Antique Natural / 2022",
+      "price": 275000,
+      "url": "https://www.digimart.net/cat01/shop1220/DS10818719/"
     },
     {
-      "id": "DS10818747",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 60s Figured Top (Ocean Blue) 【S/N 223960068】",
-      "price": 348700,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10818747/"
-    },
-    {
-      "id": "DS10818745",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Studio Double Trouble (Dirty Lemon Burst) 【S/N 221660284】",
-      "price": 215600,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10818745/"
-    },
-    {
-      "id": "DS10818744",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Murphy Lab 1968 Les Paul Custom Reissue Ebony Ultra Light Aged 【S/N 606988】",
-      "price": 972400,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10818744/"
-    },
-    {
-      "id": "DS10818743",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Special (TV Yellow) 【S/N 219350297】",
-      "price": 199000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10818743/"
-    },
-    {
-      "id": "DS10818742",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Special (TV Yellow) 【S/N 201360263】",
-      "price": 199000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10818742/"
-    },
-    {
-      "id": "DS10818684",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 Standard with HiFi DNA Vintage Sunburst エレアコ ピックアップ搭載 アコースティックギター",
-      "price": 387000,
-      "url": "https://www.digimart.net/cat02/shop5352/DS10818684/"
-    },
-    {
-      "id": "DS10818548",
-      "keyword": "Gibson",
-      "title": "Gibson SG Standard Ebony [3.01kg/2007年製] ギブソン 【池袋店】",
-      "price": 176000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818548/"
-    },
-    {
-      "id": "DS10818585",
-      "keyword": "Gibson",
-      "title": "Gibson Pre-Historic Collection 1957 Les Paul Custom \"Black Beauty\" 1992年製 Ebony 【心斎橋店】",
-      "price": 792000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818585/"
-    },
-    {
-      "id": "DS10817740",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Figured Top Blueberry Burst【即納可能】2026/10/19更新",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop5076/DS10817740/"
-    },
-    {
-      "id": "DS10818690",
+      "id": "DS10818798",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Custom 22 Semi-Hollow Limited -Fire Red Burst-",
-      "price": 648000,
-      "url": "https://www.digimart.net/cat01/shop60/DS10818690/"
+      "title": "Paul Reed Smith(PRS) PRS SE Custom24 Quilt Sapphire",
+      "price": 112000,
+      "url": "https://www.digimart.net/cat01/shop5073/DS10818798/"
     },
     {
-      "id": "DS10818501",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 【中古】 エレキギター PRS Custom 22 Braziilian Limited 10Top Trem Quilt Blue Matteo 2003年製",
-      "price": 598000,
-      "url": "https://www.digimart.net/cat01/shop1000/DS10818501/"
-    },
-    {
-      "id": "DS10818609",
+      "id": "DS10818531",
       "keyword": "Fender",
-      "title": "Fender American Professional Jazz Bass Rosewood 3-Color Sunburst[USA製][2026年新モデル]【池袋店】",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10818609/"
+      "title": "Fender American Vintage 52 Telecaster (BTB)",
+      "price": 297000,
+      "url": "https://www.digimart.net/cat01/shop4790/DS10818531/"
     },
     {
-      "id": "DS10818608",
+      "id": "DS10818819",
       "keyword": "Fender",
-      "title": "Fender American Professional Jazz Bass Maple 3-Color Sunburst[USA製][2026年新モデル]【池袋店】",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10818608/"
+      "title": "Fender 【展示1本特価】American Professional II Telecaster Butterscotch Blonde #US24035015【現物写真】",
+      "price": 252656,
+      "url": "https://www.digimart.net/cat01/shop5102/DS10818819/"
     },
     {
-      "id": "DS10818607",
+      "id": "DS10818835",
       "keyword": "Fender",
-      "title": "Fender American Professional Jazz Bass Rosewood Oxblood[USA製][2026年新モデル]【池袋店】",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10818607/"
-    },
-    {
-      "id": "DS10818606",
-      "keyword": "Fender",
-      "title": "Fender American Professional Precision Bass V Rosewood Olympic White[USA製][2026年新モデル]【池袋店】",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10818606/"
-    },
-    {
-      "id": "DS10818605",
-      "keyword": "Fender",
-      "title": "Fender American Professional Precision Bass Maple Olympic White[USA製][2026年新モデル]【池袋店】",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10818605/"
-    },
-    {
-      "id": "DS10818602",
-      "keyword": "Fender",
-      "title": "Fender American Professional Precision Bass Rosewood Dark Night[USA製][2026年新モデル]【池袋店】",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10818602/"
-    },
-    {
-      "id": "DS10818601",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster Maple Butterscotch Blonde[USA製][2026年新モデル]【池袋店】",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818601/"
-    },
-    {
-      "id": "DS10818599",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster Maple 3-Color Sunburst[USA製][2026年新モデル]【池袋店】",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818599/"
-    },
-    {
-      "id": "DS10818598",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster Maple Oxblood[USA製][2026年新モデル]【池袋店】",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818598/"
-    },
-    {
-      "id": "DS10818597",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster Rosewood Oxblood[USA製][2026年新モデル]【池袋店】",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818597/"
-    },
-    {
-      "id": "DS10818596",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster HSS Rosewood 3-Color Sunburst[USA製][2026年新モデル]【池袋店】",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818596/"
-    },
-    {
-      "id": "DS10818595",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster Rosewood 3-Color Sunburst[USA製][2026年新モデル]【池袋店】",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818595/"
-    },
-    {
-      "id": "DS10818594",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster Maple 3-Color Sunburst[USA製][2026年新モデル]【池袋店】",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818594/"
-    },
-    {
-      "id": "DS10818593",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster Maple Dark Night[USA製][2026年新モデル]【池袋店】",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818593/"
-    },
-    {
-      "id": "DS10818592",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster Rosewood Oxblood[USA製][2026年新モデル]【池袋店】",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818592/"
-    },
-    {
-      "id": "DS10818590",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster Rosewood Black[USA製][2026年新モデル]【池袋店】",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818590/"
-    },
-    {
-      "id": "DS10818589",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster Maple Black[USA製][2026年新モデル]【池袋店】",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818589/"
-    },
-    {
-      "id": "DS10818588",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster Rosewood Natural[USA製][2026年新モデル]【池袋店】",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818588/"
-    },
-    {
-      "id": "DS10818587",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster Rosewood Black[USA製][2026年新モデル]【池袋店】",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818587/"
-    },
-    {
-      "id": "DS10818542",
-      "keyword": "Fender",
-      "title": "Fender 【中古】 エレキギター Fender American Deluxe Ash Telecaster Maple Fingerboard Wine Transparent",
-      "price": 168000,
-      "url": "https://www.digimart.net/cat01/shop1000/DS10818542/"
-    },
-    {
-      "id": "DS10818493",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 1965 Jazz Bass Journeyman Relic -- Faded Burgundy Mist Metallic/MH-【NEW】",
-      "price": 779000,
-      "url": "https://www.digimart.net/cat03/shop60/DS10818493/"
-    },
-    {
-      "id": "DS10818485",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Limited Edition 1964 Jazz Bass Jouneryman Relic -Aged Fiesta Red-【NEW】",
-      "price": 866800,
-      "url": "https://www.digimart.net/cat03/shop60/DS10818485/"
-    },
-    {
-      "id": "DS10818476",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Limited Edition 1964 Jazz Bass Jouneryman Relic -Aged Lake Placid Blue-【NEW】",
-      "price": 866800,
-      "url": "https://www.digimart.net/cat03/shop60/DS10818476/"
-    },
-    {
-      "id": "DS10818475",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop NOS Stratocaster Desert Sand 1998 ”Abby Pickups”",
-      "price": 550000,
-      "url": "https://www.digimart.net/cat01/shop2340/DS10818475/"
-    },
-    {
-      "id": "DS10818447",
-      "keyword": "Fender",
-      "title": "Fender USA American Professional Classic Jazz Bass -Faded Firemist Gold-【NEW】",
-      "price": 264000,
-      "url": "https://www.digimart.net/cat03/shop60/DS10818447/"
+      "title": "Fender 1997 90s Tele Thinline American Special Series",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat01/shop64/DS10818835/"
     }
   ],
   "errors": [],
@@ -320,7 +96,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 149,
+      "qualifying": 150,
       "page_stats": [
         {
           "page": 1,
@@ -362,9 +138,9 @@
     },
     "PRS": {
       "pages": 6,
-      "links": 299,
-      "parsed": 299,
-      "qualifying": 234,
+      "links": 300,
+      "parsed": 300,
+      "qualifying": 235,
       "page_stats": [
         {
           "page": 1,
@@ -400,7 +176,7 @@
           "page": 6,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=PRS&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=6&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 49
+          "unique_added": 50
         }
       ]
     },
@@ -589,6 +365,6 @@
       ]
     }
   },
-  "collected": 957,
-  "seen_count": 3809
+  "collected": 959,
+  "seen_count": 3815
 }
