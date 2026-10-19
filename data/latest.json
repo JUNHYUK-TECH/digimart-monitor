@@ -1,8 +1,16 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-18T23:48:04.008273+00:00",
+  "checked_at": "2026-10-19T01:11:14.426701+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10816816",
+      "keyword": "Gibson",
+      "title": "Gibson Southern Jumbo Original Vintage Sunburst アコースティックギター オール単板",
+      "price": 462000,
+      "url": "https://www.digimart.net/cat02/shop5076/DS10816816/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -141,7 +149,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 92,
+      "qualifying": 91,
       "page_stats": [
         {
           "page": 1,
@@ -185,7 +193,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 183,
+      "qualifying": 184,
       "page_stats": [
         {
           "page": 1,
@@ -323,5 +331,5 @@
     }
   },
   "collected": 931,
-  "seen_count": 3682
+  "seen_count": 3683
 }
