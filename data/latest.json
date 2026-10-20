@@ -1,63 +1,112 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-20T05:59:19.940802+00:00",
+  "checked_at": "2026-10-20T07:15:18.685226+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10819521",
+      "id": "DS10819675",
       "keyword": "Gibson",
-      "title": "Gibson SG Standard 61 TV Yellow 【新宿店】",
-      "price": 218000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10819521/"
+      "title": "Gibson 【軽量個体】 Custom Color Series SG Standard TV Yellow #217660296 【2.84kg】【G-CLUB TOKYO】",
+      "price": 225500,
+      "url": "https://www.digimart.net/cat01/shop35/DS10819675/"
     },
     {
-      "id": "DS10819455",
+      "id": "DS10819674",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Classic Ebony 【御茶ノ水本店】",
-      "price": 268000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10819455/"
+      "title": "Gibson Custom Shop 1968 Les Paul Custom Reissue Murphy Lab Ultra Light Aged (Ebony) 【Weight≒4.17kg】",
+      "price": 973500,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10819674/"
     },
     {
-      "id": "DS10819562",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Standard 24-08 BLACK Limited Model 【現物画像】",
-      "price": 138600,
-      "url": "https://www.digimart.net/cat01/shop5327/DS10819562/"
+      "id": "DS10819673",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 1957 Les Paul Standard Reissue Gold Top Dark Back VOS (Double Gold) 【Weight≒3.77kg】",
+      "price": 704000,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10819673/"
     },
     {
-      "id": "DS10819496",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom24 Charcoal Cherry Burst",
-      "price": 108000,
-      "url": "https://www.digimart.net/cat01/shop5073/DS10819496/"
+      "id": "DS10819672",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 1954 Les Paul Standard Reissue VOS (Double Gold) 【Weight≒3.83kg】",
+      "price": 682000,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10819672/"
     },
     {
-      "id": "DS10819457",
-      "keyword": "Fender",
-      "title": "Fender American Acoustasonic Telecaster Natural 【御茶ノ水HARVEST_GUITARS】",
-      "price": 218000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10819457/"
+      "id": "DS10819659",
+      "keyword": "Gibson",
+      "title": "Gibson 【特価】 J-45 Standard (Vintage Sunburst) 【チョイキズ特価】 ギブソン",
+      "price": 339000,
+      "url": "https://www.digimart.net/cat02/shop5331/DS10819659/"
     },
     {
-      "id": "DS10819456",
-      "keyword": "Fender",
-      "title": "Fender American Vintage 62 Stratocaster Black ”Thin Lacquer” 【御茶ノ水本店】",
+      "id": "DS10819658",
+      "keyword": "Gibson",
+      "title": "Gibson 【特価】 【ファクトリー選定品】Dove Anniversary Limited Edition （Cremona Burst）【店頭チョイキズ...",
+      "price": 689000,
+      "url": "https://www.digimart.net/cat02/shop5331/DS10819658/"
+    },
+    {
+      "id": "DS10819652",
+      "keyword": "Gibson",
+      "title": "Gibson USED 中古 Les Paul Traditional(Honey Burst)[SN.121830531]ギブソン",
+      "price": 231000,
+      "url": "https://www.digimart.net/cat01/shop4/DS10819652/"
+    },
+    {
+      "id": "DS10819651",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Murphy Lab 1958 Les Paul Standard Reissue Bourbon Burst Ultra Light Aged SN. 8 6733",
+      "price": 781000,
+      "url": "https://www.digimart.net/cat01/shop4/DS10819651/"
+    },
+    {
+      "id": "DS10819647",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard '60s Figured -Iced Tea- #224060037【4.12kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10819647/"
+    },
+    {
+      "id": "DS10819633",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 60s Figured Top Blueberry Burst (重量:4.41kg) 【新宿店】",
       "price": 298000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10819456/"
+      "url": "https://www.digimart.net/cat01/shop1484/DS10819633/"
     },
     {
-      "id": "DS10819109",
+      "id": "DS10819632",
+      "keyword": "Gibson",
+      "title": "Gibson Slash Les Paul Standard Appetite Amber (重量:3.94kg) 【新宿店】",
+      "price": 374000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10819632/"
+    },
+    {
+      "id": "DS10819631",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s P-90 Gold Top (重量:4.22kg) 【新宿店】",
+      "price": 324500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10819631/"
+    },
+    {
+      "id": "DS10819620",
+      "keyword": "Gibson",
+      "title": "Gibson 【NEW】 J-45 Special ~Vintage Sunburst~ #22586038",
+      "price": 258000,
+      "url": "https://www.digimart.net/cat02/shop35/DS10819620/"
+    },
+    {
+      "id": "DS10819655",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) USED 中古 SE Hollowbody Standard(Fire Red Burst)[SN.CTC E27994]ポールリードスミス",
+      "price": 100980,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10819655/"
+    },
+    {
+      "id": "DS10819646",
       "keyword": "Fender",
-      "title": "Fender American Performer Stratocaster",
-      "price": 158000,
-      "url": "https://www.digimart.net/cat01/shop5099/DS10819109/"
-    },
-    {
-      "id": "DS08330207",
-      "keyword": "Fractal",
-      "title": "FRACTAL AUDIO SYSTEMS FM3 MARK II Turbo（フラクタル オーディオ）",
-      "price": 242000,
-      "url": "https://www.digimart.net/cat12/shop5331/DS08330207/"
+      "title": "Fender 2022 American Acoustasonic Jazzmaster Tobacco Sunburst w/Ebony Fingerboard",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat02/shop5330/DS10819646/"
     }
   ],
   "errors": [],
@@ -110,7 +159,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 148,
+      "qualifying": 160,
       "page_stats": [
         {
           "page": 1,
@@ -198,7 +247,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 108,
+      "qualifying": 96,
       "page_stats": [
         {
           "page": 1,
@@ -348,9 +397,9 @@
     },
     "Fractal": {
       "pages": 4,
-      "links": 167,
-      "parsed": 167,
-      "qualifying": 95,
+      "links": 166,
+      "parsed": 166,
+      "qualifying": 94,
       "page_stats": [
         {
           "page": 1,
@@ -373,12 +422,12 @@
         {
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
-          "links": 17,
-          "unique_added": 17
+          "links": 16,
+          "unique_added": 16
         }
       ]
     }
   },
-  "collected": 959,
-  "seen_count": 3865
+  "collected": 958,
+  "seen_count": 3880
 }
