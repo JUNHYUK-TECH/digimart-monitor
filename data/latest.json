@@ -1,98 +1,140 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-20T08:04:42.133710+00:00",
+  "checked_at": "2026-10-20T09:04:05.216861+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10819769",
+      "id": "DS10820151",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop 【超軽量】Dealer Select 1958 Les Paul Junior Double Cutaway Gloss ~Pelham Blue~ #8 6691 【3.22kg】",
+      "title": "Gibson Custom Shop 2023 Historic Collection 1959 Les Paul Standard VOS (Green Lemon)",
+      "price": 657800,
+      "url": "https://www.digimart.net/cat01/shop87/DS10820151/"
+    },
+    {
+      "id": "DS10820149",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Special Double Cutaway TV Yellow",
+      "price": 290400,
+      "url": "https://www.digimart.net/cat01/shop5023/DS10820149/"
+    },
+    {
+      "id": "DS10820144",
+      "keyword": "Gibson",
+      "title": "Gibson 1959 Humbucker Pickup Collector's Edition -Series 1- (Alnico 4)",
+      "price": 145200,
+      "url": "https://www.digimart.net/cat15/shop38/DS10820144/"
+    },
+    {
+      "id": "DS10820058",
+      "keyword": "Gibson",
+      "title": "Gibson Exclusive Model Les Paul Standard 60s Mahogany Top Vintage Cherry 【御茶ノ水本店】",
+      "price": 324500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10820058/"
+    },
+    {
+      "id": "DS10820056",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s Faded Vintage Honey Burst 【御茶ノ水本店】",
+      "price": 286000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10820056/"
+    },
+    {
+      "id": "DS10820054",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Junior Vintage Tobacco Burst 【御茶ノ水本店】",
+      "price": 195800,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10820054/"
+    },
+    {
+      "id": "DS10820053",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s P-90 Gold Top 【御茶ノ水本店】",
+      "price": 324500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10820053/"
+    },
+    {
+      "id": "DS10820052",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s Heritage Cherry Sunburst 【御茶ノ水本店】",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10820052/"
+    },
+    {
+      "id": "DS10819977",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 2016 M2M Historic Collection 1959 Flying V VOS 3 P-90 (Ebony Black)",
+      "price": 594000,
+      "url": "https://www.digimart.net/cat01/shop87/DS10819977/"
+    },
+    {
+      "id": "DS10819972",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop ~Murphy Lab~ 1957 Les Paul Goldtop Double Gold Ultra Light Aged【#761309】【4.01kg】",
+      "price": 798600,
+      "url": "https://www.digimart.net/cat01/shop38/DS10819972/"
+    },
+    {
+      "id": "DS10819966",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Special TV Yellow",
+      "price": 225500,
+      "url": "https://www.digimart.net/cat01/shop4978/DS10819966/"
+    },
+    {
+      "id": "DS10819936",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop ~Dealer Select~ 1958 Les Paul Junior Double Cut Reissue Pelham Blue Gloss 【#86730】【軽量2.96kg】",
       "price": 646800,
-      "url": "https://www.digimart.net/cat01/shop35/DS10819769/"
+      "url": "https://www.digimart.net/cat01/shop38/DS10819936/"
     },
     {
-      "id": "DS10819835",
+      "id": "DS10819922",
       "keyword": "Gibson",
-      "title": "Gibson 2012 Les Paul Junior Special Humbucker Satin Ebony",
-      "price": 154000,
-      "url": "https://www.digimart.net/cat01/shop5330/DS10819835/"
+      "title": "Gibson ES-345 Vintage Sunburst 【福岡店】",
+      "price": 418000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10819922/"
     },
     {
-      "id": "DS10819812",
+      "id": "DS10819486",
       "keyword": "Gibson",
-      "title": "Gibson 【NEW】 Custom Shop Murphy Lab 1946 J-50 Ultra Light Aged #21726002 【G-CLUB TOKYO】",
-      "price": 998000,
-      "url": "https://www.digimart.net/cat02/shop35/DS10819812/"
+      "title": "Gibson Custom Shop 【クロサワ横浜店】1960s J-45 Original ADJ Murphy Lab Light Aged Ebony #22126030",
+      "price": 698000,
+      "url": "https://www.digimart.net/cat02/shop175/DS10819486/"
     },
     {
-      "id": "DS10819807",
+      "id": "DS10819879",
       "keyword": "Gibson",
-      "title": "Gibson SJ200 アコースティックギター 【中古】",
-      "price": 550000,
-      "url": "https://www.digimart.net/cat02/shop4840/DS10819807/"
+      "title": "Gibson Les Paul Deluxe Brown Sunburst 1979",
+      "price": 715000,
+      "url": "https://www.digimart.net/cat01/shop5285/DS10819879/"
     },
     {
-      "id": "DS10819794",
+      "id": "DS10819876",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard Tobacco Burst 1977",
-      "price": 550000,
-      "url": "https://www.digimart.net/cat01/shop5285/DS10819794/"
+      "title": "Gibson Les Paul Custom 1976 Wine Red",
+      "price": 770000,
+      "url": "https://www.digimart.net/cat01/shop5285/DS10819876/"
     },
     {
-      "id": "DS10819777",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard Sunburst 1978",
-      "price": 468000,
-      "url": "https://www.digimart.net/cat01/shop5285/DS10819777/"
-    },
-    {
-      "id": "DS10819765",
-      "keyword": "Gibson",
-      "title": "Gibson G-45 (ギブソン プレイヤー・ポート採用モデル 2022年製 )",
-      "price": 138000,
-      "url": "https://www.digimart.net/cat02/shop4833/DS10819765/"
-    },
-    {
-      "id": "DS10819727",
+      "id": "DS10819939",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Standard 24-08 BLACK limited model 【S/N CTI I016803/3.40kg】 36回まで無金利",
-      "price": 138600,
-      "url": "https://www.digimart.net/cat01/shop5178/DS10819727/"
+      "title": "Paul Reed Smith(PRS) SE Silver Sky 2M（Gold Sparkle）【2025年製】",
+      "price": 143300,
+      "url": "https://www.digimart.net/cat01/shop5072/DS10819939/"
     },
     {
-      "id": "DS10819712",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom24-08 QP FE 島村楽器限定 【S/N CTI I012916/3.56kg】 36回まで無金利",
-      "price": 169400,
-      "url": "https://www.digimart.net/cat01/shop5178/DS10819712/"
-    },
-    {
-      "id": "DS10819758",
+      "id": "DS10819951",
       "keyword": "Fender",
-      "title": "Fender 【中古】American Telecaster【約3.86kg】",
-      "price": 115500,
-      "url": "https://www.digimart.net/cat01/shop5374/DS10819758/"
+      "title": "Fender American Professional Stratocaster Rosewood Fingerboard 3-Color Sunburst",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop4978/DS10819951/"
     },
     {
-      "id": "DS10819804",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Norman's Rare Guitars Order Stratocaster 1993年代製【3.49kg】",
-      "price": 550000,
-      "url": "https://www.digimart.net/cat01/shop26/DS10819804/"
-    },
-    {
-      "id": "DS10819759",
-      "keyword": "Nord",
-      "title": "CLAVIA Nord Electro 7 HP 【2026年11月中旬発売予定・ご予約受付中】",
-      "price": 539000,
-      "url": "https://www.digimart.net/cat06/shop5397/DS10819759/"
-    },
-    {
-      "id": "DS09037172",
+      "id": "DS10819964",
       "keyword": "Fractal",
-      "title": "FRACTAL AUDIO SYSTEMS FM3 MARK II Turbo フラクタル マルチエフェクター 【国内正規品】【WEBSHOP】",
+      "title": "FRACTAL AUDIO SYSTEMS FM3 MARK II TURBO",
       "price": 242000,
-      "url": "https://www.digimart.net/cat13/shop1484/DS09037172/"
+      "url": "https://www.digimart.net/cat13/shop5396/DS10819964/"
     }
   ],
   "errors": [],
@@ -145,7 +187,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 164,
+      "qualifying": 170,
       "page_stats": [
         {
           "page": 1,
@@ -189,7 +231,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 234,
+      "qualifying": 233,
       "page_stats": [
         {
           "page": 1,
@@ -233,7 +275,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 93,
+      "qualifying": 92,
       "page_stats": [
         {
           "page": 1,
@@ -383,9 +425,9 @@
     },
     "Fractal": {
       "pages": 4,
-      "links": 168,
-      "parsed": 168,
-      "qualifying": 96,
+      "links": 169,
+      "parsed": 169,
+      "qualifying": 97,
       "page_stats": [
         {
           "page": 1,
@@ -408,12 +450,12 @@
         {
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
-          "links": 18,
-          "unique_added": 18
+          "links": 19,
+          "unique_added": 19
         }
       ]
     }
   },
-  "collected": 961,
-  "seen_count": 3893
+  "collected": 966,
+  "seen_count": 3912
 }
