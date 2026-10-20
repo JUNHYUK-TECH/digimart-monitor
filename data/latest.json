@@ -1,63 +1,91 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-20T04:01:55.671521+00:00",
+  "checked_at": "2026-10-20T05:01:21.132301+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10819184",
+      "id": "DS10819366",
       "keyword": "Gibson",
-      "title": "Gibson Original Collection Les Paul Special Double Cutaway TV Yellow",
+      "title": "Gibson Victory II MV-2 Metallic Red 1982",
+      "price": 308000,
+      "url": "https://www.digimart.net/cat01/shop5285/DS10819366/"
+    },
+    {
+      "id": "DS10819361",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 ADJ 1970-1972",
+      "price": 440000,
+      "url": "https://www.digimart.net/cat02/shop5285/DS10819361/"
+    },
+    {
+      "id": "DS10819362",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Special TV Yellow【ロッキン岐阜店12周年記念セール!】",
+      "price": 225500,
+      "url": "https://www.digimart.net/cat01/shop4978/DS10819362/"
+    },
+    {
+      "id": "DS10819355",
+      "keyword": "Gibson",
+      "title": "Gibson 1958 J-200 1995",
+      "price": 550000,
+      "url": "https://www.digimart.net/cat02/shop5285/DS10819355/"
+    },
+    {
+      "id": "DS10819314",
+      "keyword": "Gibson",
+      "title": "Gibson 【中古】 Gibson ギブソン SG STANDARD BASS HERITAGE CHERRY 2015年製 エレキベース",
+      "price": 178000,
+      "url": "https://www.digimart.net/cat03/shop1000/DS10819314/"
+    },
+    {
+      "id": "DS10819215",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s P-90 Gold Top 【新宿店】",
+      "price": 324500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10819215/"
+    },
+    {
+      "id": "DS10819208",
+      "keyword": "Gibson",
+      "title": "Gibson '62 ES-125TD",
+      "price": 495000,
+      "url": "https://www.digimart.net/cat01/shop6/DS10819208/"
+    },
+    {
+      "id": "DS10819195",
+      "keyword": "Gibson",
+      "title": "Gibson 【秋の中古楽器セール】Les Paul Studio -WineRed- 【1996'USED】",
+      "price": 148000,
+      "url": "https://www.digimart.net/cat01/shop169/DS10819195/"
+    },
+    {
+      "id": "DS10819409",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Jazz Bass OWT 2023 4.3kg #US23047506【GIB兵庫】【PLEK調整済】",
+      "price": 231000,
+      "url": "https://www.digimart.net/cat03/shop5400/DS10819409/"
+    },
+    {
+      "id": "DS10819226",
+      "keyword": "Fender",
+      "title": "Fender American Elite Telecaster Ebony Fingerboard -2018- Mystic Black 【御茶ノ水本店FINEST GUITARS】",
+      "price": 148000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10819226/"
+    },
+    {
+      "id": "DS10819311",
+      "keyword": "Fender",
+      "title": "Fender フェンダー American Professional Jaguar RW Oxblood エレキギター ジャガー",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat01/shop1000/DS10819311/"
+    },
+    {
+      "id": "DS10819351",
+      "keyword": "Fractal",
+      "title": "FRACTAL AUDIO SYSTEMS FM3 MkII Turbo",
       "price": 242000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10819184/"
-    },
-    {
-      "id": "DS10819174",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Historic Collection 1960 Les Paul Special Single Cut VOS Ebony -2011- 【御茶ノ水本店FINEST GUITARS】",
-      "price": 428000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10819174/"
-    },
-    {
-      "id": "DS10819136",
-      "keyword": "Gibson",
-      "title": "Gibson 1977 Les Paul Custom Cherry Sunburst【Vintage】",
-      "price": 748000,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10819136/"
-    },
-    {
-      "id": "DS10819090",
-      "keyword": "Gibson",
-      "title": "Gibson 1936 Advanced Jumbo -Vintage Sunburst #20844016",
-      "price": 726000,
-      "url": "https://www.digimart.net/cat02/shop4540/DS10819090/"
-    },
-    {
-      "id": "DS10819145",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Wood Library Custom24-08 10Top/Brazilian Rosewood【2017年製】【中古品】【ハカランダ指板】",
-      "price": 880000,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10819145/"
-    },
-    {
-      "id": "DS10819178",
-      "keyword": "Fender",
-      "title": "Fender American Deluxe Stratocaster Ash Aged Cherry Sunburst 【御茶ノ水本店FINEST GUITARS】",
-      "price": 198000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10819178/"
-    },
-    {
-      "id": "DS10819175",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Custom Deluxe Telecaster Dakota Red 【御茶ノ水本店FINEST GUITARS】",
-      "price": 458000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10819175/"
-    },
-    {
-      "id": "DS10819059",
-      "keyword": "Fender",
-      "title": "Fender American Vintage II 1966 Jazz Bass - 3-Color Sunburst【現物画像】【4.18kg】",
-      "price": 303600,
-      "url": "https://www.digimart.net/cat03/shop5297/DS10819059/"
+      "url": "https://www.digimart.net/cat13/shop169/DS10819351/"
     }
   ],
   "errors": [],
@@ -110,7 +138,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 146,
+      "qualifying": 147,
       "page_stats": [
         {
           "page": 1,
@@ -154,7 +182,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 235,
+      "qualifying": 234,
       "page_stats": [
         {
           "page": 1,
@@ -198,7 +226,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 108,
+      "qualifying": 109,
       "page_stats": [
         {
           "page": 1,
@@ -379,6 +407,6 @@
       ]
     }
   },
-  "collected": 957,
-  "seen_count": 3845
+  "collected": 958,
+  "seen_count": 3857
 }
