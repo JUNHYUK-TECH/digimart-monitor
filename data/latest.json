@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-20T16:01:37.589498+00:00",
+  "checked_at": "2026-10-20T17:01:31.345782+00:00",
   "baseline": false,
   "new": [],
   "errors": [],
@@ -141,7 +141,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 73,
+      "qualifying": 74,
       "page_stats": [
         {
           "page": 1,
@@ -322,6 +322,6 @@
       ]
     }
   },
-  "collected": 945,
+  "collected": 946,
   "seen_count": 3981
 }
