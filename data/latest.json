@@ -1,28 +1,63 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-20T03:01:09.568612+00:00",
+  "checked_at": "2026-10-20T04:01:55.671521+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10819008",
+      "id": "DS10819184",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Murphy Lab 1957 Les Paul Gold Top Reissue Double Gold Ultra Light Aged SN. 761249",
-      "price": 798600,
-      "url": "https://www.digimart.net/cat01/shop4/DS10819008/"
+      "title": "Gibson Original Collection Les Paul Special Double Cutaway TV Yellow",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10819184/"
     },
     {
-      "id": "DS10818998",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Bass VI 【4.20kg】",
-      "price": 598000,
-      "url": "https://www.digimart.net/cat03/shop169/DS10818998/"
+      "id": "DS10819174",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Historic Collection 1960 Les Paul Special Single Cut VOS Ebony -2011- 【御茶ノ水本店FINEST GUITARS】",
+      "price": 428000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10819174/"
     },
     {
-      "id": "DS10818980",
+      "id": "DS10819136",
+      "keyword": "Gibson",
+      "title": "Gibson 1977 Les Paul Custom Cherry Sunburst【Vintage】",
+      "price": 748000,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10819136/"
+    },
+    {
+      "id": "DS10819090",
+      "keyword": "Gibson",
+      "title": "Gibson 1936 Advanced Jumbo -Vintage Sunburst #20844016",
+      "price": 726000,
+      "url": "https://www.digimart.net/cat02/shop4540/DS10819090/"
+    },
+    {
+      "id": "DS10819145",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) Wood Library Custom24-08 10Top/Brazilian Rosewood【2017年製】【中古品】【ハカランダ指板】",
+      "price": 880000,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10819145/"
+    },
+    {
+      "id": "DS10819178",
       "keyword": "Fender",
-      "title": "Fender Custom Shop Jaco Pastorius Tribute Fretless Jazz Bass【USED】",
-      "price": 698000,
-      "url": "https://www.digimart.net/cat03/shop60/DS10818980/"
+      "title": "Fender American Deluxe Stratocaster Ash Aged Cherry Sunburst 【御茶ノ水本店FINEST GUITARS】",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10819178/"
+    },
+    {
+      "id": "DS10819175",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Custom Deluxe Telecaster Dakota Red 【御茶ノ水本店FINEST GUITARS】",
+      "price": 458000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10819175/"
+    },
+    {
+      "id": "DS10819059",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1966 Jazz Bass - 3-Color Sunburst【現物画像】【4.18kg】",
+      "price": 303600,
+      "url": "https://www.digimart.net/cat03/shop5297/DS10819059/"
     }
   ],
   "errors": [],
@@ -75,7 +110,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 145,
+      "qualifying": 146,
       "page_stats": [
         {
           "page": 1,
@@ -119,7 +154,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 236,
+      "qualifying": 235,
       "page_stats": [
         {
           "page": 1,
@@ -163,7 +198,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 113,
+      "qualifying": 108,
       "page_stats": [
         {
           "page": 1,
@@ -207,7 +242,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 184,
+      "qualifying": 185,
       "page_stats": [
         {
           "page": 1,
@@ -293,8 +328,8 @@
     },
     "Quad Cortex": {
       "pages": 2,
-      "links": 91,
-      "parsed": 91,
+      "links": 85,
+      "parsed": 85,
       "qualifying": 0,
       "page_stats": [
         {
@@ -306,8 +341,8 @@
         {
           "page": 2,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=&readCount=50&noparallelimportp=&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=&soldoutDispCheck=false&tagWords=&dmsP=&keywordAnd=Quad+Cortex&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=&neckScaleOption=&tagWordsNot=&freeshippingp=&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=&pickupOption=&movieurlp=&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=&brandIdNot=&ecCardP=&ecpurchasep=&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=&fingerboardOption=&noshopsalep=&currentPage=2&shopNo=&stringsoption=&categoryId=&shopsalep=&favorite=false&dispFavorite=false",
-          "links": 41,
-          "unique_added": 41
+          "links": 35,
+          "unique_added": 35
         }
       ]
     },
@@ -344,6 +379,6 @@
       ]
     }
   },
-  "collected": 961,
-  "seen_count": 3837
+  "collected": 957,
+  "seen_count": 3845
 }
