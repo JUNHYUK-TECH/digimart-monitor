@@ -1,105 +1,28 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-20T11:59:49.442295+00:00",
+  "checked_at": "2026-10-20T13:14:54.943426+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10820777",
+      "id": "DS10820827",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Murphy Lab 1956 Les Paul Goldtop Ultra Light Aged Double Gold",
-      "price": 770000,
-      "url": "https://www.digimart.net/cat01/shop1640/DS10820777/"
+      "title": "Gibson Flying V 70s Classic White 2026",
+      "price": 253000,
+      "url": "https://www.digimart.net/cat01/shop3800/DS10820827/"
     },
     {
-      "id": "DS10820742",
+      "id": "DS10819582",
       "keyword": "Gibson",
-      "title": "Gibson B-25 NT 1968",
-      "price": 498000,
-      "url": "https://www.digimart.net/cat02/shop3800/DS10820742/"
+      "title": "Gibson Custom Shop 【カスタムショップ】【マーフィーラボ】 1960s J-45 Ultra Light Aged【担当オススメ】",
+      "price": 698000,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10819582/"
     },
     {
-      "id": "DS10820717",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Classic Plus Translucent Amber 【福岡店】",
-      "price": 297000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10820717/"
-    },
-    {
-      "id": "DS10820696",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard '50s P90 Gold Top #221560083",
-      "price": 330000,
-      "url": "https://www.digimart.net/cat01/shop2040/DS10820696/"
-    },
-    {
-      "id": "DS10820562",
-      "keyword": "Gibson",
-      "title": "Gibson ES-335TDW 1976",
-      "price": 594000,
-      "url": "https://www.digimart.net/cat01/shop4984/DS10820562/"
-    },
-    {
-      "id": "DS10820686",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1958 Les Paul Standard Reissue VOS Lemon Burst #86467",
-      "price": 770000,
-      "url": "https://www.digimart.net/cat01/shop2040/DS10820686/"
-    },
-    {
-      "id": "DS10820685",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Dealer Select Japan Limited Run 1959 Les Paul Standard Reissue / Gloss Factory Burst #961885",
-      "price": 924000,
-      "url": "https://www.digimart.net/cat01/shop2040/DS10820685/"
-    },
-    {
-      "id": "DS10819887",
+      "id": "DS10820811",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom24 【現物画像】 カラー：Charcoal (黒) エレキギター SEカスタム24 チャコール グレー",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop5232/DS10819887/"
-    },
-    {
-      "id": "DS10820755",
-      "keyword": "Fender",
-      "title": "Fender American Vintage 62 Jazz Bass 3Knobs Black 【新宿店】",
-      "price": 217800,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10820755/"
-    },
-    {
-      "id": "DS10820714",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop American Custom Telecaster NOS Sapphire Blue Transparent 【福岡店】",
-      "price": 594000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10820714/"
-    },
-    {
-      "id": "DS10820693",
-      "keyword": "Fender",
-      "title": "Fender American Professional Jazz Bass NAT / M",
-      "price": 330000,
-      "url": "https://www.digimart.net/cat03/shop2040/DS10820693/"
-    },
-    {
-      "id": "DS10820692",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster Butterscotch Blonde / M",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop2040/DS10820692/"
-    },
-    {
-      "id": "DS10820261",
-      "keyword": "Fender",
-      "title": "Fender 【ギグバッグプレゼント!!】American Vintage II 1973 Stratocaster -Olympic White-【V17832】",
-      "price": 393800,
-      "url": "https://www.digimart.net/cat01/shop38/DS10820261/"
-    },
-    {
-      "id": "DS10820256",
-      "keyword": "Fender",
-      "title": "Fender 【ギグバッグプレゼント!!】American Vintage II 1965 Stratocaster ''CS Hand-Wound PU'' -Sonic Blue-",
-      "price": 393800,
-      "url": "https://www.digimart.net/cat01/shop38/DS10820256/"
+      "title": "Paul Reed Smith(PRS) Custom 22 Artist Special 20th Anniversary Gray Black 2005",
+      "price": 990000,
+      "url": "https://www.digimart.net/cat01/shop4943/DS10820811/"
     }
   ],
   "errors": [],
@@ -152,7 +75,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 174,
+      "qualifying": 171,
       "page_stats": [
         {
           "page": 1,
@@ -196,7 +119,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 234,
+      "qualifying": 232,
       "page_stats": [
         {
           "page": 1,
@@ -240,7 +163,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 77,
+      "qualifying": 73,
       "page_stats": [
         {
           "page": 1,
@@ -328,7 +251,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 119,
+      "qualifying": 118,
       "page_stats": [
         {
           "page": 1,
@@ -421,6 +344,6 @@
       ]
     }
   },
-  "collected": 955,
-  "seen_count": 3976
+  "collected": 945,
+  "seen_count": 3979
 }
