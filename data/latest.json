@@ -1,91 +1,63 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-20T05:01:21.132301+00:00",
+  "checked_at": "2026-10-20T05:59:19.940802+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10819366",
+      "id": "DS10819521",
       "keyword": "Gibson",
-      "title": "Gibson Victory II MV-2 Metallic Red 1982",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat01/shop5285/DS10819366/"
+      "title": "Gibson SG Standard 61 TV Yellow 【新宿店】",
+      "price": 218000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10819521/"
     },
     {
-      "id": "DS10819361",
+      "id": "DS10819455",
       "keyword": "Gibson",
-      "title": "Gibson J-45 ADJ 1970-1972",
-      "price": 440000,
-      "url": "https://www.digimart.net/cat02/shop5285/DS10819361/"
+      "title": "Gibson Les Paul Classic Ebony 【御茶ノ水本店】",
+      "price": 268000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10819455/"
     },
     {
-      "id": "DS10819362",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Special TV Yellow【ロッキン岐阜店12周年記念セール!】",
-      "price": 225500,
-      "url": "https://www.digimart.net/cat01/shop4978/DS10819362/"
+      "id": "DS10819562",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Standard 24-08 BLACK Limited Model 【現物画像】",
+      "price": 138600,
+      "url": "https://www.digimart.net/cat01/shop5327/DS10819562/"
     },
     {
-      "id": "DS10819355",
-      "keyword": "Gibson",
-      "title": "Gibson 1958 J-200 1995",
-      "price": 550000,
-      "url": "https://www.digimart.net/cat02/shop5285/DS10819355/"
+      "id": "DS10819496",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Custom24 Charcoal Cherry Burst",
+      "price": 108000,
+      "url": "https://www.digimart.net/cat01/shop5073/DS10819496/"
     },
     {
-      "id": "DS10819314",
-      "keyword": "Gibson",
-      "title": "Gibson 【中古】 Gibson ギブソン SG STANDARD BASS HERITAGE CHERRY 2015年製 エレキベース",
-      "price": 178000,
-      "url": "https://www.digimart.net/cat03/shop1000/DS10819314/"
-    },
-    {
-      "id": "DS10819215",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s P-90 Gold Top 【新宿店】",
-      "price": 324500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10819215/"
-    },
-    {
-      "id": "DS10819208",
-      "keyword": "Gibson",
-      "title": "Gibson '62 ES-125TD",
-      "price": 495000,
-      "url": "https://www.digimart.net/cat01/shop6/DS10819208/"
-    },
-    {
-      "id": "DS10819195",
-      "keyword": "Gibson",
-      "title": "Gibson 【秋の中古楽器セール】Les Paul Studio -WineRed- 【1996'USED】",
-      "price": 148000,
-      "url": "https://www.digimart.net/cat01/shop169/DS10819195/"
-    },
-    {
-      "id": "DS10819409",
+      "id": "DS10819457",
       "keyword": "Fender",
-      "title": "Fender American Professional II Jazz Bass OWT 2023 4.3kg #US23047506【GIB兵庫】【PLEK調整済】",
-      "price": 231000,
-      "url": "https://www.digimart.net/cat03/shop5400/DS10819409/"
+      "title": "Fender American Acoustasonic Telecaster Natural 【御茶ノ水HARVEST_GUITARS】",
+      "price": 218000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10819457/"
     },
     {
-      "id": "DS10819226",
+      "id": "DS10819456",
       "keyword": "Fender",
-      "title": "Fender American Elite Telecaster Ebony Fingerboard -2018- Mystic Black 【御茶ノ水本店FINEST GUITARS】",
-      "price": 148000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10819226/"
+      "title": "Fender American Vintage 62 Stratocaster Black ”Thin Lacquer” 【御茶ノ水本店】",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10819456/"
     },
     {
-      "id": "DS10819311",
+      "id": "DS10819109",
       "keyword": "Fender",
-      "title": "Fender フェンダー American Professional Jaguar RW Oxblood エレキギター ジャガー",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop1000/DS10819311/"
+      "title": "Fender American Performer Stratocaster",
+      "price": 158000,
+      "url": "https://www.digimart.net/cat01/shop5099/DS10819109/"
     },
     {
-      "id": "DS10819351",
+      "id": "DS08330207",
       "keyword": "Fractal",
-      "title": "FRACTAL AUDIO SYSTEMS FM3 MkII Turbo",
+      "title": "FRACTAL AUDIO SYSTEMS FM3 MARK II Turbo（フラクタル オーディオ）",
       "price": 242000,
-      "url": "https://www.digimart.net/cat13/shop169/DS10819351/"
+      "url": "https://www.digimart.net/cat12/shop5331/DS08330207/"
     }
   ],
   "errors": [],
@@ -138,7 +110,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 147,
+      "qualifying": 148,
       "page_stats": [
         {
           "page": 1,
@@ -226,7 +198,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 109,
+      "qualifying": 108,
       "page_stats": [
         {
           "page": 1,
@@ -376,9 +348,9 @@
     },
     "Fractal": {
       "pages": 4,
-      "links": 166,
-      "parsed": 166,
-      "qualifying": 94,
+      "links": 167,
+      "parsed": 167,
+      "qualifying": 95,
       "page_stats": [
         {
           "page": 1,
@@ -401,12 +373,12 @@
         {
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
-          "links": 16,
-          "unique_added": 16
+          "links": 17,
+          "unique_added": 17
         }
       ]
     }
   },
-  "collected": 958,
-  "seen_count": 3857
+  "collected": 959,
+  "seen_count": 3865
 }
