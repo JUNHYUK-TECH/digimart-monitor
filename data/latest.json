@@ -1,28 +1,21 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-20T13:14:54.943426+00:00",
+  "checked_at": "2026-10-20T14:06:16.842880+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10820827",
+      "id": "DS10819451",
       "keyword": "Gibson",
-      "title": "Gibson Flying V 70s Classic White 2026",
-      "price": 253000,
-      "url": "https://www.digimart.net/cat01/shop3800/DS10820827/"
+      "title": "Gibson 【セカンド品】J-45 Special #22605075【実物写真】",
+      "price": 258000,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10819451/"
     },
     {
-      "id": "DS10819582",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 【カスタムショップ】【マーフィーラボ】 1960s J-45 Ultra Light Aged【担当オススメ】",
-      "price": 698000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10819582/"
-    },
-    {
-      "id": "DS10820811",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Custom 22 Artist Special 20th Anniversary Gray Black 2005",
-      "price": 990000,
-      "url": "https://www.digimart.net/cat01/shop4943/DS10820811/"
+      "id": "DS10820496",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1966 Jazz Bass LPB / Lake Placid Blue【重量4.22kg】【新品特価】",
+      "price": 437800,
+      "url": "https://www.digimart.net/cat03/shop5452/DS10820496/"
     }
   ],
   "errors": [],
@@ -163,7 +156,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 73,
+      "qualifying": 72,
       "page_stats": [
         {
           "page": 1,
@@ -344,6 +337,6 @@
       ]
     }
   },
-  "collected": 945,
-  "seen_count": 3979
+  "collected": 944,
+  "seen_count": 3981
 }
