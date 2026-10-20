@@ -1,23 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-20T14:06:16.842880+00:00",
+  "checked_at": "2026-10-20T15:03:38.242500+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10819451",
-      "keyword": "Gibson",
-      "title": "Gibson 【セカンド品】J-45 Special #22605075【実物写真】",
-      "price": 258000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10819451/"
-    },
-    {
-      "id": "DS10820496",
-      "keyword": "Fender",
-      "title": "Fender American Vintage II 1966 Jazz Bass LPB / Lake Placid Blue【重量4.22kg】【新品特価】",
-      "price": 437800,
-      "url": "https://www.digimart.net/cat03/shop5452/DS10820496/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -156,7 +141,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 72,
+      "qualifying": 73,
       "page_stats": [
         {
           "page": 1,
@@ -337,6 +322,6 @@
       ]
     }
   },
-  "collected": 944,
+  "collected": 945,
   "seen_count": 3981
 }
