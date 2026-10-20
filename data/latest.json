@@ -1,35 +1,21 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-20T01:13:16.940759+00:00",
+  "checked_at": "2026-10-20T01:59:01.624842+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10818939",
+      "id": "DS10818943",
       "keyword": "Gibson",
-      "title": "Gibson Miranda Lambert Bluebird Bluebonnet【ロッキン岐阜店12周年記念セール!】",
-      "price": 607860,
-      "url": "https://www.digimart.net/cat02/shop4978/DS10818939/"
+      "title": "Gibson J-45 Standard(ギブソン ジェイ45 スタンダード)",
+      "price": 435600,
+      "url": "https://www.digimart.net/cat02/shop149/DS10818943/"
     },
     {
-      "id": "DS10818941",
-      "keyword": "Fender",
-      "title": "Fender 【ロッキン岐阜店12周年記念セール!】American Vintage II 1951 Telecaster Butterscotch Blonde",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat01/shop4978/DS10818941/"
-    },
-    {
-      "id": "DS10818937",
-      "keyword": "Fender",
-      "title": "Fender American Vintage II 1966 Jazz Bass 3-Color Sunburst",
-      "price": 437800,
-      "url": "https://www.digimart.net/cat03/shop4540/DS10818937/"
-    },
-    {
-      "id": "DS10813097",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster エレキギター",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5205/DS10813097/"
+      "id": "DS10818942",
+      "keyword": "Helix",
+      "title": "LINE 6 HELIX STADIUM FLOOR(ラインシックス ヒ-リックススタジアムフロア)",
+      "price": 275000,
+      "url": "https://www.digimart.net/cat13/shop149/DS10818942/"
     }
   ],
   "errors": [],
@@ -258,7 +244,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 118,
+      "qualifying": 119,
       "page_stats": [
         {
           "page": 1,
@@ -351,6 +337,6 @@
       ]
     }
   },
-  "collected": 958,
-  "seen_count": 3832
+  "collected": 959,
+  "seen_count": 3834
 }
