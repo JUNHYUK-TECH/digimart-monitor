@@ -1,21 +1,28 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-20T01:59:01.624842+00:00",
+  "checked_at": "2026-10-20T03:01:09.568612+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10818943",
+      "id": "DS10819008",
       "keyword": "Gibson",
-      "title": "Gibson J-45 Standard(ギブソン ジェイ45 スタンダード)",
-      "price": 435600,
-      "url": "https://www.digimart.net/cat02/shop149/DS10818943/"
+      "title": "Gibson Custom Shop Murphy Lab 1957 Les Paul Gold Top Reissue Double Gold Ultra Light Aged SN. 761249",
+      "price": 798600,
+      "url": "https://www.digimart.net/cat01/shop4/DS10819008/"
     },
     {
-      "id": "DS10818942",
-      "keyword": "Helix",
-      "title": "LINE 6 HELIX STADIUM FLOOR(ラインシックス ヒ-リックススタジアムフロア)",
-      "price": 275000,
-      "url": "https://www.digimart.net/cat13/shop149/DS10818942/"
+      "id": "DS10818998",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Bass VI 【4.20kg】",
+      "price": 598000,
+      "url": "https://www.digimart.net/cat03/shop169/DS10818998/"
+    },
+    {
+      "id": "DS10818980",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Jaco Pastorius Tribute Fretless Jazz Bass【USED】",
+      "price": 698000,
+      "url": "https://www.digimart.net/cat03/shop60/DS10818980/"
     }
   ],
   "errors": [],
@@ -156,7 +163,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 111,
+      "qualifying": 113,
       "page_stats": [
         {
           "page": 1,
@@ -337,6 +344,6 @@
       ]
     }
   },
-  "collected": 959,
-  "seen_count": 3834
+  "collected": 961,
+  "seen_count": 3837
 }
