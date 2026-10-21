@@ -1,35 +1,21 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-21T12:01:30.026081+00:00",
+  "checked_at": "2026-10-21T13:16:42.224650+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10822867",
+      "id": "DS10822875",
       "keyword": "Gibson",
-      "title": "Gibson Noel Gallagher Les Paul Standard【S/N:214160217】【4.18kg】【B級特別価格】【現物画像】",
-      "price": 392040,
-      "url": "https://www.digimart.net/cat01/shop5093/DS10822867/"
+      "title": "Gibson Les Paul Standard 50s Figured Top HSC【セカンド品】 【S/N:217660070】【4.12kg】【現物画像】",
+      "price": 314000,
+      "url": "https://www.digimart.net/cat01/shop5093/DS10822875/"
     },
     {
-      "id": "DS10820335",
-      "keyword": "Gibson",
-      "title": "Gibson 【秋の中古楽器セール】The Paul -Natural- 【1980'USED】【生産終了モデル】",
-      "price": 289000,
-      "url": "https://www.digimart.net/cat01/shop169/DS10820335/"
-    },
-    {
-      "id": "DS10822845",
+      "id": "DS10822876",
       "keyword": "Fender",
-      "title": "Fender USA Twin Amp '94 \"EVIL TWIN\" 1994",
-      "price": 129800,
-      "url": "https://www.digimart.net/cat12/shop4939/DS10822845/"
-    },
-    {
-      "id": "DS10796026",
-      "keyword": "Fender",
-      "title": "Fender American Professional II Stratocaster Maple Fingerboard ~Black~",
-      "price": 218000,
-      "url": "https://www.digimart.net/cat01/shop5007/DS10796026/"
+      "title": "Fender American Vintage II 1961 Stratocaster Rosewood Fingerboard OWH",
+      "price": 297000,
+      "url": "https://www.digimart.net/cat01/shop4939/DS10822876/"
     }
   ],
   "errors": [],
@@ -82,7 +68,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 166,
+      "qualifying": 167,
       "page_stats": [
         {
           "page": 1,
@@ -351,6 +337,6 @@
       ]
     }
   },
-  "collected": 935,
-  "seen_count": 4129
+  "collected": 936,
+  "seen_count": 4131
 }
