@@ -1,84 +1,84 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-21T05:01:36.671321+00:00",
+  "checked_at": "2026-10-21T05:59:28.690285+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10821354",
+      "id": "DS10821725",
       "keyword": "Gibson",
-      "title": "Gibson Explorer 76 Reissue 【新宿店】",
-      "price": 187000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10821354/"
+      "title": "Gibson Americana series オリジナル L.R.Baggs ピックアップ",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat02/shop4682/DS10821725/"
     },
     {
-      "id": "DS10821505",
+      "id": "DS10821708",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop 【中古】 Custom Shop Historic Collection 1959 Les Paul Reissue 1995年製 3.84kg 初期ヒスコレ",
-      "price": 998000,
-      "url": "https://www.digimart.net/cat01/shop1000/DS10821505/"
+      "title": "Gibson Southern Jumbo Original Vintage Sunburst 【横浜店】【S/N:23165032】【1.88kg】",
+      "price": 418000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10821708/"
     },
     {
-      "id": "DS10815311",
+      "id": "DS10821707",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop ES-339 (Fat Neck_'59 Rounded Neck) Antique Vintage Sunburst",
-      "price": 338000,
-      "url": "https://www.digimart.net/cat01/shop440/DS10815311/"
+      "title": "Gibson Les Paul Standard 50s Heritage Cherry Sunburst 【横浜店】【S/N:223860024】【3.73kg】",
+      "price": 346500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10821707/"
     },
     {
-      "id": "DS10821199",
+      "id": "DS10821706",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Special Humbucker Ebony Gloss [2011年製]",
-      "price": 148500,
-      "url": "https://www.digimart.net/cat01/shop169/DS10821199/"
+      "title": "Gibson Les Paul Standard 50s Heritage Cherry Sunburst 【横浜店】【S/N:223760043】【4.47kg】",
+      "price": 346500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10821706/"
     },
     {
-      "id": "DS10821180",
+      "id": "DS10821596",
       "keyword": "Gibson",
-      "title": "Gibson Japan Exclusive Les Paul Standard 50s Custom Shop Top Heritage Cherry Sunburst",
-      "price": 412500,
-      "url": "https://www.digimart.net/cat01/shop4978/DS10821180/"
+      "title": "Gibson 50's J-45 Original Ebony #22106006【50年代J-45の意匠】【2026年製造個体】",
+      "price": 398000,
+      "url": "https://www.digimart.net/cat02/shop5045/DS10821596/"
     },
     {
-      "id": "DS10821155",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Les Paul Axcess Standard Root Beer Floyd Rose Gloss GH",
-      "price": 827200,
-      "url": "https://www.digimart.net/cat01/shop4978/DS10821155/"
-    },
-    {
-      "id": "DS10821581",
+      "id": "DS10821705",
       "keyword": "Fender",
-      "title": "Fender American Vintage 62 Jazz Bass 3Knobs Olympic White 【新宿店】",
-      "price": 209000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10821581/"
+      "title": "Fender Limited Edition American Professional Classic Telecaster Roasted Maple Fingerboard Butterscotch Blon",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10821705/"
     },
     {
-      "id": "DS10821547",
+      "id": "DS10821709",
       "keyword": "Fender",
-      "title": "Fender American Professional HotShot Telecaster Maple Fingerboard, Aged Cherry Burst 【3.58kg】",
-      "price": 324500,
-      "url": "https://www.digimart.net/cat01/shop5343/DS10821547/"
-    },
-    {
-      "id": "DS10821460",
-      "keyword": "Fender",
-      "title": "Fender American Vintage '52 Telecaster Buttescotch Blonde【1995USED】【軽量3.31kg】",
-      "price": 242000,
-      "url": "https://www.digimart.net/cat01/shop175/DS10821460/"
-    },
-    {
-      "id": "DS10821190",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster HSS Rosewood Fingerboard, Dark Night 【3.60kg】",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat01/shop5343/DS10821190/"
-    },
-    {
-      "id": "DS10821179",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster Natural 【3.59kg】",
+      "title": "Fender American Professional Telecaster Butterscotch Blonde【3.50kg】",
       "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop5343/DS10821179/"
+      "url": "https://www.digimart.net/cat01/shop5053/DS10821709/"
+    },
+    {
+      "id": "DS10821637",
+      "keyword": "Fender",
+      "title": "Fender American Professional Stratocaster Oxblood【3.50kg】",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop5053/DS10821637/"
+    },
+    {
+      "id": "DS10821615",
+      "keyword": "Fender",
+      "title": "Fender 【2013年製】American Vintage '65 Jazzmaster -3-Color Sunburs- #V1316674 ≒3.74kg",
+      "price": 348000,
+      "url": "https://www.digimart.net/cat01/shop60/DS10821615/"
+    },
+    {
+      "id": "DS10821599",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1966 Jazz Bass Olympic White エレキベース ジャズベース【現物画像】10/21更新",
+      "price": 437800,
+      "url": "https://www.digimart.net/cat03/shop5086/DS10821599/"
+    },
+    {
+      "id": "DS10821661",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Electro 6 HP 【AUTUMN SUPER SALE】",
+      "price": 451000,
+      "url": "https://www.digimart.net/cat06/shop5397/DS10821661/"
     }
   ],
   "errors": [],
@@ -131,7 +131,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 158,
+      "qualifying": 154,
       "page_stats": [
         {
           "page": 1,
@@ -219,7 +219,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 57,
+      "qualifying": 51,
       "page_stats": [
         {
           "page": 1,
@@ -400,6 +400,6 @@
       ]
     }
   },
-  "collected": 910,
-  "seen_count": 4021
+  "collected": 900,
+  "seen_count": 4032
 }
