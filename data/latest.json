@@ -1,23 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-21T13:16:42.224650+00:00",
+  "checked_at": "2026-10-21T14:05:41.184443+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10822875",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Figured Top HSC【セカンド品】 【S/N:217660070】【4.12kg】【現物画像】",
-      "price": 314000,
-      "url": "https://www.digimart.net/cat01/shop5093/DS10822875/"
-    },
-    {
-      "id": "DS10822876",
-      "keyword": "Fender",
-      "title": "Fender American Vintage II 1961 Stratocaster Rosewood Fingerboard OWH",
-      "price": 297000,
-      "url": "https://www.digimart.net/cat01/shop4939/DS10822876/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
