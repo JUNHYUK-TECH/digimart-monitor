@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-21T02:01:10.231870+00:00",
+  "checked_at": "2026-10-21T03:00:35.274409+00:00",
   "baseline": false,
   "new": [],
   "errors": [],
@@ -53,7 +53,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 171,
+      "qualifying": 170,
       "page_stats": [
         {
           "page": 1,
@@ -141,7 +141,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 75,
+      "qualifying": 73,
       "page_stats": [
         {
           "page": 1,
@@ -185,7 +185,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 184,
+      "qualifying": 183,
       "page_stats": [
         {
           "page": 1,
@@ -322,6 +322,6 @@
       ]
     }
   },
-  "collected": 947,
+  "collected": 943,
   "seen_count": 3983
 }
