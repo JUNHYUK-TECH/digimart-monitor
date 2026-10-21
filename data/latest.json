@@ -1,23 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-21T01:13:05.926341+00:00",
+  "checked_at": "2026-10-21T02:01:10.231870+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10820906",
-      "keyword": "Fender",
-      "title": "Fender 【中古】 エレキベース Fender American Elite Jazz Bass Ash Body Tobacco Sunburst 2016年製 フェンダー",
-      "price": 238000,
-      "url": "https://www.digimart.net/cat03/shop1000/DS10820906/"
-    },
-    {
-      "id": "DS10820739",
-      "keyword": "Fender",
-      "title": "Fender 【中古】American Acoustasonic Telecaster",
-      "price": 179000,
-      "url": "https://www.digimart.net/cat02/shop5364/DS10820739/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -156,7 +141,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 73,
+      "qualifying": 75,
       "page_stats": [
         {
           "page": 1,
@@ -337,6 +322,6 @@
       ]
     }
   },
-  "collected": 945,
+  "collected": 947,
   "seen_count": 3983
 }
