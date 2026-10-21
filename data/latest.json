@@ -1,35 +1,35 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-21T08:07:41.982809+00:00",
+  "checked_at": "2026-10-21T09:04:55.578168+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10821779",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Tekton T -Slate Blue- 【2026新製品!】【ステンレスフレット&エボニー指板】【軽量3.02Kg】",
-      "price": 497200,
-      "url": "https://www.digimart.net/cat01/shop38/DS10821779/"
+      "id": "DS10822209",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Junior",
+      "price": 148500,
+      "url": "https://www.digimart.net/cat01/shop42/DS10822209/"
     },
     {
-      "id": "DS10821833",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop INORAN Jazzmaster #1 LTD -Black- 2019USED!!",
-      "price": 798600,
-      "url": "https://www.digimart.net/cat01/shop38/DS10821833/"
+      "id": "DS10822085",
+      "keyword": "Gibson",
+      "title": "Gibson Melody Maker Ebony 【御茶ノ水本店】",
+      "price": 118000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10822085/"
     },
     {
-      "id": "DS10822036",
+      "id": "DS10822071",
       "keyword": "Fender",
-      "title": "Fender American Vintage 52 Telecaster BTB",
-      "price": 220000,
-      "url": "https://www.digimart.net/cat01/shop42/DS10822036/"
+      "title": "Fender American Professional Stratocaster 3-Color Sunburst【2026年最新モデル】【V-Mod III】",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop5120/DS10822071/"
     },
     {
-      "id": "DS10821951",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Vintage Custom 1950 Pine Esquire Aged Black",
-      "price": 619300,
-      "url": "https://www.digimart.net/cat01/shop4540/DS10821951/"
+      "id": "DS10822196",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Electro 6 HP 【AUTUMN SUPER SALE】",
+      "price": 451000,
+      "url": "https://www.digimart.net/cat06/shop5397/DS10822196/"
     }
   ],
   "errors": [],
@@ -82,7 +82,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 155,
+      "qualifying": 153,
       "page_stats": [
         {
           "page": 1,
@@ -170,7 +170,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 50,
+      "qualifying": 47,
       "page_stats": [
         {
           "page": 1,
@@ -214,7 +214,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 183,
+      "qualifying": 184,
       "page_stats": [
         {
           "page": 1,
@@ -258,7 +258,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 119,
+      "qualifying": 120,
       "page_stats": [
         {
           "page": 1,
@@ -320,8 +320,8 @@
     },
     "Fractal": {
       "pages": 4,
-      "links": 170,
-      "parsed": 170,
+      "links": 169,
+      "parsed": 169,
       "qualifying": 97,
       "page_stats": [
         {
@@ -345,12 +345,12 @@
         {
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
-          "links": 20,
-          "unique_added": 20
+          "links": 19,
+          "unique_added": 19
         }
       ]
     }
   },
-  "collected": 899,
-  "seen_count": 4053
+  "collected": 896,
+  "seen_count": 4057
 }
