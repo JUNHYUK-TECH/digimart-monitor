@@ -1,126 +1,35 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-21T07:17:33.673526+00:00",
+  "checked_at": "2026-10-21T08:07:41.982809+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10821920",
-      "keyword": "Gibson",
-      "title": "Gibson ~Modern Collection~ Les Paul Studio -Ebony-【#224460315】【3.70kg】",
-      "price": 217800,
-      "url": "https://www.digimart.net/cat01/shop38/DS10821920/"
-    },
-    {
-      "id": "DS10821911",
-      "keyword": "Gibson",
-      "title": "Gibson ~Modern Collection~ Les Paul Studio -Ebony-【#22545060247】【3.64kg】",
-      "price": 217800,
-      "url": "https://www.digimart.net/cat01/shop38/DS10821911/"
-    },
-    {
-      "id": "DS10821901",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 【激レアモデル】LTD 1974 Les Paul Custom VOS Ebony [4.38㎏] 2014年製 60th Anniversary",
-      "price": 758000,
-      "url": "https://www.digimart.net/cat01/shop169/DS10821901/"
-    },
-    {
-      "id": "DS10821880",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop ~Historic Collection~ 1964 SG Standard With Maestro Vibrola Cherry Red VOS【#603584】【3.67kg】",
-      "price": 638000,
-      "url": "https://www.digimart.net/cat01/shop38/DS10821880/"
-    },
-    {
-      "id": "DS10821855",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop USED 中古 Historic Collection 1958 Les Paul Reissue Figured VOS [SN.821377] ギブソン",
-      "price": 673200,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10821855/"
-    },
-    {
-      "id": "DS10821848",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Studio Modern (Worn White) 【S/N 219060058】",
-      "price": 224400,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10821848/"
-    },
-    {
-      "id": "DS10821805",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Monthly Limited 1950s J-45 Tri-burst",
-      "price": 280000,
-      "url": "https://www.digimart.net/cat02/shop5336/DS10821805/"
-    },
-    {
-      "id": "DS10821772",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s",
-      "price": 288000,
-      "url": "https://www.digimart.net/cat01/shop5184/DS10821772/"
-    },
-    {
-      "id": "DS10821853",
+      "id": "DS10821779",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Tekton Floyd (White Holoflake) SN.0430397 【2026年生産品】",
-      "price": 514800,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10821853/"
-    },
-    {
-      "id": "DS10821852",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Tekton Floyd (Hot Pink) SN.0431157 【2026年生産品】",
-      "price": 514800,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10821852/"
-    },
-    {
-      "id": "DS10821850",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Tekton T (Bloodstone Red) SN.0435060 【2026年生産品】",
+      "title": "Paul Reed Smith(PRS) Tekton T -Slate Blue- 【2026新製品!】【ステンレスフレット&エボニー指板】【軽量3.02Kg】",
       "price": 497200,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10821850/"
+      "url": "https://www.digimart.net/cat01/shop38/DS10821779/"
     },
     {
-      "id": "DS10821849",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Tekton (Imperial Topaz ) SN.0434046 【2026年生産品】",
-      "price": 497200,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10821849/"
-    },
-    {
-      "id": "DS10821834",
-      "keyword": "PRS",
-      "title": "Epiphone Epiphone G-1275 Double Neck Alpine White PRS ハムバッカー搭載 グレードアップカスタム",
-      "price": 268000,
-      "url": "https://www.digimart.net/cat01/shop5063/DS10821834/"
-    },
-    {
-      "id": "DS10821798",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom24 Vintage Sunburst SEカスタム24 VS",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop4840/DS10821798/"
-    },
-    {
-      "id": "DS10821797",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom24 Vintage Sunburst SEカスタム24 VS",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop4840/DS10821797/"
-    },
-    {
-      "id": "DS10821838",
+      "id": "DS10821833",
       "keyword": "Fender",
-      "title": "Fender 【限定カラー】Limited Edition American Professional Classic Telecaster Olympic Pearl",
-      "price": 242000,
-      "url": "https://www.digimart.net/cat01/shop5389/DS10821838/"
+      "title": "Fender Custom Shop INORAN Jazzmaster #1 LTD -Black- 2019USED!!",
+      "price": 798600,
+      "url": "https://www.digimart.net/cat01/shop38/DS10821833/"
     },
     {
-      "id": "DS10821765",
-      "keyword": "Nord",
-      "title": "CLAVIA Nord Stage 2 SW73 【御茶ノ水本店】",
-      "price": 248000,
-      "url": "https://www.digimart.net/cat06/shop1484/DS10821765/"
+      "id": "DS10822036",
+      "keyword": "Fender",
+      "title": "Fender American Vintage 52 Telecaster BTB",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat01/shop42/DS10822036/"
+    },
+    {
+      "id": "DS10821951",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Vintage Custom 1950 Pine Esquire Aged Black",
+      "price": 619300,
+      "url": "https://www.digimart.net/cat01/shop4540/DS10821951/"
     }
   ],
   "errors": [],
@@ -173,7 +82,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 156,
+      "qualifying": 155,
       "page_stats": [
         {
           "page": 1,
@@ -261,7 +170,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 52,
+      "qualifying": 50,
       "page_stats": [
         {
           "page": 1,
@@ -442,6 +351,6 @@
       ]
     }
   },
-  "collected": 902,
-  "seen_count": 4049
+  "collected": 899,
+  "seen_count": 4053
 }
