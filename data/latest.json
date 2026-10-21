@@ -1,196 +1,84 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-21T04:02:58.886168+00:00",
+  "checked_at": "2026-10-21T05:01:36.671321+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10821145",
+      "id": "DS10821354",
       "keyword": "Gibson",
-      "title": "Gibson Southern Jumbo Original Vintage Sunburst【ロッキン岐阜店12周年記念セール!】",
-      "price": 462000,
-      "url": "https://www.digimart.net/cat02/shop4978/DS10821145/"
+      "title": "Gibson Explorer 76 Reissue 【新宿店】",
+      "price": 187000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10821354/"
     },
     {
-      "id": "DS10821131",
+      "id": "DS10821505",
       "keyword": "Gibson",
-      "title": "Gibson Exclusive ES-335 Figured Blueberry Burst",
-      "price": 428000,
-      "url": "https://www.digimart.net/cat01/shop4978/DS10821131/"
+      "title": "Gibson Custom Shop 【中古】 Custom Shop Historic Collection 1959 Les Paul Reissue 1995年製 3.84kg 初期ヒスコレ",
+      "price": 998000,
+      "url": "https://www.digimart.net/cat01/shop1000/DS10821505/"
     },
     {
-      "id": "DS10821060",
+      "id": "DS10815311",
       "keyword": "Gibson",
-      "title": "Gibson 1967 EB-2D【VINTAGE】",
-      "price": 548000,
-      "url": "https://www.digimart.net/cat03/shop60/DS10821060/"
+      "title": "Gibson Custom Shop ES-339 (Fat Neck_'59 Rounded Neck) Antique Vintage Sunburst",
+      "price": 338000,
+      "url": "https://www.digimart.net/cat01/shop440/DS10815311/"
     },
     {
-      "id": "DS10821057",
+      "id": "DS10821199",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Special Double Cut TV Yellow 【現物写真】3.43Kg",
-      "price": 248600,
-      "url": "https://www.digimart.net/cat01/shop5363/DS10821057/"
+      "title": "Gibson Les Paul Special Humbucker Ebony Gloss [2011年製]",
+      "price": 148500,
+      "url": "https://www.digimart.net/cat01/shop169/DS10821199/"
     },
     {
-      "id": "DS10821024",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) TEKTON T Fuchsia Aura (Black Satin Neck)2.92 kg #0431154【TONIQ横浜】",
-      "price": 497200,
-      "url": "https://www.digimart.net/cat01/shop5401/DS10821024/"
+      "id": "DS10821180",
+      "keyword": "Gibson",
+      "title": "Gibson Japan Exclusive Les Paul Standard 50s Custom Shop Top Heritage Cherry Sunburst",
+      "price": 412500,
+      "url": "https://www.digimart.net/cat01/shop4978/DS10821180/"
     },
     {
-      "id": "DS10820559",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Tekton SVN (natural neck) Imperial Topaz",
-      "price": 514800,
-      "url": "https://www.digimart.net/cat01/shop1220/DS10820559/"
+      "id": "DS10821155",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Les Paul Axcess Standard Root Beer Floyd Rose Gloss GH",
+      "price": 827200,
+      "url": "https://www.digimart.net/cat01/shop4978/DS10821155/"
     },
     {
-      "id": "DS10820488",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Tekton \"Floyd\" Multi-Metal Flake Natural Neck【渋谷店】",
-      "price": 514800,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10820488/"
-    },
-    {
-      "id": "DS10819938",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Tekton 1D(Bloodstone Red)【2026年製・新製品】",
-      "price": 497200,
-      "url": "https://www.digimart.net/cat01/shop5072/DS10819938/"
-    },
-    {
-      "id": "DS10819817",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Tekton Floyd XM(Multi-Metal Flake)【2026年製・新製品】",
-      "price": 514800,
-      "url": "https://www.digimart.net/cat01/shop5072/DS10819817/"
-    },
-    {
-      "id": "DS10819763",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Tekton SVN 2V(Violet Tourmaline）【2026年製・新製品】",
-      "price": 514800,
-      "url": "https://www.digimart.net/cat01/shop5072/DS10819763/"
-    },
-    {
-      "id": "DS10819067",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Tekton T Imperial Topaz Natural Neck【渋谷店】",
-      "price": 497200,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10819067/"
-    },
-    {
-      "id": "DS10819066",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Tekton Imperial Topaz Natural Neck【渋谷店】",
-      "price": 497200,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10819066/"
-    },
-    {
-      "id": "DS10819065",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Tekton SVN Imperial Topaz Natural Neck【渋谷店】",
-      "price": 514800,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10819065/"
-    },
-    {
-      "id": "DS10819064",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Tekton SVN Fuchsia Aura Black Satin Neck【渋谷店】",
-      "price": 514800,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10819064/"
-    },
-    {
-      "id": "DS10818997",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 Tekton SVN Fuchsia Aura(2.64kg)【S/N:26 0431032】 【御茶ノ水本店】",
-      "price": 519948,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818997/"
-    },
-    {
-      "id": "DS10818996",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 Tekton T Fuchsia Aura(3.10kg)【S/N:26 0429901】 【御茶ノ水本店】",
-      "price": 497200,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818996/"
-    },
-    {
-      "id": "DS10818995",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 Tekton Bloodstone Red(2.84kg)【S/N:26 0431061】 【御茶ノ水本店】",
-      "price": 497200,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818995/"
-    },
-    {
-      "id": "DS10818992",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2026 Tekton SVN Imperial Topaz(3.01kg)【S/N:26 0429274】 【御茶ノ水本店】",
-      "price": 519948,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10818992/"
-    },
-    {
-      "id": "DS10818145",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Tekton SVN (natural neck) Slate Blue",
-      "price": 514800,
-      "url": "https://www.digimart.net/cat01/shop1220/DS10818145/"
-    },
-    {
-      "id": "DS10817835",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Tekton \"Floyd\" (natural neck) Multi-Metal Flake",
-      "price": 514800,
-      "url": "https://www.digimart.net/cat01/shop1220/DS10817835/"
-    },
-    {
-      "id": "DS10817332",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Tekton T (black satin neck) Bloodstone Red",
-      "price": 497200,
-      "url": "https://www.digimart.net/cat01/shop1220/DS10817332/"
-    },
-    {
-      "id": "DS10817288",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Tekton (black satin neck) Fuchsia Aura",
-      "price": 497200,
-      "url": "https://www.digimart.net/cat01/shop1220/DS10817288/"
-    },
-    {
-      "id": "DS10821011",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) TEKTON Fuchsia Aura (Black Satin Neck) 2.69kg #0429902【TONIQ横浜】",
-      "price": 497200,
-      "url": "https://www.digimart.net/cat01/shop5401/DS10821011/"
-    },
-    {
-      "id": "DS10821008",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) TEKTON SVN Slate Blue (Natural Neck) 3.08kg #0435890【TONIQ横浜】",
-      "price": 514800,
-      "url": "https://www.digimart.net/cat01/shop5401/DS10821008/"
-    },
-    {
-      "id": "DS10821006",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) TEKTON Floyd Pearl Black (Natural Neck) 2.925kg #0432488【TONIQ横浜】",
-      "price": 514800,
-      "url": "https://www.digimart.net/cat01/shop5401/DS10821006/"
-    },
-    {
-      "id": "DS10821153",
+      "id": "DS10821581",
       "keyword": "Fender",
-      "title": "Fender USA Stratocaster 1978 BLACK フェンダーU.S.A.ストラト'78 黒 ブラック",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat01/shop4733/DS10821153/"
+      "title": "Fender American Vintage 62 Jazz Bass 3Knobs Olympic White 【新宿店】",
+      "price": 209000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10821581/"
     },
     {
-      "id": "DS10821010",
+      "id": "DS10821547",
       "keyword": "Fender",
-      "title": "Fender American Vintage 62 Jazz Bass 3-Tone Sunburst 1990",
-      "price": 248000,
-      "url": "https://www.digimart.net/cat03/shop4978/DS10821010/"
+      "title": "Fender American Professional HotShot Telecaster Maple Fingerboard, Aged Cherry Burst 【3.58kg】",
+      "price": 324500,
+      "url": "https://www.digimart.net/cat01/shop5343/DS10821547/"
+    },
+    {
+      "id": "DS10821460",
+      "keyword": "Fender",
+      "title": "Fender American Vintage '52 Telecaster Buttescotch Blonde【1995USED】【軽量3.31kg】",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat01/shop175/DS10821460/"
+    },
+    {
+      "id": "DS10821190",
+      "keyword": "Fender",
+      "title": "Fender American Professional Stratocaster HSS Rosewood Fingerboard, Dark Night 【3.60kg】",
+      "price": 308000,
+      "url": "https://www.digimart.net/cat01/shop5343/DS10821190/"
+    },
+    {
+      "id": "DS10821179",
+      "keyword": "Fender",
+      "title": "Fender American Professional Telecaster Natural 【3.59kg】",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat01/shop5343/DS10821179/"
     }
   ],
   "errors": [],
@@ -241,9 +129,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 297,
-      "parsed": 297,
-      "qualifying": 168,
+      "links": 300,
+      "parsed": 300,
+      "qualifying": 158,
       "page_stats": [
         {
           "page": 1,
@@ -267,7 +155,7 @@
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Gibson&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 47
+          "unique_added": 50
         },
         {
           "page": 5,
@@ -287,7 +175,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 230,
+      "qualifying": 226,
       "page_stats": [
         {
           "page": 1,
@@ -331,7 +219,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 72,
+      "qualifying": 57,
       "page_stats": [
         {
           "page": 1,
@@ -419,7 +307,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 118,
+      "qualifying": 119,
       "page_stats": [
         {
           "page": 1,
@@ -512,6 +400,6 @@
       ]
     }
   },
-  "collected": 938,
-  "seen_count": 4010
+  "collected": 910,
+  "seen_count": 4021
 }
