@@ -1,98 +1,112 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-22T10:04:02.999597+00:00",
+  "checked_at": "2026-10-22T11:01:22.615690+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10824475",
+      "id": "DS10824703",
       "keyword": "Gibson",
-      "title": "Gibson 【NEW】ES-345 Sixties Cherry sn223960225 [4.00kg]",
-      "price": 473000,
-      "url": "https://www.digimart.net/cat01/shop35/DS10824475/"
+      "title": "Gibson Custom Shop 【限定5本】【マーフィーラボ】【レスポンス・鳴り◎】1942 Banner LG-2 Light Aged【担当オススメ】",
+      "price": 798000,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10824703/"
     },
     {
-      "id": "DS10824466",
+      "id": "DS10824691",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Junior -Vintage Tobacco Burst-【3.49kg】【#224760295】",
-      "price": 203500,
-      "url": "https://www.digimart.net/cat01/shop38/DS10824466/"
+      "title": "Gibson 【5本限定】【カスタムオーダー品】 1957 SJ-200 Ebony Tune O Matic Bridge【TOM搭載】",
+      "price": 958000,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10824691/"
     },
     {
-      "id": "DS10824464",
+      "id": "DS10824687",
       "keyword": "Gibson",
-      "title": "Gibson J-45 Standard VS",
-      "price": 379500,
-      "url": "https://www.digimart.net/cat02/shop5032/DS10824464/"
+      "title": "Gibson 【鳴り◎】1942 Banner LG-2 #21306017 【担当オススメ】【分割手数料0%】【送料当社負担】",
+      "price": 585000,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10824687/"
     },
     {
-      "id": "DS10824463",
+      "id": "DS10824680",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Junior -Vintage Tobacco Burst-【3.48kg】【#223660145】",
-      "price": 203500,
-      "url": "https://www.digimart.net/cat01/shop38/DS10824463/"
+      "title": "Gibson USED 中古 SG Faded 2016 T (Worn Brown)",
+      "price": 157080,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10824680/"
     },
     {
-      "id": "DS10824458",
+      "id": "DS10824627",
       "keyword": "Gibson",
-      "title": "Gibson Kirk Hammett \"Greeny\" Les Paul Standard﻿﻿ -Greeny Burst-【#224460110】【4.38kg】",
-      "price": 440000,
-      "url": "https://www.digimart.net/cat01/shop38/DS10824458/"
+      "title": "Gibson Custom Shop Limited Edition 1957 Les Paul Model Reissue with TV Jones Powertron VOS Gold Sparkle Top SN. 761042",
+      "price": 881100,
+      "url": "https://www.digimart.net/cat01/shop4/DS10824627/"
     },
     {
-      "id": "DS10824457",
+      "id": "DS10824607",
       "keyword": "Gibson",
-      "title": "Gibson G6119 Tennessee Rose 2008",
-      "price": 220000,
-      "url": "https://www.digimart.net/cat01/shop3800/DS10824457/"
+      "title": "Gibson 1959 Melody Maker Single Cut \"Wide Pickup\" Sunburst",
+      "price": 850000,
+      "url": "https://www.digimart.net/cat01/shop5214/DS10824607/"
     },
     {
-      "id": "DS10824450",
+      "id": "DS10824604",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1956 Les Paul Standard Reissue VOS Double Gold ≪S/N:6 6255≫ 【心斎橋店】",
-      "price": 671000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10824450/"
+      "title": "Gibson Custom Shop Murphy Lab 1957 Les Paul Goldtop Ultra Light Aged Double Gold 【御茶ノ水本店FINEST GUITARS】",
+      "price": 798600,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10824604/"
     },
     {
-      "id": "DS10824443",
+      "id": "DS10824603",
       "keyword": "Gibson",
-      "title": "Gibson 70s Flying V -Antique Natural- 【#224760210】【3.25kg】",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat01/shop38/DS10824443/"
+      "title": "Gibson Custom Shop Historic Collection 1959 Les Paul Standard Reissue VOS -2018- Slow Iced Tea Fade 【御茶ノ水本店FINES",
+      "price": 693000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10824603/"
     },
     {
-      "id": "DS10817913",
+      "id": "DS10824600",
       "keyword": "Gibson",
-      "title": "Gibson SG Standard Black 2002",
-      "price": 174000,
-      "url": "https://www.digimart.net/cat01/shop5447/DS10817913/"
+      "title": "Gibson Custom Shop Historic Collection 1961 Les Paul SG Standard w/Maestro Vibrola VOS -2002- Cherry Red 【御茶ノ水本店",
+      "price": 498000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10824600/"
     },
     {
-      "id": "DS10824399",
+      "id": "DS10824566",
       "keyword": "Gibson",
-      "title": "Gibson Slash Les Paul Standard -Appetite Burst(Amber)-【#225160083】【4.26kg】",
-      "price": 377300,
-      "url": "https://www.digimart.net/cat01/shop38/DS10824399/"
+      "title": "Gibson ES-355TDSV Cherry 1968s",
+      "price": 990000,
+      "url": "https://www.digimart.net/cat01/shop2340/DS10824566/"
     },
     {
-      "id": "DS10824292",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2025 SE Silver Sky Rosewood -1M- Platinum Spark【3.27kg】[S/N CTIH076326]",
-      "price": 151984,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10824292/"
+      "id": "DS10824553",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Special Tribute Humbucker 2021年製 Natural Walnut",
+      "price": 137000,
+      "url": "https://www.digimart.net/cat01/shop4921/DS10824553/"
     },
     {
-      "id": "DS10822957",
+      "id": "DS10824725",
       "keyword": "Fender",
-      "title": "Fender FSR American Vintage 72 Telecaster Custom",
+      "title": "Fender American Vintage 62 Jazz Bass - 3 Tone Sunburst - 【4.04kg】",
       "price": 278000,
-      "url": "https://www.digimart.net/cat01/shop5450/DS10822957/"
+      "url": "https://www.digimart.net/cat03/shop26/DS10824725/"
     },
     {
-      "id": "DS10823124",
+      "id": "DS10824623",
       "keyword": "Fender",
-      "title": "Fender American Ultra II Precision Bass Noble Blue 【渋谷店】",
-      "price": 242000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10823124/"
+      "title": "Fender 【New Model】American Professional Tele Maple - Natural -【US26042069】【3.65kg】",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat01/shop38/DS10824623/"
+    },
+    {
+      "id": "DS10822958",
+      "keyword": "Fender",
+      "title": "Fender American Vintage 57 Precision Bass",
+      "price": 258000,
+      "url": "https://www.digimart.net/cat03/shop5450/DS10822958/"
+    },
+    {
+      "id": "DS10824541",
+      "keyword": "Fender",
+      "title": "Fender Limited American Ultra II Telecaster Roasted Maple w/Custom Shop Texas Special- Antique Olive -",
+      "price": 407000,
+      "url": "https://www.digimart.net/cat01/shop38/DS10824541/"
     }
   ],
   "errors": [],
@@ -145,7 +159,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 180,
+      "qualifying": 183,
       "page_stats": [
         {
           "page": 1,
@@ -189,7 +203,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 222,
+      "qualifying": 221,
       "page_stats": [
         {
           "page": 1,
@@ -233,7 +247,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 66,
+      "qualifying": 65,
       "page_stats": [
         {
           "page": 1,
@@ -414,6 +428,6 @@
       ]
     }
   },
-  "collected": 943,
-  "seen_count": 4260
+  "collected": 944,
+  "seen_count": 4275
 }
