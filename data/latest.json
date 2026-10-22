@@ -1,147 +1,98 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-22T09:06:22.895879+00:00",
+  "checked_at": "2026-10-22T10:04:02.999597+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10824283",
+      "id": "DS10824475",
       "keyword": "Gibson",
-      "title": "Gibson 【大阪梅田楽器祭 目玉品 11/7(土)発売開始】J-160E 1968年製 #518387【最大48回分割無金利】",
-      "price": 798000,
-      "url": "https://www.digimart.net/cat02/shop5452/DS10824283/"
-    },
-    {
-      "id": "DS10824265",
-      "keyword": "Gibson",
-      "title": "Gibson 60's DOVE AN",
-      "price": 396000,
-      "url": "https://www.digimart.net/cat02/shop541/DS10824265/"
-    },
-    {
-      "id": "DS10824230",
-      "keyword": "Gibson",
-      "title": "Gibson 【中古】 アコースティックギター Gibson J-45 Standard Vintage Sunburst 2011年製 ギブソン J45",
-      "price": 288000,
-      "url": "https://www.digimart.net/cat02/shop1000/DS10824230/"
-    },
-    {
-      "id": "DS10824224",
-      "keyword": "Gibson",
-      "title": "Gibson 【中古】 エレキギター Gibson ES-165 Herb Ellis Signature Vintage Sunburst 2003年製 ハーブ・エリス",
-      "price": 448000,
-      "url": "https://www.digimart.net/cat01/shop1000/DS10824224/"
-    },
-    {
-      "id": "DS10824223",
-      "keyword": "Gibson",
-      "title": "Gibson 【中古】 アコースティックギター Gibson Hummingbird Deluxe 2019 Rosewood Burst",
-      "price": 498000,
-      "url": "https://www.digimart.net/cat02/shop1000/DS10824223/"
-    },
-    {
-      "id": "DS10824222",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 【中古】 エレキギター Gibson Custom Shop Les Paul Elegant 1997年製 3.68kg ギブソン レスポール",
-      "price": 660000,
-      "url": "https://www.digimart.net/cat01/shop1000/DS10824222/"
-    },
-    {
-      "id": "DS10824100",
-      "keyword": "Gibson",
-      "title": "Gibson L-50",
-      "price": 396000,
-      "url": "https://www.digimart.net/cat02/shop541/DS10824100/"
-    },
-    {
-      "id": "DS10824096",
-      "keyword": "Gibson",
-      "title": "Gibson 【NEW】【軽量!】Slash Les Paul Standard Appetite Amber #224760288【3.79kg】【送料込】",
-      "price": 377300,
-      "url": "https://www.digimart.net/cat01/shop35/DS10824096/"
-    },
-    {
-      "id": "DS10824072",
-      "keyword": "Gibson",
-      "title": "Gibson SG Standard 61 Maestro Vibrola Vintage Cherry 【梅田店】",
-      "price": 286000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10824072/"
-    },
-    {
-      "id": "DS10824071",
-      "keyword": "Gibson",
-      "title": "Gibson Slash Les Paul Standard Appetite Amber 【梅田店】",
-      "price": 374000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10824071/"
-    },
-    {
-      "id": "DS10824070",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Heritage Cherry Sunburst 【梅田店】",
-      "price": 346500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10824070/"
-    },
-    {
-      "id": "DS10824069",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s P-90 Gold Top 【梅田店】",
-      "price": 324500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10824069/"
-    },
-    {
-      "id": "DS10824068",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s P-90 Gold Top 【梅田店】",
-      "price": 324500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10824068/"
-    },
-    {
-      "id": "DS10823994",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard '50s P-90 ~ Gold Top ~ #221960026【4.55kg】【56スタイル】",
-      "price": 330000,
-      "url": "https://www.digimart.net/cat01/shop26/DS10823994/"
-    },
-    {
-      "id": "DS10824024",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s ~ Gold Top ~ #217560239【4.58kg】",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop26/DS10824024/"
-    },
-    {
-      "id": "DS10824004",
-      "keyword": "Gibson",
-      "title": "Gibson 【レアカラー】Les Paul Junior Vintage Tobacco Burst 3.83kg",
-      "price": 203500,
-      "url": "https://www.digimart.net/cat01/shop169/DS10824004/"
-    },
-    {
-      "id": "DS10823998",
-      "keyword": "Gibson",
-      "title": "Gibson 【カスタムバッカー搭載!】ES-335 50s / Vintage Natural #223060277",
-      "price": 440000,
-      "url": "https://www.digimart.net/cat01/shop169/DS10823998/"
-    },
-    {
-      "id": "DS10821997",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Special Tribute Double Cutaway (Worn Cherry) 【USED】",
-      "price": 165000,
-      "url": "https://www.digimart.net/cat01/shop73/DS10821997/"
-    },
-    {
-      "id": "DS10824282",
-      "keyword": "Fender",
-      "title": "Fender New American Vintage 64 Jazz Bass",
-      "price": 297000,
-      "url": "https://www.digimart.net/cat03/shop1740/DS10824282/"
-    },
-    {
-      "id": "DS10824050",
-      "keyword": "Fender",
-      "title": "Fender American Ultra II Jazz Bass V Maple Fingerboard Gold Dust ≪S/N:US26004277≫ 【心斎橋店】",
+      "title": "Gibson 【NEW】ES-345 Sixties Cherry sn223960225 [4.00kg]",
       "price": 473000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10824050/"
+      "url": "https://www.digimart.net/cat01/shop35/DS10824475/"
+    },
+    {
+      "id": "DS10824466",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Junior -Vintage Tobacco Burst-【3.49kg】【#224760295】",
+      "price": 203500,
+      "url": "https://www.digimart.net/cat01/shop38/DS10824466/"
+    },
+    {
+      "id": "DS10824464",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 Standard VS",
+      "price": 379500,
+      "url": "https://www.digimart.net/cat02/shop5032/DS10824464/"
+    },
+    {
+      "id": "DS10824463",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Junior -Vintage Tobacco Burst-【3.48kg】【#223660145】",
+      "price": 203500,
+      "url": "https://www.digimart.net/cat01/shop38/DS10824463/"
+    },
+    {
+      "id": "DS10824458",
+      "keyword": "Gibson",
+      "title": "Gibson Kirk Hammett \"Greeny\" Les Paul Standard﻿﻿ -Greeny Burst-【#224460110】【4.38kg】",
+      "price": 440000,
+      "url": "https://www.digimart.net/cat01/shop38/DS10824458/"
+    },
+    {
+      "id": "DS10824457",
+      "keyword": "Gibson",
+      "title": "Gibson G6119 Tennessee Rose 2008",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat01/shop3800/DS10824457/"
+    },
+    {
+      "id": "DS10824450",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 1956 Les Paul Standard Reissue VOS Double Gold ≪S/N:6 6255≫ 【心斎橋店】",
+      "price": 671000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10824450/"
+    },
+    {
+      "id": "DS10824443",
+      "keyword": "Gibson",
+      "title": "Gibson 70s Flying V -Antique Natural- 【#224760210】【3.25kg】",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop38/DS10824443/"
+    },
+    {
+      "id": "DS10817913",
+      "keyword": "Gibson",
+      "title": "Gibson SG Standard Black 2002",
+      "price": 174000,
+      "url": "https://www.digimart.net/cat01/shop5447/DS10817913/"
+    },
+    {
+      "id": "DS10824399",
+      "keyword": "Gibson",
+      "title": "Gibson Slash Les Paul Standard -Appetite Burst(Amber)-【#225160083】【4.26kg】",
+      "price": 377300,
+      "url": "https://www.digimart.net/cat01/shop38/DS10824399/"
+    },
+    {
+      "id": "DS10824292",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2025 SE Silver Sky Rosewood -1M- Platinum Spark【3.27kg】[S/N CTIH076326]",
+      "price": 151984,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10824292/"
+    },
+    {
+      "id": "DS10822957",
+      "keyword": "Fender",
+      "title": "Fender FSR American Vintage 72 Telecaster Custom",
+      "price": 278000,
+      "url": "https://www.digimart.net/cat01/shop5450/DS10822957/"
+    },
+    {
+      "id": "DS10823124",
+      "keyword": "Fender",
+      "title": "Fender American Ultra II Precision Bass Noble Blue 【渋谷店】",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10823124/"
     }
   ],
   "errors": [],
@@ -194,7 +145,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 184,
+      "qualifying": 180,
       "page_stats": [
         {
           "page": 1,
@@ -238,7 +189,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 223,
+      "qualifying": 222,
       "page_stats": [
         {
           "page": 1,
@@ -282,7 +233,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 69,
+      "qualifying": 66,
       "page_stats": [
         {
           "page": 1,
@@ -326,7 +277,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 184,
+      "qualifying": 183,
       "page_stats": [
         {
           "page": 1,
@@ -463,6 +414,6 @@
       ]
     }
   },
-  "collected": 952,
-  "seen_count": 4247
+  "collected": 943,
+  "seen_count": 4260
 }
