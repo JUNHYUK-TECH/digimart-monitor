@@ -1,16 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-22T15:02:34.451966+00:00",
+  "checked_at": "2026-10-22T16:09:05.864573+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10824712",
-      "keyword": "Gibson",
-      "title": "Gibson 【2026年製】【1年ぶり入荷の即売れモデル】【極薄ラッカー】【鳴り◎】1942 Banner J-45",
-      "price": 650000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10824712/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -61,7 +53,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 178,
+      "qualifying": 177,
       "page_stats": [
         {
           "page": 1,
@@ -330,6 +322,6 @@
       ]
     }
   },
-  "collected": 919,
+  "collected": 918,
   "seen_count": 4301
 }
