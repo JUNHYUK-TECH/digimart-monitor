@@ -1,42 +1,147 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-22T08:09:31.832683+00:00",
+  "checked_at": "2026-10-22T09:06:22.895879+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10821992",
+      "id": "DS10824283",
       "keyword": "Gibson",
-      "title": "Gibson Billie Joe Armstrong Les Paul Junior (Vintage Ebony Gloss) 【USED】",
-      "price": 275000,
-      "url": "https://www.digimart.net/cat01/shop73/DS10821992/"
+      "title": "Gibson 【大阪梅田楽器祭 目玉品 11/7(土)発売開始】J-160E 1968年製 #518387【最大48回分割無金利】",
+      "price": 798000,
+      "url": "https://www.digimart.net/cat02/shop5452/DS10824283/"
     },
     {
-      "id": "DS10823925",
+      "id": "DS10824265",
       "keyword": "Gibson",
-      "title": "Gibson Modern CollectionLes Paul Modern Supreme Trans Ebony Burst #218860157 [3.89kg]",
-      "price": 528000,
-      "url": "https://www.digimart.net/cat01/shop169/DS10823925/"
+      "title": "Gibson 60's DOVE AN",
+      "price": 396000,
+      "url": "https://www.digimart.net/cat02/shop541/DS10824265/"
     },
     {
-      "id": "DS10823914",
+      "id": "DS10824230",
       "keyword": "Gibson",
-      "title": "Gibson 【NEW】ES-335 60s 60s Cherry sn224660210 [4.09kg]【G-CLUB TOKYO】",
+      "title": "Gibson 【中古】 アコースティックギター Gibson J-45 Standard Vintage Sunburst 2011年製 ギブソン J45",
+      "price": 288000,
+      "url": "https://www.digimart.net/cat02/shop1000/DS10824230/"
+    },
+    {
+      "id": "DS10824224",
+      "keyword": "Gibson",
+      "title": "Gibson 【中古】 エレキギター Gibson ES-165 Herb Ellis Signature Vintage Sunburst 2003年製 ハーブ・エリス",
+      "price": 448000,
+      "url": "https://www.digimart.net/cat01/shop1000/DS10824224/"
+    },
+    {
+      "id": "DS10824223",
+      "keyword": "Gibson",
+      "title": "Gibson 【中古】 アコースティックギター Gibson Hummingbird Deluxe 2019 Rosewood Burst",
+      "price": 498000,
+      "url": "https://www.digimart.net/cat02/shop1000/DS10824223/"
+    },
+    {
+      "id": "DS10824222",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 【中古】 エレキギター Gibson Custom Shop Les Paul Elegant 1997年製 3.68kg ギブソン レスポール",
+      "price": 660000,
+      "url": "https://www.digimart.net/cat01/shop1000/DS10824222/"
+    },
+    {
+      "id": "DS10824100",
+      "keyword": "Gibson",
+      "title": "Gibson L-50",
+      "price": 396000,
+      "url": "https://www.digimart.net/cat02/shop541/DS10824100/"
+    },
+    {
+      "id": "DS10824096",
+      "keyword": "Gibson",
+      "title": "Gibson 【NEW】【軽量!】Slash Les Paul Standard Appetite Amber #224760288【3.79kg】【送料込】",
+      "price": 377300,
+      "url": "https://www.digimart.net/cat01/shop35/DS10824096/"
+    },
+    {
+      "id": "DS10824072",
+      "keyword": "Gibson",
+      "title": "Gibson SG Standard 61 Maestro Vibrola Vintage Cherry 【梅田店】",
+      "price": 286000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10824072/"
+    },
+    {
+      "id": "DS10824071",
+      "keyword": "Gibson",
+      "title": "Gibson Slash Les Paul Standard Appetite Amber 【梅田店】",
+      "price": 374000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10824071/"
+    },
+    {
+      "id": "DS10824070",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s Heritage Cherry Sunburst 【梅田店】",
+      "price": 346500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10824070/"
+    },
+    {
+      "id": "DS10824069",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s P-90 Gold Top 【梅田店】",
+      "price": 324500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10824069/"
+    },
+    {
+      "id": "DS10824068",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s P-90 Gold Top 【梅田店】",
+      "price": 324500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10824068/"
+    },
+    {
+      "id": "DS10823994",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard '50s P-90 ~ Gold Top ~ #221960026【4.55kg】【56スタイル】",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat01/shop26/DS10823994/"
+    },
+    {
+      "id": "DS10824024",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s ~ Gold Top ~ #217560239【4.58kg】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop26/DS10824024/"
+    },
+    {
+      "id": "DS10824004",
+      "keyword": "Gibson",
+      "title": "Gibson 【レアカラー】Les Paul Junior Vintage Tobacco Burst 3.83kg",
+      "price": 203500,
+      "url": "https://www.digimart.net/cat01/shop169/DS10824004/"
+    },
+    {
+      "id": "DS10823998",
+      "keyword": "Gibson",
+      "title": "Gibson 【カスタムバッカー搭載!】ES-335 50s / Vintage Natural #223060277",
       "price": 440000,
-      "url": "https://www.digimart.net/cat01/shop35/DS10823914/"
+      "url": "https://www.digimart.net/cat01/shop169/DS10823998/"
     },
     {
-      "id": "DS10823855",
+      "id": "DS10821997",
       "keyword": "Gibson",
-      "title": "Gibson 【NEW】ES-335 60s 60s Cherry sn224460264 [4.02kg]【G-CLUB TOKYO】",
-      "price": 440000,
-      "url": "https://www.digimart.net/cat01/shop35/DS10823855/"
+      "title": "Gibson Les Paul Special Tribute Double Cutaway (Worn Cherry) 【USED】",
+      "price": 165000,
+      "url": "https://www.digimart.net/cat01/shop73/DS10821997/"
     },
     {
-      "id": "DS10823840",
+      "id": "DS10824282",
       "keyword": "Fender",
-      "title": "Fender Custom Shop 1951 Nocaster Closet Classic",
-      "price": 484000,
-      "url": "https://www.digimart.net/cat01/shop5466/DS10823840/"
+      "title": "Fender New American Vintage 64 Jazz Bass",
+      "price": 297000,
+      "url": "https://www.digimart.net/cat03/shop1740/DS10824282/"
+    },
+    {
+      "id": "DS10824050",
+      "keyword": "Fender",
+      "title": "Fender American Ultra II Jazz Bass V Maple Fingerboard Gold Dust ≪S/N:US26004277≫ 【心斎橋店】",
+      "price": 473000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10824050/"
     }
   ],
   "errors": [],
@@ -133,7 +238,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 224,
+      "qualifying": 223,
       "page_stats": [
         {
           "page": 1,
@@ -177,7 +282,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 71,
+      "qualifying": 69,
       "page_stats": [
         {
           "page": 1,
@@ -265,7 +370,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 120,
+      "qualifying": 121,
       "page_stats": [
         {
           "page": 1,
@@ -358,6 +463,6 @@
       ]
     }
   },
-  "collected": 954,
-  "seen_count": 4227
+  "collected": 952,
+  "seen_count": 4247
 }
