@@ -1,49 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-22T14:06:39.275383+00:00",
+  "checked_at": "2026-10-22T15:02:34.451966+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10824709",
+      "id": "DS10824712",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop 【良杢個体】【カスタムショップ】【サップ有】 Hummingbird Koa Carapatian Spruce",
-      "price": 655000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10824709/"
-    },
-    {
-      "id": "DS10823549",
-      "keyword": "Gibson",
-      "title": "Gibson 【2026年製個体】60s J-45 Original 【鳴り◎個体】",
-      "price": 373000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10823549/"
-    },
-    {
-      "id": "DS10823061",
-      "keyword": "Gibson",
-      "title": "Gibson 【2026年製個体】60s J-45 Original 【バランス◎個体】",
-      "price": 373000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10823061/"
-    },
-    {
-      "id": "DS10824435",
-      "keyword": "Gibson",
-      "title": "Gibson 【2026年製個体】60s J-45 Original 【倍音◎個体】【担当一押し】",
-      "price": 373000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10824435/"
-    },
-    {
-      "id": "DS10822986",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 【5本限定オーダー】【オールマホガニー】 Custom Shop 1950 J-45 All Mahogany【担当一推】",
-      "price": 478000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10822986/"
-    },
-    {
-      "id": "DS10822360",
-      "keyword": "Fender",
-      "title": "Fender American Professional Stratocaster HSS (Oxblood)",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat01/shop73/DS10822360/"
+      "title": "Gibson 【2026年製】【1年ぶり入荷の即売れモデル】【極薄ラッカー】【鳴り◎】1942 Banner J-45",
+      "price": 650000,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10824712/"
     }
   ],
   "errors": [],
@@ -96,7 +61,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 181,
+      "qualifying": 178,
       "page_stats": [
         {
           "page": 1,
@@ -365,6 +330,6 @@
       ]
     }
   },
-  "collected": 922,
-  "seen_count": 4300
+  "collected": 919,
+  "seen_count": 4301
 }
