@@ -1,189 +1,70 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-22T05:02:08.879310+00:00",
+  "checked_at": "2026-10-22T05:59:25.387769+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10823479",
+      "id": "DS10823594",
       "keyword": "Gibson",
-      "title": "Gibson J-45 Standard Vintage Sunburst ギブソン 【実物画像/未展示品】[2NDアウトレット][S/N 21624130]",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10823479/"
+      "title": "Gibson Les Paul Studio Ebony ギブソン 【実物画像/未展示品】[3.67kg][S/N 224660108]",
+      "price": 209000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10823594/"
     },
     {
-      "id": "DS10823477",
+      "id": "DS10823564",
       "keyword": "Gibson",
-      "title": "Gibson 1950s J-45 Original Vintage Sunburst ギブソン 【実物画像/未展示品】[2NDアウトレット][S/N 20716082]",
-      "price": 335500,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10823477/"
+      "title": "Gibson C/S 1950S J-45 ANTIQUITY",
+      "price": 375000,
+      "url": "https://www.digimart.net/cat02/shop4967/DS10823564/"
     },
     {
-      "id": "DS10823476",
+      "id": "DS10823529",
       "keyword": "Gibson",
-      "title": "Gibson Hummingbird Standard Vintage Sunburst ギブソン 【実物画像/未展示品】[2NDアウトレット][S/N 22175066]",
-      "price": 429000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10823476/"
+      "title": "Gibson SG Standard Heritage Cherry ギブソン 【実物画像/未展示品】[2.91kg][S/N 224060218]",
+      "price": 225500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10823529/"
     },
     {
-      "id": "DS10823472",
+      "id": "DS10823528",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Hummingbird Carpathian Spruce Honeyburst #21826059 ~Greatest Hits Vol.2~【クロサワ本店店頭展示品】",
-      "price": 655000,
-      "url": "https://www.digimart.net/cat02/shop174/DS10823472/"
+      "title": "Gibson SG Standard Heritage Cherry ギブソン 【実物画像/未展示品】[3.06kg][S/N 223860231]",
+      "price": 225500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10823528/"
     },
     {
-      "id": "DS10823459",
+      "id": "DS10823527",
       "keyword": "Gibson",
-      "title": "Gibson Dove Original Vintage Cherry Sunburst #20995002【NEW】【2025年製】",
-      "price": 608500,
-      "url": "https://www.digimart.net/cat02/shop169/DS10823459/"
+      "title": "Gibson J-45 Special Satin Vintage Sunburst ギブソン 【実物画像/未展示品】[S/N 22576036]",
+      "price": 258500,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10823527/"
     },
     {
-      "id": "DS10823355",
+      "id": "DS10823526",
       "keyword": "Gibson",
-      "title": "Gibson J-45 60s Original Wine Red #21356119 ~Original Acoustic Collection~【クロサワ本店店頭在庫品】",
-      "price": 373000,
-      "url": "https://www.digimart.net/cat02/shop174/DS10823355/"
+      "title": "Gibson SG Standard Heritage Cherry ギブソン 【アウトレット/未展示品】[3.04kg][S/N 223260013]",
+      "price": 214500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10823526/"
     },
     {
-      "id": "DS10823324",
+      "id": "DS10823525",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s P-90 Gold Top ギブソン 【実物画像/未展示品】[4.21kg][S/N 224060108]",
-      "price": 324500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823324/"
+      "title": "Gibson SG Standard Heritage Cherry ギブソン 【実物画像/未展示品】[2.92kg][S/N 223060184]",
+      "price": 225500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10823525/"
     },
     {
-      "id": "DS10823319",
+      "id": "DS10823524",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s P-90 Gold Top ギブソン 【アウトレット/未展示品】[4.26kg][S/N 223960322]",
-      "price": 321200,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823319/"
+      "title": "Gibson SJ-200 Standard Classic White ギブソン 【実物画像/未展示品】[S/N 21246033]",
+      "price": 808500,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10823524/"
     },
     {
-      "id": "DS10823311",
+      "id": "DS10823523",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s P-90 Gold Top ギブソン 【アウトレット/未展示品】[4.56kg][S/N 223960321]",
-      "price": 321200,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823311/"
-    },
-    {
-      "id": "DS10823303",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s P-90 Gold Top ギブソン 【アウトレット/未展示品】[4.54kg][S/N 223960087]",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823303/"
-    },
-    {
-      "id": "DS10823295",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s P-90 Gold Top ギブソン 【実物画像/未展示品】[4.21kg][S/N 222960029]",
-      "price": 324500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823295/"
-    },
-    {
-      "id": "DS10823294",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Figured Top Heritage Cherry Sunburst 【アウトレット/未展示品】[4.50kg][S/N 223",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823294/"
-    },
-    {
-      "id": "DS10823345",
-      "keyword": "Gibson",
-      "title": "Gibson 【中古】 エレキギター Gibson Les Paul BFG Worn Ebony 2006年製(2007年モデル) ギブソン レスポール",
-      "price": 158000,
-      "url": "https://www.digimart.net/cat01/shop1000/DS10823345/"
-    },
-    {
-      "id": "DS10823279",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Figured Top Heritage Cherry Sunburst 【実物画像/未展示品】[4.05kg][S/N 2236600",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823279/"
-    },
-    {
-      "id": "DS10823278",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Figured Top Heritage Cherry Sunburst 【実物画像/未展示品】[4.45kg][S/N 2234601",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823278/"
-    },
-    {
-      "id": "DS10823277",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Figured Top Heritage Cherry Sunburst 【実物画像/未展示品】[4.07kg][S/N 2234601",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823277/"
-    },
-    {
-      "id": "DS10823276",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Figured Top Heritage Cherry Sunburst 【実物画像/未展示品】[4.26kg][S/N 2234600",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823276/"
-    },
-    {
-      "id": "DS10823275",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Figured Top Heritage Cherry Sunburst 【アウトレット/未展示品】[4.23kg][S/N 223",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823275/"
-    },
-    {
-      "id": "DS10823274",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Figured Top Heritage Cherry Sunburst 【実物画像/未展示品】[4.19kg][S/N 2229600",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823274/"
-    },
-    {
-      "id": "DS10823273",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Figured Top Heritage Cherry Sunburst 【実物画像/未展示品】[4.55kg][S/N 2222603",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823273/"
-    },
-    {
-      "id": "DS10823272",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Figured Top Heritage Cherry Sunburst 【実物画像/未展示品】[4.14kg][S/N 2215600",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823272/"
-    },
-    {
-      "id": "DS10823265",
-      "keyword": "Gibson",
-      "title": "Gibson L-00 Original Vintage Sunburst 2026",
-      "price": 297000,
-      "url": "https://www.digimart.net/cat02/shop3200/DS10823265/"
-    },
-    {
-      "id": "DS10823259",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 60s Original, Fixed Bridge CS 【2026年製】【HIFI DNA】",
-      "price": 381700,
-      "url": "https://www.digimart.net/cat02/shop169/DS10823259/"
-    },
-    {
-      "id": "DS10823489",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) custom 24 1st Amber",
-      "price": 368000,
-      "url": "https://www.digimart.net/cat01/shop4682/DS10823489/"
-    },
-    {
-      "id": "DS10823343",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 【中古】 エレキギター PRS Custom 22 Quilt 10Top Santana Yellow Mod. 2007年製 パーツ交換歴あり",
-      "price": 428000,
-      "url": "https://www.digimart.net/cat01/shop1000/DS10823343/"
-    },
-    {
-      "id": "DS10823271",
-      "keyword": "Fender",
-      "title": "Fender American Standard Stratocaster 3-Color Sunburst 【梅田店】",
-      "price": 165000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823271/"
+      "title": "Gibson SG Standard Ebony 【新宿店】",
+      "price": 168000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10823523/"
     }
   ],
   "errors": [],
@@ -280,7 +161,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 226,
+      "qualifying": 225,
       "page_stats": [
         {
           "page": 1,
@@ -505,6 +386,6 @@
       ]
     }
   },
-  "collected": 958,
-  "seen_count": 4203
+  "collected": 957,
+  "seen_count": 4212
 }
