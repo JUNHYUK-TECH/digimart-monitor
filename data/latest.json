@@ -1,70 +1,77 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-22T05:59:25.387769+00:00",
+  "checked_at": "2026-10-22T07:19:30.121765+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10823594",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Studio Ebony ギブソン 【実物画像/未展示品】[3.67kg][S/N 224660108]",
-      "price": 209000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823594/"
+      "id": "DS10823698",
+      "keyword": "Tyler",
+      "title": "James Tyler USED 中古 Classic Alder Body Candy Apple Red Finish SN.19111",
+      "price": 803000,
+      "url": "https://www.digimart.net/cat01/shop4/DS10823698/"
     },
     {
-      "id": "DS10823564",
+      "id": "DS10823813",
       "keyword": "Gibson",
-      "title": "Gibson C/S 1950S J-45 ANTIQUITY",
-      "price": 375000,
-      "url": "https://www.digimart.net/cat02/shop4967/DS10823564/"
+      "title": "Gibson 1961 GA-20T【渋谷店】《05VG》",
+      "price": 297000,
+      "url": "https://www.digimart.net/cat12/shop1484/DS10823813/"
     },
     {
-      "id": "DS10823529",
+      "id": "DS10823673",
       "keyword": "Gibson",
-      "title": "Gibson SG Standard Heritage Cherry ギブソン 【実物画像/未展示品】[2.91kg][S/N 224060218]",
-      "price": 225500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823529/"
+      "title": "Gibson ES-335 60s ~ Sixties Cherry ~ #220560367【3.96kg】",
+      "price": 440000,
+      "url": "https://www.digimart.net/cat01/shop26/DS10823673/"
     },
     {
-      "id": "DS10823528",
+      "id": "DS10823676",
       "keyword": "Gibson",
-      "title": "Gibson SG Standard Heritage Cherry ギブソン 【実物画像/未展示品】[3.06kg][S/N 223860231]",
-      "price": 225500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823528/"
+      "title": "Gibson Les Paul Custom 70s Ebony【明日10/23入荷予定、ご予約受付中】",
+      "price": 528000,
+      "url": "https://www.digimart.net/cat01/shop175/DS10823676/"
     },
     {
-      "id": "DS10823527",
+      "id": "DS10823674",
       "keyword": "Gibson",
-      "title": "Gibson J-45 Special Satin Vintage Sunburst ギブソン 【実物画像/未展示品】[S/N 22576036]",
-      "price": 258500,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10823527/"
+      "title": "Gibson Granada Flying Eagle 2004",
+      "price": 698000,
+      "url": "https://www.digimart.net/cat02/shop172/DS10823674/"
     },
     {
-      "id": "DS10823526",
+      "id": "DS10823645",
       "keyword": "Gibson",
-      "title": "Gibson SG Standard Heritage Cherry ギブソン 【アウトレット/未展示品】[3.04kg][S/N 223260013]",
-      "price": 214500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823526/"
+      "title": "Gibson Earl Scruggs Golden Deluxe 1992",
+      "price": 770000,
+      "url": "https://www.digimart.net/cat02/shop172/DS10823645/"
     },
     {
-      "id": "DS10823525",
-      "keyword": "Gibson",
-      "title": "Gibson SG Standard Heritage Cherry ギブソン 【実物画像/未展示品】[2.92kg][S/N 223060184]",
-      "price": 225500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823525/"
+      "id": "DS10823684",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 【現物画像】SE CUSTOM 24-08 Vintage Sunburst",
+      "price": 140360,
+      "url": "https://www.digimart.net/cat01/shop5295/DS10823684/"
     },
     {
-      "id": "DS10823524",
-      "keyword": "Gibson",
-      "title": "Gibson SJ-200 Standard Classic White ギブソン 【実物画像/未展示品】[S/N 21246033]",
-      "price": 808500,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10823524/"
+      "id": "DS10823780",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Limited 50's Telecaster Relic 2016年限定モデル ローズウッドネック",
+      "price": 638000,
+      "url": "https://www.digimart.net/cat01/shop4833/DS10823780/"
     },
     {
-      "id": "DS10823523",
-      "keyword": "Gibson",
-      "title": "Gibson SG Standard Ebony 【新宿店】",
-      "price": 168000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10823523/"
+      "id": "DS10823703",
+      "keyword": "Fender",
+      "title": "Fender American Professional Telecaster (Dark Night/Rosewood)",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10823703/"
+    },
+    {
+      "id": "DS10823671",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 【USED】Master Grade 1955 Esquire Natural 1997年製 [3.41kg]【G-CLUB TOKYO】",
+      "price": 498300,
+      "url": "https://www.digimart.net/cat01/shop35/DS10823671/"
     }
   ],
   "errors": [],
@@ -73,7 +80,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 71,
+      "qualifying": 72,
       "page_stats": [
         {
           "page": 1,
@@ -161,7 +168,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 225,
+      "qualifying": 224,
       "page_stats": [
         {
           "page": 1,
@@ -203,9 +210,9 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 300,
-      "parsed": 300,
-      "qualifying": 74,
+      "links": 299,
+      "parsed": 299,
+      "qualifying": 71,
       "page_stats": [
         {
           "page": 1,
@@ -217,7 +224,7 @@
           "page": 2,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=&readCount=50&noparallelimportp=&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=&soldoutDispCheck=false&tagWords=&dmsP=&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=&neckScaleOption=&tagWordsNot=&freeshippingp=&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=&pickupOption=&movieurlp=&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=&brandIdNot=&ecCardP=&ecpurchasep=&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=&fingerboardOption=&noshopsalep=&currentPage=2&shopNo=&stringsoption=&categoryId=&shopsalep=&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 3,
@@ -293,7 +300,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 119,
+      "qualifying": 120,
       "page_stats": [
         {
           "page": 1,
@@ -386,6 +393,6 @@
       ]
     }
   },
-  "collected": 957,
-  "seen_count": 4212
+  "collected": 955,
+  "seen_count": 4222
 }
