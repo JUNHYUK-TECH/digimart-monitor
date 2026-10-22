@@ -1,77 +1,42 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-22T07:19:30.121765+00:00",
+  "checked_at": "2026-10-22T08:09:31.832683+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10823698",
-      "keyword": "Tyler",
-      "title": "James Tyler USED 中古 Classic Alder Body Candy Apple Red Finish SN.19111",
-      "price": 803000,
-      "url": "https://www.digimart.net/cat01/shop4/DS10823698/"
+      "id": "DS10821992",
+      "keyword": "Gibson",
+      "title": "Gibson Billie Joe Armstrong Les Paul Junior (Vintage Ebony Gloss) 【USED】",
+      "price": 275000,
+      "url": "https://www.digimart.net/cat01/shop73/DS10821992/"
     },
     {
-      "id": "DS10823813",
+      "id": "DS10823925",
       "keyword": "Gibson",
-      "title": "Gibson 1961 GA-20T【渋谷店】《05VG》",
-      "price": 297000,
-      "url": "https://www.digimart.net/cat12/shop1484/DS10823813/"
-    },
-    {
-      "id": "DS10823673",
-      "keyword": "Gibson",
-      "title": "Gibson ES-335 60s ~ Sixties Cherry ~ #220560367【3.96kg】",
-      "price": 440000,
-      "url": "https://www.digimart.net/cat01/shop26/DS10823673/"
-    },
-    {
-      "id": "DS10823676",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Custom 70s Ebony【明日10/23入荷予定、ご予約受付中】",
+      "title": "Gibson Modern CollectionLes Paul Modern Supreme Trans Ebony Burst #218860157 [3.89kg]",
       "price": 528000,
-      "url": "https://www.digimart.net/cat01/shop175/DS10823676/"
+      "url": "https://www.digimart.net/cat01/shop169/DS10823925/"
     },
     {
-      "id": "DS10823674",
+      "id": "DS10823914",
       "keyword": "Gibson",
-      "title": "Gibson Granada Flying Eagle 2004",
-      "price": 698000,
-      "url": "https://www.digimart.net/cat02/shop172/DS10823674/"
+      "title": "Gibson 【NEW】ES-335 60s 60s Cherry sn224660210 [4.09kg]【G-CLUB TOKYO】",
+      "price": 440000,
+      "url": "https://www.digimart.net/cat01/shop35/DS10823914/"
     },
     {
-      "id": "DS10823645",
+      "id": "DS10823855",
       "keyword": "Gibson",
-      "title": "Gibson Earl Scruggs Golden Deluxe 1992",
-      "price": 770000,
-      "url": "https://www.digimart.net/cat02/shop172/DS10823645/"
+      "title": "Gibson 【NEW】ES-335 60s 60s Cherry sn224460264 [4.02kg]【G-CLUB TOKYO】",
+      "price": 440000,
+      "url": "https://www.digimart.net/cat01/shop35/DS10823855/"
     },
     {
-      "id": "DS10823684",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 【現物画像】SE CUSTOM 24-08 Vintage Sunburst",
-      "price": 140360,
-      "url": "https://www.digimart.net/cat01/shop5295/DS10823684/"
-    },
-    {
-      "id": "DS10823780",
+      "id": "DS10823840",
       "keyword": "Fender",
-      "title": "Fender Custom Shop Limited 50's Telecaster Relic 2016年限定モデル ローズウッドネック",
-      "price": 638000,
-      "url": "https://www.digimart.net/cat01/shop4833/DS10823780/"
-    },
-    {
-      "id": "DS10823703",
-      "keyword": "Fender",
-      "title": "Fender American Professional Telecaster (Dark Night/Rosewood)",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10823703/"
-    },
-    {
-      "id": "DS10823671",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 【USED】Master Grade 1955 Esquire Natural 1997年製 [3.41kg]【G-CLUB TOKYO】",
-      "price": 498300,
-      "url": "https://www.digimart.net/cat01/shop35/DS10823671/"
+      "title": "Fender Custom Shop 1951 Nocaster Closet Classic",
+      "price": 484000,
+      "url": "https://www.digimart.net/cat01/shop5466/DS10823840/"
     }
   ],
   "errors": [],
@@ -124,7 +89,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 185,
+      "qualifying": 184,
       "page_stats": [
         {
           "page": 1,
@@ -210,8 +175,8 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 299,
-      "parsed": 299,
+      "links": 300,
+      "parsed": 300,
       "qualifying": 71,
       "page_stats": [
         {
@@ -224,7 +189,7 @@
           "page": 2,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=&readCount=50&noparallelimportp=&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=&soldoutDispCheck=false&tagWords=&dmsP=&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=&neckScaleOption=&tagWordsNot=&freeshippingp=&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=&pickupOption=&movieurlp=&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=&brandIdNot=&ecCardP=&ecpurchasep=&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=&fingerboardOption=&noshopsalep=&currentPage=2&shopNo=&stringsoption=&categoryId=&shopsalep=&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 49
+          "unique_added": 50
         },
         {
           "page": 3,
@@ -393,6 +358,6 @@
       ]
     }
   },
-  "collected": 955,
-  "seen_count": 4222
+  "collected": 954,
+  "seen_count": 4227
 }
