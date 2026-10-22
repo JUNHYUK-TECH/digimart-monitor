@@ -1,14 +1,28 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-22T02:01:09.579920+00:00",
+  "checked_at": "2026-10-22T03:01:46.774496+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10822920",
+      "id": "DS10822966",
       "keyword": "Tyler",
-      "title": "LINE 6 JTV-89F JAMES TYLER VARIAX 【福岡店】",
+      "title": "James Tyler Japan 2026 Tylerbastar HD Rear Rout (Candy Blue Metallic Semi-Gloss)",
+      "price": 484000,
+      "url": "https://www.digimart.net/cat01/shop87/DS10822966/"
+    },
+    {
+      "id": "DS10822953",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2015 S2 Mira (Emerald)",
       "price": 129800,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10822920/"
+      "url": "https://www.digimart.net/cat01/shop87/DS10822953/"
+    },
+    {
+      "id": "DS10822965",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop Custom Deluxe Stratocaster Aged Cherry Sunburst 2012",
+      "price": 495000,
+      "url": "https://www.digimart.net/cat01/shop3200/DS10822965/"
     }
   ],
   "errors": [],
@@ -17,7 +31,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 70,
+      "qualifying": 71,
       "page_stats": [
         {
           "page": 1,
@@ -149,7 +163,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 70,
+      "qualifying": 69,
       "page_stats": [
         {
           "page": 1,
@@ -237,7 +251,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 120,
+      "qualifying": 119,
       "page_stats": [
         {
           "page": 1,
@@ -298,10 +312,10 @@
       ]
     },
     "Fractal": {
-      "pages": 3,
-      "links": 150,
-      "parsed": 150,
-      "qualifying": 95,
+      "pages": 4,
+      "links": 171,
+      "parsed": 171,
+      "qualifying": 99,
       "page_stats": [
         {
           "page": 1,
@@ -320,10 +334,16 @@
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=3&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
           "unique_added": 50
+        },
+        {
+          "page": 4,
+          "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
+          "links": 21,
+          "unique_added": 21
         }
       ]
     }
   },
-  "collected": 932,
-  "seen_count": 4132
+  "collected": 935,
+  "seen_count": 4135
 }
