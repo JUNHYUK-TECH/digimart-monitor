@@ -1,140 +1,49 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-22T12:08:37.321913+00:00",
+  "checked_at": "2026-10-22T14:06:39.275383+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10820778",
+      "id": "DS10824709",
       "keyword": "Gibson",
-      "title": "Gibson 1950年代製 ES-175 - Blonde",
-      "price": 990000,
-      "url": "https://www.digimart.net/cat01/shop4889/DS10820778/"
+      "title": "Gibson Custom Shop 【良杢個体】【カスタムショップ】【サップ有】 Hummingbird Koa Carapatian Spruce",
+      "price": 655000,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10824709/"
     },
     {
-      "id": "DS10824860",
+      "id": "DS10823549",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 60s Mahogany Top TV Yellow #208450043【ロッキン岐阜店12周年記念セール!】",
-      "price": 341000,
-      "url": "https://www.digimart.net/cat01/shop4978/DS10824860/"
+      "title": "Gibson 【2026年製個体】60s J-45 Original 【鳴り◎個体】",
+      "price": 373000,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10823549/"
     },
     {
-      "id": "DS10824853",
+      "id": "DS10823061",
       "keyword": "Gibson",
-      "title": "Gibson Keb' Mo' \"3.0\" 12-Fret J-45 Vintage Sunburst【ロッキン岐阜店12周年記念セール!】",
-      "price": 539000,
-      "url": "https://www.digimart.net/cat02/shop4978/DS10824853/"
+      "title": "Gibson 【2026年製個体】60s J-45 Original 【バランス◎個体】",
+      "price": 373000,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10823061/"
     },
     {
-      "id": "DS10824849",
+      "id": "DS10824435",
       "keyword": "Gibson",
-      "title": "Gibson SG Standard Heritage Cherry【ロッキン岐阜店12周年記念セール!】",
-      "price": 225500,
-      "url": "https://www.digimart.net/cat01/shop4978/DS10824849/"
+      "title": "Gibson 【2026年製個体】60s J-45 Original 【倍音◎個体】【担当一押し】",
+      "price": 373000,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10824435/"
     },
     {
-      "id": "DS10824842",
+      "id": "DS10822986",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Special Double Cutaway TV Yellow【ロッキン岐阜店12周年記念セール!】",
-      "price": 242000,
-      "url": "https://www.digimart.net/cat01/shop4978/DS10824842/"
+      "title": "Gibson Custom Shop 【5本限定オーダー】【オールマホガニー】 Custom Shop 1950 J-45 All Mahogany【担当一推】",
+      "price": 478000,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10822986/"
     },
     {
-      "id": "DS10824759",
-      "keyword": "Gibson",
-      "title": "Gibson Slash Les Paul Standard Appetite Burst 【横浜店】【S/N:224660001】【4.42kg】",
-      "price": 374000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10824759/"
-    },
-    {
-      "id": "DS10824758",
-      "keyword": "Gibson",
-      "title": "Gibson Slash Les Paul Standard Appetite Burst 【横浜店】【S/N:224660003】【4.28kg】",
-      "price": 374000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10824758/"
-    },
-    {
-      "id": "DS10824757",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s P-90 Gold Top 【横浜店】【S/N:223960056】【4.51kg】",
-      "price": 324500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10824757/"
-    },
-    {
-      "id": "DS10824762",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard '50s P-90 Gold Top #223660056 [4.22kg]",
-      "price": 330000,
-      "url": "https://www.digimart.net/cat01/shop169/DS10824762/"
-    },
-    {
-      "id": "DS10824761",
-      "keyword": "Gibson",
-      "title": "Gibson 【極上トラ杢】Slash Les Paul Standard Appetite Burst #224660059 [4.18kg]",
-      "price": 377300,
-      "url": "https://www.digimart.net/cat01/shop169/DS10824761/"
-    },
-    {
-      "id": "DS10824743",
-      "keyword": "Gibson",
-      "title": "Gibson 【良杢!!】Les Paul Standard '60s / Iced Tea #223960094 [4.32kg]",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop169/DS10824743/"
-    },
-    {
-      "id": "DS10824890",
+      "id": "DS10822360",
       "keyword": "Fender",
-      "title": "Fender Fender USA American Vintage '62 Stratocaster 3-Color Sunburst",
-      "price": 198800,
-      "url": "https://www.digimart.net/cat01/shop5310/DS10824890/"
-    },
-    {
-      "id": "DS10824886",
-      "keyword": "Fender",
-      "title": "Fender Limited Edition American Professional Classic Telecaster Butterscotch Blonde【心斎橋店】",
-      "price": 264000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10824886/"
-    },
-    {
-      "id": "DS10824535",
-      "keyword": "Fender",
-      "title": "Fender American Professional II Telecaster Deluxe Rosewood Fingerboard ~Dark Night~",
-      "price": 228000,
-      "url": "https://www.digimart.net/cat01/shop5007/DS10824535/"
-    },
-    {
-      "id": "DS10824862",
-      "keyword": "Fender",
-      "title": "Fender Limited Edition American Ultra II StratocasterNatural ≪S/N:US26003705≫ 【心斎橋店】",
-      "price": 473000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10824862/"
-    },
-    {
-      "id": "DS10824500",
-      "keyword": "Fender",
-      "title": "Fender American Proffesional Ⅱ Jazzmaster",
-      "price": 248000,
-      "url": "https://www.digimart.net/cat01/shop5099/DS10824500/"
-    },
-    {
-      "id": "DS10823852",
-      "keyword": "Fender",
-      "title": "Fender AMERICAN ORIGINAL 60S STRATOCASTER",
-      "price": 290000,
-      "url": "https://www.digimart.net/cat01/shop3100/DS10823852/"
-    },
-    {
-      "id": "DS10824844",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 2024 Vintage Custom 1962 Stratocaster MPL TCP",
-      "price": 495000,
-      "url": "https://www.digimart.net/cat01/shop64/DS10824844/"
-    },
-    {
-      "id": "DS10824753",
-      "keyword": "Fender",
-      "title": "Fender American Vintage II 1954 Precision Bass Maple Fingerboard Vintage Blonde 【横浜店】【S/N:V1607】【4.",
-      "price": 412500,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10824753/"
+      "title": "Fender American Professional Stratocaster HSS (Oxblood)",
+      "price": 308000,
+      "url": "https://www.digimart.net/cat01/shop73/DS10822360/"
     }
   ],
   "errors": [],
@@ -187,7 +96,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 185,
+      "qualifying": 181,
       "page_stats": [
         {
           "page": 1,
@@ -275,7 +184,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 49,
+      "qualifying": 45,
       "page_stats": [
         {
           "page": 1,
@@ -456,6 +365,6 @@
       ]
     }
   },
-  "collected": 930,
-  "seen_count": 4294
+  "collected": 922,
+  "seen_count": 4300
 }
