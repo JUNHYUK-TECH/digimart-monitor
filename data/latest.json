@@ -1,35 +1,21 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-23T14:06:49.574590+00:00",
+  "checked_at": "2026-10-23T15:05:09.898296+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10826592",
+      "id": "DS10827377",
       "keyword": "Gibson",
-      "title": "Gibson 【2026年製】50's J-45 Orjiginal Vintage Sunburst #21386126",
+      "title": "Gibson 【試奏動画あり】50s J-45 Original VS #21976004【粘りのあるミッドレンジが秀逸】",
       "price": 398000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10826592/"
+      "url": "https://www.digimart.net/cat02/shop5011/DS10827377/"
     },
     {
-      "id": "DS10826754",
+      "id": "DS10827376",
       "keyword": "Gibson",
-      "title": "Gibson 【良杢個体】J-45 Special #22376149【担当オススメ個体】【2026年製】",
-      "price": 258000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10826754/"
-    },
-    {
-      "id": "DS10826545",
-      "keyword": "Gibson",
-      "title": "Gibson 【2026年個体】50's J-45 Orjiginal #22056062【分割手数料0%】【送料当社負担】",
-      "price": 398000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10826545/"
-    },
-    {
-      "id": "DS10826759",
-      "keyword": "Fender",
-      "title": "Fender American Professional Jaguar RW (Olympic White)",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop73/DS10826759/"
+      "title": "Gibson Custom Shop 【試奏動画あり】The Firebird Custom Built【明瞭で力強い響き・個性際立つルックス】",
+      "price": 828000,
+      "url": "https://www.digimart.net/cat02/shop5011/DS10827376/"
     }
   ],
   "errors": [],
@@ -320,9 +306,9 @@
     },
     "Fractal": {
       "pages": 4,
-      "links": 168,
-      "parsed": 168,
-      "qualifying": 98,
+      "links": 167,
+      "parsed": 167,
+      "qualifying": 97,
       "page_stats": [
         {
           "page": 1,
@@ -345,12 +331,12 @@
         {
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
-          "links": 18,
-          "unique_added": 18
+          "links": 17,
+          "unique_added": 17
         }
       ]
     }
   },
-  "collected": 961,
-  "seen_count": 4621
+  "collected": 960,
+  "seen_count": 4623
 }
