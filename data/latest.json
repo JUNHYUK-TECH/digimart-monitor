@@ -1,49 +1,70 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-23T03:02:46.723641+00:00",
+  "checked_at": "2026-10-23T04:03:22.081777+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10824975",
+      "id": "DS10825168",
       "keyword": "Gibson",
-      "title": "Gibson J-45 Standard 【2014年製】【中古】",
-      "price": 248000,
-      "url": "https://www.digimart.net/cat02/shop5079/DS10824975/"
+      "title": "Gibson J-45 STANDARD / EBONY GLOSS 【特価】",
+      "price": 467500,
+      "url": "https://www.digimart.net/cat02/shop1680/DS10825168/"
     },
     {
-      "id": "DS10825019",
+      "id": "DS10825164",
       "keyword": "Gibson",
-      "title": "Gibson USED 中古 Exclusive Les Paul Standard '60s AAA Figured Top (Heritage Cherry Sunburst)[SN.21083003...",
-      "price": 334561,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10825019/"
+      "title": "Gibson Custom Shop Historic Collection 1958 Les Paul Junior Double Cut Reissue VOS TV Yellow 【御茶ノ水本店】",
+      "price": 528000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10825164/"
     },
     {
-      "id": "DS10819718",
+      "id": "DS10825163",
       "keyword": "Gibson",
-      "title": "Gibson ES-125",
-      "price": 220000,
-      "url": "https://www.digimart.net/cat01/shop5386/DS10819718/"
+      "title": "Gibson Custom Shop Murphy Lab 1958 Les Paul Standard Reissue Washed Cherry Sunburst 【御茶ノ水本店】",
+      "price": 728000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10825163/"
     },
     {
-      "id": "DS10824998",
+      "id": "DS10825162",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s Faded(Vintage Honey Burst)",
-      "price": 220000,
-      "url": "https://www.digimart.net/cat01/shop3700/DS10824998/"
+      "title": "Gibson Tak Matsumoto Les Paul TAK Burst (Neck Repair) 【御茶ノ水本店】",
+      "price": 648000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10825162/"
     },
     {
-      "id": "DS10825035",
+      "id": "DS10825158",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Studio Modern Worn White レスポールスタジオ エレキギター",
+      "price": 249700,
+      "url": "https://www.digimart.net/cat01/shop5072/DS10825158/"
+    },
+    {
+      "id": "DS10825097",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Les Paul Custom Black 2021",
+      "price": 598000,
+      "url": "https://www.digimart.net/cat01/shop700/DS10825097/"
+    },
+    {
+      "id": "DS10825150",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) custom24 10top Vintage Yellow 【≒3.41】",
+      "price": 428000,
+      "url": "https://www.digimart.net/cat01/shop5226/DS10825150/"
+    },
+    {
+      "id": "DS10822001",
       "keyword": "Fender",
-      "title": "Fender Custom Shop USED 中古 1960 Stratocaster (Candy Apple Red)",
-      "price": 336600,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10825035/"
+      "title": "Fender Limited Edition American Professional Classic Telecaster Fender Silent System (Candy Apple Red)",
+      "price": 258500,
+      "url": "https://www.digimart.net/cat01/shop73/DS10822001/"
     },
     {
-      "id": "DS10825009",
+      "id": "DS10825095",
       "keyword": "Fender",
-      "title": "Fender Fender American Professional 3Color Sunburst MN (selected by KOEIDO)【札幌店】",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5457/DS10825009/"
+      "title": "Fender Custom Shop Custom Telecaster Neck Stratocaster 1999",
+      "price": 899000,
+      "url": "https://www.digimart.net/cat01/shop700/DS10825095/"
     }
   ],
   "errors": [],
@@ -94,8 +115,8 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 300,
-      "parsed": 300,
+      "links": 299,
+      "parsed": 299,
       "qualifying": 177,
       "page_stats": [
         {
@@ -120,7 +141,7 @@
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Gibson&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 5,
@@ -184,7 +205,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 45,
+      "qualifying": 44,
       "page_stats": [
         {
           "page": 1,
@@ -365,6 +386,6 @@
       ]
     }
   },
-  "collected": 918,
-  "seen_count": 4307
+  "collected": 917,
+  "seen_count": 4316
 }
