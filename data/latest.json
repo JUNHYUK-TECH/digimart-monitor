@@ -1,23 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-23T15:05:09.898296+00:00",
+  "checked_at": "2026-10-23T16:05:09.922657+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10827377",
-      "keyword": "Gibson",
-      "title": "Gibson 【試奏動画あり】50s J-45 Original VS #21976004【粘りのあるミッドレンジが秀逸】",
-      "price": 398000,
-      "url": "https://www.digimart.net/cat02/shop5011/DS10827377/"
-    },
-    {
-      "id": "DS10827376",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 【試奏動画あり】The Firebird Custom Built【明瞭で力強い響き・個性際立つルックス】",
-      "price": 828000,
-      "url": "https://www.digimart.net/cat02/shop5011/DS10827376/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
