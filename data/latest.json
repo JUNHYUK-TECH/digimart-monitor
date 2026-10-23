@@ -1,8 +1,51 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-23T02:03:36.166814+00:00",
+  "checked_at": "2026-10-23T03:02:46.723641+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10824975",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 Standard 【2014年製】【中古】",
+      "price": 248000,
+      "url": "https://www.digimart.net/cat02/shop5079/DS10824975/"
+    },
+    {
+      "id": "DS10825019",
+      "keyword": "Gibson",
+      "title": "Gibson USED 中古 Exclusive Les Paul Standard '60s AAA Figured Top (Heritage Cherry Sunburst)[SN.21083003...",
+      "price": 334561,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10825019/"
+    },
+    {
+      "id": "DS10819718",
+      "keyword": "Gibson",
+      "title": "Gibson ES-125",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat01/shop5386/DS10819718/"
+    },
+    {
+      "id": "DS10824998",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s Faded(Vintage Honey Burst)",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat01/shop3700/DS10824998/"
+    },
+    {
+      "id": "DS10825035",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop USED 中古 1960 Stratocaster (Candy Apple Red)",
+      "price": 336600,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10825035/"
+    },
+    {
+      "id": "DS10825009",
+      "keyword": "Fender",
+      "title": "Fender Fender American Professional 3Color Sunburst MN (selected by KOEIDO)【札幌店】",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop5457/DS10825009/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -53,7 +96,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 176,
+      "qualifying": 177,
       "page_stats": [
         {
           "page": 1,
@@ -97,7 +140,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 221,
+      "qualifying": 220,
       "page_stats": [
         {
           "page": 1,
@@ -141,7 +184,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 43,
+      "qualifying": 45,
       "page_stats": [
         {
           "page": 1,
@@ -291,8 +334,8 @@
     },
     "Fractal": {
       "pages": 4,
-      "links": 169,
-      "parsed": 169,
+      "links": 168,
+      "parsed": 168,
       "qualifying": 99,
       "page_stats": [
         {
@@ -316,12 +359,12 @@
         {
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
-          "links": 19,
-          "unique_added": 19
+          "links": 18,
+          "unique_added": 18
         }
       ]
     }
   },
-  "collected": 916,
-  "seen_count": 4301
+  "collected": 918,
+  "seen_count": 4307
 }
