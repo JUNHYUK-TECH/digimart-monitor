@@ -1,70 +1,266 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-23T04:03:22.081777+00:00",
+  "checked_at": "2026-10-23T05:01:31.451275+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10825168",
+      "id": "DS10825391",
       "keyword": "Gibson",
-      "title": "Gibson J-45 STANDARD / EBONY GLOSS 【特価】",
-      "price": 467500,
-      "url": "https://www.digimart.net/cat02/shop1680/DS10825168/"
+      "title": "Gibson Thunderbird Bass / Ebony",
+      "price": 311300,
+      "url": "https://www.digimart.net/cat03/shop5033/DS10825391/"
     },
     {
-      "id": "DS10825164",
+      "id": "DS10825367",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Historic Collection 1958 Les Paul Junior Double Cut Reissue VOS TV Yellow 【御茶ノ水本店】",
-      "price": 528000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10825164/"
+      "title": "Gibson Les Paul Standard 50s P-90 -Goldtop- #224360043【巻弦サウンド】【4.30kg】",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10825367/"
     },
     {
-      "id": "DS10825163",
+      "id": "DS10825355",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Murphy Lab 1958 Les Paul Standard Reissue Washed Cherry Sunburst 【御茶ノ水本店】",
-      "price": 728000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10825163/"
+      "title": "Gibson J-45 Standard with HiFi DNA -Vintage Sunburst- #22326112【48回迄金利0%対象】【送料当社負担】",
+      "price": 381700,
+      "url": "https://www.digimart.net/cat02/shop1881/DS10825355/"
     },
     {
-      "id": "DS10825162",
+      "id": "DS10825248",
       "keyword": "Gibson",
-      "title": "Gibson Tak Matsumoto Les Paul TAK Burst (Neck Repair) 【御茶ノ水本店】",
-      "price": 648000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10825162/"
+      "title": "Gibson 【中古】 エレキギター Gibson LPJ Chocolate Satin 2014年製 ギブソン LPJ チョコレートサテン",
+      "price": 110000,
+      "url": "https://www.digimart.net/cat01/shop1000/DS10825248/"
     },
     {
-      "id": "DS10825158",
+      "id": "DS10825246",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Studio Modern Worn White レスポールスタジオ エレキギター",
-      "price": 249700,
-      "url": "https://www.digimart.net/cat01/shop5072/DS10825158/"
+      "title": "Gibson 【中古】 エレキギター Gibson Les Paul Standard Double Cutaway Amber Serrano Gold Hardware 2003年製",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat01/shop1000/DS10825246/"
     },
     {
-      "id": "DS10825097",
+      "id": "DS10825217",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Les Paul Custom Black 2021",
-      "price": 598000,
-      "url": "https://www.digimart.net/cat01/shop700/DS10825097/"
+      "title": "Gibson 60s J-45 Original -Ebony- #22336031【48回迄金利0%対象】【送料当社負担】",
+      "price": 373000,
+      "url": "https://www.digimart.net/cat02/shop1881/DS10825217/"
     },
     {
-      "id": "DS10825150",
+      "id": "DS10825206",
+      "keyword": "Gibson",
+      "title": "Gibson Hummingbird Original Heritage Cherry Sunburst 【特価】",
+      "price": 580800,
+      "url": "https://www.digimart.net/cat02/shop1680/DS10825206/"
+    },
+    {
+      "id": "DS10825198",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 Standard",
+      "price": 200000,
+      "url": "https://www.digimart.net/cat02/shop5233/DS10825198/"
+    },
+    {
+      "id": "DS10823835",
+      "keyword": "Gibson",
+      "title": "Gibson ES-335 Satin Smokehouse Satin 【新宿店】",
+      "price": 368500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10823835/"
+    },
+    {
+      "id": "DS10823810",
+      "keyword": "Gibson",
+      "title": "Gibson Slash Victoria Les Paul Standard Goldtop 【新宿店】",
+      "price": 385000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10823810/"
+    },
+    {
+      "id": "DS10825177",
+      "keyword": "Gibson",
+      "title": "Gibson L-3",
+      "price": 660000,
+      "url": "https://www.digimart.net/cat02/shop541/DS10825177/"
+    },
+    {
+      "id": "DS10825354",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) custom24 10top Vintage Yellow 【≒3.41】",
-      "price": 428000,
-      "url": "https://www.digimart.net/cat01/shop5226/DS10825150/"
+      "title": "Paul Reed Smith(PRS) MARK TREMONTI SIGNATURE -Carroll Blue- ≒3.989Kg 2025年製",
+      "price": 748000,
+      "url": "https://www.digimart.net/cat01/shop60/DS10825354/"
     },
     {
-      "id": "DS10822001",
-      "keyword": "Fender",
-      "title": "Fender Limited Edition American Professional Classic Telecaster Fender Silent System (Candy Apple Red)",
-      "price": 258500,
-      "url": "https://www.digimart.net/cat01/shop73/DS10822001/"
+      "id": "DS10825345",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) S2 Custom24 \"Poplar Burl Limited Edition\" -Charcoal Burst- ≒3.25Kg 2026年製 【限定モデル】",
+      "price": 352000,
+      "url": "https://www.digimart.net/cat01/shop60/DS10825345/"
     },
     {
-      "id": "DS10825095",
+      "id": "DS10825299",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) S2 Custom24 \"Poplar Burl Limited Edition\" -Black Gold Burst- ≒3.111Kg 2026年製 【限定モデル】",
+      "price": 352000,
+      "url": "https://www.digimart.net/cat01/shop60/DS10825299/"
+    },
+    {
+      "id": "DS10825208",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Standard 24-08 BLACK Limited【現物画像/限定品】",
+      "price": 138600,
+      "url": "https://www.digimart.net/cat01/shop5052/DS10825208/"
+    },
+    {
+      "id": "DS10825371",
       "keyword": "Fender",
-      "title": "Fender Custom Shop Custom Telecaster Neck Stratocaster 1999",
-      "price": 899000,
-      "url": "https://www.digimart.net/cat01/shop700/DS10825095/"
+      "title": "Fender AMERICAN PROFESSIONAL TELECASTER Natural #US26039611【3.88kg】【1ply Black PG!】",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat01/shop175/DS10825371/"
+    },
+    {
+      "id": "DS10825365",
+      "keyword": "Fender",
+      "title": "Fender AMERICAN PROFESSIONAL STRATOCASTER HSS MOD Black #US26049469【3.58kg】【USA標準機】",
+      "price": 308000,
+      "url": "https://www.digimart.net/cat01/shop175/DS10825365/"
+    },
+    {
+      "id": "DS10825363",
+      "keyword": "Fender",
+      "title": "Fender American Professional Jaguar Oxblood エレキギター ジャガー",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10825363/"
+    },
+    {
+      "id": "DS10825362",
+      "keyword": "Fender",
+      "title": "Fender American Professional Jazzmaster Dark Night エレキギター ジャズマスター",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10825362/"
+    },
+    {
+      "id": "DS10825361",
+      "keyword": "Fender",
+      "title": "Fender American Professional Jazzmaster Oxblood エレキギター ジャズマスター",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10825361/"
+    },
+    {
+      "id": "DS10825360",
+      "keyword": "Fender",
+      "title": "Fender American Professional Jazzmaster Black エレキギター ジャズマスター",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10825360/"
+    },
+    {
+      "id": "DS10825359",
+      "keyword": "Fender",
+      "title": "Fender American Professional Jazzmaster 3-Color Sunburst エレキギター ジャズマスター",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10825359/"
+    },
+    {
+      "id": "DS10825101",
+      "keyword": "Fender",
+      "title": "Fender AMERICAN PROFESSIONAL STRATOCASTER HSS Black #US26049469【3.58kg】【USA標準機】",
+      "price": 308000,
+      "url": "https://www.digimart.net/cat01/shop175/DS10825101/"
+    },
+    {
+      "id": "DS10823896",
+      "keyword": "Fender",
+      "title": "Fender Fender American Professional Telecaster Oxblood【現物画像】10/23更新",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop5086/DS10823896/"
+    },
+    {
+      "id": "DS10818629",
+      "keyword": "Fender",
+      "title": "Fender Fender American Professional Stratocaster Rosewood 3-Color Sunburst【現物画像】10/23更新",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop5086/DS10818629/"
+    },
+    {
+      "id": "DS10824528",
+      "keyword": "Fender",
+      "title": "Fender Deluxe Jazz Bass V Kazuki Arai Edition Rosewood Black 【新宿店】",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10824528/"
+    },
+    {
+      "id": "DS10825192",
+      "keyword": "Fender",
+      "title": "Fender American Professional Hot Shot Telecaster Butterscotch エレキギター テレキャスター",
+      "price": 324500,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10825192/"
+    },
+    {
+      "id": "DS10825191",
+      "keyword": "Fender",
+      "title": "Fender American Professional Hot Shot Telecaster Oxblood エレキギター テレキャスター",
+      "price": 308000,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10825191/"
+    },
+    {
+      "id": "DS10825190",
+      "keyword": "Fender",
+      "title": "Fender American Professional Telecaster Oxblood エレキギター テレキャスター",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10825190/"
+    },
+    {
+      "id": "DS10825188",
+      "keyword": "Fender",
+      "title": "Fender American Professional Telecaster 3-Color Sunburst エレキギター テレキャスター",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10825188/"
+    },
+    {
+      "id": "DS10825187",
+      "keyword": "Fender",
+      "title": "Fender American Professional Telecaster Dark Night エレキギター テレキャスター",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10825187/"
+    },
+    {
+      "id": "DS10825186",
+      "keyword": "Fender",
+      "title": "Fender American Professional Telecaster Oxblood エレキギター テレキャスター",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10825186/"
+    },
+    {
+      "id": "DS10825185",
+      "keyword": "Fender",
+      "title": "Fender American Professional Telecaster Black エレキギター テレキャスター",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10825185/"
+    },
+    {
+      "id": "DS10825184",
+      "keyword": "Fender",
+      "title": "Fender American Professional Telecaster Black エレキギター テレキャスター",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10825184/"
+    },
+    {
+      "id": "DS10825183",
+      "keyword": "Fender",
+      "title": "Fender American Professional Telecaster Aged Cherry Burst エレキギター テレキャスター",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10825183/"
+    },
+    {
+      "id": "DS10825182",
+      "keyword": "Fender",
+      "title": "Fender American Professional Telecaster Natural エレキギター テレキャスター",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10825182/"
+    },
+    {
+      "id": "DS10825181",
+      "keyword": "Fender",
+      "title": "Fender American Professional Telecaster Butterscotch Blonde エレキギター テレキャスター",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10825181/"
     }
   ],
   "errors": [],
@@ -115,9 +311,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 299,
-      "parsed": 299,
-      "qualifying": 177,
+      "links": 300,
+      "parsed": 300,
+      "qualifying": 184,
       "page_stats": [
         {
           "page": 1,
@@ -141,7 +337,7 @@
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Gibson&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 49
+          "unique_added": 50
         },
         {
           "page": 5,
@@ -203,9 +399,9 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 300,
-      "parsed": 300,
-      "qualifying": 44,
+      "links": 299,
+      "parsed": 299,
+      "qualifying": 49,
       "page_stats": [
         {
           "page": 1,
@@ -217,7 +413,7 @@
           "page": 2,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=&readCount=50&noparallelimportp=&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=&soldoutDispCheck=false&tagWords=&dmsP=&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=&neckScaleOption=&tagWordsNot=&freeshippingp=&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=&pickupOption=&movieurlp=&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=&brandIdNot=&ecCardP=&ecpurchasep=&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=&fingerboardOption=&noshopsalep=&currentPage=2&shopNo=&stringsoption=&categoryId=&shopsalep=&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 3,
@@ -386,6 +582,6 @@
       ]
     }
   },
-  "collected": 917,
-  "seen_count": 4316
+  "collected": 929,
+  "seen_count": 4353
 }
