@@ -1,140 +1,189 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-23T06:00:38.190327+00:00",
+  "checked_at": "2026-10-23T07:16:38.161812+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10825514",
-      "keyword": "Tyler",
-      "title": "James Tyler Japan James' Semi-Hollow Grail -Tobacco Burst-【鳥山雄司さん使用スペック】【金利0%!】",
-      "price": 599500,
-      "url": "https://www.digimart.net/cat01/shop38/DS10825514/"
+      "id": "DS10825812",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Custom 1991年製 Ebony 【梅田店】",
+      "price": 594000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10825812/"
     },
     {
-      "id": "DS10825517",
+      "id": "DS10825798",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s CU Shop Top -Unburst- #220560306 【バリ虎杢!】【4.58kg】",
-      "price": 412500,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10825517/"
+      "title": "Gibson Custom Shop Japan Limited 1957 Les Paul Standard Candy Apple Blue",
+      "price": 858000,
+      "url": "https://www.digimart.net/cat01/shop4882/DS10825798/"
     },
     {
-      "id": "DS10825507",
+      "id": "DS10825795",
       "keyword": "Gibson",
-      "title": "Gibson J-45 Special -Satin Wine Red- #21426091【48回迄金利0%対象】【送料当社負担】",
-      "price": 258000,
-      "url": "https://www.digimart.net/cat02/shop1881/DS10825507/"
-    },
-    {
-      "id": "DS10825471",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Dealer Select 1959 Les Paul Standard Reissue -Factory Burst/VOS- #961600",
-      "price": 957000,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10825471/"
-    },
-    {
-      "id": "DS10825430",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 Special -Satin Ebony- #21906074【48回迄金利0%対象】【送料当社負担】",
-      "price": 258000,
-      "url": "https://www.digimart.net/cat02/shop1881/DS10825430/"
-    },
-    {
-      "id": "DS10825427",
-      "keyword": "Gibson",
-      "title": "Gibson 60's J-45 EB Murphy Lab Light Aged #22306005 【10本限定】",
-      "price": 698000,
-      "url": "https://www.digimart.net/cat02/shop172/DS10825427/"
-    },
-    {
-      "id": "DS10825403",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 60s Figured Top -Bourbon Burst- #223860068【ワイド杢!】【4.30kg】",
+      "title": "Gibson Les Paul Standard '60s Figured Top Bourbon Burst #210460039 【4.44kg】 【G-CLUB UMEDA一周年セール】",
       "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10825403/"
+      "url": "https://www.digimart.net/cat01/shop5452/DS10825795/"
     },
     {
-      "id": "DS10825511",
+      "id": "DS10825785",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard '60s -Iced Tea- #206360181 【4.56kg】 【G-CLUB UMEDA一周年セール】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10825785/"
+    },
+    {
+      "id": "DS10825780",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard '50s P-90 Gold Top #212860225 【4.62kg】 【G-CLUB UMEDA一周年セール】",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10825780/"
+    },
+    {
+      "id": "DS10825754",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s Figured Top Heritage Cherry Sunburst #216860002 【G-CLUB UMEDA一周年セール】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10825754/"
+    },
+    {
+      "id": "DS10825738",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard '50s Gold Top #222460043 【4.54kg】 【G-CLUB UMEDA一周年セール】",
+      "price": 354200,
+      "url": "https://www.digimart.net/cat01/shop5452/DS10825738/"
+    },
+    {
+      "id": "DS10825701",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop USED 中古 Murphy Lab 1957 Les Paul Custom Reissue 3-Pickup w/Bigsby Polaris White Ultra Light Age...",
+      "price": 863940,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10825701/"
+    },
+    {
+      "id": "DS10825665",
+      "keyword": "Gibson",
+      "title": "Gibson 【ギブソン】Noel Gallagher Les Paul Standard - Celebrating the biggest rock ’n’ roll reunion of re",
+      "price": 435600,
+      "url": "https://www.digimart.net/cat01/shop4944/DS10825665/"
+    },
+    {
+      "id": "DS10825658",
+      "keyword": "Gibson",
+      "title": "Gibson 【傷あり最終大特価】1957 SJ-200 Vintage Sunburst #22085011【最大48回分割無金利】",
+      "price": 819000,
+      "url": "https://www.digimart.net/cat02/shop5452/DS10825658/"
+    },
+    {
+      "id": "DS10825645",
+      "keyword": "Gibson",
+      "title": "Gibson SG Standard Pehlam Blue Burst S/N:224060200【現物画像】",
+      "price": 223300,
+      "url": "https://www.digimart.net/cat01/shop4917/DS10825645/"
+    },
+    {
+      "id": "DS10825629",
+      "keyword": "Gibson",
+      "title": "Gibson 1965 DOVE 【加古川店】",
+      "price": 868000,
+      "url": "https://www.digimart.net/cat02/shop5023/DS10825629/"
+    },
+    {
+      "id": "DS10825620",
+      "keyword": "Gibson",
+      "title": "Gibson SG Standard Pehlam Blue Burst S/N:221660294【現物画像】",
+      "price": 223300,
+      "url": "https://www.digimart.net/cat01/shop4917/DS10825620/"
+    },
+    {
+      "id": "DS10825772",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 【現物画像】SE CE24 STD BLK DH【≒3.21kg】",
+      "price": 104500,
+      "url": "https://www.digimart.net/cat01/shop5228/DS10825772/"
+    },
+    {
+      "id": "DS10825765",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2026 S2 Custom 24-08 Poplar Burl Limited Edition Charcoal Burst(3.04kg)【S/N:26 S2089419】 【御茶ノ",
+      "price": 364408,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10825765/"
+    },
+    {
+      "id": "DS10825764",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2026 S2 Custom 24-08 Poplar Burl Limited Edition Black Gold Burst(3.24kg)【S/N:26 S2089167】 【御茶",
+      "price": 364408,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10825764/"
+    },
+    {
+      "id": "DS10825763",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2026 S2 Custom 24 Poplar Burl Limited Edition Black Gold Burst(3.00kg)【S/N:26 S2089586】 【御茶ノ水",
+      "price": 355520,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10825763/"
+    },
+    {
+      "id": "DS10825762",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2026 S2 Custom 24 Poplar Burl Limited Edition Charcoal Burst(3.31kg)【S/N:26 S2089320】 【御茶ノ水本",
+      "price": 355520,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10825762/"
+    },
+    {
+      "id": "DS10825709",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) S2 Custom 24-08 Poplar Burl Limited Edition (Charcoal Burst ) SN.S2087918 【2026年生産品】",
+      "price": 360800,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10825709/"
+    },
+    {
+      "id": "DS10825708",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) S2 Custom 24-08 Poplar Burl Limited Edition (Black Gold Burst) SN.S2088748 【2026年生産品】",
+      "price": 360800,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10825708/"
+    },
+    {
+      "id": "DS10825707",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) S2 Custom 24 Poplar Burl Limited Edition (Charcoal Burst) SN.2089172 【2026年生産品】",
+      "price": 352000,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10825707/"
+    },
+    {
+      "id": "DS10825706",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) S2 Custom 24 Poplar Burl Limited Edition (Black Gold Burst) SN.S2089082 【2026年生産品】",
+      "price": 352000,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10825706/"
+    },
+    {
+      "id": "DS10825705",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) Silver Sky Wild Blue Limited Edition SN.0429824 【2026年生産品】",
+      "price": 440000,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10825705/"
+    },
+    {
+      "id": "DS10825768",
       "keyword": "Fender",
-      "title": "Fender American Professional Precision Bass V 3-Color Sunburst エレキベース プレシジョンベース ５弦",
+      "title": "Fender American Vintage 62 Stratocaster 3CS 2000年製・3.56kg",
+      "price": 199800,
+      "url": "https://www.digimart.net/cat01/shop5122/DS10825768/"
+    },
+    {
+      "id": "DS10825657",
+      "keyword": "Fender",
+      "title": "Fender American Vintage '62 Jazz bass",
+      "price": 248000,
+      "url": "https://www.digimart.net/cat03/shop4761/DS10825657/"
+    },
+    {
+      "id": "DS10825644",
+      "keyword": "Fender",
+      "title": "Fender Fender American Professional Jaguar RW 3Color Sunburst (selected by KOEIDO)【札幌店】",
       "price": 319000,
-      "url": "https://www.digimart.net/cat03/shop4840/DS10825511/"
-    },
-    {
-      "id": "DS10825510",
-      "keyword": "Fender",
-      "title": "Fender American Professional Precision Bass V Olympic White エレキベース プレシジョンベース ５弦",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat03/shop4840/DS10825510/"
-    },
-    {
-      "id": "DS10825490",
-      "keyword": "Fender",
-      "title": "Fender American Professional Jazz Bass V Rosewood Fingerboard 3-Color Sunburst 【御茶ノ水本店】",
-      "price": 324500,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10825490/"
-    },
-    {
-      "id": "DS10825448",
-      "keyword": "Fender",
-      "title": "Fender American Professional Precision Bass Aged Cherry Burst エレキベース プレシジョンベース",
-      "price": 324500,
-      "url": "https://www.digimart.net/cat03/shop4840/DS10825448/"
-    },
-    {
-      "id": "DS10825447",
-      "keyword": "Fender",
-      "title": "Fender American Professional Precision Bass Olympic White エレキベース プレシジョンベース",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat03/shop4840/DS10825447/"
-    },
-    {
-      "id": "DS10825446",
-      "keyword": "Fender",
-      "title": "Fender American Professional Precision Bass 3-Color Sunburst エレキベース プレシジョンベース",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat03/shop4840/DS10825446/"
-    },
-    {
-      "id": "DS10825445",
-      "keyword": "Fender",
-      "title": "Fender American Professional Precision Bass Dark Night エレキベース プレシジョンベース",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat03/shop4840/DS10825445/"
-    },
-    {
-      "id": "DS10825444",
-      "keyword": "Fender",
-      "title": "Fender American Professional Precision Bass Oxblood エレキベース プレシジョンベース",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat03/shop4840/DS10825444/"
-    },
-    {
-      "id": "DS10825443",
-      "keyword": "Fender",
-      "title": "Fender American Professional Precision Bass Natural エレキベース プレシジョンベース",
-      "price": 324500,
-      "url": "https://www.digimart.net/cat03/shop4840/DS10825443/"
-    },
-    {
-      "id": "DS10825442",
-      "keyword": "Fender",
-      "title": "Fender American Professional Precision Bass Olympic White エレキベース プレシジョンベース",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat03/shop4840/DS10825442/"
-    },
-    {
-      "id": "DS10825441",
-      "keyword": "Fender",
-      "title": "Fender American Professional Precision Bass 3-Color Sunburst エレキベース プレシジョンベース",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat03/shop4840/DS10825441/"
-    },
-    {
-      "id": "DS10825409",
-      "keyword": "Fender",
-      "title": "Fender American Performer Stratocaster Maple Penny 【御茶ノ水本店】",
-      "price": 138000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10825409/"
+      "url": "https://www.digimart.net/cat01/shop5457/DS10825644/"
     }
   ],
   "errors": [],
@@ -187,7 +236,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 186,
+      "qualifying": 195,
       "page_stats": [
         {
           "page": 1,
@@ -231,7 +280,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 220,
+      "qualifying": 221,
       "page_stats": [
         {
           "page": 1,
@@ -275,7 +324,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 57,
+      "qualifying": 60,
       "page_stats": [
         {
           "page": 1,
@@ -456,6 +505,6 @@
       ]
     }
   },
-  "collected": 939,
-  "seen_count": 4372
+  "collected": 952,
+  "seen_count": 4398
 }
