@@ -1,30 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-24T22:54:06.357185+00:00",
+  "checked_at": "2026-10-24T23:49:17.710502+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10826056",
-      "keyword": "Gibson",
-      "title": "Gibson Memphis ES-275 ギブソン メンフィス フィギュアド・メイプル 2017年製",
-      "price": 530000,
-      "url": "https://www.digimart.net/cat01/shop4950/DS10826056/"
-    },
-    {
-      "id": "DS10827402",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Artisan 3PU 1977 Walnut Virgin Solder&Full-Original ex/Screw \"Gorgeous Inlay & Script Logo\"",
-      "price": 980000,
-      "url": "https://www.digimart.net/cat01/shop5028/DS10827402/"
-    },
-    {
-      "id": "DS10827398",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop MBS 1967 Telecaster 2009 Red Sparkle Heavy Relic /Abby HW-PU 3.27kg by Dennis Galuszka \"One Of Kind\"",
-      "price": 798000,
-      "url": "https://www.digimart.net/cat01/shop5028/DS10827398/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -75,7 +53,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 179,
+      "qualifying": 180,
       "page_stats": [
         {
           "page": 1,
@@ -163,7 +141,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 66,
+      "qualifying": 67,
       "page_stats": [
         {
           "page": 1,
@@ -344,6 +322,6 @@
       ]
     }
   },
-  "collected": 922,
+  "collected": 924,
   "seen_count": 4847
 }
