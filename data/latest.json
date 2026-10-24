@@ -1,161 +1,98 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-24T07:12:18.634460+00:00",
+  "checked_at": "2026-10-24T07:58:25.216900+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10828328",
+      "id": "DS10828661",
       "keyword": "Gibson",
-      "title": "Gibson 【動画有り】【良杢】Les Paul Standard '60s Barbon Burst #223260081【4.37g】",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop170/DS10828328/"
+      "title": "Gibson LG-1 Early 1950s お買得品",
+      "price": 398000,
+      "url": "https://www.digimart.net/cat02/shop4682/DS10828661/"
     },
     {
-      "id": "DS10828313",
+      "id": "DS10828633",
       "keyword": "Gibson",
-      "title": "Gibson Slash Victoria Les Paul Standard Goldtop《特典付き》 [3.99kg]【210660179】【池袋店】",
-      "price": 385000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10828313/"
+      "title": "Gibson 1960's J-45 Original ADJ Ebony ♯22436046 【無金利分割OK】【送料込み】【Dr.Sound】",
+      "price": 373000,
+      "url": "https://www.digimart.net/cat02/shop172/DS10828633/"
     },
     {
-      "id": "DS10828311",
+      "id": "DS10828610",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s P-90 Gold Top《特典付き》 [4.58kg]【223960046】【池袋店】",
-      "price": 324500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10828311/"
+      "title": "Gibson Custom Shop 1959 Humbucker Collector's Edition Series 2 (C20368R/T)",
+      "price": 145200,
+      "url": "https://www.digimart.net/cat15/shop169/DS10828610/"
     },
     {
-      "id": "DS10828302",
+      "id": "DS10828592",
       "keyword": "Gibson",
-      "title": "Gibson J-45 True Vintage Vintage Sunburst 2012年製【S/N:13582004】【横浜店】",
-      "price": 428000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10828302/"
+      "title": "Gibson 1960s J-160E Original #23155048 【無金利OK】【Dr.Sound】",
+      "price": 477000,
+      "url": "https://www.digimart.net/cat02/shop172/DS10828592/"
     },
     {
-      "id": "DS10828246",
+      "id": "DS10828532",
       "keyword": "Gibson",
-      "title": "Gibson J-45 Standard with HiFi DNA Vintage Sunburst【渋谷店】",
-      "price": 379500,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10828246/"
+      "title": "Gibson 【チョイキズ特価】Exclusive Les Paul Standard '50s \"Custom Shop Top\" #214760072 【4.06kg】",
+      "price": 412500,
+      "url": "https://www.digimart.net/cat01/shop26/DS10828532/"
     },
     {
-      "id": "DS10828232",
+      "id": "DS10828513",
       "keyword": "Gibson",
-      "title": "Gibson Hummingbird Studio Rosewood",
-      "price": 363000,
-      "url": "https://www.digimart.net/cat02/shop5183/DS10828232/"
-    },
-    {
-      "id": "DS10828229",
-      "keyword": "Gibson",
-      "title": "Gibson SG Standard '61 w/Maestro Vibrola Vintage Cherry #224360236【軽量3.37kg、漆黒指板】",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat01/shop175/DS10828229/"
-    },
-    {
-      "id": "DS10828195",
-      "keyword": "Gibson",
-      "title": "Gibson SG Standard 61 Maestro Vibrola Vintage Cherry (重量:3.23kg) 【新宿店】",
-      "price": 286000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10828195/"
-    },
-    {
-      "id": "DS10828193",
-      "keyword": "Gibson",
-      "title": "Gibson ES-335 Satin Smokehouse Satin (重量:3.82kg) 【新宿店】",
-      "price": 368500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10828193/"
-    },
-    {
-      "id": "DS10828192",
-      "keyword": "Gibson",
-      "title": "Gibson Slash Victoria Les Paul Standard Goldtop (重量:4.49kg) 【新宿店】",
-      "price": 385000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10828192/"
-    },
-    {
-      "id": "DS10828187",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 Standard with HiFi DNA ~Vintage Sunburst~ #22436132 【G-CLUB TOKYO】】",
-      "price": 381700,
-      "url": "https://www.digimart.net/cat02/shop35/DS10828187/"
-    },
-    {
-      "id": "DS10828300",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2024 McCarty Singlecut 594 10Top Custom Color (3.85kg)【S/N:24 0399096】 【御茶ノ水本店】",
-      "price": 678000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10828300/"
-    },
-    {
-      "id": "DS10828365",
-      "keyword": "Fender",
-      "title": "Fender Limited Edition American Professional Classic Stratocaster featuring the Fender Silent System (Ca...",
-      "price": 258500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10828365/"
-    },
-    {
-      "id": "DS10828364",
-      "keyword": "Fender",
-      "title": "Fender Limited Edition American Professional Classic Telecaster featuring the Fender Silent System (Soni...",
-      "price": 258500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10828364/"
-    },
-    {
-      "id": "DS10828238",
-      "keyword": "Fender",
-      "title": "Fender Limited Edition American Professional Classic Telecaster Fender Silent System Candy Apple Red",
-      "price": 258500,
-      "url": "https://www.digimart.net/cat01/shop2340/DS10828238/"
-    },
-    {
-      "id": "DS10828252",
-      "keyword": "Fender",
-      "title": "Fender American Ultra II Jazz Bass V Maple Fingerboard Sinister Red【渋谷店】",
-      "price": 407000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10828252/"
-    },
-    {
-      "id": "DS10828251",
-      "keyword": "Fender",
-      "title": "Fender American Ultra II Jazz Bass V Maple Fingerboard Avalanche【渋谷店】",
-      "price": 385000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10828251/"
-    },
-    {
-      "id": "DS10828250",
-      "keyword": "Fender",
-      "title": "Fender American Ultra II Jazz Bass V Ebony Fingerboard Ultraburst【渋谷店】",
-      "price": 407000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10828250/"
-    },
-    {
-      "id": "DS10828204",
-      "keyword": "Fender",
-      "title": "Fender American Professional Precision Bass V Dark Night エレキベース プレシジョンベース ５弦",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat03/shop4840/DS10828204/"
-    },
-    {
-      "id": "DS10820649",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 【2008年製中古】1960 Stratocaster Relic Shell Pink ≒3.64kg",
-      "price": 648000,
-      "url": "https://www.digimart.net/cat01/shop169/DS10820649/"
-    },
-    {
-      "id": "DS10828203",
-      "keyword": "Fender",
-      "title": "Fender American Professional Jazz Bass 3-Color Sunburst エレキベース ジャズベース",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat03/shop4840/DS10828203/"
-    },
-    {
-      "id": "DS10828202",
-      "keyword": "Fender",
-      "title": "Fender American Professional Jazz Bass Natural エレキベース ジャズベース",
+      "title": "Gibson Les Paul Standard '50s P-90 ~ Gold Top ~ #217260079 【5.01kg】【56スタイル】",
       "price": 330000,
-      "url": "https://www.digimart.net/cat03/shop4840/DS10828202/"
+      "url": "https://www.digimart.net/cat01/shop26/DS10828513/"
+    },
+    {
+      "id": "DS10828659",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Custom24 Vintage Yellow SEカスタム24 ビンテージイエロー",
+      "price": 130680,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10828659/"
+    },
+    {
+      "id": "DS10828658",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Custom24 Quilt Blue Fade SEカスタム24 ブルーフェイド",
+      "price": 140360,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10828658/"
+    },
+    {
+      "id": "DS10828657",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Custom24 Quilt Blue Fade SEカスタム24 ブルーフェイド",
+      "price": 140360,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10828657/"
+    },
+    {
+      "id": "DS10828511",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Hollowbody II 【加古川店】",
+      "price": 128000,
+      "url": "https://www.digimart.net/cat01/shop5023/DS10828511/"
+    },
+    {
+      "id": "DS10828649",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Electro 7 HP 【11月中旬発売・ご予約受付中!!】",
+      "price": 539000,
+      "url": "https://www.digimart.net/cat07/shop1140/DS10828649/"
+    },
+    {
+      "id": "DS10828589",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Electro 7 61【Halloween FLAME UP SALE 10.24(土)～10.31(土)】",
+      "price": 440000,
+      "url": "https://www.digimart.net/cat06/shop721/DS10828589/"
+    },
+    {
+      "id": "DS10828586",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Lead A1【Halloween FLAME UP SALE 10.24(土)～10.31(土)】",
+      "price": 280500,
+      "url": "https://www.digimart.net/cat06/shop721/DS10828586/"
     }
   ],
   "errors": [],
@@ -208,7 +145,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 203,
+      "qualifying": 192,
       "page_stats": [
         {
           "page": 1,
@@ -250,9 +187,9 @@
     },
     "PRS": {
       "pages": 6,
-      "links": 299,
-      "parsed": 299,
-      "qualifying": 212,
+      "links": 300,
+      "parsed": 300,
+      "qualifying": 213,
       "page_stats": [
         {
           "page": 1,
@@ -288,7 +225,7 @@
           "page": 6,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=PRS&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=6&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 49
+          "unique_added": 50
         }
       ]
     },
@@ -296,7 +233,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 73,
+      "qualifying": 72,
       "page_stats": [
         {
           "page": 1,
@@ -477,6 +414,6 @@
       ]
     }
   },
-  "collected": 957,
-  "seen_count": 4705
+  "collected": 946,
+  "seen_count": 4718
 }
