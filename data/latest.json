@@ -1,28 +1,21 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-24T01:23:09.450778+00:00",
+  "checked_at": "2026-10-24T02:02:39.566920+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10827550",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard '60s Honey Amber",
-      "price": 407000,
-      "url": "https://www.digimart.net/cat01/shop4882/DS10827550/"
-    },
-    {
-      "id": "DS10827549",
+      "id": "DS10827556",
       "keyword": "Gibson",
       "title": "Gibson Les Paul Standard '50s Custom Shop Top",
       "price": 478500,
-      "url": "https://www.digimart.net/cat01/shop4882/DS10827549/"
+      "url": "https://www.digimart.net/cat01/shop4882/DS10827556/"
     },
     {
-      "id": "DS10827551",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Studio Standard Silver Stone Gray",
-      "price": 118800,
-      "url": "https://www.digimart.net/cat01/shop4840/DS10827551/"
+      "id": "DS10827578",
+      "keyword": "Fender",
+      "title": "Fender American Professional Stratocaster®, Rosewood Fingerboard, Olympic White",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop1720/DS10827578/"
     }
   ],
   "errors": [],
@@ -163,7 +156,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 68,
+      "qualifying": 69,
       "page_stats": [
         {
           "page": 1,
@@ -313,9 +306,9 @@
     },
     "Fractal": {
       "pages": 4,
-      "links": 167,
-      "parsed": 167,
-      "qualifying": 97,
+      "links": 166,
+      "parsed": 166,
+      "qualifying": 96,
       "page_stats": [
         {
           "page": 1,
@@ -338,12 +331,12 @@
         {
           "page": 4,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fractal&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=4&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
-          "links": 17,
-          "unique_added": 17
+          "links": 16,
+          "unique_added": 16
         }
       ]
     }
   },
   "collected": 945,
-  "seen_count": 4626
+  "seen_count": 4628
 }
