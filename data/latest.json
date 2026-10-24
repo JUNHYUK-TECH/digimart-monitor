@@ -1,8 +1,30 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-23T23:57:11.599824+00:00",
+  "checked_at": "2026-10-24T01:23:09.450778+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10827550",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard '60s Honey Amber",
+      "price": 407000,
+      "url": "https://www.digimart.net/cat01/shop4882/DS10827550/"
+    },
+    {
+      "id": "DS10827549",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard '50s Custom Shop Top",
+      "price": 478500,
+      "url": "https://www.digimart.net/cat01/shop4882/DS10827549/"
+    },
+    {
+      "id": "DS10827551",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Studio Standard Silver Stone Gray",
+      "price": 118800,
+      "url": "https://www.digimart.net/cat01/shop4840/DS10827551/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -53,7 +75,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 199,
+      "qualifying": 193,
       "page_stats": [
         {
           "page": 1,
@@ -141,7 +163,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 77,
+      "qualifying": 68,
       "page_stats": [
         {
           "page": 1,
@@ -271,8 +293,8 @@
     },
     "Quad Cortex": {
       "pages": 2,
-      "links": 86,
-      "parsed": 86,
+      "links": 85,
+      "parsed": 85,
       "qualifying": 0,
       "page_stats": [
         {
@@ -284,8 +306,8 @@
         {
           "page": 2,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=&readCount=50&noparallelimportp=&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=&soldoutDispCheck=false&tagWords=&dmsP=&keywordAnd=Quad+Cortex&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=&neckScaleOption=&tagWordsNot=&freeshippingp=&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=&pickupOption=&movieurlp=&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=&brandIdNot=&ecCardP=&ecpurchasep=&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=&fingerboardOption=&noshopsalep=&currentPage=2&shopNo=&stringsoption=&categoryId=&shopsalep=&favorite=false&dispFavorite=false",
-          "links": 36,
-          "unique_added": 36
+          "links": 35,
+          "unique_added": 35
         }
       ]
     },
@@ -322,6 +344,6 @@
       ]
     }
   },
-  "collected": 960,
-  "seen_count": 4623
+  "collected": 945,
+  "seen_count": 4626
 }
