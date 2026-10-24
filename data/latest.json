@@ -1,30 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-24T13:57:05.372758+00:00",
+  "checked_at": "2026-10-24T14:58:30.714529+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10826980",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 【限定特価】【トップアディロン】 SJ-200 Rosewood Red Spruce Tri-Burst",
-      "price": 828000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10826980/"
-    },
-    {
-      "id": "DS10829898",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1959 Les Paul Standard Reissue VOS / Dirty Lemon 【3.94kg】",
-      "price": 973500,
-      "url": "https://www.digimart.net/cat01/shop5056/DS10829898/"
-    },
-    {
-      "id": "DS10826834",
-      "keyword": "Gibson",
-      "title": "Gibson 【現地選定品】【良杢個体】【鳴り◎】L-00 Rosewood 12 Fret【担当オススメ】",
-      "price": 462000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10826834/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
