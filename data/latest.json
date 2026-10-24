@@ -1,77 +1,28 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-24T11:57:14.513817+00:00",
+  "checked_at": "2026-10-24T13:08:15.696700+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10829504",
+      "id": "DS10826991",
       "keyword": "Gibson",
-      "title": "Gibson J-45 Standard Vintage Sunburst 【現物画像/2016年製】",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat02/shop5298/DS10829504/"
+      "title": "Gibson 【カスタムショップ】【マーフィーラボ】【劇鳴り個体】1933 L-00 Ebony Light Aged",
+      "price": 715000,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10826991/"
     },
     {
-      "id": "DS10811898",
+      "id": "DS10826838",
       "keyword": "Gibson",
-      "title": "Gibson Thunderbird IV VS ~Vintage Sunburst~",
-      "price": 248000,
-      "url": "https://www.digimart.net/cat03/shop5007/DS10811898/"
+      "title": "Gibson 【久しぶりの入荷】【2026年製】Hummingbird Special #22046053【高音域の倍音◎】",
+      "price": 273000,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10826838/"
     },
     {
-      "id": "DS10829433",
-      "keyword": "Gibson",
-      "title": "Gibson 【NEW !】 Dealer Select Custom Shop 1957 SJ-200 ~Ebony~Tune O Matic Bridge #22995012",
-      "price": 958000,
-      "url": "https://www.digimart.net/cat02/shop35/DS10829433/"
-    },
-    {
-      "id": "DS10828327",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Custom 70s ~ Ebony ~ #224560203 【4.74kg】",
-      "price": 528000,
-      "url": "https://www.digimart.net/cat01/shop26/DS10828327/"
-    },
-    {
-      "id": "DS10829132",
+      "id": "DS10829815",
       "keyword": "Fender",
-      "title": "Fender Custom Shop ~Custom Collection~ 1968 Telecaster Closet Classic -Super Aged Daphne Blue-",
-      "price": 885500,
-      "url": "https://www.digimart.net/cat01/shop38/DS10829132/"
-    },
-    {
-      "id": "DS10829094",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop ~2026 January CS Event LIMITED #160~ LTD 1960 Telecaster Custom Journeyman Relic -Mercedes Blue-",
-      "price": 968000,
-      "url": "https://www.digimart.net/cat01/shop38/DS10829094/"
-    },
-    {
-      "id": "DS10829071",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Vintage Custom 1955 Stratocaster Time Capsule Package -Wide Fade 2 Color Sunburst-",
-      "price": 691900,
-      "url": "https://www.digimart.net/cat01/shop38/DS10829071/"
-    },
-    {
-      "id": "DS10829051",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Michael Landau 1968 Stratocaster Relic -Bleached 3 Color Sunburst-",
-      "price": 855800,
-      "url": "https://www.digimart.net/cat01/shop38/DS10829051/"
-    },
-    {
-      "id": "DS10829006",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Michael Landau 1968 Stratocaster Relic -Black-【R151113】",
-      "price": 855800,
-      "url": "https://www.digimart.net/cat01/shop38/DS10829006/"
-    },
-    {
-      "id": "DS10829456",
-      "keyword": "Fender",
-      "title": "Fender American Professional Precision Bass - 3-Color Sunburst/M -【4.03kg】【#US25087948】",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat03/shop169/DS10829456/"
+      "title": "Fender Deluxe Jazz Bass V Kazuki Arai Edition 5弦ベース King Gnu 新井和輝 エレキベース【現物画像4.73kg】",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat03/shop5052/DS10829815/"
     }
   ],
   "errors": [],
@@ -168,7 +119,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 210,
+      "qualifying": 209,
       "page_stats": [
         {
           "page": 1,
@@ -212,7 +163,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 68,
+      "qualifying": 67,
       "page_stats": [
         {
           "page": 1,
@@ -393,6 +344,6 @@
       ]
     }
   },
-  "collected": 925,
-  "seen_count": 4836
+  "collected": 923,
+  "seen_count": 4839
 }
