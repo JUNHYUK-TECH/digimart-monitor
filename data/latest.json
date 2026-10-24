@@ -1,28 +1,28 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-24T13:08:15.696700+00:00",
+  "checked_at": "2026-10-24T13:57:05.372758+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10826991",
+      "id": "DS10826980",
       "keyword": "Gibson",
-      "title": "Gibson 【カスタムショップ】【マーフィーラボ】【劇鳴り個体】1933 L-00 Ebony Light Aged",
-      "price": 715000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10826991/"
+      "title": "Gibson Custom Shop 【限定特価】【トップアディロン】 SJ-200 Rosewood Red Spruce Tri-Burst",
+      "price": 828000,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10826980/"
     },
     {
-      "id": "DS10826838",
+      "id": "DS10829898",
       "keyword": "Gibson",
-      "title": "Gibson 【久しぶりの入荷】【2026年製】Hummingbird Special #22046053【高音域の倍音◎】",
-      "price": 273000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10826838/"
+      "title": "Gibson Custom Shop 1959 Les Paul Standard Reissue VOS / Dirty Lemon 【3.94kg】",
+      "price": 973500,
+      "url": "https://www.digimart.net/cat01/shop5056/DS10829898/"
     },
     {
-      "id": "DS10829815",
-      "keyword": "Fender",
-      "title": "Fender Deluxe Jazz Bass V Kazuki Arai Edition 5弦ベース King Gnu 新井和輝 エレキベース【現物画像4.73kg】",
-      "price": 264000,
-      "url": "https://www.digimart.net/cat03/shop5052/DS10829815/"
+      "id": "DS10826834",
+      "keyword": "Gibson",
+      "title": "Gibson 【現地選定品】【良杢個体】【鳴り◎】L-00 Rosewood 12 Fret【担当オススメ】",
+      "price": 462000,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10826834/"
     }
   ],
   "errors": [],
@@ -345,5 +345,5 @@
     }
   },
   "collected": 923,
-  "seen_count": 4839
+  "seen_count": 4842
 }
