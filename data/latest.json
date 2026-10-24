@@ -1,8 +1,16 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-24T15:56:39.268194+00:00",
+  "checked_at": "2026-10-24T17:00:13.484070+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10829915",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE \"Rock Lady\" Limited Edition Pearl Pink 2026",
+      "price": 253000,
+      "url": "https://www.digimart.net/cat01/shop4939/DS10829915/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -323,5 +331,5 @@
     }
   },
   "collected": 923,
-  "seen_count": 4842
+  "seen_count": 4843
 }
