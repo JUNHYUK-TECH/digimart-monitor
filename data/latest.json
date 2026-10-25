@@ -1,58 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-25T13:08:03.806980+00:00",
+  "checked_at": "2026-10-25T13:56:24.080711+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10831781",
-      "keyword": "Gibson",
-      "title": "Gibson 【2026年製】【良杢個体】J-45 Standard with HiFi DNA #22036067",
-      "price": 381700,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10831781/"
-    },
-    {
-      "id": "DS10832459",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Junior Double Cutaway Vintage Cherry【S/N 223160261】",
-      "price": 206800,
-      "url": "https://www.digimart.net/cat01/shop3800/DS10832459/"
-    },
-    {
-      "id": "DS10832454",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Custom 70s Ebony【S/N 221260259】",
-      "price": 528000,
-      "url": "https://www.digimart.net/cat01/shop3800/DS10832454/"
-    },
-    {
-      "id": "DS10832452",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop J-45 ADJ EBONY BLACK",
-      "price": 239800,
-      "url": "https://www.digimart.net/cat02/shop4939/DS10832452/"
-    },
-    {
-      "id": "DS10832446",
-      "keyword": "Gibson",
-      "title": "Gibson Dove Custom Ebony Black 1977 w / PU",
-      "price": 462000,
-      "url": "https://www.digimart.net/cat02/shop70/DS10832446/"
-    },
-    {
-      "id": "DS10832334",
-      "keyword": "Fender",
-      "title": "Fender American Vintage II 1973 Stratocaster RW (Olympic White)",
-      "price": 354420,
-      "url": "https://www.digimart.net/cat01/shop73/DS10832334/"
-    },
-    {
-      "id": "DS10832338",
-      "keyword": "Fender",
-      "title": "Fender Limited Edition American Vintage II 1972 Telecaster Thinline -Olympic White- [2.96kg]",
-      "price": 462000,
-      "url": "https://www.digimart.net/cat01/shop5045/DS10832338/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
