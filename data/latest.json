@@ -1,203 +1,252 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-25T09:58:32.301380+00:00",
+  "checked_at": "2026-10-25T10:57:14.675357+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10829137",
+      "id": "DS10831914",
       "keyword": "Gibson",
-      "title": "Gibson 2025年製 Hummingbird ~Satin Vintage Cherry Sunburst~ ♯22035049 【無金利分割OK】【Dr.Sound】",
-      "price": 273000,
-      "url": "https://www.digimart.net/cat02/shop172/DS10829137/"
+      "title": "Gibson 1942 Banner Southern Jumbo",
+      "price": 715000,
+      "url": "https://www.digimart.net/cat02/shop3800/DS10831914/"
     },
     {
-      "id": "DS10830231",
+      "id": "DS10831911",
       "keyword": "Gibson",
-      "title": "Gibson 2026年製 L-00 Special ~Satin Vintage Sunburst~ ♯21336051【無金利分割OK】【送料込み】【Dr.Sound】",
-      "price": 258000,
-      "url": "https://www.digimart.net/cat02/shop172/DS10830231/"
+      "title": "Gibson 50s J-45 Original EB",
+      "price": 379500,
+      "url": "https://www.digimart.net/cat02/shop3800/DS10831911/"
     },
     {
-      "id": "DS10831513",
+      "id": "DS10831909",
       "keyword": "Gibson",
-      "title": "Gibson F-5L Fern 2001",
-      "price": 682000,
-      "url": "https://www.digimart.net/cat09/shop5032/DS10831513/"
+      "title": "Gibson L-00 Original EB",
+      "price": 352000,
+      "url": "https://www.digimart.net/cat02/shop3800/DS10831909/"
     },
     {
-      "id": "DS10831465",
+      "id": "DS10831905",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Historic Collection Les Paul Special 1960 Single Cut TV Yellow【2001年製】",
-      "price": 448000,
-      "url": "https://www.digimart.net/cat01/shop5214/DS10831465/"
-    },
-    {
-      "id": "DS10831402",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 Rosewood 2007",
+      "title": "Gibson 50s Les Paul Standard Plus - Heritage Cherry Sunburst",
       "price": 330000,
-      "url": "https://www.digimart.net/cat02/shop5285/DS10831402/"
+      "url": "https://www.digimart.net/cat01/shop4889/DS10831905/"
     },
     {
-      "id": "DS10831686",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Eric Clapton Stratocaster NOS 2 Color Sunburst 【渋谷店】",
-      "price": 770000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831686/"
+      "id": "DS10831904",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Parlor Acoustic VS",
+      "price": 495000,
+      "url": "https://www.digimart.net/cat02/shop3800/DS10831904/"
     },
     {
-      "id": "DS10831684",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Eric Clapton Signature Stratocaster NOS 2 Color Sunburst 【渋谷店】",
-      "price": 770000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831684/"
+      "id": "DS10831902",
+      "keyword": "Gibson",
+      "title": "Gibson SJ-200 60s Original VS",
+      "price": 715000,
+      "url": "https://www.digimart.net/cat02/shop3800/DS10831902/"
     },
     {
-      "id": "DS10831683",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Limited Edition 50s Thinline Telecaster Heavy Relic Sunset Orange Transparent 【渋谷店】",
-      "price": 891000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831683/"
+      "id": "DS10831887",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Junior (TV Yellow) [SN.220460210]",
+      "price": 203500,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10831887/"
     },
     {
-      "id": "DS10831670",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Time Machine 1957 Telecaster Journeyman Relic Wide Fade 2 Color Sunburst 【渋谷店】",
-      "price": 693000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831670/"
+      "id": "DS10831812",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard '50s P90 Gold Top #224360042",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat01/shop2040/DS10831812/"
     },
     {
-      "id": "DS10831669",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop S23 Limited Custom Built 1965 Stratocaster NOS Aged Teal Green Transparent 【渋谷店】",
-      "price": 660000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831669/"
+      "id": "DS10831865",
+      "keyword": "Gibson",
+      "title": "Gibson ES-339 【現物写真】",
+      "price": 289000,
+      "url": "https://www.digimart.net/cat01/shop5228/DS10831865/"
     },
     {
-      "id": "DS10831667",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Limited Edition 70th Anniversary 1954 Roasted Stratocaster Journeyman Relic Natural Blonde 【渋谷店",
-      "price": 660000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831667/"
+      "id": "DS10831811",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Custom 70s / Ebony #224760098",
+      "price": 528000,
+      "url": "https://www.digimart.net/cat01/shop2040/DS10831811/"
     },
     {
-      "id": "DS10831666",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Limited Edition 70th Anniversary 1954 Stratocaster Hard Tail DLX Closet Classic India Ivory 【渋谷店",
-      "price": 660000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831666/"
+      "id": "DS10831862",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 Standard VS",
+      "price": 253000,
+      "url": "https://www.digimart.net/cat02/shop70/DS10831862/"
     },
     {
-      "id": "DS10831665",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Custom Built 1968 Stratocaster Deluxe Closet Classic Ice Blue Metallic 【渋谷店】",
-      "price": 539000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831665/"
+      "id": "DS10831810",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Junior / Vintage Tobacco Burst #225160110",
+      "price": 199000,
+      "url": "https://www.digimart.net/cat01/shop2040/DS10831810/"
     },
     {
-      "id": "DS10831664",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop LTD Telecaster Custom Super Heavy Relic Aged Firemist Gold with Burgandy Mist Burst 【渋谷店】",
-      "price": 594000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831664/"
+      "id": "DS10831809",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Junior Double Cutaway / Ebony #224060207",
+      "price": 209000,
+      "url": "https://www.digimart.net/cat01/shop2040/DS10831809/"
     },
     {
-      "id": "DS10831663",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Limited Edition Custom Built 1959 250K Jazzmaster Journeyman Relic Aged Dakota Red 【渋谷店】",
-      "price": 660000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831663/"
+      "id": "DS10831808",
+      "keyword": "Gibson",
+      "title": "Gibson 70s Flying V / Antique Natural #2225160260",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop2040/DS10831808/"
     },
     {
-      "id": "DS10831661",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Special Run 1969 Stratocaster Heavy Relic Aged Purple Metallic 選定品【渋谷店】",
-      "price": 990000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831661/"
+      "id": "DS10831764",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Dealer Select 1959 Les Paul Standard VOS Factory Burst ≪S/N:961606≫ 【心斎橋店】",
+      "price": 957000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10831764/"
     },
     {
-      "id": "DS10831656",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Limited Edition 1960 Stratocaster Relic Matching Headstock Vintage White 【渋谷店】",
-      "price": 891000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831656/"
+      "id": "DS10831763",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Dealer Select 1959 Les Paul Standard VOS Factory Burst ≪S/N:961603≫ 【心斎橋店】",
+      "price": 957000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10831763/"
     },
     {
-      "id": "DS10831654",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop American Custom Stratocaster NOS Sienna Sunburst 【渋谷店】",
-      "price": 660000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831654/"
+      "id": "DS10831762",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Limited Edition 1976 Les Paul Deluxe Reissue VOS Red Sparkle ≪S/N:CS602079≫ 【心斎橋店】",
+      "price": 803000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10831762/"
     },
     {
-      "id": "DS10831652",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Custom Built Custom Stratocaster Ziricote Top Time Capsule Aged Natural【渋谷店】",
-      "price": 891000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831652/"
+      "id": "DS10829908",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Silver Sky Maple Fingerboard (2025) (Stone Blue)",
+      "price": 135520,
+      "url": "https://www.digimart.net/cat01/shop73/DS10829908/"
     },
     {
-      "id": "DS10831651",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Limited Edition 50s Thinline Telecaster Heavy Relic Antique Burst 【渋谷店】",
-      "price": 891000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831651/"
+      "id": "DS10829910",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE CE 24 (2025) (Blood Orange)",
+      "price": 109384,
+      "url": "https://www.digimart.net/cat01/shop73/DS10829910/"
     },
     {
-      "id": "DS10831649",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Custom Built 1962 Stratocaster Super Heavy Relic Black【渋谷店】",
-      "price": 891000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831649/"
+      "id": "DS10829909",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Custom 24 2025 (Vintage Sunburst)",
+      "price": 130680,
+      "url": "https://www.digimart.net/cat01/shop73/DS10829909/"
     },
     {
-      "id": "DS10831647",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Custom Built 1969 Stratocaster Time Capsule 3-Color Sunburst【渋谷店】",
-      "price": 649000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831647/"
+      "id": "DS10829906",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE Silver Sky John Mayer 9J (2024) (Piano Black)",
+      "price": 135520,
+      "url": "https://www.digimart.net/cat01/shop73/DS10829906/"
     },
     {
-      "id": "DS10831646",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 70TH Anniversary 1954 Stratocaster Time Capsule Black【渋谷店】",
-      "price": 583000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831646/"
+      "id": "DS10830606",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) S2 Custom 24-08 Poplar Burl Limited Edition Charcoal Burst 2026",
+      "price": 360800,
+      "url": "https://www.digimart.net/cat01/shop1220/DS10830606/"
     },
     {
-      "id": "DS10831644",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Custom Built 1969 Stratocaster Relic 3 Color Sunburst【渋谷店】",
-      "price": 693000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831644/"
+      "id": "DS10830603",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) S2 Custom 24-08 Poplar Burl Limited Edition Black Gold Burst 2026",
+      "price": 360800,
+      "url": "https://www.digimart.net/cat01/shop1220/DS10830603/"
     },
     {
-      "id": "DS10831643",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Custom Built 1969 Stratocaster Super Heavy Relic Olympic White【渋谷店】",
-      "price": 792000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831643/"
+      "id": "DS10830591",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) S2 Custom 24 Poplar Burl Limited Edition Charcoal Burst 2026",
+      "price": 352000,
+      "url": "https://www.digimart.net/cat01/shop1220/DS10830591/"
     },
     {
-      "id": "DS10831642",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 2025 Time Machine 1951 Nocaster Relic Faded Aged Nocaster Blonde【渋谷店】",
-      "price": 660000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10831642/"
+      "id": "DS10830576",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) S2 Custom 24 Poplar Burl Limited Edition Black Gold Burst 2026",
+      "price": 352000,
+      "url": "https://www.digimart.net/cat01/shop1220/DS10830576/"
     },
     {
-      "id": "DS10831494",
-      "keyword": "Fender",
-      "title": "Fender American Vintage 1974 JazzBass",
-      "price": 238000,
-      "url": "https://www.digimart.net/cat03/shop4914/DS10831494/"
+      "id": "DS10829216",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2026 S2 Custom 24 Poplar Burl Limited Edition Charcoal Burst 【2.97kg】【限定モデル】【金利0%】",
+      "price": 352000,
+      "url": "https://www.digimart.net/cat01/shop5380/DS10829216/"
     },
     {
-      "id": "DS10831473",
+      "id": "DS10829303",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2026 S2 Custom 24 Poplar Burl Limited Edition Black Gold Burst 【3.36kg】【限定モデル】【金利0%】",
+      "price": 352000,
+      "url": "https://www.digimart.net/cat01/shop5380/DS10829303/"
+    },
+    {
+      "id": "DS10831391",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2026 S2 Custom 24-08 Poplar Burl LTD Black Gold Burst 【3.17kg】【限定モデル】【金利0%】",
+      "price": 360800,
+      "url": "https://www.digimart.net/cat01/shop5380/DS10831391/"
+    },
+    {
+      "id": "DS10831464",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2026 S2 Custom 24-08 Poplar Burl Limited Edition Charcoal Burst【3.32kg】【限定モデル】【金利0%】",
+      "price": 360800,
+      "url": "https://www.digimart.net/cat01/shop5380/DS10831464/"
+    },
+    {
+      "id": "DS10831883",
       "keyword": "Fender",
-      "title": "Fender Custom Shop Guitar Planet Exclusive 1960s Telecaster Deluxe Closet Classic -Aged Black- 2023USED!!",
-      "price": 698500,
-      "url": "https://www.digimart.net/cat01/shop38/DS10831473/"
+      "title": "Fender USED 中古 Deluxe Jazz Bass V Kazuki Arai Edition (Vintage Blonde)",
+      "price": 242760,
+      "url": "https://www.digimart.net/cat03/shop5331/DS10831883/"
+    },
+    {
+      "id": "DS10830781",
+      "keyword": "Fender",
+      "title": "Fender American Professional Stratocaster Olympic White #US26050084【現物写真】",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop5102/DS10830781/"
+    },
+    {
+      "id": "DS10831818",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1961 Stratocaster / Surf Green【アウトレット】",
+      "price": 393800,
+      "url": "https://www.digimart.net/cat01/shop4540/DS10831818/"
+    },
+    {
+      "id": "DS10831795",
+      "keyword": "Fender",
+      "title": "Fender USA FSR '69 Telecaster Thinline 2008",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat01/shop70/DS10831795/"
+    },
+    {
+      "id": "DS10830738",
+      "keyword": "Fender",
+      "title": "Fender American Professional Jazzmaster Black #US26058112【現物写真】",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop5102/DS10830738/"
+    },
+    {
+      "id": "DS10831701",
+      "keyword": "Nord",
+      "title": "Nord Nord Electro 6D 73",
+      "price": 308000,
+      "url": "https://www.digimart.net/cat06/shop5079/DS10831701/"
     }
   ],
   "errors": [],
@@ -250,7 +299,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 172,
+      "qualifying": 171,
       "page_stats": [
         {
           "page": 1,
@@ -294,7 +343,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 207,
+      "qualifying": 209,
       "page_stats": [
         {
           "page": 1,
@@ -338,7 +387,7 @@
       "pages": 6,
       "links": 299,
       "parsed": 299,
-      "qualifying": 79,
+      "qualifying": 72,
       "page_stats": [
         {
           "page": 1,
@@ -350,13 +399,13 @@
           "page": 2,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=&readCount=50&noparallelimportp=&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=&soldoutDispCheck=false&tagWords=&dmsP=&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=&neckScaleOption=&tagWordsNot=&freeshippingp=&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=&pickupOption=&movieurlp=&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=&brandIdNot=&ecCardP=&ecpurchasep=&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=&fingerboardOption=&noshopsalep=&currentPage=2&shopNo=&stringsoption=&categoryId=&shopsalep=&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 3,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Fender&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=3&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 49
+          "unique_added": 50
         },
         {
           "page": 4,
@@ -382,7 +431,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 182,
+      "qualifying": 183,
       "page_stats": [
         {
           "page": 1,
@@ -519,6 +568,6 @@
       ]
     }
   },
-  "collected": 924,
-  "seen_count": 4956
+  "collected": 919,
+  "seen_count": 4991
 }
