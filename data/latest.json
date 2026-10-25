@@ -1,63 +1,70 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-25T07:13:41.050421+00:00",
+  "checked_at": "2026-10-25T08:00:02.381555+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10830717",
+      "id": "DS10830814",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Southern Jumbo Ebony 2015年製",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat02/shop4958/DS10830717/"
+      "title": "Gibson 1965 SG Junior Cherry 【渋谷店】《05VG》",
+      "price": 891000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10830814/"
     },
     {
-      "id": "DS10830630",
+      "id": "DS10830785",
       "keyword": "Gibson",
-      "title": "Gibson Murphy Lab 1936 Advanced Jumbo Ultra Light Aged (Vintage Sunburst) -2024USED!!-【48回迄金利0%対象】",
-      "price": 548000,
-      "url": "https://www.digimart.net/cat02/shop1881/DS10830630/"
+      "title": "Gibson Custom Shop 1959 ES-335 Reissue",
+      "price": 495000,
+      "url": "https://www.digimart.net/cat01/shop2641/DS10830785/"
     },
     {
-      "id": "DS10830572",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 True Vintage 2008 【渋谷店】",
-      "price": 693000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10830572/"
-    },
-    {
-      "id": "DS10830563",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop CS-356 Tangerine Burst 2016",
-      "price": 550000,
-      "url": "https://www.digimart.net/cat01/shop4861/DS10830563/"
-    },
-    {
-      "id": "DS10830648",
+      "id": "DS10830901",
       "keyword": "Fender",
-      "title": "Fender Custom Shop USED 中古 1960 Telecaster Heavy Relic 2-Color Sunburst SN. R119815",
-      "price": 762960,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10830648/"
+      "title": "Fender American Vintage '62 Jaguar Sherwood Green 1999",
+      "price": 275000,
+      "url": "https://www.digimart.net/cat01/shop5393/DS10830901/"
     },
     {
-      "id": "DS10830583",
+      "id": "DS10830897",
       "keyword": "Fender",
-      "title": "Fender Custom Shop 1960 Stratocaster Journeyman Relic Chocolate 3-Tone Sunburst",
-      "price": 951500,
-      "url": "https://www.digimart.net/cat01/shop4540/DS10830583/"
+      "title": "Fender American Vintage '62 Custom Telecaster",
+      "price": 297000,
+      "url": "https://www.digimart.net/cat01/shop5466/DS10830897/"
     },
     {
-      "id": "DS10830569",
+      "id": "DS10830871",
       "keyword": "Fender",
-      "title": "Fender Custom Shop 2017 Limited Edition NAMM 1951 Nocaster NOS Faded Nocaster Blonde 【渋谷店】",
-      "price": 594000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10830569/"
+      "title": "Fender American Vintage '62 Jazz Bass 2knob MOD Black 2009",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat03/shop5393/DS10830871/"
     },
     {
-      "id": "DS10830713",
+      "id": "DS10830856",
+      "keyword": "Fender",
+      "title": "Fender 【新製品】American Professional Jazzmaster Rosewood FB -Oxblood- SN:US26061177 ≒3.74kg",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop169/DS10830856/"
+    },
+    {
+      "id": "DS10830846",
+      "keyword": "Fender",
+      "title": "Fender 【新製品】American Professional Jazzmaster Rosewood FB -Dark Night- SN:US26053493 ≒3.67kg",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop169/DS10830846/"
+    },
+    {
+      "id": "DS10830809",
       "keyword": "Nord",
-      "title": "CLAVIA Nord Organ 3 【Halloween FLAME UP SALE 10.24(土)～10.31(土)】",
-      "price": 671000,
-      "url": "https://www.digimart.net/cat06/shop1140/DS10830713/"
+      "title": "CLAVIA Nord Electro 7 61【Halloween FLAME UP SALE 10.24(土)～10.31(土)】",
+      "price": 440000,
+      "url": "https://www.digimart.net/cat06/shop721/DS10830809/"
+    },
+    {
+      "id": "DS10830808",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Lead A1【Halloween FLAME UP SALE 10.24(土)～10.31(土)】",
+      "price": 280500,
+      "url": "https://www.digimart.net/cat06/shop721/DS10830808/"
     }
   ],
   "errors": [],
@@ -110,7 +117,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 170,
+      "qualifying": 172,
       "page_stats": [
         {
           "page": 1,
@@ -379,6 +386,6 @@
       ]
     }
   },
-  "collected": 916,
-  "seen_count": 4913
+  "collected": 918,
+  "seen_count": 4922
 }
