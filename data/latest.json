@@ -1,28 +1,63 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-25T05:58:04.514252+00:00",
+  "checked_at": "2026-10-25T07:13:41.050421+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10830462",
+      "id": "DS10830717",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s P-90 -Gold Top- #222260018【4.55kg】【暖かみのある低音】",
-      "price": 330000,
-      "url": "https://www.digimart.net/cat01/shop5389/DS10830462/"
+      "title": "Gibson Custom Shop Southern Jumbo Ebony 2015年製",
+      "price": 352000,
+      "url": "https://www.digimart.net/cat02/shop4958/DS10830717/"
     },
     {
-      "id": "DS10830556",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop Michael Landau 1963 Stratocaster Relic Fiesta Red over 3-Tone Sunburst 【御茶ノ水本店】",
-      "price": 961400,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10830556/"
+      "id": "DS10830630",
+      "keyword": "Gibson",
+      "title": "Gibson Murphy Lab 1936 Advanced Jumbo Ultra Light Aged (Vintage Sunburst) -2024USED!!-【48回迄金利0%対象】",
+      "price": 548000,
+      "url": "https://www.digimart.net/cat02/shop1881/DS10830630/"
     },
     {
-      "id": "DS10830495",
+      "id": "DS10830572",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 True Vintage 2008 【渋谷店】",
+      "price": 693000,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10830572/"
+    },
+    {
+      "id": "DS10830563",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop CS-356 Tangerine Burst 2016",
+      "price": 550000,
+      "url": "https://www.digimart.net/cat01/shop4861/DS10830563/"
+    },
+    {
+      "id": "DS10830648",
       "keyword": "Fender",
-      "title": "Fender Custom Shop 1957 Yamano Spacial Stratocaster 1995",
-      "price": 660000,
-      "url": "https://www.digimart.net/cat01/shop2641/DS10830495/"
+      "title": "Fender Custom Shop USED 中古 1960 Telecaster Heavy Relic 2-Color Sunburst SN. R119815",
+      "price": 762960,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10830648/"
+    },
+    {
+      "id": "DS10830583",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 1960 Stratocaster Journeyman Relic Chocolate 3-Tone Sunburst",
+      "price": 951500,
+      "url": "https://www.digimart.net/cat01/shop4540/DS10830583/"
+    },
+    {
+      "id": "DS10830569",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 2017 Limited Edition NAMM 1951 Nocaster NOS Faded Nocaster Blonde 【渋谷店】",
+      "price": 594000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10830569/"
+    },
+    {
+      "id": "DS10830713",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Organ 3 【Halloween FLAME UP SALE 10.24(土)～10.31(土)】",
+      "price": 671000,
+      "url": "https://www.digimart.net/cat06/shop1140/DS10830713/"
     }
   ],
   "errors": [],
@@ -75,7 +110,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 173,
+      "qualifying": 170,
       "page_stats": [
         {
           "page": 1,
@@ -119,7 +154,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 209,
+      "qualifying": 208,
       "page_stats": [
         {
           "page": 1,
@@ -344,6 +379,6 @@
       ]
     }
   },
-  "collected": 920,
-  "seen_count": 4905
+  "collected": 916,
+  "seen_count": 4913
 }
