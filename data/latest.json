@@ -1,14 +1,28 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-25T01:08:35.041207+00:00",
+  "checked_at": "2026-10-25T01:58:28.427267+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10829962",
-      "keyword": "Gibson",
-      "title": "Gibson LG-2 All Mahogany Faded Natural【ロッキン岐阜店12周年記念セール!】",
-      "price": 286000,
-      "url": "https://www.digimart.net/cat02/shop4978/DS10829962/"
+      "id": "DS10829991",
+      "keyword": "Fender",
+      "title": "Fender Custom Shop 【2019年製】Vintage Custom 1955 Stratocaster Wide Fade 2-Color Sunburst【3.61kg】",
+      "price": 547800,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10829991/"
+    },
+    {
+      "id": "DS10830004",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Stage 4 88 【OCTOBER FINAL SALE ~10/31(土)まで】",
+      "price": 858000,
+      "url": "https://www.digimart.net/cat06/shop5397/DS10830004/"
+    },
+    {
+      "id": "DS10829990",
+      "keyword": "Nord",
+      "title": "CLAVIA Nord Electro 6 HP 【OCTOBER FINAL SALE ~10/31(土)まで】",
+      "price": 451000,
+      "url": "https://www.digimart.net/cat06/shop5397/DS10829990/"
     }
   ],
   "errors": [],
@@ -105,7 +119,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 209,
+      "qualifying": 210,
       "page_stats": [
         {
           "page": 1,
@@ -149,7 +163,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 66,
+      "qualifying": 67,
       "page_stats": [
         {
           "page": 1,
@@ -193,7 +207,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 182,
+      "qualifying": 181,
       "page_stats": [
         {
           "page": 1,
@@ -330,6 +344,6 @@
       ]
     }
   },
-  "collected": 924,
-  "seen_count": 4848
+  "collected": 925,
+  "seen_count": 4851
 }
