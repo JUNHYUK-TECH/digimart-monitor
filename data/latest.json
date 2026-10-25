@@ -1,126 +1,56 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-25T11:57:08.418984+00:00",
+  "checked_at": "2026-10-25T13:08:03.806980+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10832333",
+      "id": "DS10831781",
       "keyword": "Gibson",
-      "title": "Gibson ES-335 Vintage Ebony【S/N: 207660271】",
-      "price": 440000,
-      "url": "https://www.digimart.net/cat01/shop3800/DS10832333/"
+      "title": "Gibson 【2026年製】【良杢個体】J-45 Standard with HiFi DNA #22036067",
+      "price": 381700,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10831781/"
     },
     {
-      "id": "DS10832326",
+      "id": "DS10832459",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1959 Les Paul Standard Reissue Left Hand VOS Hand Select Top Green Lemon Fade #953493",
-      "price": 957000,
-      "url": "https://www.digimart.net/cat01/shop3800/DS10832326/"
+      "title": "Gibson Les Paul Junior Double Cutaway Vintage Cherry【S/N 223160261】",
+      "price": 206800,
+      "url": "https://www.digimart.net/cat01/shop3800/DS10832459/"
     },
     {
-      "id": "DS10832235",
+      "id": "DS10832454",
       "keyword": "Gibson",
-      "title": "Gibson 1958 J-200 w / PU",
-      "price": 374000,
-      "url": "https://www.digimart.net/cat02/shop70/DS10832235/"
+      "title": "Gibson Les Paul Custom 70s Ebony【S/N 221260259】",
+      "price": 528000,
+      "url": "https://www.digimart.net/cat01/shop3800/DS10832454/"
     },
     {
-      "id": "DS10832170",
+      "id": "DS10832452",
       "keyword": "Gibson",
-      "title": "Gibson J-45 Studio Rosewood Satin Natural",
-      "price": 297000,
-      "url": "https://www.digimart.net/cat02/shop5032/DS10832170/"
+      "title": "Gibson Custom Shop J-45 ADJ EBONY BLACK",
+      "price": 239800,
+      "url": "https://www.digimart.net/cat02/shop4939/DS10832452/"
     },
     {
-      "id": "DS10832168",
+      "id": "DS10832446",
       "keyword": "Gibson",
-      "title": "Gibson L-00 Special Wine Red",
-      "price": 258000,
-      "url": "https://www.digimart.net/cat02/shop5032/DS10832168/"
+      "title": "Gibson Dove Custom Ebony Black 1977 w / PU",
+      "price": 462000,
+      "url": "https://www.digimart.net/cat02/shop70/DS10832446/"
     },
     {
-      "id": "DS10832167",
-      "keyword": "Gibson",
-      "title": "Gibson 60s J-45 Original WR",
-      "price": 357500,
-      "url": "https://www.digimart.net/cat02/shop5032/DS10832167/"
-    },
-    {
-      "id": "DS10832166",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 50s Faded",
-      "price": 318000,
-      "url": "https://www.digimart.net/cat02/shop5032/DS10832166/"
-    },
-    {
-      "id": "DS10832165",
-      "keyword": "Gibson",
-      "title": "Gibson L-00 Standard VS",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat02/shop5032/DS10832165/"
-    },
-    {
-      "id": "DS10832163",
-      "keyword": "Gibson",
-      "title": "Gibson 50s J-45 Original VS",
-      "price": 379500,
-      "url": "https://www.digimart.net/cat02/shop5032/DS10832163/"
-    },
-    {
-      "id": "DS10832161",
-      "keyword": "Gibson",
-      "title": "Gibson 60's J-45 Original EB",
-      "price": 357500,
-      "url": "https://www.digimart.net/cat02/shop5032/DS10832161/"
-    },
-    {
-      "id": "DS10832159",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 Special VS",
-      "price": 258000,
-      "url": "https://www.digimart.net/cat02/shop5032/DS10832159/"
-    },
-    {
-      "id": "DS10832158",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 Standard VS",
-      "price": 379500,
-      "url": "https://www.digimart.net/cat02/shop5032/DS10832158/"
-    },
-    {
-      "id": "DS10832056",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 60s Left Hand Bourbon Burst【S/N:222660263】",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop1220/DS10832056/"
-    },
-    {
-      "id": "DS10832052",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 60s Figured Top Iced Tea【S/N:223260077】",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop1220/DS10832052/"
-    },
-    {
-      "id": "DS10831919",
-      "keyword": "Gibson",
-      "title": "Gibson SG Standard '61 Maestro Vibrola Vintage Cherry【S/N:222360004】",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat01/shop1220/DS10831919/"
-    },
-    {
-      "id": "DS10831866",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1942 Banner LG-2",
-      "price": 599500,
-      "url": "https://www.digimart.net/cat02/shop3800/DS10831866/"
-    },
-    {
-      "id": "DS10832053",
+      "id": "DS10832334",
       "keyword": "Fender",
-      "title": "Fender American Vintage II 1951 Telecaster (Butterscotch Blonde)",
-      "price": 374000,
-      "url": "https://www.digimart.net/cat01/shop73/DS10832053/"
+      "title": "Fender American Vintage II 1973 Stratocaster RW (Olympic White)",
+      "price": 354420,
+      "url": "https://www.digimart.net/cat01/shop73/DS10832334/"
+    },
+    {
+      "id": "DS10832338",
+      "keyword": "Fender",
+      "title": "Fender Limited Edition American Vintage II 1972 Telecaster Thinline -Olympic White- [2.96kg]",
+      "price": 462000,
+      "url": "https://www.digimart.net/cat01/shop5045/DS10832338/"
     }
   ],
   "errors": [],
@@ -173,7 +103,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 171,
+      "qualifying": 172,
       "page_stats": [
         {
           "page": 1,
@@ -261,7 +191,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 72,
+      "qualifying": 70,
       "page_stats": [
         {
           "page": 1,
@@ -442,6 +372,6 @@
       ]
     }
   },
-  "collected": 919,
-  "seen_count": 5008
+  "collected": 918,
+  "seen_count": 5015
 }
