@@ -1,112 +1,28 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-25T05:02:12.157517+00:00",
+  "checked_at": "2026-10-25T05:58:04.514252+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10830447",
+      "id": "DS10830462",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s P-90 -Gold Top- #221760258【4.48kg】【漆黒ローズ指板個体】",
+      "title": "Gibson Les Paul Standard 50s P-90 -Gold Top- #222260018【4.55kg】【暖かみのある低音】",
       "price": 330000,
-      "url": "https://www.digimart.net/cat01/shop5389/DS10830447/"
+      "url": "https://www.digimart.net/cat01/shop5389/DS10830462/"
     },
     {
-      "id": "DS10828410",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Custom 70s -Ebony- #224660148【4.40kg】",
-      "price": 528000,
-      "url": "https://www.digimart.net/cat01/shop5045/DS10828410/"
-    },
-    {
-      "id": "DS10828400",
-      "keyword": "Gibson",
-      "title": "Gibson SG Standard '61 Maestro Vibrola -Cherry Red- #223860228【3.47kg】",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat01/shop5045/DS10828400/"
-    },
-    {
-      "id": "DS10828394",
-      "keyword": "Gibson",
-      "title": "Gibson 70s Explorer -Classic White- #216160038【3.26kg】",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat01/shop5045/DS10828394/"
-    },
-    {
-      "id": "DS10830440",
-      "keyword": "Gibson",
-      "title": "Gibson Nathaniel Rateliff LG-2 Western Vintage Sunburst【ロッキン岐阜店12周年記念セール!】",
-      "price": 459800,
-      "url": "https://www.digimart.net/cat02/shop4978/DS10830440/"
-    },
-    {
-      "id": "DS10830405",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Historic Collection 1954 Les Paul Custom VOS 【御茶ノ水本店】",
-      "price": 898000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10830405/"
-    },
-    {
-      "id": "DS10830384",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Historic Collection 1954 Les Paul Custom VOS Ebony 【御茶ノ水本店】",
-      "price": 898000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10830384/"
-    },
-    {
-      "id": "DS10830374",
-      "keyword": "Gibson",
-      "title": "Gibson Noel Gallagher Les Paul Standard Ebony【Limited Edition】【期間限定販売モデル】【4.22kg】",
-      "price": 435600,
-      "url": "https://www.digimart.net/cat01/shop5120/DS10830374/"
-    },
-    {
-      "id": "DS10830335",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 【試奏動画あり】M2M J-45 Standard Sycamore Cremona Burst #22396070【抜群の音抜け】【限定1本】",
-      "price": 598000,
-      "url": "https://www.digimart.net/cat02/shop5011/DS10830335/"
-    },
-    {
-      "id": "DS10830304",
-      "keyword": "Gibson",
-      "title": "Gibson G-200【2022年製】【アメリカ製】",
-      "price": 198000,
-      "url": "https://www.digimart.net/cat02/shop169/DS10830304/"
-    },
-    {
-      "id": "DS10830299",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s -Gold Top-【3.91kg】【待望のレフティー入荷!】",
-      "price": 354200,
-      "url": "https://www.digimart.net/cat01/shop5389/DS10830299/"
-    },
-    {
-      "id": "DS10830289",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Custom 70s \"Ebony\" Gloss #224760223【4.59kg】【超漆黒エボニー】",
-      "price": 528000,
-      "url": "https://www.digimart.net/cat01/shop5389/DS10830289/"
-    },
-    {
-      "id": "DS10830372",
+      "id": "DS10830556",
       "keyword": "Fender",
-      "title": "Fender American Ultra II Meteora Bass Ultraburst【ロッキン岐阜店12周年記念セール!】",
-      "price": 258000,
-      "url": "https://www.digimart.net/cat03/shop4978/DS10830372/"
+      "title": "Fender Custom Shop Michael Landau 1963 Stratocaster Relic Fiesta Red over 3-Tone Sunburst 【御茶ノ水本店】",
+      "price": 961400,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10830556/"
     },
     {
-      "id": "DS10830368",
+      "id": "DS10830495",
       "keyword": "Fender",
-      "title": "Fender American Ultra II Meteora Bass Texas Tea【ロッキン岐阜店12周年記念セール!】",
-      "price": 258000,
-      "url": "https://www.digimart.net/cat03/shop4978/DS10830368/"
-    },
-    {
-      "id": "DS10830312",
-      "keyword": "Fender",
-      "title": "Fender American Standard Stratocaster 40th Anniversary MOD - 3TS-【1994年製USED】【約3.40kg】【1F】",
-      "price": 142000,
-      "url": "https://www.digimart.net/cat01/shop169/DS10830312/"
+      "title": "Fender Custom Shop 1957 Yamano Spacial Stratocaster 1995",
+      "price": 660000,
+      "url": "https://www.digimart.net/cat01/shop2641/DS10830495/"
     }
   ],
   "errors": [],
@@ -247,7 +163,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 70,
+      "qualifying": 72,
       "page_stats": [
         {
           "page": 1,
@@ -428,6 +344,6 @@
       ]
     }
   },
-  "collected": 918,
-  "seen_count": 4902
+  "collected": 920,
+  "seen_count": 4905
 }
