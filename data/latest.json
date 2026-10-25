@@ -1,28 +1,84 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-25T01:58:28.427267+00:00",
+  "checked_at": "2026-10-25T03:03:04.685191+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10829991",
+      "id": "DS10830144",
+      "keyword": "Gibson",
+      "title": "Gibson 【10/31までの限定特価!!】Slash Les Paul Standard / November Burst [4.39kg][2022年製]",
+      "price": 358000,
+      "url": "https://www.digimart.net/cat01/shop169/DS10830144/"
+    },
+    {
+      "id": "DS10830139",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 2022 M2M Les Paul Special Double Cutaway Humbucker (Pelham Blue)",
+      "price": 657800,
+      "url": "https://www.digimart.net/cat01/shop87/DS10830139/"
+    },
+    {
+      "id": "DS10830121",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop 【10/31までの限定特価!!】1959 ES-330TD Reissue Vintage Burst 2026年製 [2.92kg]",
+      "price": 748000,
+      "url": "https://www.digimart.net/cat01/shop169/DS10830121/"
+    },
+    {
+      "id": "DS10830116",
+      "keyword": "Gibson",
+      "title": "Gibson 【10/31までの限定特価!!】Ace Frehley \"Budokan\" Les Paul Custom [2012年製][4.45kg]",
+      "price": 898000,
+      "url": "https://www.digimart.net/cat01/shop169/DS10830116/"
+    },
+    {
+      "id": "DS10830113",
+      "keyword": "Gibson",
+      "title": "Gibson SG Supreme (Ebony) [SN.219760164]",
+      "price": 435600,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10830113/"
+    },
+    {
+      "id": "DS10830047",
+      "keyword": "Gibson",
+      "title": "Gibson 1982 Chet Atkins CE 【USED/1982年製】【発売初年度製】【4.73kg】",
+      "price": 398000,
+      "url": "https://www.digimart.net/cat02/shop170/DS10830047/"
+    },
+    {
+      "id": "DS10830042",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s P-90 Gold Top (重量:4.18kg) 【新宿店】",
+      "price": 324500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10830042/"
+    },
+    {
+      "id": "DS10830081",
       "keyword": "Fender",
-      "title": "Fender Custom Shop 【2019年製】Vintage Custom 1955 Stratocaster Wide Fade 2-Color Sunburst【3.61kg】",
-      "price": 547800,
-      "url": "https://www.digimart.net/cat01/shop5389/DS10829991/"
+      "title": "Fender 【新製品】American Professional Telecaster Rosewood FB -3-Color Sunburst- SN:US26046823 ≒3.45kg",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop169/DS10830081/"
     },
     {
-      "id": "DS10830004",
-      "keyword": "Nord",
-      "title": "CLAVIA Nord Stage 4 88 【OCTOBER FINAL SALE ~10/31(土)まで】",
-      "price": 858000,
-      "url": "https://www.digimart.net/cat06/shop5397/DS10830004/"
+      "id": "DS10830043",
+      "keyword": "Fender",
+      "title": "Fender Deluxe Jazz Bass V Kazuki Arai Edition Rosewood Black 【新宿店】",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10830043/"
     },
     {
-      "id": "DS10829990",
-      "keyword": "Nord",
-      "title": "CLAVIA Nord Electro 6 HP 【OCTOBER FINAL SALE ~10/31(土)まで】",
-      "price": 451000,
-      "url": "https://www.digimart.net/cat06/shop5397/DS10829990/"
+      "id": "DS10830051",
+      "keyword": "Fractal",
+      "title": "FRACTAL AUDIO SYSTEMS 【即納可能】AM4 AMP MODELER フラクタルオーディオシステム アンプモデラー 【国内正規品】 【渋谷店】",
+      "price": 176000,
+      "url": "https://www.digimart.net/cat13/shop1484/DS10830051/"
+    },
+    {
+      "id": "DS10830050",
+      "keyword": "Fractal",
+      "title": "FRACTAL AUDIO SYSTEMS VP4 フラクタルオーディオシステム マルチエフェクター【渋谷店】",
+      "price": 176000,
+      "url": "https://www.digimart.net/cat13/shop1484/DS10830050/"
     }
   ],
   "errors": [],
@@ -31,7 +87,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 72,
+      "qualifying": 71,
       "page_stats": [
         {
           "page": 1,
@@ -251,7 +307,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 120,
+      "qualifying": 118,
       "page_stats": [
         {
           "page": 1,
@@ -344,6 +400,6 @@
       ]
     }
   },
-  "collected": 925,
-  "seen_count": 4851
+  "collected": 923,
+  "seen_count": 4862
 }
