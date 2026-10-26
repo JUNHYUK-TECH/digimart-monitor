@@ -1,56 +1,91 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-26T05:04:51.175655+00:00",
+  "checked_at": "2026-10-26T06:03:05.470933+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10833074",
-      "keyword": "Tyler",
-      "title": "James Tyler 4 String Bass Active",
-      "price": 898000,
-      "url": "https://www.digimart.net/cat03/shop5099/DS10833074/"
-    },
-    {
-      "id": "DS10833059",
+      "id": "DS10833492",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 50s P-90 Gold Top ギブソン 【実物画像/未展示品】[4.55kg][S/N 223760324]",
-      "price": 324500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10833059/"
+      "title": "Gibson J-45 Special -Satin Honey Burst- #22296072【48回迄金利0%対象】【送料当社負担】",
+      "price": 258000,
+      "url": "https://www.digimart.net/cat02/shop1881/DS10833492/"
     },
     {
-      "id": "DS10833040",
+      "id": "DS10833304",
       "keyword": "Gibson",
-      "title": "Gibson 【Gibson USA】ES-335 50s Vintage Tabacco Burst #221960173【3.82kg】",
-      "price": 440000,
-      "url": "https://www.digimart.net/cat01/shop5389/DS10833040/"
+      "title": "Gibson J-45 Standard アコースティックギター ラウンドショルダー",
+      "price": 385000,
+      "url": "https://www.digimart.net/cat02/shop5304/DS10833304/"
     },
     {
-      "id": "DS10833066",
+      "id": "DS10833215",
+      "keyword": "Gibson",
+      "title": "Gibson 60's J-45 Original Ebony",
+      "price": 357500,
+      "url": "https://www.digimart.net/cat02/shop3800/DS10833215/"
+    },
+    {
+      "id": "DS10833210",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Junior Special 【新宿店】",
+      "price": 176000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10833210/"
+    },
+    {
+      "id": "DS10833203",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul Standard 50s Heritage Cherry Sunburst 【Halloween FLAME UP SALE 10.24(土)～10.31(土)】",
+      "price": 407000,
+      "url": "https://www.digimart.net/cat01/shop1140/DS10833203/"
+    },
+    {
+      "id": "DS10833145",
+      "keyword": "Gibson",
+      "title": "Gibson 【Wood Picked】~Custom Shop~ J-45 Standard -Blue Widow- #22306132【48回迄金利0%対象】",
+      "price": 498000,
+      "url": "https://www.digimart.net/cat02/shop1881/DS10833145/"
+    },
+    {
+      "id": "DS10833142",
+      "keyword": "Gibson",
+      "title": "Gibson J-45 Standard Vintage Sunburst with HiFi DNA ギブソン 【実物画像/未展示品】[S/N 22476048]",
+      "price": 379500,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10833142/"
+    },
+    {
+      "id": "DS10833141",
+      "keyword": "Gibson",
+      "title": "Gibson Slash Les Paul Standard Appetite Burst スラッシュ ギブソン 【実物画像/未展示品】[3.93kg][S/N 2251601",
+      "price": 374000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10833141/"
+    },
+    {
+      "id": "DS10833116",
+      "keyword": "Gibson",
+      "title": "Gibson ES-335 DOT",
+      "price": 389400,
+      "url": "https://www.digimart.net/cat01/shop541/DS10833116/"
+    },
+    {
+      "id": "DS10833344",
       "keyword": "Fender",
-      "title": "Fender American Professional II Jazz Bass Dark Night 中古",
-      "price": 242000,
-      "url": "https://www.digimart.net/cat03/shop5072/DS10833066/"
+      "title": "Fender Limited Edition American Professional Classic ST Silent System, RW 3-Color Sunburst",
+      "price": 258500,
+      "url": "https://www.digimart.net/cat01/shop1220/DS10833344/"
     },
     {
-      "id": "DS10833037",
+      "id": "DS10833219",
       "keyword": "Fender",
-      "title": "Fender FSR American Vintage II 1966 Jazzmaster Black Mod. 【3Aフレイムネック】【3.64kg】【V2558842】",
-      "price": 418000,
-      "url": "https://www.digimart.net/cat01/shop170/DS10833037/"
+      "title": "Fender American Ultra Luxe Vintage '60s Stratocaster HSS /Fiesta Red/Rosewood Fingerboard",
+      "price": 500500,
+      "url": "https://www.digimart.net/cat01/shop1220/DS10833219/"
     },
     {
-      "id": "DS10833035",
-      "keyword": "Fender",
-      "title": "Fender American Vintage II 1966 Jazz Bass 3-Color Sunburst 【4.13kg】",
-      "price": 424600,
-      "url": "https://www.digimart.net/cat03/shop170/DS10833035/"
-    },
-    {
-      "id": "DS10833064",
-      "keyword": "Nord",
-      "title": "Nord Electro 7 61鍵盤 ステージキーボード",
-      "price": 440000,
-      "url": "https://www.digimart.net/cat06/shop5052/DS10833064/"
+      "id": "DS10833230",
+      "keyword": "Helix",
+      "title": "LINE 6 Helix Stadium XL Floor 【新宿店】",
+      "price": 388000,
+      "url": "https://www.digimart.net/cat13/shop1484/DS10833230/"
     }
   ],
   "errors": [],
@@ -58,7 +93,7 @@
     "Tyler": {
       "pages": 6,
       "links": 300,
-      "parsed": 299,
+      "parsed": 300,
       "qualifying": 70,
       "page_stats": [
         {
@@ -103,7 +138,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 158,
+      "qualifying": 156,
       "page_stats": [
         {
           "page": 1,
@@ -147,7 +182,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 210,
+      "qualifying": 207,
       "page_stats": [
         {
           "page": 1,
@@ -191,7 +226,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 64,
+      "qualifying": 61,
       "page_stats": [
         {
           "page": 1,
@@ -279,7 +314,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 118,
+      "qualifying": 119,
       "page_stats": [
         {
           "page": 1,
@@ -372,6 +407,6 @@
       ]
     }
   },
-  "collected": 897,
-  "seen_count": 5056
+  "collected": 890,
+  "seen_count": 5068
 }
