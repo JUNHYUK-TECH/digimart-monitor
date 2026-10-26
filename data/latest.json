@@ -1,56 +1,14 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-26T13:46:29.588433+00:00",
+  "checked_at": "2026-10-26T15:54:04.996683+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10833897",
+      "id": "DS10834652",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Les Paul Custom \"Chrome Hardware\" / Ebony【USED】",
-      "price": 468000,
-      "url": "https://www.digimart.net/cat01/shop5091/DS10833897/"
-    },
-    {
-      "id": "DS10834792",
-      "keyword": "Gibson",
-      "title": "Gibson SG Supreme Ebony【S/N:219760166】",
-      "price": 440000,
-      "url": "https://www.digimart.net/cat01/shop1220/DS10834792/"
-    },
-    {
-      "id": "DS10834773",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Modern Figured Cobalt Burst【S/N:225360024】",
-      "price": 374000,
-      "url": "https://www.digimart.net/cat01/shop1220/DS10834773/"
-    },
-    {
-      "id": "DS10770071",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Junior TV Yellow",
-      "price": 233200,
-      "url": "https://www.digimart.net/cat01/shop5322/DS10770071/"
-    },
-    {
-      "id": "DS10834946",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Silver Sky Rosewood Tungsten / 2024",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop5392/DS10834946/"
-    },
-    {
-      "id": "DS10834846",
-      "keyword": "Fender",
-      "title": "Fender (フェンダー) American Vintage II 1960 Precision Bass Olympic White 【4.07kg】",
-      "price": 315980,
-      "url": "https://www.digimart.net/cat03/shop5252/DS10834846/"
-    },
-    {
-      "id": "DS10834828",
-      "keyword": "Fender",
-      "title": "Fender Custom Shop 54 telecaster BTB 【USED】【Haloween Sale!!】【10月28日～31日】",
-      "price": 495000,
-      "url": "https://www.digimart.net/cat01/shop5090/DS10834828/"
+      "title": "Gibson 【2026年製】J-160E Original #22296049【オール単板】【Xブレーシング】",
+      "price": 477000,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10834652/"
     }
   ],
   "errors": [],
@@ -191,7 +149,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 69,
+      "qualifying": 70,
       "page_stats": [
         {
           "page": 1,
@@ -372,6 +330,6 @@
       ]
     }
   },
-  "collected": 905,
-  "seen_count": 5182
+  "collected": 906,
+  "seen_count": 5183
 }
