@@ -1,133 +1,56 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-26T11:08:33.587675+00:00",
+  "checked_at": "2026-10-26T13:46:29.588433+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10834712",
+      "id": "DS10833897",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop 【チョイキズ特価】Les Paul Custom w/ Ebony Fingerboard Gloss Ebony #CS600957【4.50kg】",
-      "price": 737000,
-      "url": "https://www.digimart.net/cat01/shop170/DS10834712/"
+      "title": "Gibson Custom Shop Les Paul Custom \"Chrome Hardware\" / Ebony【USED】",
+      "price": 468000,
+      "url": "https://www.digimart.net/cat01/shop5091/DS10833897/"
     },
     {
-      "id": "DS10834699",
+      "id": "DS10834792",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard '50s P90 (Gold Top) 【S/N 223160132】",
-      "price": 330000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10834699/"
+      "title": "Gibson SG Supreme Ebony【S/N:219760166】",
+      "price": 440000,
+      "url": "https://www.digimart.net/cat01/shop1220/DS10834792/"
     },
     {
-      "id": "DS10834698",
+      "id": "DS10834773",
       "keyword": "Gibson",
-      "title": "Gibson SG Standard (Classic White) 【S/N 232850120】",
-      "price": 225500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10834698/"
+      "title": "Gibson Les Paul Modern Figured Cobalt Burst【S/N:225360024】",
+      "price": 374000,
+      "url": "https://www.digimart.net/cat01/shop1220/DS10834773/"
     },
     {
-      "id": "DS10834687",
+      "id": "DS10770071",
       "keyword": "Gibson",
-      "title": "Gibson 【左利き必見！】60s Original J-45 ADJ Left-Handed （Wine Red） ギブソン",
-      "price": 393000,
-      "url": "https://www.digimart.net/cat02/shop5331/DS10834687/"
+      "title": "Gibson Les Paul Junior TV Yellow",
+      "price": 233200,
+      "url": "https://www.digimart.net/cat01/shop5322/DS10770071/"
     },
     {
-      "id": "DS10834676",
-      "keyword": "Gibson",
-      "title": "Gibson USED 中古 SG '50s Tribute (Vintage Sunburst) [SN.100730533] ギブソン",
-      "price": 112200,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10834676/"
-    },
-    {
-      "id": "DS10834658",
-      "keyword": "Gibson",
-      "title": "Gibson 【大阪梅田楽器祭 目玉品 11/7(土)発売開始】【VINTAGE】70's ES-175D Sunburst【2.95kg】",
-      "price": 814000,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10834658/"
-    },
-    {
-      "id": "DS10834660",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 Standard HiFi DNA ~Honey Burst~ #22036132【2026年製】【48回無金利】",
-      "price": 381700,
-      "url": "https://www.digimart.net/cat02/shop169/DS10834660/"
-    },
-    {
-      "id": "DS10834654",
-      "keyword": "Gibson",
-      "title": "Gibson 【Vintage】Les Paul Custom Natural w/ Maple Fingerboard 1978年製 【4.83kg】",
-      "price": 748000,
-      "url": "https://www.digimart.net/cat01/shop60/DS10834654/"
-    },
-    {
-      "id": "DS10834598",
-      "keyword": "Gibson",
-      "title": "Gibson 【大阪梅田楽器祭 目玉品 11/14(土)発売開始】1977 Les Paul Custom Cherry Sunburst【Vintage】",
-      "price": 748000,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10834598/"
-    },
-    {
-      "id": "DS10834588",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Historic Collection 1957 Les Paul Goldtop Darkback Reissue VOS Double Gold #7 6564",
-      "price": 704000,
-      "url": "https://www.digimart.net/cat01/shop5367/DS10834588/"
-    },
-    {
-      "id": "DS10832862",
+      "id": "DS10834946",
       "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) McCarty 594 Singlecut Joe Walsh Limited Edition '21",
-      "price": 990000,
-      "url": "https://www.digimart.net/cat01/shop4951/DS10832862/"
+      "title": "Paul Reed Smith(PRS) Silver Sky Rosewood Tungsten / 2024",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat01/shop5392/DS10834946/"
     },
     {
-      "id": "DS10834648",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 【大阪梅田楽器祭 目玉品 11/7(土)発売開始】Wood Library Custom24-08 10Top/Brazilian Rosewood",
-      "price": 880000,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10834648/"
-    },
-    {
-      "id": "DS10834626",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) S2 Custom 24-08 Poplar Burl Limited Edition ~Black Gold Burst~ #S2089776【2026年製】【3.20kg】",
-      "price": 360800,
-      "url": "https://www.digimart.net/cat01/shop26/DS10834626/"
-    },
-    {
-      "id": "DS10834615",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) S2 Custom 24-08 Poplar Burl Limited Edition ~Charcoal Burst~ #S2089432【2026年製】【3.02kg】",
-      "price": 360800,
-      "url": "https://www.digimart.net/cat01/shop26/DS10834615/"
-    },
-    {
-      "id": "DS10834596",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2025 SE Custom 24 Blue Matteo(Natural Back) 【梅田店】",
-      "price": 118000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10834596/"
-    },
-    {
-      "id": "DS10834595",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) 2022 SE Silver Sky Rosewood - 3J - Moon White 【梅田店】",
-      "price": 121000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10834595/"
-    },
-    {
-      "id": "DS10834742",
+      "id": "DS10834846",
       "keyword": "Fender",
-      "title": "Fender AMERICAN PROFESSIONAL CLASSIC JAGUAR Faded Sherwood Green Metallic 【中古/2025年製】【3.87kg】",
-      "price": 168000,
-      "url": "https://www.digimart.net/cat01/shop175/DS10834742/"
+      "title": "Fender (フェンダー) American Vintage II 1960 Precision Bass Olympic White 【4.07kg】",
+      "price": 315980,
+      "url": "https://www.digimart.net/cat03/shop5252/DS10834846/"
     },
     {
-      "id": "DS10834605",
+      "id": "DS10834828",
       "keyword": "Fender",
-      "title": "Fender American Deluxe Jazz Bass V Blue Burst 1997 4.255kg #N7249130【GIB横浜】",
-      "price": 554400,
-      "url": "https://www.digimart.net/cat03/shop5088/DS10834605/"
+      "title": "Fender Custom Shop 54 telecaster BTB 【USED】【Haloween Sale!!】【10月28日～31日】",
+      "price": 495000,
+      "url": "https://www.digimart.net/cat01/shop5090/DS10834828/"
     }
   ],
   "errors": [],
@@ -178,9 +101,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 299,
-      "parsed": 299,
-      "qualifying": 156,
+      "links": 300,
+      "parsed": 300,
+      "qualifying": 159,
       "page_stats": [
         {
           "page": 1,
@@ -210,7 +133,7 @@
           "page": 5,
           "url": "https://www.digimart.net/search?topMaterialOption=&campaign1p=false&pickupComponentOption=&manufactureYearFrom=&keywordOr=&salep=false&readCount=50&noparallelimportp=false&sideMaterialOption=&productName=&backMaterialOption=&dispMode=ALL&keyword=&priceTo=&officialCouponShopP=false&soldoutDispCheck=false&tagWords=&dmsP=false&keywordAnd=Gibson&janCode=&conditionFrom=&keywordNot=&categoryIdNot=&nosalep=false&neckScaleOption=&tagWordsNot=&freeshippingp=false&sortKey=INITIAL_PUBLIC_DATE_DESC&bodyShapeOption=&areaPrefInfoId=&brandId=&neckOption=&foreignSalesFlg=false&manufactureYearTo=&nosoldoutp=&tremolantOption=&fretOption=&noBackOrderP=false&pickupOption=&movieurlp=false&materialOption=&category12Id=&maxCount=50&weightOptionTo=&weightOptionFrom=&shopNoNot=&priceFrom=&category3Id=&term=&soldoutDisp=false&canTradeP=false&brandIdNot=&ecCardP=false&ecpurchasep=false&keywordPhrase=&specOption=&otherOption=&bodysizeOption=&productNameNot=&areaId=&neckjointOption=&conditionTo=&bodyOption=&parallelimportp=false&fingerboardOption=&noshopsalep=false&currentPage=5&shopNo=&stringsoption=&categoryId=&shopsalep=false&favorite=false&dispFavorite=false",
           "links": 50,
-          "unique_added": 49
+          "unique_added": 50
         },
         {
           "page": 6,
@@ -224,7 +147,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 211,
+      "qualifying": 210,
       "page_stats": [
         {
           "page": 1,
@@ -268,7 +191,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 71,
+      "qualifying": 69,
       "page_stats": [
         {
           "page": 1,
@@ -450,5 +373,5 @@
     }
   },
   "collected": 905,
-  "seen_count": 5175
+  "seen_count": 5182
 }
