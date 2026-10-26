@@ -1,8 +1,16 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-26T22:00:25.117953+00:00",
+  "checked_at": "2026-10-26T23:02:42.318797+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10829300",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Historic Collection 1958 Les Paul VOS Standard Figured Top Sunburst 2016年製",
+      "price": 550000,
+      "url": "https://www.digimart.net/cat01/shop4950/DS10829300/"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -323,5 +331,5 @@
     }
   },
   "collected": 905,
-  "seen_count": 5183
+  "seen_count": 5184
 }
