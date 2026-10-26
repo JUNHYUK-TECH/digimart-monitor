@@ -1,16 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-26T15:54:04.996683+00:00",
+  "checked_at": "2026-10-26T17:11:06.989999+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10834652",
-      "keyword": "Gibson",
-      "title": "Gibson 【2026年製】J-160E Original #22296049【オール単板】【Xブレーシング】",
-      "price": 477000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10834652/"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -237,7 +229,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 119,
+      "qualifying": 118,
       "page_stats": [
         {
           "page": 1,
@@ -330,6 +322,6 @@
       ]
     }
   },
-  "collected": 906,
+  "collected": 905,
   "seen_count": 5183
 }
