@@ -1,49 +1,56 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-26T04:05:29.397344+00:00",
+  "checked_at": "2026-10-26T05:04:51.175655+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10832935",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Custom 70s Ebony #225160050【漆黒エボニー指板、4.45kg】",
-      "price": 528000,
-      "url": "https://www.digimart.net/cat01/shop175/DS10832935/"
-    },
-    {
-      "id": "DS10832922",
-      "keyword": "Gibson",
-      "title": "Gibson Hummingbird Standard Limited",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat02/shop541/DS10832922/"
-    },
-    {
-      "id": "DS10832910",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1960s J-45 Original ADJ Murphy Lab Light Aged Vintage Sunburst【5本限定!】【Dealer Select】",
-      "price": 698000,
-      "url": "https://www.digimart.net/cat02/shop5045/DS10832910/"
-    },
-    {
-      "id": "DS10832884",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop Historic Collection 1960 Les Paul Standard Reissue Figured VOS with Bare Knuckle Iced Tea Burst 2009",
-      "price": 798000,
-      "url": "https://www.digimart.net/cat01/shop700/DS10832884/"
-    },
-    {
-      "id": "DS10832870",
-      "keyword": "Gibson",
-      "title": "Gibson J-200 Artist NT",
+      "id": "DS10833074",
+      "keyword": "Tyler",
+      "title": "James Tyler 4 String Bass Active",
       "price": 898000,
-      "url": "https://www.digimart.net/cat02/shop3800/DS10832870/"
+      "url": "https://www.digimart.net/cat03/shop5099/DS10833074/"
     },
     {
-      "id": "DS10832867",
+      "id": "DS10833059",
       "keyword": "Gibson",
-      "title": "Gibson J-45 Standard Vintage Sunburst",
-      "price": 435600,
-      "url": "https://www.digimart.net/cat02/shop4792/DS10832867/"
+      "title": "Gibson Les Paul Standard 50s P-90 Gold Top ギブソン 【実物画像/未展示品】[4.55kg][S/N 223760324]",
+      "price": 324500,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10833059/"
+    },
+    {
+      "id": "DS10833040",
+      "keyword": "Gibson",
+      "title": "Gibson 【Gibson USA】ES-335 50s Vintage Tabacco Burst #221960173【3.82kg】",
+      "price": 440000,
+      "url": "https://www.digimart.net/cat01/shop5389/DS10833040/"
+    },
+    {
+      "id": "DS10833066",
+      "keyword": "Fender",
+      "title": "Fender American Professional II Jazz Bass Dark Night 中古",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat03/shop5072/DS10833066/"
+    },
+    {
+      "id": "DS10833037",
+      "keyword": "Fender",
+      "title": "Fender FSR American Vintage II 1966 Jazzmaster Black Mod. 【3Aフレイムネック】【3.64kg】【V2558842】",
+      "price": 418000,
+      "url": "https://www.digimart.net/cat01/shop170/DS10833037/"
+    },
+    {
+      "id": "DS10833035",
+      "keyword": "Fender",
+      "title": "Fender American Vintage II 1966 Jazz Bass 3-Color Sunburst 【4.13kg】",
+      "price": 424600,
+      "url": "https://www.digimart.net/cat03/shop170/DS10833035/"
+    },
+    {
+      "id": "DS10833064",
+      "keyword": "Nord",
+      "title": "Nord Electro 7 61鍵盤 ステージキーボード",
+      "price": 440000,
+      "url": "https://www.digimart.net/cat06/shop5052/DS10833064/"
     }
   ],
   "errors": [],
@@ -96,7 +103,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 159,
+      "qualifying": 158,
       "page_stats": [
         {
           "page": 1,
@@ -184,7 +191,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 63,
+      "qualifying": 64,
       "page_stats": [
         {
           "page": 1,
@@ -228,7 +235,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 183,
+      "qualifying": 182,
       "page_stats": [
         {
           "page": 1,
@@ -365,6 +372,6 @@
       ]
     }
   },
-  "collected": 898,
-  "seen_count": 5049
+  "collected": 897,
+  "seen_count": 5056
 }
