@@ -1,56 +1,63 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-27T03:03:23.368782+00:00",
+  "checked_at": "2026-10-27T04:03:35.308011+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10835159",
-      "keyword": "Gibson",
-      "title": "Gibson Memphis 2015 ES-335 Studio (Wine Red)",
-      "price": 250800,
-      "url": "https://www.digimart.net/cat01/shop87/DS10835159/"
+      "id": "DS10835192",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2025 Studio Mango Limited Edition Orange Tiger 【御茶ノ水本店】【値下げ】",
+      "price": 658000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10835192/"
     },
     {
-      "id": "DS10834968",
-      "keyword": "Gibson",
-      "title": "Gibson 70s Flying V / Dark Walnut",
-      "price": 385000,
-      "url": "https://www.digimart.net/cat01/shop5322/DS10834968/"
+      "id": "DS10835190",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2026 Paul's Guitar Mango Limited Edition Tiger Eye 【御茶ノ水本店】【値下げ】",
+      "price": 658000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10835190/"
     },
     {
-      "id": "DS10834967",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 60s AAA / Exclusive Lemonburst",
-      "price": 473000,
-      "url": "https://www.digimart.net/cat01/shop5322/DS10834967/"
+      "id": "DS10835189",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 1996 Santana I Santana Yellow 【御茶ノ水本店】【値下げ】",
+      "price": 628000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10835189/"
     },
     {
-      "id": "DS10834960",
-      "keyword": "Gibson",
-      "title": "Gibson Hummingbird Original / Antique Natural",
-      "price": 580800,
-      "url": "https://www.digimart.net/cat02/shop5322/DS10834960/"
+      "id": "DS10835188",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2010 McCarty Lefty LTD 10Top Fire Red Burst Wide Fat Neck 【御茶ノ水本店】【値下げ】",
+      "price": 478000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10835188/"
     },
     {
-      "id": "DS10835041",
-      "keyword": "Gibson",
-      "title": "Gibson Hummingbird Standard",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat02/shop541/DS10835041/"
+      "id": "DS10835187",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2003 Custom 22 10Top Brazilian Limited Blue Matteo Wide Fat Neck 【御茶ノ水本店】【値下げ】",
+      "price": 528000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10835187/"
     },
     {
-      "id": "DS10835055",
-      "keyword": "Nord",
-      "title": "CLAVIA Nord Electro 7 61【Halloween FLAME UP SALE 10.24(土)～10.31(土)】",
-      "price": 440000,
-      "url": "https://www.digimart.net/cat06/shop721/DS10835055/"
+      "id": "DS10835186",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) 2015 Paul's Guitar Artist Package Black Gold Burst Pattern Neck 【御茶ノ水本店】【値下げ】",
+      "price": 577000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10835186/"
     },
     {
-      "id": "DS10835053",
-      "keyword": "Nord",
-      "title": "CLAVIA Nord Lead A1【Halloween FLAME UP SALE 10.24(土)～10.31(土)】",
-      "price": 280500,
-      "url": "https://www.digimart.net/cat06/shop721/DS10835053/"
+      "id": "DS10835185",
+      "keyword": "Fender",
+      "title": "Fender American Professional Precision Bass - Olympic White -【4.01kg】【#US2047663】",
+      "price": 308000,
+      "url": "https://www.digimart.net/cat03/shop169/DS10835185/"
+    },
+    {
+      "id": "DS10835184",
+      "keyword": "Fender",
+      "title": "Fender Fender Deluxe Jazz Bass V - Kazuki Arai Edition -【2021年製】【4.40kg】",
+      "price": 398000,
+      "url": "https://www.digimart.net/cat03/shop169/DS10835184/"
     }
   ],
   "errors": [],
@@ -58,8 +65,8 @@
     "Tyler": {
       "pages": 6,
       "links": 300,
-      "parsed": 300,
-      "qualifying": 70,
+      "parsed": 299,
+      "qualifying": 69,
       "page_stats": [
         {
           "page": 1,
@@ -103,7 +110,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 162,
+      "qualifying": 160,
       "page_stats": [
         {
           "page": 1,
@@ -191,7 +198,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 69,
+      "qualifying": 71,
       "page_stats": [
         {
           "page": 1,
@@ -372,6 +379,6 @@
       ]
     }
   },
-  "collected": 905,
-  "seen_count": 5191
+  "collected": 904,
+  "seen_count": 5199
 }
