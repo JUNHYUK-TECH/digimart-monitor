@@ -1,28 +1,21 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-27T20:19:23.556328+00:00",
+  "checked_at": "2026-10-27T23:58:29.042884+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10836046",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Hollowbody II Piezo Vintage Sunburst",
-      "price": 254584,
-      "url": "https://www.digimart.net/cat01/shop4773/DS10836046/"
+      "id": "DS10836984",
+      "keyword": "Gibson",
+      "title": "Gibson SG Standard (Pelham Blue Burst)",
+      "price": 249800,
+      "url": "https://www.digimart.net/cat01/shop5451/DS10836984/"
     },
     {
-      "id": "DS10836045",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) SE Custom 24 Quilt Package Teal Black",
-      "price": 154880,
-      "url": "https://www.digimart.net/cat01/shop4773/DS10836045/"
-    },
-    {
-      "id": "DS10836044",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) S2 Mira 594 Vintage Cherry",
-      "price": 311520,
-      "url": "https://www.digimart.net/cat01/shop4773/DS10836044/"
+      "id": "DS10836976",
+      "keyword": "Gibson",
+      "title": "Gibson Slash Victoria Les Paul Standard Goldtop ギブソン スラッシュ 【福岡店】",
+      "price": 385000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10836976/"
     }
   ],
   "errors": [],
@@ -75,7 +68,7 @@
       "pages": 6,
       "links": 300,
       "parsed": 300,
-      "qualifying": 187,
+      "qualifying": 185,
       "page_stats": [
         {
           "page": 1,
@@ -344,6 +337,6 @@
       ]
     }
   },
-  "collected": 928,
-  "seen_count": 5392
+  "collected": 926,
+  "seen_count": 5394
 }
