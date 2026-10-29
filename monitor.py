@@ -1,7 +1,7 @@
-import json, re
+import argparse, json, re
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, urlsplit, urlunsplit, parse_qsl, urlencode
 from playwright.sync_api import sync_playwright
 
 KEYWORDS=["Tyler","Gibson","PRS","Fender","Nord","Helix","Quad Cortex","Fractal"]
@@ -14,6 +14,32 @@ RESULT=Path("data/latest.json")
 # asked to render; MAX_PAGES caps work even if the site exposes many pages.
 PAGE_SIZE=50
 MAX_PAGES=6
+
+class AccessBlocked(RuntimeError):
+    pass
+
+def safe_url(url):
+    parts=urlsplit(url)
+    query=urlencode([(k,v) for k,v in parse_qsl(parts.query)
+                     if not k.startswith('__cf_')])
+    return urlunsplit((parts.scheme,parts.netloc,parts.path,query,''))
+
+def check_response(response, page, requested_url):
+    if response is None:
+        raise RuntimeError(f"No navigation response: {safe_url(requested_url)}")
+    headers=response.headers
+    challenge=headers.get('cf-mitigated') == 'challenge' or '__cf_chl_' in page.url
+    if response.status == 403 or challenge:
+        diagnostic={
+            'http_status':response.status,
+            'requested_url':safe_url(requested_url),
+            'final_url':safe_url(page.url),
+            'challenge':challenge,
+            **{k:headers.get(k) for k in ('server','cf-mitigated','cf-ray','content-type')},
+        }
+        raise AccessBlocked(json.dumps(diagnostic,ensure_ascii=False))
+    if response.status >= 400:
+        raise RuntimeError(f"HTTP {response.status}: {safe_url(page.url)}")
 
 ARAI=("arai kazuki","kazuki arai","新井和輝","アライ カズキ")
 ACCESSORY_PHRASES=(
@@ -177,20 +203,19 @@ def find_next_url(page,next_page_number):
       return null;
     }""",next_page_number)
 
-def scrape(page,keyword):
+def scrape(page,keyword,max_pages=MAX_PAGES):
     url=f"https://www.digimart.net/search?keywordAnd={quote_plus(keyword)}&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount={PAGE_SIZE}"
     all_rows={}
     page_stats=[]
     visited=set()
 
-    for page_no in range(1,MAX_PAGES+1):
+    for page_no in range(1,max_pages+1):
         if url in visited:
             break
         visited.add(url)
 
         response=page.goto(url,wait_until="domcontentloaded",timeout=60000)
-        if response and response.status >= 400:
-            raise RuntimeError(f"HTTP {response.status}: {page.url}")
+        check_response(response,page,url)
         page.wait_for_timeout(5000)
         rows=extract_rows(page)
 
@@ -215,7 +240,7 @@ def scrape(page,keyword):
         if added==0:
             break
 
-        if page_no >= MAX_PAGES:
+        if page_no >= max_pages:
             break
         next_url=find_next_url(page,page_no+1)
         if not next_url or next_url in visited:
@@ -255,31 +280,52 @@ def scrape(page,keyword):
     print(f"{keyword}: {json.dumps(stats,ensure_ascii=False)}",flush=True)
     return out,stats
 
-def main():
+def main(diagnostic=False):
     STATE.parent.mkdir(exist_ok=True)
     seen=set(json.loads(STATE.read_text("utf-8"))) if STATE.exists() else set()
     baseline=(not STATE.exists()) or len(seen)==0
-    items=[]; errors=[]; counts={}
+    previous=json.loads(RESULT.read_text('utf-8')) if RESULT.exists() else {}
+    last_success=previous.get('last_success_at')
+    if last_success is None and previous.get('status') == 'ok':
+        last_success=previous.get('checked_at')
+    items=[]; errors=[]; counts={}; blocked=False
 
     with sync_playwright() as p:
         b=p.chromium.launch(headless=True,args=["--no-sandbox"])
         page=b.new_page(locale="ja-JP")
-        for k in KEYWORDS:
+        for k in (KEYWORDS[:1] if diagnostic else KEYWORDS):
             try:
-                found,counts[k]=scrape(page,k)
+                found,counts[k]=scrape(page,k,1 if diagnostic else MAX_PAGES)
                 items+=found
+            except AccessBlocked as e:
+                blocked=True
+                errors.append(f"{k}: access blocked: {e}")
+                break
             except Exception as e:
-                errors.append(f"{k}: {e}")
+                message=re.sub(r'([?&])__cf_[^\s&]+', '', str(e))
+                errors.append(f"{k}: {message}")
         b.close()
 
     uniq={x["id"]:x for x in items}
     if baseline and not uniq and not errors:
         errors.append("Initial scan found no qualifying products; baseline was not created")
 
+    checked_at=datetime.now(timezone.utc).isoformat()
+    if diagnostic:
+        print(json.dumps({'diagnostic':True,'status':'blocked' if blocked else
+                          'failed' if errors else 'ok','counts':counts,'errors':errors},
+                         ensure_ascii=False,indent=2))
+        if errors:
+            raise RuntimeError('Diagnostic failed; monitoring state was not changed')
+        return
+
     if errors:
         RESULT.write_text(json.dumps({
             "status":"failed",
-            "checked_at":datetime.now(timezone.utc).isoformat(),
+            "failure_kind":"access_blocked" if blocked else "scan_error",
+            "checked_at":checked_at,
+            "last_attempt_at":checked_at,
+            "last_success_at":last_success,
             "baseline":baseline,
             "new":[],
             "errors":errors,
@@ -294,7 +340,9 @@ def main():
     STATE.write_text(json.dumps(sorted(seen),ensure_ascii=False,indent=2),"utf-8")
     RESULT.write_text(json.dumps({
         "status":"ok",
-        "checked_at":datetime.now(timezone.utc).isoformat(),
+        "checked_at":checked_at,
+        "last_attempt_at":checked_at,
+        "last_success_at":checked_at,
         "baseline":baseline,
         "new":new,
         "errors":errors,
@@ -310,4 +358,8 @@ def main():
         print("ERRORS\n"+"\n".join(errors))
 
 if __name__=="__main__":
-    main()
+    parser=argparse.ArgumentParser()
+    parser.add_argument('--diagnostic',action='store_true',
+                        help='Check one keyword/page without changing state or sending alerts')
+    main(diagnostic=parser.parse_args().diagnostic)
+

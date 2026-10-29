@@ -8,6 +8,11 @@ on:
   schedule:
     - cron: "23 * * * *"
   workflow_dispatch:
+    inputs:
+      diagnostic:
+        description: 'Check one keyword/page without saving state or creating issues'
+        type: boolean
+        default: true
 
 concurrency:
   group: digimart-monitor
@@ -34,14 +39,24 @@ jobs:
           playwright install --with-deps chromium
       - name: Check Digimart
         id: scan
-        run: python monitor.py
+        env:
+          DIAGNOSTIC: ${{ github.event_name == 'workflow_dispatch' && inputs.diagnostic }}
+        run: |
+          if [ "$DIAGNOSTIC" = "true" ]; then
+            python monitor.py --diagnostic
+          else
+            python monitor.py
+          fi
       - name: Create issue for new listings
+        if: ${{ success() && !(github.event_name == 'workflow_dispatch' && inputs.diagnostic) }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           python - <<'PY'
           import json, subprocess
           d=json.load(open("data/latest.json",encoding="utf-8"))
+          if d.get("status") != "ok":
+              raise SystemExit("Scan did not succeed; refusing to publish listings")
           items=d.get("new") or []
           if d.get("baseline") or not items:
               print("No new qualifying products.")
@@ -81,12 +96,14 @@ jobs:
                   check=True
               )
           PY
-      - name: Save baseline
-        if: ${{ !cancelled() && (success() || steps.scan.outcome == 'failure') }}
+      - name: Save monitor state
+        if: ${{ !cancelled() && !(github.event_name == 'workflow_dispatch' && inputs.diagnostic) && (success() || steps.scan.outcome == 'failure') }}
         run: |
           git config user.name "digimart-monitor"
           git config user.email "actions@users.noreply.github.com"
-          git add data/seen.json data/latest.json
+          for file in data/seen.json data/latest.json; do
+            if [ -f "$file" ]; then git add "$file"; fi
+          done
           if ! git diff --cached --quiet; then
             git commit -m "Update Digimart monitor state [skip ci]"
             for attempt in 1 2 3 4 5; do
@@ -105,3 +122,4 @@ jobs:
           else
             echo "No monitor state changes to save."
           fi
+
