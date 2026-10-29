@@ -1,13 +1,13 @@
 {
   "status": "failed",
   "failure_kind": "access_blocked",
-  "checked_at": "2026-10-29T02:49:26.976015+00:00",
-  "last_attempt_at": "2026-10-29T02:49:26.976015+00:00",
+  "checked_at": "2026-10-29T10:12:32.324683+00:00",
+  "last_attempt_at": "2026-10-29T10:12:32.324683+00:00",
   "last_success_at": null,
   "baseline": false,
   "new": [],
   "errors": [
-    "Tyler: access blocked: {\"http_status\": 403, \"requested_url\": \"https://www.digimart.net/search?keywordAnd=Tyler&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50\", \"final_url\": \"https://www.digimart.net/search?keywordAnd=Tyler&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50\", \"challenge\": true, \"server\": \"cloudflare\", \"cf-mitigated\": \"challenge\", \"cf-ray\": \"a51eddf72d056e62-LAX\", \"content-type\": \"text/html; charset=UTF-8\"}"
+    "Tyler: access blocked: {\"http_status\": 403, \"requested_url\": \"https://www.digimart.net/search?keywordAnd=Tyler&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50\", \"final_url\": \"https://www.digimart.net/search?keywordAnd=Tyler&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50\", \"challenge\": true, \"server\": \"cloudflare\", \"cf-mitigated\": \"challenge\", \"cf-ray\": \"a5216705893be601-IAD\", \"content-type\": \"text/html; charset=UTF-8\"}"
   ],
   "counts": {}
 }
