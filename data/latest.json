@@ -1,17 +1,17 @@
 {
   "status": "failed",
-  "checked_at": "2026-10-28T23:20:33.498785+00:00",
+  "checked_at": "2026-10-29T02:33:37.063735+00:00",
   "baseline": false,
   "new": [],
   "errors": [
-    "Tyler: HTTP 403: https://www.digimart.net/search?keywordAnd=Tyler&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50&__cf_chl_rt_tk=QSmdhAM3UKkrt23D9EDX6SSyQQKW_oq0DmKKfDt.e1I-1793229633-1.0.1.1-foMchAAFnXrHZgnhCarmXt8nhaxH6OGX_jT2OtotTNY",
-    "Gibson: HTTP 403: https://www.digimart.net/search?keywordAnd=Gibson&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50&__cf_chl_rt_tk=7aWdQyyz2MWpR.1YGEXuZIki8TGc4tfRXMC_own6EJU-1793229633-1.0.1.1-AsIdm5jyWvIG.XtnbnLjcq0M0HNJC5YOzCmy_qgX_E0",
-    "PRS: HTTP 403: https://www.digimart.net/search?keywordAnd=PRS&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50&__cf_chl_rt_tk=TI_0fjqzahf5uWEbKyHyD1VwPdFVphFndOPhxiofia4-1793229633-1.0.1.1-pj_aFwu7AGOuuKWAiJrAs8oLC0uppSY6Pw_UVOPZmIo",
-    "Fender: HTTP 403: https://www.digimart.net/search?keywordAnd=Fender&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50&__cf_chl_rt_tk=1yaVwjzokM1zeD.cKslk5HgomGuju5NHBQNCw0BbR8g-1793229633-1.0.1.1-iC06.bvgh.BpQ2Kncwq.t_q.RKNS7.x.2jDA9tU_k4g",
-    "Nord: HTTP 403: https://www.digimart.net/search?keywordAnd=Nord&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50&__cf_chl_rt_tk=LL7peRXoo1e38pl7KFqgCE51EMS4GXSgMdpid0V2rvA-1793229633-1.0.1.1-uOtYPB8kKX0f2SPlL8rCWVf3eentrgU__n.cwwvEqOQ",
-    "Helix: HTTP 403: https://www.digimart.net/search?keywordAnd=Helix&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50&__cf_chl_rt_tk=SNNJhw1p6nI70vE4dNXmqkl7yt9cehyTPnDX57JIbIc-1793229633-1.0.1.1-nMnmd28Ypy6sQ4KklcNbI9UdBGjZhoUyC0NemvfvCoc",
-    "Quad Cortex: HTTP 403: https://www.digimart.net/search?keywordAnd=Quad+Cortex&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50&__cf_chl_rt_tk=ZDX0iuDvwrW11J0H30eVovPiVPk4enG0MYibGkNH9sA-1793229633-1.0.1.1-q1D2zWUyNgNnBaWVfj0QlJoEFWmnFIDMAiXi3phG2pI",
-    "Fractal: HTTP 403: https://www.digimart.net/search?keywordAnd=Fractal&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50&__cf_chl_rt_tk=_Dd7ymC3Ea2mB1Qq6c21yv_TBQmPg5ciBk1AvTlJJ2Q-1793229633-1.0.1.1-sUzA4n2xuvZ31kPuW3ZuF5lpIZt39XzTMhbkWKZ5f_g"
+    "Tyler: HTTP 403: https://www.digimart.net/search?keywordAnd=Tyler&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50&__cf_chl_rt_tk=wDiUnHZ0qJ6q4LvJ8qYQUxN16nn6N6HEzYrOCmmB3mI-1793241216-1.0.1.1-eljx4j2aaZv4aPSFVFuiKmBAcKCy7vNQrSPBjy0j2J8",
+    "Gibson: HTTP 403: https://www.digimart.net/search?keywordAnd=Gibson&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50&__cf_chl_rt_tk=euLGrFk3j_ZSOLQ_ul7qqxfjcdxRcg1aaJ5qkHgCNfM-1793241216-1.0.1.1-WRulbP3ZQwfMspNzLd1fY.DZrqgJgObJ.zfi8Ck5TmY",
+    "PRS: HTTP 403: https://www.digimart.net/search?keywordAnd=PRS&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50&__cf_chl_rt_tk=497qOOBS4JuRE12lfejHJPxy6NPiIGjYlldTBNWSLe4-1793241216-1.0.1.1-STqooLAVyZJUAv5jfwczMEWsNSMgJLQ2.Q_Tq7DdHAE",
+    "Fender: HTTP 403: https://www.digimart.net/search?keywordAnd=Fender&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50&__cf_chl_rt_tk=yrR0aVx4qCYTH2J5dQkBvEKMmVyzW2EMIpmAPNVZscI-1793241216-1.0.1.1-B5biA0XTZ12283rAGAgvpKgzxkHelkwom7zQ8gu2Fcw",
+    "Nord: HTTP 403: https://www.digimart.net/search?keywordAnd=Nord&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50&__cf_chl_rt_tk=5TZNeKBx.A0dnVY8GON0YAcVtqgzc8LtBW1SV4kAoqw-1793241216-1.0.1.1-xlW9gA3UuZp4H4f9pJVUk21Z31fopt4n71SElpSMjZY",
+    "Helix: HTTP 403: https://www.digimart.net/search?keywordAnd=Helix&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50&__cf_chl_rt_tk=Y8wS6YWo4xUlJywqkX37unHJ9ypLYe7cR3KfBKirtHE-1793241216-1.0.1.1-wFBuCbea9iTiSyc.jCHYdOeGk9Im5r8uLQqh5Afk7QA",
+    "Quad Cortex: HTTP 403: https://www.digimart.net/search?keywordAnd=Quad+Cortex&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50&__cf_chl_rt_tk=ByiEiW4TFAQDBzwykYTiJhIe2yORxsMZgv2Tv4Ldkdw-1793241216-1.0.1.1-qPOu6PD8b0xobpQO.Ugri08sgH6evYruTjWu5wXgmjk",
+    "Fractal: HTTP 403: https://www.digimart.net/search?keywordAnd=Fractal&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50&__cf_chl_rt_tk=6MVcjy99hmcE5_qEDEs8yFsbG7Mju27aW97BD2jrYXQ-1793241217-1.0.1.1-c.7tcd9x9w6tnmXdfbn8joLannNTVsE.tL9A._EC1sc"
   ],
   "counts": {}
 }
