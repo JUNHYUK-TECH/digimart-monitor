@@ -3,7 +3,7 @@ name: Digimart Free Monitor
 on:
   push:
     paths:
-      - 'monitor.py'
+      - 'jina_monitor.py'
       - '.github/workflows/digimart-monitor.yml'
   schedule:
     - cron: "23 * * * *"
@@ -33,19 +33,17 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Install Playwright
-        run: |
-          pip install playwright==1.55.0
-          playwright install --with-deps chromium
-      - name: Check Digimart
+      - name: Install Python dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Check Digimart with Jina Reader
         id: scan
         env:
           DIAGNOSTIC: ${{ github.event_name == 'workflow_dispatch' && inputs.diagnostic }}
         run: |
           if [ "$DIAGNOSTIC" = "true" ]; then
-            python monitor.py --diagnostic
+            python jina_monitor.py --diagnostic
           else
-            python monitor.py
+            python jina_monitor.py
           fi
       - name: Create issue for new listings
         if: ${{ success() && !(github.event_name == 'workflow_dispatch' && inputs.diagnostic) }}
@@ -65,7 +63,7 @@ jobs:
           # GitHub Issue bodies are limited to 65,536 characters.
           # Keep each alert comfortably below that limit.
           MAX_BODY=50000
-          prefix="새 Digimart 매물이 발견되었습니다.\n\n"
+          prefix="새 Digimart 매물이 발견되었습니다.\n\n@JUNHYUK-TECH\n\n"
           chunks=[]
           current=[]
           current_len=len(prefix)
@@ -92,7 +90,7 @@ jobs:
               suffix=f" ({i}/{total})" if total > 1 else ""
               title=f"Digimart 신규 매물 {len(chunk)}건{suffix}"
               subprocess.run(
-                  ["gh","issue","create","--title",title,"--body",body],
+                  ["gh","issue","create","--title",title,"--body",body,"--assignee","JUNHYUK-TECH"],
                   check=True
               )
           PY
@@ -101,7 +99,7 @@ jobs:
         run: |
           git config user.name "digimart-monitor"
           git config user.email "actions@users.noreply.github.com"
-          for file in data/seen.json data/latest.json; do
+          for file in data/seen.json data/latest.json data/jina_initialized.json; do
             if [ -f "$file" ]; then git add "$file"; fi
           done
           if ! git diff --cached --quiet; then
