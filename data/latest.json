@@ -1,13 +1,19 @@
 {
-  "status": "failed",
-  "failure_kind": "access_blocked",
-  "checked_at": "2026-10-30T08:46:08.836265+00:00",
-  "last_attempt_at": "2026-10-30T08:46:08.836265+00:00",
-  "last_success_at": null,
-  "baseline": false,
+  "status": "ok",
+  "source": "jina_reader",
+  "checked_at": "2026-10-30T15:05:12.265454+00:00",
+  "last_attempt_at": "2026-10-30T15:05:12.265454+00:00",
+  "last_success_at": "2026-10-30T15:05:12.265454+00:00",
+  "baseline": true,
   "new": [],
-  "errors": [
-    "Tyler: access blocked: {\"http_status\": 403, \"requested_url\": \"https://www.digimart.net/search?keywordAnd=Tyler&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50\", \"final_url\": \"https://www.digimart.net/search?keywordAnd=Tyler&sortKey=INITIAL_PUBLIC_DATE_DESC&readCount=50\", \"challenge\": true, \"server\": \"cloudflare\", \"cf-mitigated\": \"challenge\", \"cf-ray\": \"a52925d8ad442cbc-DFW\", \"content-type\": \"text/html; charset=UTF-8\"}"
-  ],
-  "counts": {}
+  "errors": [],
+  "counts": {
+    "combined": {
+      "product_ids": 100,
+      "parsed": 100,
+      "qualifying": 58
+    }
+  },
+  "collected": 58,
+  "seen_count": 5452
 }
