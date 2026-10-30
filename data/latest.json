@@ -1,19 +1,27 @@
 {
   "status": "ok",
   "source": "jina_reader",
-  "checked_at": "2026-10-30T15:05:12.265454+00:00",
-  "last_attempt_at": "2026-10-30T15:05:12.265454+00:00",
-  "last_success_at": "2026-10-30T15:05:12.265454+00:00",
-  "baseline": true,
-  "new": [],
+  "checked_at": "2026-10-30T16:01:54.124213+00:00",
+  "last_attempt_at": "2026-10-30T16:01:54.124213+00:00",
+  "last_success_at": "2026-10-30T16:01:54.124213+00:00",
+  "baseline": false,
+  "new": [
+    {
+      "id": "DS10843961",
+      "title": "Fender Limited Edition American Cabronita Special, Rosewood Fingerboard, Black【特価】",
+      "price": 286000,
+      "url": "https://www.digimart.net/cat01/shop5030/DS10843961/",
+      "keyword": "Fender"
+    }
+  ],
   "errors": [],
   "counts": {
     "combined": {
-      "product_ids": 100,
+      "product_ids": 101,
       "parsed": 100,
-      "qualifying": 58
+      "qualifying": 57
     }
   },
-  "collected": 58,
-  "seen_count": 5452
+  "collected": 57,
+  "seen_count": 5453
 }
