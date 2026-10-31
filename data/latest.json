@@ -1,19 +1,27 @@
 {
   "status": "ok",
   "source": "jina_reader",
-  "checked_at": "2026-10-30T20:53:59.524423+00:00",
-  "last_attempt_at": "2026-10-30T20:53:59.524423+00:00",
-  "last_success_at": "2026-10-30T20:53:59.524423+00:00",
+  "checked_at": "2026-10-31T00:53:07.548064+00:00",
+  "last_attempt_at": "2026-10-31T00:53:07.548064+00:00",
+  "last_success_at": "2026-10-31T00:53:07.548064+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10543929",
+      "title": "Gibson【現物画像】中古Gibson Theodore Standard",
+      "price": 180000,
+      "url": "https://www.digimart.net/cat01/shop5299/DS10543929/",
+      "keyword": "Gibson"
+    }
+  ],
   "errors": [],
   "counts": {
     "combined": {
-      "product_ids": 100,
+      "product_ids": 102,
       "parsed": 100,
-      "qualifying": 57
+      "qualifying": 56
     }
   },
-  "collected": 57,
-  "seen_count": 5453
+  "collected": 56,
+  "seen_count": 5454
 }
