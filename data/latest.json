@@ -1,19 +1,19 @@
 {
   "status": "ok",
   "source": "jina_reader",
-  "checked_at": "2026-11-01T21:16:33.567547+00:00",
-  "last_attempt_at": "2026-11-01T21:16:33.567547+00:00",
-  "last_success_at": "2026-11-01T21:16:33.567547+00:00",
+  "checked_at": "2026-11-02T00:53:42.746354+00:00",
+  "last_attempt_at": "2026-11-02T00:53:42.746354+00:00",
+  "last_success_at": "2026-11-02T00:53:42.746354+00:00",
   "baseline": false,
   "new": [],
   "errors": [],
   "counts": {
     "combined": {
-      "product_ids": 102,
+      "product_ids": 101,
       "parsed": 100,
-      "qualifying": 61
+      "qualifying": 62
     }
   },
-  "collected": 61,
+  "collected": 62,
   "seen_count": 5662
 }
