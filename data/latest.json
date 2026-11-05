@@ -1,19 +1,83 @@
 {
   "status": "ok",
   "source": "jina_reader",
-  "checked_at": "2026-11-04T21:58:54.816240+00:00",
-  "last_attempt_at": "2026-11-04T21:58:54.816240+00:00",
-  "last_success_at": "2026-11-04T21:58:54.816240+00:00",
+  "checked_at": "2026-11-05T02:35:44.819397+00:00",
+  "last_attempt_at": "2026-11-05T02:35:44.819397+00:00",
+  "last_success_at": "2026-11-05T02:35:44.819397+00:00",
   "baseline": false,
-  "new": [],
+  "new": [
+    {
+      "id": "DS10856242",
+      "title": "Fender American Professional II Jazz Bass 3-Color Sunburst エレキベース ジャズベース",
+      "price": 306900,
+      "url": "https://www.digimart.net/cat03/shop5176/DS10856242/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10856239",
+      "title": "Gibson Les Paul Standard '50s P90 Gold Top レスポールスタンダード",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat01/shop5176/DS10856239/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10856218",
+      "title": "Paul Reed Smith(PRS)SE Standard 24-08 BLACK Limited Model エレキギター",
+      "price": 138600,
+      "url": "https://www.digimart.net/cat01/shop5374/DS10856218/",
+      "keyword": "PRS"
+    },
+    {
+      "id": "DS10856209",
+      "title": "Fender【ギグバッグプレゼント!!】American Vintage II 1965 Stratocaster ''CS Hand-Wound PU'' -Sonic Blue-",
+      "price": 393800,
+      "url": "https://www.digimart.net/cat01/shop38/DS10856209/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10856204",
+      "title": "Fender American Professional II Jazz Bass Rosewood Fingerboard Olympic White 【御茶ノ水本店】",
+      "price": 275800,
+      "url": "https://www.digimart.net/cat03/shop1484/DS10856204/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10856200",
+      "title": "Gibson ES-335 Vintage Burst 【御茶ノ水本店】",
+      "price": 429000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10856200/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10856199",
+      "title": "Gibson ES-335 50s Vintage Tobacco Burst 【御茶ノ水本店】",
+      "price": 429000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10856199/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10856157",
+      "title": "Gibson Dove Limited Edition Antique Natural 2008 【USED】",
+      "price": 498000,
+      "url": "https://www.digimart.net/cat02/shop5225/DS10856157/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10856090",
+      "title": "Gibson J-45 Standard with HiFi DNA Vintage Sunburst エレアコ ピックアップ搭載 アコースティックギター",
+      "price": 387000,
+      "url": "https://www.digimart.net/cat02/shop5118/DS10856090/",
+      "keyword": "Gibson"
+    }
+  ],
   "errors": [],
   "counts": {
     "combined": {
       "product_ids": 102,
       "parsed": 100,
-      "qualifying": 45
+      "qualifying": 50
     }
   },
-  "collected": 45,
-  "seen_count": 5947
+  "collected": 50,
+  "seen_count": 5956
 }
