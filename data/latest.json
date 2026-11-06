@@ -1,111 +1,19 @@
 {
   "status": "ok",
   "source": "jina_reader",
-  "checked_at": "2026-11-05T18:50:44.646478+00:00",
-  "last_attempt_at": "2026-11-05T18:50:44.646478+00:00",
-  "last_success_at": "2026-11-05T18:50:44.646478+00:00",
+  "checked_at": "2026-11-06T00:25:22.350070+00:00",
+  "last_attempt_at": "2026-11-06T00:25:22.350070+00:00",
+  "last_success_at": "2026-11-06T00:25:22.350070+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10858354",
-      "title": "Fender Limited Edition American Ultra II Jazz Bass, Rosewood Fingerboard, Natural",
-      "price": 473000,
-      "url": "https://www.digimart.net/cat03/shop4773/DS10858354/",
-      "keyword": "Fender"
-    },
-    {
-      "id": "DS10858123",
-      "title": "Gibson【良杢個体】Custom Shop Murphy Lab 1963 Dove Light Aged",
-      "price": 820000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10858123/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10858483",
-      "title": "Gibson Custom Shop Edition ES-335 Dot 1982",
-      "price": 594000,
-      "url": "https://www.digimart.net/cat01/shop70/DS10858483/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10858482",
-      "title": "Gibson L9-S The Ripper 1982",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat03/shop70/DS10858482/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10858478",
-      "title": "Gibson Les Paul Standard 2004 Limited - Manhattan Midnight Blue【現物画像】【275本限定生産】【4.75kg】",
-      "price": 265000,
-      "url": "https://www.digimart.net/cat01/shop5297/DS10858478/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10858014",
-      "title": "Gibson【2026年製】【HiFi DNA搭載】J-45 60s Original Fixed Bridge",
-      "price": 381700,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10858014/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10857121",
-      "title": "Gibson【演奏動画あり】【2026年製】【HiFi DNA搭載個体】 Hummingbird Original",
-      "price": 477000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10857121/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10854700",
-      "title": "Paul Reed Smith(PRS)Custom 24 CC Q6 Pearl White Top Natural Back【中古】【2026年製】【タバコ臭有り】【3.32kg】",
-      "price": 498000,
-      "url": "https://www.digimart.net/cat01/shop5195/DS10854700/",
-      "keyword": "PRS"
-    },
-    {
-      "id": "DS10857996",
-      "title": "Paul Reed Smith(PRS)Custom 24 /Faded Whale Blue 2026年製 3.72kg 未展示在庫品",
-      "price": 638900,
-      "url": "https://www.digimart.net/cat01/shop5122/DS10857996/",
-      "keyword": "PRS"
-    },
-    {
-      "id": "DS10857890",
-      "title": "Gibson SG Standard '61 Maestro Vibrola Vintage Cherry",
-      "price": 334400,
-      "url": "https://www.digimart.net/cat01/shop5323/DS10857890/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10858359",
-      "title": "Fender【現物画像】 American Professional II Stratocaster Maple Fingerboard Dark Night 【重量：3.51kg】",
-      "price": 291500,
-      "url": "https://www.digimart.net/cat01/shop5269/DS10858359/",
-      "keyword": "Fender"
-    },
-    {
-      "id": "DS10857020",
-      "title": "Fender American Vintage 52 Telecaster (BTB)【30回無金利対象品】",
-      "price": 270900,
-      "url": "https://www.digimart.net/cat01/shop420/DS10857020/",
-      "keyword": "Fender"
-    },
-    {
-      "id": "DS10858331",
-      "title": "James Tyler Studio Elite Full Option Midnight",
-      "price": 748000,
-      "url": "https://www.digimart.net/cat01/shop5333/DS10858331/",
-      "keyword": "Tyler"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "combined": {
       "product_ids": 102,
       "parsed": 100,
-      "qualifying": 76
+      "qualifying": 69
     }
   },
-  "collected": 76,
+  "collected": 69,
   "seen_count": 6046
 }
