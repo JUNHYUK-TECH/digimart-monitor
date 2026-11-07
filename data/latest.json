@@ -1,48 +1,34 @@
 {
   "status": "ok",
   "source": "jina_reader",
-  "checked_at": "2026-11-07T20:18:56.364189+00:00",
-  "last_attempt_at": "2026-11-07T20:18:56.364189+00:00",
-  "last_success_at": "2026-11-07T20:18:56.364189+00:00",
+  "checked_at": "2026-11-07T23:42:49.790247+00:00",
+  "last_attempt_at": "2026-11-07T23:42:49.790247+00:00",
+  "last_success_at": "2026-11-07T23:42:49.790247+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10862750",
-      "title": "Gibson J-45 STANDARD",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat02/shop3740/DS10862750/",
+      "id": "DS10861936",
+      "title": "Gibson 1978年製 Les Paul 55 ( Les Paul Special )TV Yellow ギブソン レスポール55 TVイエロー です",
+      "price": 485000,
+      "url": "https://www.digimart.net/cat01/shop4950/DS10861936/",
       "keyword": "Gibson"
     },
     {
-      "id": "DS10862744",
-      "title": "Fender U.S.A. Geddy Lee Jazz Bass, Maple Fingerboard, Black 【特価】【未展示保管】",
-      "price": 275000,
-      "url": "https://www.digimart.net/cat03/shop5317/DS10862744/",
-      "keyword": "Fender"
-    },
-    {
-      "id": "DS10862743",
-      "title": "Fender American Ultra II Meteora Bass, Ebony Fingerboard, Texas Tea 【特価】【未展示保管】",
-      "price": 286000,
-      "url": "https://www.digimart.net/cat03/shop5317/DS10862743/",
-      "keyword": "Fender"
-    },
-    {
-      "id": "DS10862737",
-      "title": "Fender American Professional Classic Mustang Bass, Rosewood, 3-Color Sunburst 【特価】",
-      "price": 176000,
-      "url": "https://www.digimart.net/cat03/shop4773/DS10862737/",
-      "keyword": "Fender"
+      "id": "DS10860049",
+      "title": "Gibson Custom Shop Japan Limited Run 1974 Les Paul Custom 2023 Heavy Antique White VOS Dead Stock 4.19kg \"Randy Rhoads\"",
+      "price": 848000,
+      "url": "https://www.digimart.net/cat01/shop5028/DS10860049/",
+      "keyword": "Gibson"
     }
   ],
   "errors": [],
   "counts": {
     "combined": {
-      "product_ids": 102,
+      "product_ids": 100,
       "parsed": 100,
-      "qualifying": 64
+      "qualifying": 65
     }
   },
-  "collected": 64,
-  "seen_count": 6286
+  "collected": 65,
+  "seen_count": 6288
 }
