@@ -1,27 +1,34 @@
 {
   "status": "ok",
   "source": "jina_reader",
-  "checked_at": "2026-11-06T21:37:48.777757+00:00",
-  "last_attempt_at": "2026-11-06T21:37:48.777757+00:00",
-  "last_success_at": "2026-11-06T21:37:48.777757+00:00",
+  "checked_at": "2026-11-07T02:02:00.910761+00:00",
+  "last_attempt_at": "2026-11-07T02:02:00.910761+00:00",
+  "last_success_at": "2026-11-07T02:02:00.910761+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10860692",
-      "title": "Gibson Hummingbird Original Heritage Cherry Sunburst",
-      "price": 498000,
-      "url": "https://www.digimart.net/cat02/shop4792/DS10860692/",
+      "id": "DS10860761",
+      "title": "Paul Reed Smith(PRS)SE Custom 24 / Trans Green",
+      "price": 110000,
+      "url": "https://www.digimart.net/cat01/shop4882/DS10860761/",
+      "keyword": "PRS"
+    },
+    {
+      "id": "DS10860215",
+      "title": "Gibson 1957 Les Paul Gold Top Darkback Reissue VOS Double Gold 【NOVEMBER SUPER SALE ~11/30(月)】",
+      "price": 660000,
+      "url": "https://www.digimart.net/cat01/shop5397/DS10860215/",
       "keyword": "Gibson"
     }
   ],
   "errors": [],
   "counts": {
     "combined": {
-      "product_ids": 102,
+      "product_ids": 101,
       "parsed": 100,
-      "qualifying": 54
+      "qualifying": 56
     }
   },
-  "collected": 54,
-  "seen_count": 6147
+  "collected": 56,
+  "seen_count": 6149
 }
