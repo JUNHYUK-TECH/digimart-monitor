@@ -1,153 +1,27 @@
 {
   "status": "ok",
   "source": "jina_reader",
-  "checked_at": "2026-11-12T20:56:53.455225+00:00",
-  "last_attempt_at": "2026-11-12T20:56:53.455225+00:00",
-  "last_success_at": "2026-11-12T20:56:53.455225+00:00",
+  "checked_at": "2026-11-13T01:57:36.715231+00:00",
+  "last_attempt_at": "2026-11-13T01:57:36.715231+00:00",
+  "last_success_at": "2026-11-13T01:57:36.715231+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10871046",
-      "title": "Paul Reed Smith(PRS)【BLACK FRIDAY SALE！】SE DGT Laurel Burl McCarty Tobacco Burst【11/30まで】",
-      "price": 132000,
-      "url": "https://www.digimart.net/cat01/shop5228/DS10871046/",
-      "keyword": "PRS"
-    },
-    {
-      "id": "DS10870918",
-      "title": "Gibson【BLACK FRIDAY SALE！】J-45 STD EB Gloss ／Ｊａｐａｎ Ｌｉｍｉｔｅｄ【11/30まで】",
-      "price": 298000,
-      "url": "https://www.digimart.net/cat02/shop5228/DS10870918/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10872499",
-      "title": "Gibson 1961 J-45",
-      "price": 792000,
-      "url": "https://www.digimart.net/cat02/shop4360/DS10872499/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10872494",
-      "title": "Gibson L-48 / Lifton Case",
-      "price": 396000,
-      "url": "https://www.digimart.net/cat02/shop4360/DS10872494/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10872484",
-      "title": "Gibson 1969 J-50",
-      "price": 698000,
-      "url": "https://www.digimart.net/cat02/shop4360/DS10872484/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10872474",
-      "title": "Gibson J-25 NAT 1984",
-      "price": 231000,
-      "url": "https://www.digimart.net/cat02/shop4360/DS10872474/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10872468",
-      "title": "Gibson Custom Shop 12-Fret Advanced Jumbo 2015",
-      "price": 451000,
-      "url": "https://www.digimart.net/cat02/shop4360/DS10872468/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10872460",
-      "title": "Gibson J-160E 1996",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat02/shop4360/DS10872460/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10872268",
-      "title": "Gibson Custom Shop【グレイテスト・ヒッツ】【カスタムショップ】 J-200 Jr Vintage Sunburst【トラ目バック】",
-      "price": 645000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10872268/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10872250",
-      "title": "Gibson Custom Shop【試奏動画あり】The Firebird Custom Built【明瞭で力強い響き・個性際立つルックス】",
-      "price": 598000,
-      "url": "https://www.digimart.net/cat02/shop5011/DS10872250/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10872247",
-      "title": "Gibson【試奏動画あり】J-160E VS '95【豊かな生鳴りと個性派エレクトリックサウンド】",
-      "price": 269500,
-      "url": "https://www.digimart.net/cat02/shop5011/DS10872247/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10872955",
-      "title": "Paul Reed Smith(PRS)SE Tremonti 2026 (Charcoal Burst)",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop73/DS10872955/",
-      "keyword": "PRS"
-    },
-    {
-      "id": "DS10872952",
-      "title": "Paul Reed Smith(PRS)SE Santana 2026 (Santana Yellow)",
-      "price": 135520,
-      "url": "https://www.digimart.net/cat01/shop73/DS10872952/",
-      "keyword": "PRS"
-    },
-    {
-      "id": "DS10872951",
-      "title": "Paul Reed Smith(PRS)SE Custom 24 2026 (Slate Blue)",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop73/DS10872951/",
-      "keyword": "PRS"
-    },
-    {
-      "id": "DS10872949",
-      "title": "Paul Reed Smith(PRS)SE Custom 24 Quilt Package 2026 (Charcoal Blue Burst)",
-      "price": 154880,
-      "url": "https://www.digimart.net/cat01/shop73/DS10872949/",
-      "keyword": "PRS"
-    },
-    {
-      "id": "DS10872665",
-      "title": "Gibson【HiFi DNA搭載個体】L-00 Original VS #22476123【送料当社負担】【分割手数料0%】",
-      "price": 381600,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10872665/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10872243",
-      "title": "Gibson【現地選定品】【良杢個体】【鳴り◎】L-00 Rosewood 12 Fret【担当オススメ】",
-      "price": 462000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10872243/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10872724",
-      "title": "Gibson Custom Shop【カスタムショップ】【マーフィーラボ】 1960s J-45 Ultra Light Aged【担当オススメ】",
-      "price": 698000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10872724/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10872944",
-      "title": "Fender American Vintage 57 Stratocaster Fiesta Red 1997",
-      "price": 286000,
-      "url": "https://www.digimart.net/cat01/shop3800/DS10872944/",
+      "id": "DS10866833",
+      "title": "Fender Custom Shop 1969 Stratocaster Reric 2008",
+      "price": 448000,
+      "url": "https://www.digimart.net/cat01/shop4805/DS10866833/",
       "keyword": "Fender"
     }
   ],
   "errors": [],
   "counts": {
     "combined": {
-      "product_ids": 102,
+      "product_ids": 101,
       "parsed": 100,
-      "qualifying": 67
+      "qualifying": 68
     }
   },
-  "collected": 67,
-  "seen_count": 6695
+  "collected": 68,
+  "seen_count": 6696
 }
