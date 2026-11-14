@@ -1,499 +1,464 @@
 {
   "status": "ok",
   "source": "jina_reader",
-  "checked_at": "2026-11-14T06:45:20.290433+00:00",
-  "last_attempt_at": "2026-11-14T06:45:20.290433+00:00",
-  "last_success_at": "2026-11-14T06:45:20.290433+00:00",
+  "checked_at": "2026-11-14T14:19:04.371667+00:00",
+  "last_attempt_at": "2026-11-14T14:19:04.371667+00:00",
+  "last_success_at": "2026-11-14T14:19:04.371667+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10876855",
-      "title": "Gibson Les Paul Standard '50s (Heritage Cherry Sunburst) 【S/N 222260080】",
-      "price": 329000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10876855/",
+      "id": "DS10873836",
+      "title": "Gibson Custom Shop【2026年製】【トップ杢目◎】【カスタムショップ】SJ-200 Koa Elegant",
+      "price": 823000,
+      "url": "https://www.digimart.net/cat02/shop5389/DS10873836/",
       "keyword": "Gibson"
     },
     {
-      "id": "DS10876854",
-      "title": "Gibson SG Standerd (TV Yellow) 【S/N 219460039】",
-      "price": 198000,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10876854/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876853",
-      "title": "Gibson SG Standard (Pelham Blue Burst) 【S/N 222560232】",
-      "price": 225500,
-      "url": "https://www.digimart.net/cat01/shop5331/DS10876853/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10875192",
-      "title": "Paul Reed Smith(PRS)Custom 24 10 TOP Bird Cherry Sunburst 1997 【中古】【USED】",
-      "price": 498000,
-      "url": "https://www.digimart.net/cat01/shop28/DS10875192/",
+      "id": "DS10878050",
+      "title": "Paul Reed Smith(PRS)SE SILVER SKY ~Moon White~ #CTI E19595 [3.25kg][2022年製][軽量個体]",
+      "price": 135520,
+      "url": "https://www.digimart.net/cat01/shop169/DS10878050/",
       "keyword": "PRS"
     },
     {
-      "id": "DS10876841",
-      "title": "LINE 6 HX Stomp ギター・プロセッサー HELIXシリーズ",
-      "price": 129800,
-      "url": "https://www.digimart.net/cat13/shop5352/DS10876841/",
-      "keyword": "Helix"
-    },
-    {
-      "id": "DS10876758",
-      "title": "Paul Reed Smith(PRS)【6弦】SE Mark Holcomb -Holcomb Blue Burst-【3.42kg】",
-      "price": 191664,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10876758/",
-      "keyword": "PRS"
-    },
-    {
-      "id": "DS10876808",
-      "title": "Gibson Custom Shop Hummingbird Custom Koa #20855005 【豪華絢爛】【AAA Koa】",
-      "price": 998000,
-      "url": "https://www.digimart.net/cat02/shop5045/DS10876808/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876800",
-      "title": "Gibson Custom Shop ES-330 '59 Reissue VOS sunburst",
-      "price": 550000,
-      "url": "https://www.digimart.net/cat01/shop541/DS10876800/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876797",
-      "title": "Gibson Custom Shop Hummingbird Koa Carpathian Spruce Honeyburst 【Greatest Hits Limited】【65本限定!】",
-      "price": 628000,
-      "url": "https://www.digimart.net/cat02/shop5045/DS10876797/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876793",
-      "title": "Gibson L-00 Original Vintage Sunburst #21666062【1930年代スタイル】【スモールボディ】【2026年製個体】",
-      "price": 358000,
-      "url": "https://www.digimart.net/cat02/shop5045/DS10876793/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876785",
-      "title": "Fender Custom Shop Custom Jeff Beck Stratocaster Olympic White 2005 【Autumn SALE】",
-      "price": 506000,
-      "url": "https://www.digimart.net/cat01/shop3200/DS10876785/",
-      "keyword": "Fender"
-    },
-    {
-      "id": "DS10876784",
-      "title": "Fender Custom Shop 1960 Stratocaster NOS 3-Color Sunburst 1999 【Autumn SALE】",
-      "price": 429000,
-      "url": "https://www.digimart.net/cat01/shop3200/DS10876784/",
-      "keyword": "Fender"
-    },
-    {
-      "id": "DS10876783",
-      "title": "Fender Custom Shop 1963 Telecaster Closet Classic Lake Placid Blue 2000 【Autumn SALE】",
-      "price": 462000,
-      "url": "https://www.digimart.net/cat01/shop3200/DS10876783/",
-      "keyword": "Fender"
-    },
-    {
-      "id": "DS10876782",
-      "title": "Fender Custom Shop 1956 Stratocaster NOS 2-Tone Sunburst Crewslat MOD 2004 【Autumn SALE】",
-      "price": 418000,
-      "url": "https://www.digimart.net/cat01/shop3200/DS10876782/",
-      "keyword": "Fender"
-    },
-    {
-      "id": "DS10876781",
-      "title": "Fender Custom Shop 1960 Stratocaster Relic Burgundy Mist 2010 【Autumn SALE】",
-      "price": 462000,
-      "url": "https://www.digimart.net/cat01/shop3200/DS10876781/",
-      "keyword": "Fender"
-    },
-    {
-      "id": "DS10876780",
-      "title": "Gibson Les Paul Special TV Yellow 【Autumn SALE】",
-      "price": 198000,
-      "url": "https://www.digimart.net/cat01/shop3200/DS10876780/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876779",
-      "title": "Gibson Les Paul Special Double Cut Vintage Cherry 【Autumn SALE】",
-      "price": 220000,
-      "url": "https://www.digimart.net/cat01/shop3200/DS10876779/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876769",
-      "title": "Gibson Custom Shop 1960s J-45 Original ADJ Murphy Lab Light Aged Vintage Sunburst【5本限定!】【Dealer Select】",
-      "price": 678000,
-      "url": "https://www.digimart.net/cat02/shop5045/DS10876769/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876754",
-      "title": "Fender Custom Shop 1962 Stratocaster Relic Super Faded/Aged Sonic Blue 【御茶ノ水本店】",
-      "price": 728000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10876754/",
-      "keyword": "Fender"
-    },
-    {
-      "id": "DS10876702",
-      "title": "Paul Reed Smith(PRS)【7弦】SE Mark Holcomb SVN -Holcomb Blue Burst-【3.44kg】",
-      "price": 203280,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10876702/",
-      "keyword": "PRS"
-    },
-    {
-      "id": "DS10876732",
-      "title": "Paul Reed Smith(PRS)SE Custom24 Semi-Hollow Piezo Vintage Sunburst",
-      "price": 189200,
-      "url": "https://www.digimart.net/cat01/shop4840/DS10876732/",
-      "keyword": "PRS"
-    },
-    {
-      "id": "DS10876729",
-      "title": "Paul Reed Smith(PRS)SE Custom24 Semi-Hollow Piezo Vintage Sunburst",
-      "price": 189200,
-      "url": "https://www.digimart.net/cat01/shop4840/DS10876729/",
-      "keyword": "PRS"
-    },
-    {
-      "id": "DS10876727",
-      "title": "Paul Reed Smith(PRS)SE Custom24 Semi-Hollow Piezo Vintage Sunburst",
-      "price": 189200,
-      "url": "https://www.digimart.net/cat01/shop4840/DS10876727/",
-      "keyword": "PRS"
-    },
-    {
-      "id": "DS10876711",
-      "title": "Fender American Professional Jazzmaster Rosewood Fingerboard Olympic White 【新宿店】",
+      "id": "DS10870897",
+      "title": "Fender American Professional Jazz Bass, Rosewood Fingerboard, 3-Color Sunburst",
       "price": 313500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10876711/",
+      "url": "https://www.digimart.net/cat03/shop5235/DS10870897/",
       "keyword": "Fender"
     },
     {
-      "id": "DS10876710",
-      "title": "Fender American Professional Jazzmaster Rosewood Fingerboard Olympic White",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10876710/",
+      "id": "DS10868433",
+      "title": "Fender American Professional Telecaster, Maple Fingerboard, Butterscotch Blonde",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat01/shop5235/DS10868433/",
       "keyword": "Fender"
     },
     {
-      "id": "DS10876669",
-      "title": "Paul Reed Smith(PRS)SE MARK TREMONTI ≒4.075Kg 2026年製",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop60/DS10876669/",
-      "keyword": "PRS"
+      "id": "DS10868432",
+      "title": "Fender American Professional Stratocaster, Rosewood Fingerboard, 3-Color Sunburst",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop5235/DS10868432/",
+      "keyword": "Fender"
     },
     {
-      "id": "DS10876666",
-      "title": "Paul Reed Smith(PRS)SE Mark Holcomb SVN -Holcomb Blue Burst- ≒3.528Kg【7弦】2026年製",
-      "price": 203280,
-      "url": "https://www.digimart.net/cat01/shop60/DS10876666/",
-      "keyword": "PRS"
-    },
-    {
-      "id": "DS10876664",
-      "title": "Paul Reed Smith(PRS)SE Mark Holcomb -Holcomb Blue Burst- ≒3.539Kg 2026年製",
-      "price": 191664,
-      "url": "https://www.digimart.net/cat01/shop60/DS10876664/",
-      "keyword": "PRS"
-    },
-    {
-      "id": "DS10876660",
-      "title": "Paul Reed Smith(PRS)SE Custom 24 Quilt Package -Violet - #1044346 ≒3.446Kg 2026年製",
-      "price": 154880,
-      "url": "https://www.digimart.net/cat01/shop60/DS10876660/",
-      "keyword": "PRS"
-    },
-    {
-      "id": "DS10876657",
-      "title": "Paul Reed Smith(PRS)SE Custom 24 Quilt Package -Violet - #1041359 ≒3.754Kg 2026年製",
-      "price": 154880,
-      "url": "https://www.digimart.net/cat01/shop60/DS10876657/",
-      "keyword": "PRS"
-    },
-    {
-      "id": "DS10876631",
-      "title": "Gibson LG-0",
-      "price": 330000,
-      "url": "https://www.digimart.net/cat02/shop541/DS10876631/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876615",
-      "title": "Fender American Professional Jazz Bass V Maple Fingerboard Oxblood 【梅田店】",
+      "id": "DS10878006",
+      "title": "Fender American Professional Jazz Bass V ~3-Color Sunburst~ #26031269 [4.39kg] 【2026年Newモデル!】",
       "price": 324500,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10876615/",
+      "url": "https://www.digimart.net/cat03/shop170/DS10878006/",
       "keyword": "Fender"
     },
     {
-      "id": "DS10876611",
-      "title": "Fender American Professional Precision Bass / Dark Night【4.2kg】【新製品】",
-      "price": 308000,
-      "url": "https://www.digimart.net/cat03/shop5452/DS10876611/",
+      "id": "DS10877970",
+      "title": "Fender American Professional II Stratocaster Natural 【心斎橋店】",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10877970/",
       "keyword": "Fender"
     },
     {
-      "id": "DS10876610",
-      "title": "Fender American Professional Classic Jazzmaster Rosewood Fingerboard 3-Color Sunburst 【梅田店】",
-      "price": 218000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10876610/",
-      "keyword": "Fender"
+      "id": "DS10877968",
+      "title": "Gibson Les Paul Special 2026年製 TV Yellow 【心斎橋店】",
+      "price": 187000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10877968/",
+      "keyword": "Gibson"
     },
     {
-      "id": "DS10876599",
-      "title": "Fender Limited Edition American Professional Classic Telecaster -Butterscotch Blonde- 【3.44kg】",
+      "id": "DS10877953",
+      "title": "Paul Reed Smith(PRS)SE Standard 24-08 BLACK Limited Model エレキギター",
+      "price": 138600,
+      "url": "https://www.digimart.net/cat01/shop5118/DS10877953/",
+      "keyword": "PRS"
+    },
+    {
+      "id": "DS10877921",
+      "title": "Gibson Flying V 2015 Japan Limited Heritage Cherry",
       "price": 264000,
-      "url": "https://www.digimart.net/cat01/shop5452/DS10876599/",
+      "url": "https://www.digimart.net/cat01/shop4984/DS10877921/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10877900",
+      "title": "Gibson SG Standard Ebony",
+      "price": 209000,
+      "url": "https://www.digimart.net/cat01/shop4984/DS10877900/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10877478",
+      "title": "Gibson 50S LES PAUL STANDARD",
+      "price": 300000,
+      "url": "https://www.digimart.net/cat01/shop3100/DS10877478/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10877477",
+      "title": "Fender AMERICAN VINTAGE 57 STRATOCASTER",
+      "price": 265000,
+      "url": "https://www.digimart.net/cat01/shop3100/DS10877477/",
       "keyword": "Fender"
     },
     {
-      "id": "DS10876547",
-      "title": "Gibson 70s Explorer DARK WALNUT 【御茶ノ水本店】",
-      "price": 248000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10876547/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876541",
-      "title": "Fender American Ultra Jazz Bass Arctic Pearl 2023 【御茶ノ水本店】",
-      "price": 288000,
-      "url": "https://www.digimart.net/cat03/shop1484/DS10876541/",
+      "id": "DS10877362",
+      "title": "Fender Custom Shop~Custom Collection~ 1969 Stratocaster Journeyman Relic -Faded Vintage Blonde-",
+      "price": 734800,
+      "url": "https://www.digimart.net/cat01/shop38/DS10877362/",
       "keyword": "Fender"
     },
     {
-      "id": "DS10876540",
-      "title": "Gibson Les Paul Studio Session Honey Burst 【御茶ノ水本店】",
-      "price": 218000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10876540/",
+      "id": "DS10877348",
+      "title": "Fender Custom Shop~LIMITED EDITION~ 62/63 Stratocaster Journeyman Relic -Aged Olympic White-",
+      "price": 852500,
+      "url": "https://www.digimart.net/cat01/shop38/DS10877348/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10877344",
+      "title": "Fender Custom Shop~Custom Collection~ 1962 Stratocaster Relic -Aged Seminole Red-【CZ591385】",
+      "price": 751300,
+      "url": "https://www.digimart.net/cat01/shop38/DS10877344/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10877941",
+      "title": "Fender American Professional Classic Jazz Bass / Faded Firemist Gold",
+      "price": 204600,
+      "url": "https://www.digimart.net/cat03/shop5033/DS10877941/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10877797",
+      "title": "Gibson Les Paul Studio 2019",
+      "price": 118000,
+      "url": "https://www.digimart.net/cat01/shop5450/DS10877797/",
       "keyword": "Gibson"
     },
     {
-      "id": "DS10876466",
-      "title": "Paul Reed Smith(PRS)SE Custom 24 -Fire Red Burst- ≒3.386Kg 2026年製",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop60/DS10876466/",
-      "keyword": "PRS"
-    },
-    {
-      "id": "DS10876474",
-      "title": "Gibson【中古】 エレキギター SG Standard 61 Stop Bar Vntage Cherry 2024年製 高年式 ギブソン SG",
-      "price": 219000,
-      "url": "https://www.digimart.net/cat01/shop1000/DS10876474/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876413",
-      "title": "Gibson Custom Shop Limited Edition SG Custom with Koa Top Gloss Walnut s/n CS601978【3.34kg】【G-CLUB TOKYO】",
-      "price": 938300,
-      "url": "https://www.digimart.net/cat01/shop35/DS10876413/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876414",
-      "title": "Paul Reed Smith(PRS)SE Custom 24 -Vintage Yellow- ≒3.392Kg 2026年製",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop60/DS10876414/",
-      "keyword": "PRS"
-    },
-    {
-      "id": "DS10876412",
-      "title": "Paul Reed Smith(PRS)SE Custom 24 - Blue Matteo (Natural Back)- ≒3.501Kg 2026年製",
-      "price": 130680,
-      "url": "https://www.digimart.net/cat01/shop60/DS10876412/",
-      "keyword": "PRS"
-    },
-    {
-      "id": "DS10876371",
-      "title": "LINE 6 Helix Floor 【渋谷店】",
-      "price": 165000,
-      "url": "https://www.digimart.net/cat13/shop1484/DS10876371/",
-      "keyword": "Helix"
-    },
-    {
-      "id": "DS10876354",
-      "title": "Gibson LG-1 VS 【御茶ノ水HARVEST_GUITARS】【値下げ】",
-      "price": 428000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876354/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876352",
-      "title": "Gibson Hummingbird Custom Walnut 2012 【御茶ノ水HARVEST_GUITARS】【値下げ】",
-      "price": 338000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876352/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876345",
-      "title": "Gibson Custom Shop J-60 Bone Crusher II 2008年製 【御茶ノ水HARVEST_GUITARS】【値下げ】",
-      "price": 428000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876345/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876344",
-      "title": "Gibson J-45 Standard Lefty 【御茶ノ水HARVEST_GUITARS】【値下げ】",
-      "price": 268000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876344/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876338",
-      "title": "Gibson RB250 bowtie 【御茶ノ水HARVEST_GUITARS】【値下げ】",
+      "id": "DS10877909",
+      "title": "Gibson ES-135 Vintage Sunburst 【心斎橋店】",
       "price": 330000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876338/",
+      "url": "https://www.digimart.net/cat01/shop1484/DS10877909/",
       "keyword": "Gibson"
     },
     {
-      "id": "DS10876333",
-      "title": "Gibson RB-175 【御茶ノ水HARVEST_GUITARS】【値下げ】",
-      "price": 138000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876333/",
+      "id": "DS10877908",
+      "title": "Gibson Les Paul Standard 2016T Honey Burst 2016年製【3.92kg】【S/N:160094119】【横浜店】",
+      "price": 328000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10877908/",
       "keyword": "Gibson"
     },
     {
-      "id": "DS10876332",
-      "title": "Gibson RB250 【御茶ノ水HARVEST_GUITARS】【値下げ】",
-      "price": 220000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876332/",
+      "id": "DS10877904",
+      "title": "Gibson L-50 Sunburst 1959年製【S/N:S7436】【横浜店】",
+      "price": 298001,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10877904/",
       "keyword": "Gibson"
     },
     {
-      "id": "DS10876328",
-      "title": "Gibson 1964 LG-0 【御茶ノ水HARVEST_GUITARS】【値下げ】",
-      "price": 198000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876328/",
+      "id": "DS10877903",
+      "title": "Gibson SG Faded 2016 T Worn Brown 2016年製【2.81kg】【S/N:160010559】【横浜店】",
+      "price": 121000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10877903/",
       "keyword": "Gibson"
     },
     {
-      "id": "DS10876325",
-      "title": "Gibson J-50 ADJ 1967 【御茶ノ水HARVEST_GUITARS】【値下げ】",
-      "price": 568000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876325/",
+      "id": "DS10877901",
+      "title": "Gibson 1960s J-45 Ebony Black w/L.R.Baggs Anthem -2018USED!!-【48回迄金利0%対象】",
+      "price": 328000,
+      "url": "https://www.digimart.net/cat02/shop1881/DS10877901/",
       "keyword": "Gibson"
     },
     {
-      "id": "DS10876322",
-      "title": "Gibson 1942 L-00 Maple Side 【御茶ノ水HARVEST_GUITARS】【値下げ】",
-      "price": 940000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876322/",
+      "id": "DS10877899",
+      "title": "Gibson Les Paul Standard '50s P-90 Gold Top s/n 216760077【4.09kg】【G-CLUB SHIBUYA】",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat01/shop60/DS10877899/",
       "keyword": "Gibson"
     },
     {
-      "id": "DS10876321",
-      "title": "Gibson 1957 J-45 【御茶ノ水HARVEST_GUITARS】【値下げ】",
-      "price": 880000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876321/",
+      "id": "DS10877896",
+      "title": "Gibson Custom Shop Japan Limited Run 1959 Les Paul Standard Reissue VOS Factory Burst s/n 961695【3.94kg】",
+      "price": 957000,
+      "url": "https://www.digimart.net/cat01/shop60/DS10877896/",
       "keyword": "Gibson"
     },
     {
-      "id": "DS10876244",
-      "title": "Gibson Hummingbird Special Satin Vintage Cherry Sunburst 【御茶ノ水HARVEST_GUITARS】【値下げ】",
-      "price": 258000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876244/",
+      "id": "DS10877881",
+      "title": "Gibson USED 中古 Les Paul Tribute (Satin Tobacco Burst) ［SN.217520255］ ギブソン",
+      "price": 121381,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10877881/",
       "keyword": "Gibson"
     },
     {
-      "id": "DS10876242",
-      "title": "Gibson Nathaniel Rateliff LG-2 Western Vintage Sunburst 【2NDアウトレット特価】【御茶ノ水HARVEST_GUITARS】",
+      "id": "DS10877870",
+      "title": "Gibson【NEW】 Custom Shop Murphy Lab 1946 J-50 Ultra Light Aged #21726002 【G-CLUB TOKYO】",
+      "price": 998000,
+      "url": "https://www.digimart.net/cat02/shop35/DS10877870/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10877863",
+      "title": "Gibson Hummingbird Studio Rosewood (Satin Rosewood Burst) ギブソン",
+      "price": 399000,
+      "url": "https://www.digimart.net/cat02/shop5331/DS10877863/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10877862",
+      "title": "Gibson L-00 Century 12-Fret (Ebony) ギブソン",
+      "price": 299000,
+      "url": "https://www.digimart.net/cat02/shop5331/DS10877862/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10877861",
+      "title": "Gibson J-45 60s Original Fixed Bridge (Vintage Sunburst) w/HiFi DNA ギブソン",
+      "price": 428000,
+      "url": "https://www.digimart.net/cat02/shop5331/DS10877861/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10877842",
+      "title": "Fender Custom Shop【2009年製】Limited 1951 Nocaster Relic -2 Color Sunburst- #R8892 ≒3.25kg",
+      "price": 458000,
+      "url": "https://www.digimart.net/cat01/shop60/DS10877842/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10877739",
+      "title": "Paul Reed Smith(PRS)SE Ed Sheeran Cosmic Splash Limited Edition 【エド・シーランモデル】【USED】【町田店】",
+      "price": 238000,
+      "url": "https://www.digimart.net/cat01/shop5141/DS10877739/",
+      "keyword": "PRS"
+    },
+    {
+      "id": "DS10877733",
+      "title": "Gibson【2000年製中古】Les Paul Standard Ebony【4.77kg】【町田店】",
+      "price": 297000,
+      "url": "https://www.digimart.net/cat01/shop5141/DS10877733/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10877740",
+      "title": "Gibson Custom Shop Murphy Lab 1964 SG Standard Maestro Vibrola ~Cherry Red Ultra Light Aged~[3.46kg]【USED】【町田店】",
+      "price": 598000,
+      "url": "https://www.digimart.net/cat01/shop5141/DS10877740/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10877731",
+      "title": "Fender American Vintage II 1975 Telecaster Deluxe 【2023年製 中古品】【町田店】",
+      "price": 278000,
+      "url": "https://www.digimart.net/cat01/shop5141/DS10877731/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10877723",
+      "title": "James Tyler USA Studio Elite HD ~Black Shmear w/Royal Blue Tint Finish~ 2023年製 [3.31kg]【USED】【町田店】",
+      "price": 990000,
+      "url": "https://www.digimart.net/cat01/shop5141/DS10877723/",
+      "keyword": "Tyler"
+    },
+    {
+      "id": "DS10877725",
+      "title": "James Tyler USA Studio Elite HD ~Burning Water w/Bare Arm Finish~ 2021年製 [3.53kg]【USED】【町田店】",
+      "price": 990000,
+      "url": "https://www.digimart.net/cat01/shop5141/DS10877725/",
+      "keyword": "Tyler"
+    },
+    {
+      "id": "DS10877808",
+      "title": "Fender American Professional Classic Precision Bass / Faded Sherwood Green Metallic",
+      "price": 204600,
+      "url": "https://www.digimart.net/cat03/shop5033/DS10877808/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10877794",
+      "title": "Fender American Professional Classic Precision Bass / 3-Color Sunburst",
+      "price": 204600,
+      "url": "https://www.digimart.net/cat03/shop5033/DS10877794/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10876626",
+      "title": "Paul Reed Smith(PRS)SE Santana ～Santana Yellow～ #CTII043790 [3.29kg]【48回無金利】",
+      "price": 135530,
+      "url": "https://www.digimart.net/cat01/shop170/DS10876626/",
+      "keyword": "PRS"
+    },
+    {
+      "id": "DS10876606",
+      "title": "Paul Reed Smith(PRS)SE Santana ～Santana Yellow～ #CTII043899 [3.37kg]【48回無金利】",
+      "price": 135530,
+      "url": "https://www.digimart.net/cat01/shop170/DS10876606/",
+      "keyword": "PRS"
+    },
+    {
+      "id": "DS10877698",
+      "title": "Fender Custom Shop Limited Edition Ocelot Telecaster Journeyman Relic/Aged Copper",
+      "price": 940500,
+      "url": "https://www.digimart.net/cat01/shop1220/DS10877698/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10877337",
+      "title": "Gibson J-45 Standard Vintage Sunburst / 2023",
+      "price": 289300,
+      "url": "https://www.digimart.net/cat02/shop5392/DS10877337/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10877144",
+      "title": "Fender American Vintage II 1963 Telecaster/Surf Green/Rosewood Fingerboard",
+      "price": 253000,
+      "url": "https://www.digimart.net/cat01/shop1220/DS10877144/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10876555",
+      "title": "Fender New American Vintage '52 Telecaster Butterscotch Blonde",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat01/shop1220/DS10876555/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10872270",
+      "title": "Gibson SG Standard 2024 Black",
+      "price": 158000,
+      "url": "https://www.digimart.net/cat01/shop5447/DS10872270/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10877692",
+      "title": "Gibson Les Paul Special TV Yellow(ギブソン レスポールスペシャル)",
+      "price": 228000,
+      "url": "https://www.digimart.net/cat01/shop4881/DS10877692/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10877681",
+      "title": "Gibson Les Paul Studio/Ebony/Gold Hardware(ギブソン レスポール)",
+      "price": 238000,
+      "url": "https://www.digimart.net/cat01/shop4881/DS10877681/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10876600",
+      "title": "Paul Reed Smith(PRS)SE CE 24 ～Charcoal Burst～ #CTII037351 [3.34kg]【48回無金利】",
+      "price": 109384,
+      "url": "https://www.digimart.net/cat01/shop170/DS10876600/",
+      "keyword": "PRS"
+    },
+    {
+      "id": "DS10876229",
+      "title": "Paul Reed Smith(PRS)SE Custom 24 Quilt Package ~Violet~ #CTII041296 [3.32kg]【2026年製】",
+      "price": 154880,
+      "url": "https://www.digimart.net/cat01/shop170/DS10876229/",
+      "keyword": "PRS"
+    },
+    {
+      "id": "DS10876221",
+      "title": "Paul Reed Smith(PRS)SE Mark Holcomb SVN #CTII041628 [3.40kg]《Periphery》【2026年製】",
+      "price": 203280,
+      "url": "https://www.digimart.net/cat01/shop170/DS10876221/",
+      "keyword": "PRS"
+    },
+    {
+      "id": "DS10877653",
+      "title": "Paul Reed Smith(PRS)SE Custom24 【現物画像】 カラー：SB(Slate Blue) エレキギター カスタム24 スレートブルー 青 コイルタ",
+      "price": 130680,
+      "url": "https://www.digimart.net/cat01/shop5232/DS10877653/",
+      "keyword": "PRS"
+    },
+    {
+      "id": "DS10877638",
+      "title": "Fender【クロサワ楽器限定】Limited Edition American Professional Classic Stratocaster -Olympic Pearl-",
+      "price": 242000,
+      "url": "https://www.digimart.net/cat01/shop18/DS10877638/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10877626",
+      "title": "Fender AMERICAN VINTAGE '62JAZZ BASS / Modified & Refinish ( フェンダー アメリカンヴィンテージ 2001年製)",
+      "price": 178000,
+      "url": "https://www.digimart.net/cat03/shop4881/DS10877626/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10877615",
+      "title": "Gibson 1988 SG '62 Reissue",
+      "price": 298000,
+      "url": "https://www.digimart.net/cat01/shop5330/DS10877615/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10877606",
+      "title": "Gibson【Price Down!!】 Custom Shop Greatest Hits Ⅱ J-185 Mahogany Gold Top #20406034 【48回払い無金利】",
+      "price": 610000,
+      "url": "https://www.digimart.net/cat02/shop35/DS10877606/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10877540",
+      "title": "Gibson J-45 TRI-BURST VOS",
+      "price": 275000,
+      "url": "https://www.digimart.net/cat02/shop63/DS10877540/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10877537",
+      "title": "Gibson 1959年製 LG-1",
+      "price": 385000,
+      "url": "https://www.digimart.net/cat02/shop63/DS10877537/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10877531",
+      "title": "Gibson Custom Shop 2015年製 1960's J-45",
       "price": 352000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876242/",
+      "url": "https://www.digimart.net/cat02/shop63/DS10877531/",
       "keyword": "Gibson"
     },
     {
-      "id": "DS10876240",
-      "title": "Gibson HUMMINGBIRD SPECIAL SVCS 【御茶ノ水HARVEST_GUITARS】【値下げ】",
-      "price": 258000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876240/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876239",
-      "title": "Gibson SJ-200 Standard Classic White 【御茶ノ水HARVEST_GUITARS】【値下げ】",
-      "price": 758000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876239/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876238",
-      "title": "Gibson LG-2 All Mahogany Faded Natural 【御茶ノ水HARVEST_GUITARS】【値下げ】",
-      "price": 249000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876238/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876237",
-      "title": "Gibson L-00 Special Satin Vintage Sunburst 【御茶ノ水HARVEST_GUITARS】【値下げ】",
-      "price": 209000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876237/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876236",
-      "title": "Gibson Original Collection L-00 Original Vintage Sunburst 【御茶ノ水HARVEST_GUITARS】【値下げ】",
-      "price": 330000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876236/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876235",
-      "title": "Gibson L-00 Special Satin Ebony 【御茶ノ水HARVEST_GUITARS】【値下げ】",
-      "price": 209000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876235/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10876234",
-      "title": "Gibson Custom Shop Murphy Lab Collection 1942 Banner J-45 Light Aged Vintage Sunburst【御茶ノ水HARVEST_GUIT",
+      "id": "DS10877527",
+      "title": "Gibson Custom Shop Murphy Lab 1955 J-45 Light Aged -Vintage Sunburst-【#20676036】【試奏動画あり】",
       "price": 780000,
-      "url": "https://www.digimart.net/cat02/shop1484/DS10876234/",
+      "url": "https://www.digimart.net/cat02/shop35/DS10877527/",
       "keyword": "Gibson"
     },
     {
-      "id": "DS10876226",
-      "title": "Gibson Custom Shop【レアカラー】Murphy Lab 1964 ES-335 Dark Stain/ Ultra Light Aged【3.74kg】",
-      "price": 887700,
-      "url": "https://www.digimart.net/cat01/shop5389/DS10876226/",
+      "id": "DS10877526",
+      "title": "Gibson Les Paul Studio(ギブソン レスポールスタジオ 2000年製)",
+      "price": 110000,
+      "url": "https://www.digimart.net/cat01/shop4881/DS10877526/",
       "keyword": "Gibson"
     },
     {
-      "id": "DS10876156",
-      "title": "Gibson Les Paul Special / TV Yellow",
-      "price": 220000,
-      "url": "https://www.digimart.net/cat01/shop5322/DS10876156/",
+      "id": "DS10877525",
+      "title": "Gibson Custom Shop Les Paul Standard '58 Reissue VOS 2016",
+      "price": 548000,
+      "url": "https://www.digimart.net/cat01/shop4898/DS10877525/",
       "keyword": "Gibson"
     },
     {
-      "id": "DS10876155",
-      "title": "Gibson Hummingbird Original / Antique Natural",
-      "price": 512600,
-      "url": "https://www.digimart.net/cat02/shop5322/DS10876155/",
-      "keyword": "Gibson"
+      "id": "DS10877523",
+      "title": "Paul Reed Smith(PRS)SE MARK HOLCOMB SVN ~Holcomb Blue Burst~ #CTI I038005 [3.56kg][7弦][2026年製]",
+      "price": 191664,
+      "url": "https://www.digimart.net/cat01/shop169/DS10877523/",
+      "keyword": "PRS"
     },
     {
-      "id": "DS10876130",
-      "title": "Fender American Vintage II 1966 Jazzmaster, Rosewood Fingerboard / 3-Color Sunburst",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat01/shop5322/DS10876130/",
-      "keyword": "Fender"
+      "id": "DS10877462",
+      "title": "Paul Reed Smith(PRS)SE MARK HOLCOMB ~Holcomb Blue Burst~ #CTI I038232 [3.38kg][Drop C Tuning][2026年製]",
+      "price": 191664,
+      "url": "https://www.digimart.net/cat01/shop169/DS10877462/",
+      "keyword": "PRS"
     },
     {
-      "id": "DS10876129",
-      "title": "Fender American Ultra II Stratocaster HSS Ultraburst / Ebony",
-      "price": 314600,
-      "url": "https://www.digimart.net/cat01/shop5322/DS10876129/",
-      "keyword": "Fender"
-    },
-    {
-      "id": "DS10876105",
-      "title": "Gibson 60s J-45 Original AJ アコースティックギター【現物画像】【ゴム焼けのためセール】",
-      "price": 380000,
-      "url": "https://www.digimart.net/cat02/shop5194/DS10876105/",
+      "id": "DS10877456",
+      "title": "Gibson SJ-200 Original -Antique Natural- #23174001【試奏動画あり】",
+      "price": 578000,
+      "url": "https://www.digimart.net/cat02/shop35/DS10877456/",
       "keyword": "Gibson"
     }
   ],
@@ -502,9 +467,9 @@
     "combined": {
       "product_ids": 102,
       "parsed": 100,
-      "qualifying": 70
+      "qualifying": 65
     }
   },
-  "collected": 70,
-  "seen_count": 6908
+  "collected": 65,
+  "seen_count": 6973
 }
