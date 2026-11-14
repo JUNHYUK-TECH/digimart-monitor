@@ -1,51 +1,15 @@
 {
   "status": "ok",
   "source": "jina_reader",
-  "checked_at": "2026-11-14T19:16:59.064661+00:00",
-  "last_attempt_at": "2026-11-14T19:16:59.064661+00:00",
-  "last_success_at": "2026-11-14T19:16:59.064661+00:00",
+  "checked_at": "2026-11-14T23:08:04.418838+00:00",
+  "last_attempt_at": "2026-11-14T23:08:04.418838+00:00",
+  "last_success_at": "2026-11-14T23:08:04.418838+00:00",
   "baseline": false,
-  "new": [
-    {
-      "id": "DS10878063",
-      "title": "Fender American Professional Classic Telecaster Faded Sherwood Green Metallic / Maple【特価】",
-      "price": 192500,
-      "url": "https://www.digimart.net/cat01/shop5030/DS10878063/",
-      "keyword": "Fender"
-    },
-    {
-      "id": "DS10873011",
-      "title": "Fender American Professional Telecaster, Maple Fingerboard, Aged Cherry Burst",
-      "price": 319000,
-      "url": "https://www.digimart.net/cat01/shop5402/DS10873011/",
-      "keyword": "Fender"
-    },
-    {
-      "id": "DS10873025",
-      "title": "Fender American Professional Jazzmaster, Rosewood Fingerboard, Olympic White",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat01/shop5402/DS10873025/",
-      "keyword": "Fender"
-    },
-    {
-      "id": "DS10873036",
-      "title": "Fender American Professional Stratocaster, Rosewood Fingerboard, 3- Color Sunburst",
-      "price": 302500,
-      "url": "https://www.digimart.net/cat01/shop5402/DS10873036/",
-      "keyword": "Fender"
-    },
-    {
-      "id": "DS10873665",
-      "title": "Gibson Les Paul Standard 50s CustomShop Top Heritage Cherry Sunburst",
-      "price": 478500,
-      "url": "https://www.digimart.net/cat01/shop5402/DS10873665/",
-      "keyword": "Gibson"
-    }
-  ],
+  "new": [],
   "errors": [],
   "counts": {
     "combined": {
-      "product_ids": 102,
+      "product_ids": 101,
       "parsed": 100,
       "qualifying": 58
     }
