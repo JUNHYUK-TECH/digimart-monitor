@@ -1,108 +1,17 @@
 {
   "status": "ok",
   "source": "jina_reader",
-  "checked_at": "2026-11-15T17:51:24.677523+00:00",
-  "last_attempt_at": "2026-11-15T17:51:24.677523+00:00",
-  "last_success_at": "2026-11-15T17:51:24.677523+00:00",
+  "checked_at": "2026-11-15T22:59:04.935554+00:00",
+  "last_attempt_at": "2026-11-15T22:59:04.935554+00:00",
+  "last_success_at": "2026-11-15T22:59:04.935554+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10873777",
-      "title": "Gibson【2026年製】【音色バランス◎】50's J-45 Orjiginal Vintage Sunburst #21386126",
-      "price": 398000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10873777/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10873251",
-      "title": "Gibson【限定生産】【希少在庫】Hata Motohiro J-45/Murphy Lab Ultra Light Aged【実物写真】",
-      "price": 871200,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10873251/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10873192",
-      "title": "Gibson【カスタムショップ】【マーフィーラボ】【劇鳴り個体】1933 L-00 Ebony Light Aged",
-      "price": 598000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10873192/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10874013",
-      "title": "Gibson【2026年製個体】60s J-45 Original 【倍音◎個体】【担当一押し】",
-      "price": 373000,
-      "url": "https://www.digimart.net/cat02/shop5389/DS10874013/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10879812",
-      "title": "Gibson LP STD 50s Faded エレキギター",
-      "price": 282150,
-      "url": "https://www.digimart.net/cat01/shop5092/DS10879812/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10879807",
-      "title": "Fender American Ultra II Jazz Bass (Noble Blue)",
-      "price": 313500,
-      "url": "https://www.digimart.net/cat03/shop5033/DS10879807/",
+      "id": "DS10879824",
+      "title": "Fender American Ultra Telecaster",
+      "price": 238000,
+      "url": "https://www.digimart.net/cat01/shop3740/DS10879824/",
       "keyword": "Fender"
-    },
-    {
-      "id": "DS10879803",
-      "title": "Gibson Les Paul Studio Wine エレキギター レスポールスタジオ",
-      "price": 215600,
-      "url": "https://www.digimart.net/cat01/shop5274/DS10879803/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10879309",
-      "title": "Fender American Standard Telecaster Upgrade 3-Color Sunburst 2012 【名古屋栄店】",
-      "price": 198000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10879309/",
-      "keyword": "Fender"
-    },
-    {
-      "id": "DS10879306",
-      "title": "Gibson Lea Paul Custom Cherry Sunburst Norlin Era 1976 【Vintage】 【名古屋栄店】",
-      "price": 648000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10879306/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10879290",
-      "title": "Gibson S Series Firebird Zero Blackberry 【名古屋栄店】",
-      "price": 138000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10879290/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10879770",
-      "title": "Gibson Les Paul Standard Modified Refinish 【心斎橋店】",
-      "price": 352000,
-      "url": "https://www.digimart.net/cat01/shop1484/DS10879770/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10879760",
-      "title": "Fender American Professional II Precision Bass / Olympic White (Rosewood)",
-      "price": 236500,
-      "url": "https://www.digimart.net/cat03/shop5033/DS10879760/",
-      "keyword": "Fender"
-    },
-    {
-      "id": "DS10879746",
-      "title": "Gibson J-45 Standard VS",
-      "price": 379500,
-      "url": "https://www.digimart.net/cat02/shop3800/DS10879746/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10878377",
-      "title": "Gibson ES-335 Dot VS",
-      "price": 375900,
-      "url": "https://www.digimart.net/cat01/shop420/DS10878377/",
-      "keyword": "Gibson"
     }
   ],
   "errors": [],
@@ -110,9 +19,9 @@
     "combined": {
       "product_ids": 102,
       "parsed": 100,
-      "qualifying": 58
+      "qualifying": 59
     }
   },
-  "collected": 58,
-  "seen_count": 7045
+  "collected": 59,
+  "seen_count": 7046
 }
