@@ -1,121 +1,457 @@
 {
   "status": "ok",
   "source": "jina_reader",
-  "checked_at": "2026-11-19T03:41:04.812371+00:00",
-  "last_attempt_at": "2026-11-19T03:41:04.812371+00:00",
-  "last_success_at": "2026-11-19T03:41:04.812371+00:00",
+  "checked_at": "2026-11-19T13:31:45.165241+00:00",
+  "last_attempt_at": "2026-11-19T13:31:45.165241+00:00",
+  "last_success_at": "2026-11-19T13:31:45.165241+00:00",
   "baseline": false,
   "new": [
     {
-      "id": "DS10886959",
-      "title": "Gibson J-45 Studio Rosewood Natural #22885105【名古屋店10周年記念セール特価!】【オール単板 】",
-      "price": 258000,
-      "url": "https://www.digimart.net/cat02/shop5045/DS10886959/",
-      "keyword": "Gibson"
+      "id": "DS10889303",
+      "title": "Paul Reed Smith(PRS)SE SILVER SKY ~Moon White~ #CTI H027765 [3.39kg][2025年製]",
+      "price": 135520,
+      "url": "https://www.digimart.net/cat01/shop169/DS10889303/",
+      "keyword": "PRS"
     },
     {
-      "id": "DS10886958",
-      "title": "Gibson SG",
-      "price": 128000,
-      "url": "https://www.digimart.net/cat01/shop5047/DS10886958/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10886957",
-      "title": "Gibson 50's J-45 Original Ebony #22106006【名古屋10周年記念セール特価!】【2026年製造個体】",
-      "price": 368000,
-      "url": "https://www.digimart.net/cat02/shop5045/DS10886957/",
-      "keyword": "Gibson"
-    },
-    {
-      "id": "DS10886931",
-      "title": "Fender Custom Shop Fender Custom Shop MBS Jeff Beck Stratocaster by Todd Krause",
-      "price": 798000,
-      "url": "https://www.digimart.net/cat01/shop4914/DS10886931/",
+      "id": "DS10889253",
+      "title": "Fender American Professional Classic Stratocaster HSS Maple Faded Lake Placid Blue 【新品特価！】【福岡店】",
+      "price": 208980,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10889253/",
       "keyword": "Fender"
     },
     {
-      "id": "DS10886914",
-      "title": "Fender【B級特価】American Vintage II 1963 Telecaster Surf Green #V2556612【3.62kg】",
-      "price": 315000,
-      "url": "https://www.digimart.net/cat01/shop5389/DS10886914/",
+      "id": "DS10889251",
+      "title": "Fender American Professional Classic Stratocaster Maple Faded Firemist Gold 【新品特価!】【福岡店】",
+      "price": 189799,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10889251/",
       "keyword": "Fender"
     },
     {
-      "id": "DS10886913",
-      "title": "Gibson Les Paul Special TV Yellow レスポールスペシャル",
-      "price": 225500,
-      "url": "https://www.digimart.net/cat01/shop5313/DS10886913/",
+      "id": "DS10889246",
+      "title": "Gibson 1968年製 B-25 TSB",
+      "price": 495000,
+      "url": "https://www.digimart.net/cat02/shop63/DS10889246/",
       "keyword": "Gibson"
     },
     {
-      "id": "DS10886901",
-      "title": "Fender 75th Anniversary American Professional II Custom Telecaster 2TS #US25104838【3.53kg】",
-      "price": 467500,
-      "url": "https://www.digimart.net/cat01/shop5389/DS10886901/",
+      "id": "DS10889232",
+      "title": "Gibson J-45 Standard with HiFi DNA Vintage Sunburst【渋谷店】",
+      "price": 379500,
+      "url": "https://www.digimart.net/cat02/shop1484/DS10889232/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10889226",
+      "title": "Fender American Professional II Jazzmaster Maple Fingerboard Mystic Surf Green.[B級アウトレット]【渋谷店】",
+      "price": 229800,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10889226/",
       "keyword": "Fender"
     },
     {
-      "id": "DS10886868",
-      "title": "James Tyler USA Studio Elite HD/ Ash/ M/ Malibu Beach #20088【3.25kg】【2020年製/USED】",
-      "price": 891000,
-      "url": "https://www.digimart.net/cat01/shop5389/DS10886868/",
-      "keyword": "Tyler"
+      "id": "DS10889225",
+      "title": "Fender American Professional II Telecaster Maple Fingerboard Black[B級アウトレット]【渋谷店】",
+      "price": 219800,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10889225/",
+      "keyword": "Fender"
     },
     {
-      "id": "DS10886867",
-      "title": "Gibson Memphis【USED】ES-335 TD Late 60s Model Light Burst 2016年製 [3.63kg]【G-CLUB TOKYO】",
-      "price": 657800,
-      "url": "https://www.digimart.net/cat01/shop35/DS10886867/",
-      "keyword": "Gibson"
+      "id": "DS10889224",
+      "title": "Fender American Professional II Telecaster Maple Fingerboard Butterscotch Blonde[B級アウトレット]【渋谷店】",
+      "price": 219800,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10889224/",
+      "keyword": "Fender"
     },
     {
-      "id": "DS10886854",
-      "title": "James Tyler USA Studio Elite Quilted Maple Top/Mamuyo Back Jimburst 【2006年製】【美品】【3.32kg】",
-      "price": 880000,
-      "url": "https://www.digimart.net/cat01/shop5389/DS10886854/",
-      "keyword": "Tyler"
+      "id": "DS10889223",
+      "title": "Fender American Professional II Telecaster Rosewood Fingerboard Dark Night[B級アウトレット]【渋谷店】",
+      "price": 219800,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10889223/",
+      "keyword": "Fender"
     },
     {
-      "id": "DS10886790",
-      "title": "CLAVIA Nord Electro 7 HP【トリプルセンサー・ ハンマーアクション・ポータブル 73鍵盤】",
-      "price": 539000,
-      "url": "https://www.digimart.net/cat06/shop721/DS10886790/",
+      "id": "DS10889222",
+      "title": "Fender American Professional II Stratocaster HSS Maple Fingerboard 3-Color Sunburst[B級アウトレット]【渋谷",
+      "price": 223800,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10889222/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889221",
+      "title": "Fender American Professional II Stratocaster HSS Rosewood Fingerboard Miami Blue[B級アウトレット]【渋谷店】",
+      "price": 223800,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10889221/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889220",
+      "title": "Fender American Professional II Stratocaster Maple Fingerboard Olympic White[B級アウトレット]【渋谷店】",
+      "price": 219800,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10889220/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889219",
+      "title": "Fender American Professional II Stratocaster Maple Fingerboard Dark Night[B級アウトレット]【渋谷店】",
+      "price": 219800,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10889219/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889218",
+      "title": "Fender American Professional II Stratocaster Rosewood Fingerboard Miami Blue[B級アウトレット]【渋谷店】",
+      "price": 219800,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10889218/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889217",
+      "title": "Fender American Professional II Stratocaster Rosewood Fingerboard Mercury[B級アウトレット]【渋谷店】",
+      "price": 219800,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10889217/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889216",
+      "title": "Fender American Professional Classic Stratocaster Rosewood Faded Black 【新品特価!】【福岡店】",
+      "price": 189799,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10889216/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889215",
+      "title": "Fender American Vintage II 1973 Stratocaster Maple Olympic White [新品特価] [3.80kg] 【福岡店】",
+      "price": 299799,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10889215/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889192",
+      "title": "Paul Reed Smith(PRS)2011 Custom 24",
+      "price": 418000,
+      "url": "https://www.digimart.net/cat01/shop64/DS10889192/",
+      "keyword": "PRS"
+    },
+    {
+      "id": "DS10889158",
+      "title": "Nord【店頭展示クリアランス特価】Nord（ノード）Nord Piano 5 88 88鍵 ステージピアノ",
+      "price": 453000,
+      "url": "https://www.digimart.net/cat06/shop5074/DS10889158/",
       "keyword": "Nord"
     },
     {
-      "id": "DS10886774",
-      "title": "CLAVIA NORD ELECTRO 4 HP 【キーボードマート新宿】【新宿店】",
-      "price": 198000,
-      "url": "https://www.digimart.net/cat06/shop1484/DS10886774/",
-      "keyword": "Nord"
-    },
-    {
-      "id": "DS10883247",
-      "title": "Fender USA American Professional Telecaster 2016 RW OWH フェンダーUSA テレキャスター",
-      "price": 198000,
-      "url": "https://www.digimart.net/cat01/shop4805/DS10883247/",
+      "id": "DS10889149",
+      "title": "Fender Custom Shop 1960 Stratocaster N.O.S -Fiesta Red- [3.67kg]",
+      "price": 710600,
+      "url": "https://www.digimart.net/cat01/shop169/DS10889149/",
       "keyword": "Fender"
     },
     {
-      "id": "DS10886753",
-      "title": "Gibson【期間限定展示】J-45 Faded 50s Sunburst エレアコ アコースティックギター オール単板",
-      "price": 318000,
-      "url": "https://www.digimart.net/cat02/shop5345/DS10886753/",
+      "id": "DS10889145",
+      "title": "Fender Custom Shop 1962 Stratocaster Relic / Fiesta Red [3.48kg] [ショップオーダーモデル]",
+      "price": 751300,
+      "url": "https://www.digimart.net/cat01/shop169/DS10889145/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889141",
+      "title": "Fender Custom Shop 1962 Stratocaster Relic / Fiesta Red [3.55kg] [ショップオーダーモデル]",
+      "price": 751300,
+      "url": "https://www.digimart.net/cat01/shop169/DS10889141/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889137",
+      "title": "Fender Custom Shop 1962 Stratocaster Relic / Fiesta Red [3.47kg] [ショップオーダーモデル]",
+      "price": 751300,
+      "url": "https://www.digimart.net/cat01/shop169/DS10889137/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889136",
+      "title": "Gibson Billy Gibbons Pearly Gates Les Paul Standard (Slow Iced Tea Fade) 【S/N 221960196】",
+      "price": 465300,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10889136/",
       "keyword": "Gibson"
     },
     {
-      "id": "DS10886748",
-      "title": "Fender【中古】 Fender USA フェンダー Jazz Bass SunBurst 1973年製",
-      "price": 598000,
-      "url": "https://www.digimart.net/cat03/shop1000/DS10886748/",
+      "id": "DS10889135",
+      "title": "Gibson 80s Flying V (Ebony) 【S/N 225360302】",
+      "price": 288000,
+      "url": "https://www.digimart.net/cat01/shop5331/DS10889135/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10889130",
+      "title": "Fender Custom Shop 1955 Stratocaster Deluxe Closet Classic with Gold Hardware / 2Color Sunburst [3.50kg]",
+      "price": 808500,
+      "url": "https://www.digimart.net/cat01/shop169/DS10889130/",
       "keyword": "Fender"
     },
     {
-      "id": "DS10886726",
-      "title": "Fender American Vintage '62 Telecaster Custom ローズ指板 Relic Aged仕様 MOD 2008年製で",
-      "price": 228000,
-      "url": "https://www.digimart.net/cat01/shop4950/DS10886726/",
+      "id": "DS10889129",
+      "title": "Fender Custom Shop 1962 Stratocaster Relic / Black [3.49kg] [ショップオーダーモデル]",
+      "price": 751300,
+      "url": "https://www.digimart.net/cat01/shop169/DS10889129/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889120",
+      "title": "Nord【店頭展示クリアランス特価】Nord（ノード）Stage 4 88 88鍵 ハンマーアクション・ステージキーボード",
+      "price": 858000,
+      "url": "https://www.digimart.net/cat06/shop5074/DS10889120/",
+      "keyword": "Nord"
+    },
+    {
+      "id": "DS10889119",
+      "title": "Nord【店頭展示クリアランス特価】Nord（ノード）Nord Electro 6 HP 73鍵 ハンマーアクション・ステージキーボ",
+      "price": 360800,
+      "url": "https://www.digimart.net/cat06/shop5074/DS10889119/",
+      "keyword": "Nord"
+    },
+    {
+      "id": "DS10889118",
+      "title": "Gibson Les Paul Standard '50s P90 Gold Top レスポールスタンダード【4.1kg】",
+      "price": 330000,
+      "url": "https://www.digimart.net/cat01/shop4921/DS10889118/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10889113",
+      "title": "Gibson SG Standard 61 Vintage Cherry 2022年製",
+      "price": 198000,
+      "url": "https://www.digimart.net/cat01/shop4921/DS10889113/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10889112",
+      "title": "Fender Limited Edition American Professional Classic Telecaster featuring the Fender Silent System, Maple F",
+      "price": 258500,
+      "url": "https://www.digimart.net/cat01/shop4921/DS10889112/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889100",
+      "title": "Fender Dealer Edition American Ultra II Jazz Bass -Natural- #US26000287【3.68㎏】【アウトレット】",
+      "price": 458000,
+      "url": "https://www.digimart.net/cat03/shop18/DS10889100/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889098",
+      "title": "Fender Custom Shop【当店カスタムオーダー】1960 Stratocaster NOS RW 3TS #CZ592254≒3.64kg",
+      "price": 711400,
+      "url": "https://www.digimart.net/cat01/shop60/DS10889098/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889087",
+      "title": "Paul Reed Smith(PRS)Custom 24 10Top -Black Gold Burst- 2017 USED!!【美杢個体!】【ハイエンドフロア】",
+      "price": 498000,
+      "url": "https://www.digimart.net/cat01/shop38/DS10889087/",
+      "keyword": "PRS"
+    },
+    {
+      "id": "DS10889081",
+      "title": "Gibson Billy Gibbons \"Pearly Gates\" Les Paul Standard Slow Iced Tea Fade s/n 220260046【G-CLUB SHIBUYA】",
+      "price": 465300,
+      "url": "https://www.digimart.net/cat01/shop60/DS10889081/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10889072",
+      "title": "Fender American Professional Jazzmaster, Rosewood Fingerboard, Olympic White",
+      "price": 313500,
+      "url": "https://www.digimart.net/cat01/shop4921/DS10889072/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889071",
+      "title": "Fender American Professional Stratocaster, Rosewood Fingerboard, Dark Night",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop4921/DS10889071/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889070",
+      "title": "Fender American Professional Telecaster, Maple Fingerboard, Black",
+      "price": 302500,
+      "url": "https://www.digimart.net/cat01/shop4921/DS10889070/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889069",
+      "title": "Fender American Professional Jaguar, Rosewood Fingerboard, Black",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat01/shop4921/DS10889069/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889049",
+      "title": "Gibson 1993 Flying V '67 Reissue Michael Shenker Mod.",
+      "price": 398000,
+      "url": "https://www.digimart.net/cat01/shop5214/DS10889049/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10889041",
+      "title": "Fender American Professional Classic Jazz Bass, Rosewood Fingerboard, Faded Firemist Gold",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat03/shop4921/DS10889041/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10889040",
+      "title": "Fender American Professional Jaguar, Rosewood Fingerboard, Dark Night",
+      "price": 319000,
+      "url": "https://www.digimart.net/cat01/shop4921/DS10889040/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10888077",
+      "title": "Gibson ES-347TD Antique Sunburst / 1980",
+      "price": 594000,
+      "url": "https://www.digimart.net/cat01/shop5031/DS10888077/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10888971",
+      "title": "Fender American Ultra Luxe Vintage '60s Stratocaster HSS Sea Foam Green / Rosewood 【3.57kg】",
+      "price": 429000,
+      "url": "https://www.digimart.net/cat01/shop1680/DS10888971/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10888963",
+      "title": "Fender Custom Shop 1961 Telecaster Heavy Relic / Ocean Turquoise Metallic [3.33kg]",
+      "price": 825000,
+      "url": "https://www.digimart.net/cat01/shop169/DS10888963/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10888960",
+      "title": "Fender Custom Shop 1961 Telecaster Heavy Relic / Teal Green Metallic [3.34kg]",
+      "price": 825000,
+      "url": "https://www.digimart.net/cat01/shop169/DS10888960/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10888937",
+      "title": "Fender Custom Shop 1962 Jazzmaster NOS Bleached 3-Tone Sunburst 【渋谷店】",
+      "price": 889900,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10888937/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10888936",
+      "title": "Fender Custom Shop 1960 Stratocaster NOS Bleached 3-Tone Sunburst 【渋谷店】",
+      "price": 693000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10888936/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10888926",
+      "title": "Paul Reed Smith(PRS)Custom 24 Ruby Pattern Thin Neck 【池袋店】",
+      "price": 440000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10888926/",
+      "keyword": "PRS"
+    },
+    {
+      "id": "DS10888894",
+      "title": "Paul Reed Smith(PRS)CE24 Semi-Hollow / Fire Red Burst 2023年製・3.36kg・旧ペグ仕様",
+      "price": 396000,
+      "url": "https://www.digimart.net/cat01/shop5122/DS10888894/",
+      "keyword": "PRS"
+    },
+    {
+      "id": "DS10888853",
+      "title": "Fender American Vintage '57 Stratocaster Fiesta Red 1987年製【3.65kg】【美品USED】",
+      "price": 264000,
+      "url": "https://www.digimart.net/cat01/shop26/DS10888853/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10888846",
+      "title": "Gibson Artist Collection Billy Gibbons \"Pearly Gates\" Les Paul Standard Slow Iced Tea Fade 【御茶ノ水本店FI",
+      "price": 465300,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10888846/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10888837",
+      "title": "Fender Custom Shop【当店カスタムオーダー】1963 Jazzmaster Relic MHC -Black-#CZ592246≒3.58kg",
+      "price": 971000,
+      "url": "https://www.digimart.net/cat01/shop60/DS10888837/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10888828",
+      "title": "Gibson Billy Gibbons \"Pearly Gates\" Les Paul Standard Slow Iced Tea Fade",
+      "price": 465300,
+      "url": "https://www.digimart.net/cat01/shop2340/DS10888828/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10888613",
+      "title": "Gibson Les Paul Special TV Yellow 【池袋店】",
+      "price": 165000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10888613/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10888612",
+      "title": "Fender American Vintage 62 Jazzmaster 3-Color Sunburst 【池袋店】",
+      "price": 374000,
+      "url": "https://www.digimart.net/cat01/shop1484/DS10888612/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10888584",
+      "title": "Gibson Les Paul Junior Vintage Tobacco Burst #224660155 [3.97kg]",
+      "price": 203500,
+      "url": "https://www.digimart.net/cat01/shop35/DS10888584/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10888511",
+      "title": "Fender Custom Shop 1962 Stratocaster Relic Fiesta Red #CZ592125 ≒3.55kg [ショップオーダーモデル]",
+      "price": 751300,
+      "url": "https://www.digimart.net/cat01/shop169/DS10888511/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10888505",
+      "title": "Gibson Limited Edition Noel Gallagher Les Paul Standard #217560064 [4.15kg ] [シグネイチャー]",
+      "price": 435600,
+      "url": "https://www.digimart.net/cat01/shop35/DS10888505/",
+      "keyword": "Gibson"
+    },
+    {
+      "id": "DS10884189",
+      "title": "Fender American Professional II Stratocaster Mercury / RW 【OUTLET】",
+      "price": 220000,
+      "url": "https://www.digimart.net/cat01/shop2040/DS10884189/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10884186",
+      "title": "Fender American Professional II Jazzmaster / Miami Blue / M 【OUTLET】",
+      "price": 218000,
+      "url": "https://www.digimart.net/cat01/shop2040/DS10884186/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10888502",
+      "title": "Fender Custom Shop【当店カスタムオーダーモデル】1969 Stratocaster Journeyman Relic -Black-#CZ592272 ≒3.52kg",
+      "price": 774800,
+      "url": "https://www.digimart.net/cat01/shop60/DS10888502/",
+      "keyword": "Fender"
+    },
+    {
+      "id": "DS10888465",
+      "title": "Fender【New Model】American Professional HotShot Telecaster - Dark Night -【US26034059】【3.79kg】",
+      "price": 308000,
+      "url": "https://www.digimart.net/cat01/shop38/DS10888465/",
       "keyword": "Fender"
     }
   ],
@@ -124,9 +460,9 @@
     "combined": {
       "product_ids": 102,
       "parsed": 100,
-      "qualifying": 54
+      "qualifying": 64
     }
   },
-  "collected": 54,
-  "seen_count": 7349
+  "collected": 64,
+  "seen_count": 7413
 }
