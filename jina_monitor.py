@@ -8,6 +8,7 @@ import argparse
 import json
 import re
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.error import HTTPError, URLError
@@ -22,7 +23,7 @@ LATEST_FILE = DATA / "latest.json"
 INITIALIZED_FILE = DATA / "jina_initialized.json"
 PAGE_SIZE = 100
 
-ID_PATTERN = re.compile(r"商品ID：\s*(DS\d{6,})")
+ID_PATTERN = re.compile(r"商品\s*ID\s*[:：]\s*(DS\d{6,})")
 PRODUCT_LINK = re.compile(
     r"^\[([^\n]+)\]\((https://www\.digimart\.net/(?:cat\d+/)?shop\d+/DS\d+/?)(?:\?[^)]*)?\)",
     re.MULTILINE,
@@ -31,20 +32,20 @@ YEN = re.compile(r"[¥￥]\s*([\d,]+)")
 TAX_INCLUDED = re.compile(r"[¥￥]\s*([\d,]+)\s*税込")
 
 
-def make_url():
+def make_url(low=False):
     # Digimart supports AND/OR search operators. Bound by price server-side.
-    terms = " OR ".join(KEYWORDS)
+    terms = "Helix OR HX Stomp OR Fractal OR Axe-Fx OR FM3 OR FM9" if low else " OR ".join(KEYWORDS)
     source = (
         "https://www.digimart.net/search"
         f"?keywordAnd={quote_plus(terms)}"
         "&sortKey=INITIAL_PUBLIC_DATE_DESC"
-        f"&readCount={PAGE_SIZE}&priceFrom=100001&priceTo=999999"
+        f"&readCount={PAGE_SIZE}&priceFrom={1 if low else 100000}&priceTo={99999 if low else 1000000}"
     )
     return "https://r.jina.ai/" + source
 
 
-def fetch_text():
-    url = make_url()
+def fetch_once(low=False):
+    url = make_url(low)
     request = Request(url, headers={
         "User-Agent": "Digimart-Monitor/1.0",
         "Accept": "text/plain",
@@ -52,6 +53,7 @@ def fetch_text():
     })
     try:
         with urlopen(request, timeout=100) as response:
+            print(f"Reader HTTP {response.status}; low={low}", flush=True)
             text = response.read(4_000_001).decode("utf-8", "replace")
             if len(text) > 4_000_000:
                 raise RuntimeError("Reader response exceeded size limit")
@@ -59,9 +61,21 @@ def fetch_text():
         raise RuntimeError(f"Reader unavailable: {e}") from e
 
     # Fail closed if Reader returned a challenge/error instead of listings.
-    if "商品ID：" not in text or "digimart.net" not in text:
+    if not ID_PATTERN.search(text) or "digimart.net" not in text:
+        print(f"Reader response sample: {text[:500]!r}", file=sys.stderr)
         raise RuntimeError("Reader returned no Digimart listing IDs")
     return text
+
+
+def fetch_text(low=False):
+    for attempt in range(3):
+        try:
+            return fetch_once(low)
+        except RuntimeError as exc:
+            print(f"Reader attempt {attempt+1}/3: {exc}", file=sys.stderr)
+            if attempt == 2:
+                raise
+            time.sleep(15 * (attempt+1))
 
 
 def extract_rows(text):
@@ -95,8 +109,18 @@ def extract_rows(text):
 def filter_rows(rows):
     matched = []
     for row in rows:
+        title = row['title'].lower()
+        price = row['price']
+        if price < 100000:
+            if re.search(r'case only|bag only|ケースのみ|バッグのみ|専用ケース|専用バッグ|pickup|ピックアップ', title):
+                continue
+            if re.search(r'\b(?:helix\s+(?:floor|lt)|hx\s+stomp(?:\s+xl)?)\b', title):
+                matched.append({**row, 'keyword': 'Helix'})
+            elif re.search(r'\b(?:axe[- ]fx|fm3|fm9)\b', title):
+                matched.append({**row, 'keyword': 'Fractal'})
+            continue
         for keyword in KEYWORDS:
-            if allowed(keyword, row["title"], row["price"]):
+            if allowed(keyword, row["title"], min(999999, max(100001, price))) and not re.search(r'pickup|ピックアップ', title):
                 matched.append({**row, "keyword": keyword})
                 break  # Deduplicate products matching multiple search terms.
     return matched
@@ -110,6 +134,11 @@ def run(diagnostic=False):
             f"Unexpected results: {total} product IDs, {len(rows)} parsed. "
             "No monitoring state changed."
         )
+    low_rows, low_total = extract_rows(fetch_text(True))
+    if low_total < 1 or len(low_rows) < low_total * 0.85:
+        raise RuntimeError(f'Low-price scan incomplete: {low_total} IDs, {len(low_rows)} parsed')
+    rows = list({row['id']: row for row in rows + low_rows}.values())
+    total += low_total
     matches = filter_rows(rows)
     now = datetime.now(timezone.utc).isoformat()
     if diagnostic:
